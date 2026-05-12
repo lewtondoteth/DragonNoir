@@ -6,6 +6,10 @@ This repository contains the working story bible for generating consistent Drago
 
 - `Dragon_Stories_Story_Bible.md`
 
+## Drafts
+
+- `drafts/Dragon_and_the_Piece_of_Treasure.md`
+
 ## What It Contains
 
 - world and continuity rules
