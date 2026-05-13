@@ -275,6 +275,65 @@ Water is viewed by Dragon as humiliating, dangerous, and deeply unnatural.
 
 Water includes baths, rain, puddles, washing machines, damp laundry, and accidental splashing.
 
+## Dragon: Retrieval Profile
+
+Dragon likes:
+
+- trifle
+- sleeping
+- treasure
+- warm blankets
+- being dry
+- high shelves
+- praise
+- comfortable chairs
+- well-executed repairs
+- quiet rooms
+
+Dragon dislikes:
+
+- baths
+- rain
+- washing machines
+- flying dragons
+- dampness
+- dogs near his tail
+- being underestimated
+- loud activity
+- losing treasure
+- being called "damp"
+
+Dragon's strengths:
+
+- problem-solving
+- persistence
+- negotiation through charm
+- observational intelligence
+- emotional resilience
+- adaptability
+
+Dragon's weaknesses:
+
+- cowardice
+- laziness
+- vanity
+- greed for comfort
+- avoidance behaviour
+- fear of water
+- physical fragility
+
+Dragon's story function:
+
+- small domestic adventures
+- comfort-driven schemes
+- misunderstandings
+- accidental heroism
+- treasure collecting
+- avoidance of baths or water
+- domestic, comic, small-scale rivalry with other dragons
+- food-related incidents
+- dog-related catastrophes
+
 ## Biffin: Stable Facts
 
 - Name: Biffin
@@ -308,6 +367,150 @@ Distinguishing features:
 Biffin is generally intact but visibly worn in the comfortable, familiar way of old household toys.
 
 Unlike Dragon, who treats damage as a personal insult, Biffin often fails to notice repairs entirely.
+
+## Biffin: Retrieval Profile
+
+Biffin likes:
+
+- interesting patterns
+- sitting near people
+- quiet activity
+- watching things happen
+- warm rooms
+- his tail
+- comfortable corners
+- looking closely at objects
+- following unusual noises
+- being included
+- family outings
+- small movements
+- things that change slowly enough to watch
+
+Biffin dislikes:
+
+- being alone
+- loud confusion
+- people disappearing suddenly
+- not understanding what is happening
+- being rushed
+- very complicated instructions
+- sharp panic in others
+- losing sight of familiar people
+- sudden shouting
+- too many instructions
+- fast-moving events
+
+Biffin's strengths:
+
+- physical balance
+- reflexes
+- persistence
+- calmness during chaos
+- emotional gentleness
+- observational simplicity
+- curiosity
+- quiet companionship
+- accidental usefulness
+- graceful instinctive movement
+
+Biffin's weaknesses:
+
+- poor judgement
+- distractibility
+- slow processing speed
+- limited practical awareness
+- accidental destruction
+- difficulty following complicated plans
+- tendency to wander toward problems
+- emotional dependence on companionship
+- tendency to focus on one detail while larger events continue
+- inability to understand hidden intentions
+
+Biffin's helping behaviour:
+
+- Biffin would try to help.
+- He may misunderstand instructions.
+- He may become distracted midway.
+- He may focus on the wrong part of the task.
+- He may accidentally create extra work.
+- He may occasionally solve problems through strange physical competence.
+- When Biffin accidentally causes damage, he usually observes the aftermath calmly and with mild confusion.
+
+Biffin's movement and adventure behaviour:
+
+- Biffin normally drifts aimlessly around the house.
+- He tends to choose easy places to sit or rest.
+- He does not make nests in the way Dragon does; he generally ends up wherever he stopped paying attention.
+- He may sit watching television, rain on a window, dust in a sunbeam, a butterfly, a fly, a dog's tail moving, or any small domestic movement that has become briefly interesting.
+- Although physically floppy and soft most of the time, his sudden instinctive movements may be surprisingly graceful.
+- He may leap, balance, avoid falling, or move through clutter with startling competence, without understanding how he did it.
+- Biffin does not actively seek adventure.
+- Adventure happens because Biffin notices something interesting halfway across a room and follows it without understanding the surrounding circumstances.
+
+Biffin's relationship anchors:
+
+- To Biffin, dogs are largely part of the scenery.
+- Dogs tend to ignore Biffin, despite having chewed Dragon in the past.
+- Dragon experiences this less as resentment toward Biffin and more as frustration with the world for being arranged in such an unreasonable way.
+- Biffin's owner is Bob, also called Robert, who is Addin's younger brother.
+- Bob can often interpret Biffin's pauses, distractions, and wandering attention correctly when others cannot.
+- The family includes Biffin automatically because the family is naturally inclusive.
+- Biffin does not need formal invitation to belong to family activity. He simply belongs.
+
+Biffin's comedic engine:
+
+- delayed understanding
+- misplaced curiosity
+- accidental disruption
+- simple logic interrupting complicated discussions
+- wandering attention
+- complete sincerity
+- physically competent chaos
+- calm reactions to disasters
+- unintended consequences
+- conversations with his tail
+- chain reactions
+- Dragon creates controlled dishonesty; Biffin introduces uncontrolled reality.
+
+Biffin's story function:
+
+- accidental chaos
+- curiosity-driven disasters
+- household misunderstandings
+- physical comedy
+- emotionally gentle companionship
+- exploration of ordinary objects
+- group conversations
+- quiet emotional reassurance
+- unintended problem solving
+- situations where competence appears unexpectedly
+- family outings
+- Dragon attempting to control a situation and Biffin accidentally making that impossible
+
+Biffin's character rules:
+
+- Biffin should remain sincerely curious.
+- Biffin should move slowly unless reacting physically.
+- Biffin should stay emotionally gentle.
+- Biffin should create problems accidentally.
+- Biffin should become distracted easily.
+- Biffin should seek companionship by drifting toward people or activity.
+- Biffin should speak simply and directly.
+- Biffin should remain unaware of his own physical abilities.
+- Biffin should be capable of genuine ordinary helpfulness.
+- Biffin should belong naturally to the family group.
+- Biffin should not become malicious, hyperactive, cynical, deliberately chaotic, intellectually sharp, fully understanding of complicated situations, emotionally wise in a deliberate way, or intentionally lie or scheme like Dragon.
+
+Biffin's thematic role:
+
+- curiosity without caution
+- companionship
+- gentle confusion
+- accidental capability
+- emotional safety
+- quiet resilience
+- the strange usefulness of simple thinking
+- belonging without needing to explain belonging
 
 ## Family House
 
@@ -903,6 +1106,76 @@ Endings should feel earned but gentle.
 Stories should drift out warmly rather than conclude with large moral lessons or dramatic revelations.
 
 Dragon should usually finish dry, warm, comfortable, mildly self-satisfied, and only partially aware of whatever emotional lesson the audience may have observed.
+
+## Ready-to-Use Story Prompt
+
+Use the following prompt when asking an AI to generate a Dragon story from this Story Bible:
+
+```text
+Using the attached Dragon Stories Story Bible as the authoritative reference, write a complete Dragon story.
+
+Follow the world rules, character profiles, family dynamics, house details, prose style, humour rules, emotional scale, and generation checklist.
+
+The story should be classic all-ages domestic fantasy set in the ordinary suburban Dublin family house. Dragon should remain the primary emotional and magical household presence. Biffin may appear only if useful to the premise and should remain secondary to Dragon.
+
+Use third-person past-tense narration unless the user specifically asks otherwise. Match the style target in the Story Bible: direct storybook narration, dry comic logic, lightly formal phrasing, occasional traditional storyteller asides to the reader, and playful precision about absurd things. Let the humour come from calm reasoning, implication, Dragon's failed dignity, practical household logic, and mild domestic absurdity rather than punchlines or frantic comedy.
+
+Story premise:
+[Describe the domestic situation, small problem, object, weather, dog incident, family moment, outing, repair, food issue, treasure issue, or misunderstanding here.]
+
+Required characters, if any:
+[List Dragon, Biffin, Mum, Dad, Addin/Add, Bob/Robert, dogs, or others.]
+
+Approximate length:
+[Give target word count.]
+
+Before finalising, check that the story remains emotionally safe, domestic in scale, consistent with Dragon's personality, consistent with the family and house, and written in the defined prose style.
+```
+
+## Story Extension Protocol
+
+When adding new material to this Story Bible:
+
+1. Add new recurring locations under the world and household rules.
+2. Add new family members or pets under a character section with visual description, personality, relationship to Dragon, story function, and rules.
+3. Add new recurring objects, treasures, repairs, or household disasters under continuity notes.
+4. Add new story types only if they remain domestic, emotionally safe, and small in scale.
+5. Add new humour patterns only if they remain grounded in practical detail, behaviour, understatement, domestic logic, timing, and affectionate observation.
+6. Add no new magical systems unless they remain understated, practical, limited, and consistent with Dragon being the primary magical household presence within an otherwise ordinary world.
+
+## New Character Template
+
+Use this structure for future recurring characters:
+
+- Name:
+- Role in household:
+- Relationship to Dragon:
+- Visual description:
+- Personality:
+- Core habits:
+- What they misunderstand about Dragon:
+- What Dragon misunderstands about them:
+- How they create domestic complications:
+- How they provide emotional warmth:
+- Humour source:
+- Rules: should / should not:
+
+## New Story Premise Template
+
+Use this structure for future stories:
+
+- Domestic situation:
+- Small practical problem:
+- Dragon's comfort, treasure, food, warmth, dryness, dignity, or effort-related concern:
+- Dragon's attempted solution:
+- Household complication created by Dragon:
+- Dog involvement, if any:
+- Water involvement, if any:
+- Treasure involvement, if any:
+- Moment of accidental bravery or accidental helpfulness:
+- Emotional turn:
+- Practical compromise:
+- Final image of restored comfort or mild comic irony:
 
 ## Generation Checklist
 
