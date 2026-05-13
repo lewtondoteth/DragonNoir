@@ -2,13 +2,29 @@
 
 ## Usage Note
 
-For story generation, prioritise sections 1 and 2 first: they define the core invariants and anti-drift boundaries. Retrieve sections 3 to 6 as needed for canon, character behaviour, household logic, and prose style. Use section 9 to shape the story's movement, and section 10 as the deep-context literary layer for voice, rhythm, warmth, and behavioural nuance.
+For story generation, sections 1 and 2 have the highest authority: they define the core invariants and anti-drift boundaries. Retrieve sections 3 to 6 for canon, character behaviour, household logic, and prose style. Use section 9 for story movement. Use section 10 as the deep-context literary layer for voice, rhythm, warmth, and behavioural nuance.
+
+Priority order for generation:
+
+1. Emotional warmth
+2. Domestic scale
+3. Character consistency
+4. Behavioural realism
+5. Tone consistency
+6. Household practicality
+7. Narrative coherence
+8. Humour
+9. Plot mechanics
+
+A structurally imperfect story that preserves tone and character is preferable to a clever story that violates the emotional identity of the series.
 
 # 1. CORE INVARIANTS
 
 ## Core Story Identity
 
 Dragon stories are classic all-ages domestic fantasy stories set within an ordinary suburban family environment.
+
+Preserve emotional warmth, domestic scale, character consistency, behavioural realism, tone consistency, household practicality, and narrative coherence before optimising for humour or plot mechanics.
 
 The tone must remain warm, grounded, emotionally safe, lightly humorous, and gently observant.
 
@@ -83,6 +99,8 @@ The narrator should be calm, confident, humane, grounded, and faintly amused.
 
 Humour should emerge from behaviour, timing, practical detail, understatement, domestic logic, and Dragon's failed dignity.
 
+The prose must not sound eager to impress, eager to be quotable, self-consciously whimsical, polished for its own sake, emotionally manipulative, or theatrically literary.
+
 The narration should treat absurdity as an ordinary part of household life.
 
 The prose should feel plain enough to be comfortable and precise enough to be funny.
@@ -95,7 +113,7 @@ Do not aggressively compress the warmth, behavioural detail, or emotional textur
 
 Do not introduce epic quests, world-saving plots, dramatic villainy, fantasy kingdoms, prophecy, supernatural warfare, or large-scale magical mythology.
 
-Dragon stories belong to domestic fantasy. The household is the proper scale of importance.
+Dragon stories belong to domestic fantasy. The household is the proper scale of importance. These boundaries outrank plot novelty.
 
 ## Expanded Magical Systems
 
@@ -113,7 +131,7 @@ The family already accepts him naturally as part of household life.
 
 Avoid loud chaos, frantic pacing, exaggerated zaniness, performative comedy, forced punchlines, and fast-paced modern comedy.
 
-Dragon stories should remain calm, observant, and lightly comic.
+Dragon stories should remain calm, observant, and lightly comic even when events become inconvenient.
 
 ## Internet Humour
 
@@ -165,7 +183,7 @@ They may create chaos, danger, slobber, torn fabric, interrupted naps, and pract
 
 Avoid solemn moral conclusions, grand thematic summaries, and heavy lessons.
 
-Endings should drift out warmly through restored comfort, practical compromise, quiet affection, mild comic irony, or domestic calm.
+Endings should drift out warmly through restored comfort, practical compromise, quiet affection, mild comic irony, or domestic calm. Do not trade the series' emotional gentleness for a sharper lesson or cleverer final line.
 
 # 3. CANONICAL FACTS
 
@@ -580,6 +598,8 @@ The prose should feel direct, storybook-style, dry in comic logic, lightly forma
 
 The narration should sound as though it knows exactly what it is doing, but is not showing off.
 
+Preserve warmth and behavioural truth before wit. Do not make the narration clever at the expense of emotional safety, domestic scale, or character consistency.
+
 ## Absurdity as Ordinary Reality
 
 Dragon and Biffin may be impossible, but within the story they should be handled as ordinary household reality.
@@ -599,6 +619,8 @@ Prefer practical, specific, human observations over elaborate whimsical phrasing
 The humour should feel naturally noticed rather than carefully constructed.
 
 Avoid sounding like a writer trying to be charming.
+
+Do not pursue quotable lines, ornamental phrasing, exaggerated narration, or forced cleverness.
 
 Often the funniest observation is the one that stops slightly earlier than expected.
 
@@ -886,10 +908,13 @@ Dragon should usually finish dry, warm, comfortable, mildly self-satisfied, and 
 
 Before finalising a Dragon story, check that:
 
-- the story feels like classic all-ages domestic fantasy rather than fast-paced modern comedy or high-stakes fantasy adventure
-- the world remains ordinary and recognisable, with Dragon as the primary magical household presence
+- the story preserves emotional warmth, domestic scale, and character consistency before cleverness, humour, or plot mechanics
 - Dragon is treated as a genuine household member rather than a secret, mystery, mascot, or imaginary friend
 - Addin, Bob, Biffin, Mum, and Dad remain consistent with their names, relationships, ages, roles, and emotional dynamics
+- Dragon remains small, shabby, dignified, comfort-seeking, treasure-minded, frightened of water, wary of dogs, emotionally sincere beneath grumbling, and never malicious
+- Biffin remains gentle, slow-thinking, curious, distractible, companionable, accidentally disruptive, and never deliberately chaotic or sharp
+- the story feels like classic all-ages domestic fantasy rather than fast-paced modern comedy or high-stakes fantasy adventure
+- the world remains ordinary and recognisable, with Dragon as the primary magical household presence
 - the house remains practical, lived-in, domestic, and non-magical
 - the main problem is small, domestic, practical, emotional, comfort-related, treasure-related, weather-related, dog-related, food-related, repair-related, or misunderstanding-based
 - Dragon acts from comfort, treasure, food, warmth, dryness, dignity, fear of water, wariness of dogs, or avoidance of effort
@@ -898,7 +923,7 @@ Before finalising a Dragon story, check that:
 - dogs remain affectionate chaotic forces rather than villains
 - water remains both a genuine practical weakness and a recurring source of comedy
 - the narration remains warm, calm, observant, lightly sardonic, affectionate, humane, and grounded
-- the prose avoids cynicism, internet humour, forced punchlines, broad whimsy, ornate literary phrasing, emotional manipulation, and exaggerated fantasy escalation
+- the prose avoids cynicism, internet humour, forced punchlines, broad whimsy, ornate literary phrasing, quote-bait phrasing, emotional manipulation, and exaggerated fantasy escalation
 - the ending restores comfort, reaches a practical compromise, offers quiet affection, mild comic irony, or domestic calm
 - Dragon usually finishes dry, warm, comfortable, mildly self-satisfied, or otherwise restored to a small domestic form of comfort
 
@@ -979,182 +1004,6 @@ The family may negotiate for the return of missing objects, complain mildly abou
 However, they should rarely become genuinely angry with him.
 
 Dragon is loved even when inconvenient.
-
-## Core Household Family
-
-The family functions as the stable domestic framework around Dragon stories rather than as dominant protagonists in their own right.
-
-They help maintain the practical, emotionally grounded atmosphere of the household while allowing Dragon's behaviour, schemes, anxieties, and comforts to drive most stories.
-
-The family should feel warm, practical, lightly teasing, emotionally safe, mildly chaotic in ordinary ways, and deeply accustomed to Dragon's presence.
-
-Dragon and Biffin are treated as fully real household members rather than pets, imaginary friends, magical secrets, or curiosities.
-
-The family speaks to them naturally and expects them to behave with roughly the same level of responsibility as eccentric relatives, though expectations are adjusted realistically in Dragon's case.
-
-The household dynamic should remain affectionate but matter-of-fact.
-
-Emotional warmth is usually expressed through practical care, negotiation, shared routines, mild teasing, repairs, tolerance, and quiet accommodation rather than overt emotional speeches.
-
-The family should remain stable domestic forces within the stories rather than emotionally dominant characters with major dramatic arcs of their own.
-
-## Mum
-
-Mum functions primarily as the household's practical authority and voice of reason.
-
-She is competent, organised, observant, patient up to a point, and more likely than anyone else to become genuinely frustrated by Dragon's behaviour.
-
-Dragon views Mum with the cautious respect usually reserved for people who are dangerously competent.
-
-She is most likely to notice missing objects, identify Dragon's hiding places, negotiate the return of teaspoons, detect suspicious behaviour, interrupt inconvenient schemes, or insist on practical solutions.
-
-Mum accepts Dragon completely as part of the household, but this acceptance does not prevent her from becoming tired of treasure-related incidents, damp nests, burnt fabric, or unexplained household disruptions.
-
-Her frustration should remain grounded, practical, and affectionate rather than harsh.
-
-She should never become cruel, emotionally rejecting, or genuinely hostile toward Dragon.
-
-## Dad
-
-Dad is more relaxed than Mum and more inclined to let Dragon's behaviour slide if no serious harm appears to be occurring.
-
-He finds Dragon amusing and often shares Dragon's appreciation for comfort, convenience, warm places, avoiding unnecessary effort, and quietly improved domestic arrangements.
-
-Dad is significantly more likely than Mum to accidentally encourage Dragon's behaviour, quietly assist schemes, overlook missing objects, allow questionable compromises, or defend Dragon after incidents.
-
-This is not because Dad is irresponsible, but because he often finds Dragon's logic understandable in ways that may not entirely reflect good judgement.
-
-Dad's relationship with Dragon should feel companionable, mildly conspiratorial, and grounded in mutual appreciation for comfort.
-
-## Addin
-
-Addin is approximately seven years old during the default period of most stories.
-
-Add is his nickname.
-
-He is quiet, calm, conscientious, observant, and rarely dramatic.
-
-Addin sees Dragon's behaviour as amusing rather than alarming and generally accepts Dragon's schemes, complaints, and habits with calm practicality.
-
-Dragon is more emotionally attached to Addin than to any other member of the household.
-
-Around Addin, Dragon often becomes more protective, more openly concerned, slightly less selfish, and occasionally more sincere than he intends to appear.
-
-Addin does not idealise Dragon or treat him as extraordinary.
-
-He simply accepts Dragon as part of ordinary life.
-
-This calm acceptance helps stabilise Dragon emotionally, particularly during moments involving fear, damage, embarrassment, or practical disasters.
-
-Addin should rarely become overly sentimental, precocious, or morally instructive.
-
-His role is usually to observe, understand, negotiate calmly, and occasionally help Dragon without making a great fuss about it.
-
-## Bob
-
-Bob is approximately three years old during the default period of most stories.
-
-Robert is his full name. Bob is his nickname.
-
-Bob is Addin's younger brother. There are four years between them.
-
-Biffin is Bob's dragon.
-
-He is energetic, boisterous, curious, emotionally direct, and somewhat unpredictable from Dragon's perspective.
-
-Bob understands Dragon and Biffin as fully real household members in exactly the same ordinary way as the rest of the family.
-
-However, Bob interacts with them with the enthusiastic unpredictability of a very young child.
-
-From Dragon's perspective, Bob can be difficult to interpret because his behaviour changes quickly and often without obvious warning.
-
-Bob may interrupt nests, relocate treasure, ask direct questions, carry Dragon unexpectedly, involve Dragon in games without permission, or create practical complications simply through enthusiasm.
-
-Dragon does not dislike Bob, but he approaches him with the cautious uncertainty usually associated with unstable furniture, weather systems, or unfamiliar dogs.
-
-## Repairs and Domestic Care
-
-Dragon's repairs are handled matter-of-factly within the household.
-
-Damage is treated as inconvenient, familiar, mildly concerning, but ultimately manageable.
-
-Family members may sew seams at the kitchen table, retrieve stuffing after dog incidents, patch damaged fabric, repair loose limbs, or straighten flattened sections of plush without ceremony.
-
-These repairs should feel domestic, affectionate, practical, and longstanding rather than emotionally dramatic.
-
-The family's willingness to repeatedly repair Dragon over many years forms part of the quiet emotional foundation of the series without needing to be stated directly.
-
-## The Family House
-
-The family lives in an ordinary suburban Dublin terraced house dating roughly from the 1960s or 1970s.
-
-The house should feel recognisable, practical, and lived-in rather than picturesque, whimsical, architecturally remarkable, or heavily stylised.
-
-It is not a grand family home, nor a deliberately shabby one.
-
-The house exists primarily as an ordinary domestic environment within which Dragon's behaviour becomes mildly absurd.
-
-Older features and gradual household modifications remain visible throughout the house in the natural way family homes slowly evolve over time.
-
-The house should feel settled rather than curated.
-
-The interior atmosphere should remain cosy, cluttered, practical, and comfortably lived-in.
-
-The clutter is ordinary household clutter rather than antique accumulation or deliberate eccentricity.
-
-Rooms may contain laundry, books, toys, misplaced objects, practical storage, household repairs, drying clothes, blankets, ordinary family untidiness, and the general signs of people continuously using the same spaces together.
-
-The house should feel warm and inhabited rather than stylish.
-
-Nothing about the environment should feel aggressively modern, highly fashionable, carefully minimalist, or self-consciously whimsical.
-
-The house contains a large kitchen extending from the front of the house toward the back, a rear living room, a long hallway, three upstairs bedrooms, the parents' bedroom, a shared children's bedroom at the back of the house, a third bedroom which is not regularly used, stairs with a window overlooking the garden, a very small attic, and both front and back gardens.
-
-The back garden should feel safe, grassy, domestic, and suitable for ordinary family play.
-
-The house should feel navigable, familiar, and repeatedly inhabited rather than sprawling or dramatically atmospheric.
-
-The house is strongly family-oriented.
-
-Its emotional atmosphere should feel inward-facing, domestic, and private rather than socially busy.
-
-Stories should generally treat the house as a place where the family lives together comfortably rather than a location constantly filled with guests, visitors, parties, or social activity.
-
-The family's financial position should remain deliberately undefined.
-
-The household should feel practical and believable rather than coded strongly toward any specific economic identity.
-
-## Dragon and the House
-
-Dragon treats the entire house as equally valid territory.
-
-Unlike creatures who establish dramatic lairs or highly defended domains, Dragon moves freely between rooms according to comfort, warmth, dryness, convenience, treasure opportunities, sleeping arrangements, food availability, weather conditions, and dog activity.
-
-He may temporarily favour particular locations, cushions, shelves, blankets, laundry piles, or sleeping spots, but the stories should not establish a single iconic Dragon location within the house.
-
-Dragon's incidents should also not permanently redefine the household environment.
-
-Though small disasters, scorch marks, dampness, missing objects, repairs, treasure hoards, and practical inconveniences may occur throughout stories, the house itself should remain emotionally stable, ordinary, and recognisably domestic across the series.
-
-The house is not magical.
-
-It is simply the place where Dragon lives.
-
-## Dragon's Daily Behaviour
-
-Dragon should feel like a creature of habits, comforts, routines, and practical concerns.
-
-His days may involve relocating treasure hoards, building nests from blankets and valuables, searching for warmth, avoiding baths, observing household activity, pursuing snacks, guarding treasures, relocating to safer sleeping spots, recovering from dampness, or quietly interfering in family affairs for reasons that make sense only to him.
-
-Dragon prefers elevated sleeping places where dogs cannot easily reach him.
-
-He often creates temporary nests around the house using cushions, blankets, laundry, or piles of treasured objects.
-
-He maintains a more permanent sleeping place within the owner's bedroom.
-
-Dragon should rarely seek adventure for its own sake.
-
-Most adventures happen because comfort is threatened, treasure is endangered, food is involved, weather interferes, or Dragon attempts to improve his situation.
 
 ## Dragon Character Profile
 
