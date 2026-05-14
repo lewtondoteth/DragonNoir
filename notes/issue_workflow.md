@@ -298,7 +298,8 @@ When processing an issue:
 7. Do not silently clean up unrelated prose or structure.
 8. If adding, removing, renaming, or moving files, update the README/file index in the same change.
 9. Commit and push when the scoped issue work is complete.
-10. Close the issue only after the completed change is pushed and any acceptance-criteria failures are either fixed or captured in follow-up issues.
+10. Run the post-implementation style/flow conflict check.
+11. Close the issue only after the completed change is pushed and any acceptance-criteria or style/flow conflicts are either fixed or captured in follow-up issues.
 
 If an issue is ambiguous about whether material is canon or provisional, keep it provisional and say so.
 
@@ -313,7 +314,7 @@ Acceptance criteria are not a reason to silently expand the current issue. If th
 The original issue may be closed only if:
 
 - the scoped requested work was completed
-- any acceptance-criteria failure is fixed, or a follow-up issue records it clearly
+- any acceptance-criteria failure or style/flow conflict is fixed, or a follow-up issue records it clearly
 - the final response names the follow-up issue if one was created
 
 ## Scope
@@ -350,10 +351,37 @@ The original issue may be closed only if:
 - Toy City play-as-reality logic remains intact.
 - Current factual continuity inside active drafts is preserved.
 
+## Post-Implementation Style / Flow Conflict Check
+
+After implementing an issue that changes prose, style rules, narration guidance, character guidance, or scene structure, check whether the change creates a conflict with:
+
+- `rules/noir_narration_rules.md`
+- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+- relevant character profiles
+- relevant outlines or active chapter drafts
+
+Look specifically for:
+
+- pacing becoming rushed, over-explained, or mechanically connective
+- flat stage directions replacing consequence-first narration in loaded moments
+- Dragon's voice becoming too polished, generic, quippy, sentimental, or explanatory
+- emotional states being named where implication should carry them
+- toy-world play logic being explained, winked at, or made mechanically literal
+- character behaviour drifting from established psychology
+- provisional material being treated as canon
+- new guidance contradicting existing guidance
+- active prose now conflicting with newly promoted style rules
+
+If the conflict is small, in-scope, and mechanically fixable, fix it before closing the issue.
+
+If the conflict is real but out of scope, creative, or would require broader revision, create a follow-up issue using the Follow-Up Issue Template.
+
 ## Review / Validation
 
 - `git diff --check` passes.
 - The final response states what changed, what files were touched, and whether canon was changed or provisional material was promoted.
+- The final response states whether a style/flow conflict check was performed and whether follow-up issues were created.
 
 ## Follow-Up Issue Rule
 
@@ -363,6 +391,7 @@ Create a follow-up issue instead of broadening the current issue when:
 - the issue implementation exposed a style, pacing, canon, or continuity problem elsewhere
 - the requested change is valid but creates a new concern worth reviewing separately
 - acceptance criteria reveal a weakness that is real but not part of the original task
+- a post-implementation style/flow conflict check finds a real issue outside the current scope
 
 The follow-up issue should include:
 

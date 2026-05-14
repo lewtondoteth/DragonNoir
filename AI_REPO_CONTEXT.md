@@ -109,7 +109,8 @@ When the user asks to process, resolve, implement, or close GitHub issues:
 2. Identify the issue type: implementation, review, planning/scaffold, or canon promotion.
 3. Treat the issue as scoped instructions.
 4. Apply the acceptance criteria from `notes/issue_workflow.md` before closing the issue.
-5. If the scoped work is complete but an acceptance criterion reveals an out-of-scope problem, create a follow-up issue that explains the problem instead of broadening the current issue.
+5. Run the post-implementation style/flow conflict check from `notes/issue_workflow.md` when the issue changes prose, style guidance, narration rules, character guidance, or scene structure.
+6. If the scoped work is complete but an acceptance criterion or style/flow check reveals an out-of-scope problem, create a follow-up issue that explains the problem instead of broadening the current issue.
 
 Do not use an issue as permission to broadly rewrite unrelated prose, promote provisional material, or clean up surrounding structure unless the issue explicitly asks for it.
 

@@ -101,9 +101,9 @@ Implementation agents should treat issues as scoped instructions, not permission
 
 When logging a new issue, use the templates in `notes/issue_workflow.md` for implementation, review, planning/scaffold, canon promotion, and follow-up issues.
 
-Before closing an implementation issue, check the acceptance criteria in `notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, and `git diff --check`.
+Before closing an implementation issue, check the acceptance criteria in `notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, post-implementation style/flow conflicts, and `git diff --check`.
 
-If the scoped work is complete but a criterion exposes a real out-of-scope problem, the agent should allow the implementation through and create a follow-up issue explaining what is wrong and how it might be resolved.
+If the scoped work is complete but a criterion or style/flow check exposes a real out-of-scope problem, the agent should allow the implementation through and create a follow-up issue explaining what is wrong and how it might be resolved.
 
 ## Canonical vs Experimental
 
