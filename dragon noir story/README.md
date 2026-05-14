@@ -5,6 +5,38 @@ This folder contains the standalone toy-noir Dragon book project.
 ## Authoritative Reference
 
 - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+- `rules/noir_narration_rules.md`
+- `characters/pink_dragon_character_profile.md`
+
+## File Index
+
+```text
+dragon noir story/
+├── README.md
+├── chapters/
+│   ├── README.md
+│   └── chapter_01_opening.md
+├── characters/
+│   └── pink_dragon_character_profile.md
+├── discarded_or_experimental/
+│   └── README.md
+├── notes/
+│   ├── README.md
+│   ├── development_options.md
+│   └── opening_case_music_box_scaffold.md
+├── outlines/
+│   └── chapter_01_narrative_beats.md
+├── rules/
+│   └── noir_narration_rules.md
+├── scenes/
+│   ├── README.md
+│   └── chapter_01_office_entry_coffee_ritual_draft.md
+└── story_bible/
+    ├── README.md
+    ├── Toy_Noir_Dragon_AI_Prompt_Pack.md
+    └── Toy_Noir_Dragon_Standalone_Story_Bible.md
+```
 
 ## Working Structure
 
@@ -23,8 +55,30 @@ This folder contains the standalone toy-noir Dragon book project.
 - Canonical pacing reference: `outlines/chapter_01_narrative_beats.md`
 - Current experimental scene sandbox: `scenes/chapter_01_office_entry_coffee_ritual_draft.md`
 - Practical narration rules: `rules/noir_narration_rules.md`
+- Opening-case scaffold: `notes/opening_case_music_box_scaffold.md`
 
 Keep canonical prose, experimental scene drafts, and structural outlines separate while drafting.
+
+## Current Active Drafts
+
+- `chapters/chapter_01_opening.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, and layered recognition progression.
+
+## Scene Studies
+
+- `scenes/chapter_01_office_entry_coffee_ritual_draft.md` — experimental office-entry and coffee material. Retained as a scene-study sandbox; do not treat as canonical prose unless integrated into `chapters/chapter_01_opening.md`.
+
+## Outlines And Notes
+
+- `outlines/chapter_01_narrative_beats.md` — canonical Chapter 1 pacing and architecture reference.
+- `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
+- `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
+
+## Canonical vs Experimental
+
+- Canonical: story bible, narration rules, character profiles, active chapter drafts, and active outline references.
+- Development: notes and opening-case scaffolds that preserve possibilities without locking plot.
+- Experimental: scene sandboxes and pacing studies.
+- Retired: discarded or backup ideas preserved for later comparison or revival.
 
 ## Use
 

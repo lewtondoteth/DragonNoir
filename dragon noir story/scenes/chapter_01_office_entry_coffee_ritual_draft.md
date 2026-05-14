@@ -1,20 +1,22 @@
-# Chapter 1 Office Entry and Coffee Ritual Draft
+# Chapter 1 Office Entry and Coffee Scene Study
 
 Rough working draft - needs refinement before integration.
 
-This file preserves the office-entry and coffee-ritual material from Issue #2 as an experimental scene draft. It is not the canonical Chapter 1 text yet.
+This file preserves earlier office-entry and coffee material as an experimental scene study. It is not the canonical Chapter 1 text.
 
 ## Purpose
 
-- Preserve the toy-world coffee ritual discovery.
+- Preserve the toy-world coffee ontology discovery.
 - Test slower office-entry pacing after the pink dragon doorway reveal.
-- Keep the ritual separate from the canonical chapter until the transition and similarity reveal are refined.
+- Keep this scene study separate from the canonical chapter except where material is deliberately integrated.
 
 ## Toy-World Rule Preserved Here
 
-Toy rituals are emotionally real even when physically performative.
+Play itself has material reality in Toy City.
 
-The coffee sounds should come from Dragon carrying out the ritual sincerely. The pink dragon should understand and normalize the ritual, not treat it as strange. The scene should never wink at the audience or describe the ritual as pretend.
+Dragon is not pretending to make coffee. The coffee is real, the machine is real, and the effects are real. The sounds, gestures, objects, and play-actions create in-world causality through toy logic.
+
+The scene should never wink at the audience, describe the coffee as symbolic, or imply that the toys are compensating for absent realism. Let readers infer the rule through confident procedure.
 
 ## Draft Text
 
@@ -90,7 +92,7 @@ The morning continued refusing to explain itself.
 
 I moved toward the little kitchenette in the corner of the office.
 
-The machine beside the sink was red plastic with a crooked steam wand and a silver sticker pretending to be a pressure gauge. Most of the buttons had been pressed smooth over the years. One of them leaned sideways slightly, exhausted by responsibility.
+The machine beside the sink was red plastic with a crooked steam wand and a silver pressure-gauge sticker. Most of the buttons had been pressed smooth over the years. One of them leaned sideways slightly, exhausted by responsibility.
 
 Behind me, she sat quietly with both paws folded in her lap while the rain moved softly against the windows.
 
@@ -196,7 +198,7 @@ The similarities became much harder to ignore after that.
 
 - Smooth the transition from the doorway scene into the office.
 - Clarify the pacing as Dragon lets her in, offers a seat, and decides to make coffee.
-- Keep the sound effects as Dragon's performed ritual sounds.
-- Let the pink dragon's response normalize the ritual.
-- Preserve implication-heavy narration and avoid explaining the ritual directly.
+- Keep the sound effects as part of Dragon literally making coffee through toy-world logic.
+- Let the pink dragon's response normalize the coffee-making procedure.
+- Preserve implication-heavy narration and avoid explaining the ontology directly.
 - Develop the coat/hat removal and similarity reveal later.

@@ -34,10 +34,12 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 ## Toy-world logic
 
 - Never wink at the audience.
-- Do not describe toy rituals as imaginary, pretend, childish, or fake.
-- Rituals are treated sincerely by the toys participating in them.
-- Implication reveals reality; explanation should be minimal.
-- The coffee ritual discovery: toy rituals are emotionally real even when physically performative.
+- Do not describe toy actions as imaginary, pretend, childish, symbolic, or fake.
+- Play itself has material reality in Toy City.
+- If Dragon makes coffee through toy/play procedure, he is literally making coffee.
+- The sounds, gestures, objects, and social procedure produce real in-world causality through toy logic.
+- Do not explain the ontology directly. Let readers infer the world rule through confident causal narration.
+- The coffee scene discovery: the machine does not need miniature realism or battery-operated mechanics. The action is real because play is real.
 
 ## Pacing
 

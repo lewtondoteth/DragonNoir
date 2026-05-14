@@ -40,10 +40,10 @@ It moves through:
 - shock of recognition
 - vulnerability under observation
 - awkward hospitality
-- temporary ritual shelter
+- temporary shelter through coffee and shared toy-world procedure
 - readiness for the mystery to begin
 
-The pink dragon's arrival should disturb Dragon because she resembles an earlier answer to himself: same toy type, same proportions, better preservation, hidden damage, and controlled composure.
+The pink dragon's arrival should disturb Dragon in layers. The doorway gives him category shock: another dragon. The office and coffee sequence build behavioural familiarity. The full recognition should land later, after hat and coat removal reveal the body shape clearly.
 
 ## Established Beats
 
@@ -204,36 +204,36 @@ Transition:
 
 The door closing should shift the scene from public weather to private negotiation.
 
-### Beat 7 - Coffee Ritual
+### Beat 7 - Coffee
 
 Purpose:
 
-- establish toy-world ritual logic
+- establish toy-world play-as-reality logic
 - establish shared behavioural normalcy
 - slow pacing intentionally
 - allow relationship atmosphere to settle
 
 Key functions:
 
-- sound-based coffee ritual
-- implied toy logic without explanation
+- sound-based coffee-making
+- implied toy causality without explanation
 - mutual participation normalizing behaviour
-- ritual as emotional stabilization
+- coffee as emotional stabilization
 
 Important:
 
-The coffee scene should never feel like parody. The toys take the ritual seriously.
+The coffee scene should never feel like parody. Dragon is literally making coffee through Toy City play logic. The scene should not imply pretend, symbolic compensation, or miniature realism.
 
 Emotional effect:
 
 - familiarity
-- comfort ritual
+- procedural comfort
 - social easing
 - temporary emotional shelter from the rain
 
 Transition:
 
-Use only when the scene can carry the ritual without weakening the doorway recognition. For now, keep it in the separate scene draft until refinement.
+Use the coffee to let Dragon's nervous system settle before deeper recognition begins.
 
 ### Beat 8 - Coat/Hat Removal / Similarity Escalation
 
@@ -267,7 +267,7 @@ The canonical draft currently sits at the transition between:
 - atmospheric encounter
 - detective-office structure
 
-The separate coffee ritual draft tests the next possible movement, but should remain experimental until the transition, ritual logic, and similarity reveal are refined.
+The separate coffee scene study preserves earlier office-entry material, but the canonical chapter now carries the integrated transition and coffee sequence.
 
 ## What Chapter 1 Still Needs
 
@@ -288,5 +288,5 @@ Current exploratory opening-case scaffold:
 - Maintain slow breathing pacing.
 - Prefer implication, object detail, behaviour, and practical complaint over direct emotional explanation.
 - Keep failed dignity humour grounded in professionalism under impossible conditions.
-- Treat toy-world logic sincerely; do not describe rituals as pretend or imaginary.
+- Treat toy-world logic sincerely; do not describe play-actions as pretend, symbolic, or imaginary.
 - Keep canonical chapter prose, experimental scene drafts, and structural outlines separate.

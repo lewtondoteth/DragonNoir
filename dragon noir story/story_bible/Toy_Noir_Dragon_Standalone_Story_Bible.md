@@ -394,13 +394,13 @@ Chapter 1 drafting established several practical rules for sustaining the voice:
 - transitions should unfold through movement, observation, and small practical delays
 - Dragon may use "I" naturally for physical action and scene movement, but should avoid excessive direct emotional self-reporting
 - humour should come from failed dignity, practical inconvenience, and professionalism under impossible conditions
-- toy rituals should be treated sincerely, even when physically performative
+- toy/play actions should be treated as materially real in Toy City
 
 Do not polish Dragon's narration into generic literary prose. Keep the prose worn-in, restrained, observant, and slightly defensive.
 
-Toy-world rituals are emotionally real to the toys participating in them. If Dragon performs a coffee ritual through careful sounds and gestures, the scene should treat that ritual as socially and emotionally valid. Do not wink at the reader, call it pretend, or explain it from outside toy-world logic.
+Play itself has material reality in Toy City. If Dragon makes coffee through toy/play procedure, he is literally making coffee. The sounds, gestures, objects, and social procedure produce real in-world causality through toy logic. Do not wink at the reader, call it pretend, frame it as symbolic, or explain it from outside toy-world logic.
 
-Chapter 1 pacing should feel rain-soaked and patient. The opening should move from city rain, to office decay, to Dragon's trifle-hangover state, to the knock, to the pink dragon's doorway reveal, to mutual recognition, to the office/client structure. Do not rush from atmosphere into case exposition.
+Chapter 1 pacing should feel rain-soaked and patient. The opening should move from city rain, to office decay, to Dragon's trifle-hangover state, to the knock, to the pink dragon's doorway reveal, to office-entry pressure, to coffee, to layered recognition, and only then toward the office/client structure. Do not rush from atmosphere into case exposition.
 
 Avoid:
 
@@ -1038,7 +1038,7 @@ Before finalising, check that:
 - the noir voice remains readable and restrained
 - the narration implies emotion through observation, practical consequence, object detail, silence, and behaviour
 - scenes have enough breathing room for pauses and transitions to matter
-- toy-world rituals are treated sincerely and never explained as pretend
+- toy-world play logic is treated sincerely and never explained as pretend
 - the damage is emotionally serious but not graphic
 - the pink dragon is complex rather than simply deceitful
 - the pink dragon's early impact is recognition and uncanny similarity, not romance-forward attraction

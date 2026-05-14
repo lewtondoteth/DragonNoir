@@ -98,7 +98,7 @@ Let scenes breathe. Noir pacing should allow pauses, slow transitions, and obser
 
 Failed dignity humour should arise from understatement, attempted professionalism, practical inconvenience, and Dragon maintaining standards under impossible conditions.
 
-Toy-world rituals are sincere. Never wink at the audience or describe toy behaviour as imaginary or pretend. If a ritual is physically performative, it can still be emotionally and socially real to the toys.
+Toy-world play logic is sincere and materially real. Never wink at the audience or describe toy behaviour as imaginary, symbolic, or pretend. If Dragon makes coffee through sounds, gestures, objects, and social procedure, he is literally making coffee through Toy City causality.
 
 For Chapter 1 and early pink dragon scenes, the first charge is uncanny recognition rather than romance. Emphasize shared toy-dragon features, resemblance to Dragon's earlier self, contrasting repairs, and the discomfort of being seen by someone similar.
 
@@ -296,6 +296,6 @@ Before finalising, check that:
 - the pink dragon remains complicated
 - emotional movement is implied through behaviour, objects, weather, silence, and practical consequence
 - noir pacing has breathing room and does not rush transitions
-- toy-world rituals are treated sincerely, never as a wink to the audience
+- toy-world play logic is treated sincerely, never as a wink to the audience
 - any artifact, threat, or case structure is treated as provisional unless explicitly chosen
 - the ending or scene turn is emotionally grounded
