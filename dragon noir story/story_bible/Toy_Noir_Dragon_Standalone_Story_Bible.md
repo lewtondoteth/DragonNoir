@@ -593,6 +593,10 @@ They understand Dragon better than is convenient.
 
 # 6. Pink Dragon
 
+Expanded canonical profile:
+
+- `../characters/pink_dragon_character_profile.md`
+
 ## Role
 
 Client, mirror, temptation, emotional foil, and compromised guide into the conspiracy.

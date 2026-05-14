@@ -174,6 +174,10 @@ Repair logic:
 
 ## Pink Dragon
 
+Expanded canonical profile:
+
+- `../characters/pink_dragon_character_profile.md`
+
 The pink dragon is:
 
 - another rare toy dragon

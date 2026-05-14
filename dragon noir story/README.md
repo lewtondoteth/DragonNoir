@@ -11,6 +11,7 @@ This folder contains the standalone toy-noir Dragon book project.
 - `chapters/` — chapter drafts or assembled chapter files
 - `scenes/` — individual scene drafts, fragments, or scene-level experiments
 - `outlines/` — chapter architecture, narrative beats, and pacing references
+- `characters/` — canonical character profiles and expanded continuity notes
 - `rules/` — canonical practical writing rules discovered during drafting
 - `discarded_or_experimental/` — retired alternatives and preserved non-canonical material
 - `notes/` — planning notes, continuity tracking, mystery structure, and revision notes

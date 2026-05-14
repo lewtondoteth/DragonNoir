@@ -49,6 +49,10 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 
 ## Pink dragon handling
 
+Expanded canonical profile:
+
+- `../characters/pink_dragon_character_profile.md`
+
 - Her first impact is uncanny recognition, not immediate romance framing.
 - Dragon sees in her features from old mirrors, earlier versions of himself, and what time/weather/life has worn away.
 - Emphasize shared toy-dragon structure: snout, horns, button eyes, proportions, paws, floppy arms, and movement.
