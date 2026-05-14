@@ -4,7 +4,7 @@
 
 This document is a standalone story bible for a toy-noir detective story starring Dragon: a small, shabby, treasure-obsessed stuffed dragon private investigator.
 
-It does not require reference to any earlier or separate Dragon story bible. Everything needed for character, world, tone, plot, and style is included here.
+Everything needed for character, world, tone, plot, and style is included here.
 
 ---
 
@@ -30,13 +30,15 @@ He ends the story scarred, treasureless, wiser than he wanted to be, and alone i
 
 A small, battered toy dragon who would much rather stay dry, warm, paid, and undamaged is drawn into a mystery that forces him to choose compassion over treasure, truth over comfort, and sacrifice over instinct.
 
-## Adaptation Mode
+## Story World Mode
 
-This version of Dragon should feel like a familiar character placed inside a larger theatrical genre adventure.
+Toy Noir Dragon is a self-contained toy-noir detective story world.
 
-Think of the approach as similar to a Muppet-style movie adaptation: the character remains recognisable and emotionally consistent, while the world around him becomes broader, more cinematic, and more genre-shaped.
+Dragon is a small, shabby, treasure-obsessed stuffed dragon private investigator working in Toy City, a full living-toy metropolis with theatrical scale, handmade logic, noir atmosphere, and emotional sincerity.
 
-Dragon is not being reinvented as a sleek noir hero. He is still Dragon: shabby, vain, treasure-minded, cowardly, dryly funny, comfort-loving, water-fearing, easily offended, physically fragile, and unexpectedly brave when it matters.
+The world should feel broad, confident, and theatrical. The toys are real, the city is real, and the story does not need to apologise for either fact.
+
+Dragon is not a sleek noir hero. He is shabby, vain, treasure-minded, cowardly, dryly funny, comfort-loving, water-fearing, easily offended, physically fragile, and unexpectedly brave when it matters.
 
 ---
 
@@ -289,7 +291,7 @@ Dragon has been repaired many times.
 
 He does not treat damage as tragedy. He treats it as insult, inconvenience, poor service, and evidence that the world is badly organised.
 
-However, in this noir story, damage carries emotional weight. Dragon’s repairs are familiar and practical, but Toy City’s repair economy and the central conspiracy make repair politically and emotionally charged.
+Damage carries emotional weight. Dragon’s repairs are practical facts of his life, while Toy City’s repair economy and the central conspiracy make repair politically and emotionally charged.
 
 Being torn apart at the midpoint should not be graphically horrific. It should be frightening, disorienting, and intimate. The emphasis is on loss of wholeness, vulnerability, memory, and trust.
 
@@ -387,6 +389,14 @@ His speech should be:
 - slower than his thoughts
 - evasive about feelings
 
+When possible, and when it does not feel artificially forced, Dragon should answer questions with statements rather than direct yes/no replies. He often responds sideways, as if the answer is obvious and the question has slightly lowered his opinion of the room. This is a tendency, not a rigid gimmick.
+
+Example:
+
+> “Are you Dragon?”
+
+> “If I’m not, I should fire the fellow who painted the door.”
+
 Examples:
 
 > “Payment in advance is not greed. It is civilisation.”
@@ -417,13 +427,11 @@ He reveals emotion through:
 
 ## Core Setting
 
-Toy City is a full living-toy metropolis.
-
-It should be approached with the broad theatrical confidence of a Muppet-style movie world: the toys are fully real, the city is fully real, and the story does not need to apologise for either fact.
+Toy City is a full living-toy metropolis. It is treated with complete confidence: the toys are real, the city is real, and the story does not need to apologise for either fact.
 
 The city is not merely a hidden corner under a bed or a secret society inside a human house. It is a proper city populated by toys, with streets, offices, districts, institutions, rumours, economies, civic rituals, underworld networks, myths, and repair politics.
 
-The world can still feel handmade, theatrical, and toy-scaled. Buildings may be assembled from toy boxes, stage flats, old shop displays, model-town pieces, dollhouse architecture, cardboard signage, tin roofs, wooden blocks, velvet curtains, railway sets, and repurposed human objects. But the city should function as a complete world, not as a small domestic secret.
+The world can still feel handmade, theatrical, and toy-scaled. Buildings may be assembled from toy boxes, stage flats, old shop displays, model-town pieces, dollhouse architecture, cardboard signage, tin roofs, wooden blocks, velvet curtains, railway sets, and repurposed human objects. But the city should function as a complete world, not as a hidden household secret.
 
 ## Atmosphere
 
@@ -464,7 +472,7 @@ Possible approaches:
 2. Humans exist outside the frame, like distant giants or weather.
 3. Humans are mythical to some toys and mundane to others.
 4. Humans created many of the toys but do not control Toy City.
-5. Human presence is treated theatrically, as in a Muppet-style world, where scale and realism are flexible.
+5. Human presence is treated theatrically, with flexible scale and realism.
 
 The default approach should keep humans out of the main plot unless they become useful.
 
@@ -561,7 +569,7 @@ They understand Dragon better than is convenient.
 
 Client, mirror, temptation, emotional foil, and compromised guide into the conspiracy.
 
-She is the story’s femme fatale equivalent, adapted for a 10+ toy noir world.
+She occupies the femme fatale story function in a 10+ toy noir world.
 
 She should be mysterious without being sexualised, manipulative without being cruel, and emotionally real beneath her lies.
 
@@ -638,9 +646,7 @@ Dragon is drawn to her immediately because:
 - she treats him seriously
 - she frightens him a little
 
-Her interest in Dragon begins as practical. He is useful. He is a dragon. He may be able to find, handle, or understand the artifact.
-
-But her interest becomes genuine. Part of this is because they are both rare toy dragons. She recognises something in him: age, damage, stubborn dignity, and the lonely absurdity of being a rare creature in a city full of replaceable ones.
+Her interest in Dragon begins as practical. He is useful. He is a dragon. He may be able to find, handle, or understand the artifact. But her interest becomes genuine. Part of this is because they are both rare toy dragons. She recognises something in him: age, damage, stubborn dignity, and the lonely absurdity of being a rare creature in a city full of replaceable ones.
 
 Their relationship should be emotionally charged but restrained.
 
@@ -676,7 +682,7 @@ She becomes a suspect.
 
 She becomes someone Dragon wants to save despite knowing she has used him.
 
-Her self-interest should never disappear entirely. She does not become sweet, pure, or safely domesticated by affection. Instead, she becomes more complicated: still sneaky, still capable of betrayal, but no longer able to treat Dragon as only a tool.
+Her self-interest should never disappear entirely. She does not become sweet, pure, or made safe by affection. Instead, she becomes more complicated: still sneaky, still capable of betrayal, but no longer able to treat Dragon as only a tool.
 
 She leaves at the end.
 
@@ -863,9 +869,9 @@ The Mirror Bead makes the guardian believe it is whole, but also traps it in a f
 
 ### Other Options
 
-- a brass key that opens any locked toy chest, drawer, or memory box
+- The Brass Key: opens any locked toy chest, drawer, or memory box
 - a tiny crown that makes every toy recognise its bearer as important
-- a music-box gear that can soothe the guardian by playing its original lullaby
+- The Music-box Gear: soothes the guardian by playing its original lullaby
 - a polished coin that always returns to the owner’s hoard
 
 ## Recommended Direction
@@ -1268,7 +1274,7 @@ A mysterious pink dragon hires Dragon, a toy private investigator, to find a mis
 
 Before finalising, check that:
 
-- Dragon remains recognisably Dragon
+- Dragon remains consistent: shabby, vain, treasure-minded, cowardly, dryly funny, comfort-loving, water-fearing, easily offended, physically fragile, and unexpectedly brave
 - the noir voice remains readable and restrained
 - the damage is emotionally serious but not graphic
 - the pink dragon is complex rather than simply deceitful
