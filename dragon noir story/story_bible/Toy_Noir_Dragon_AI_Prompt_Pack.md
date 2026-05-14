@@ -92,6 +92,16 @@ The noir feeling should come from implication, restraint, compression, observati
 
 Rain should read as chronic resentment and reluctant coexistence: an unavoidable humiliating condition of life, not a theatrical enemy.
 
+Use first person naturally for physical action, scene movement, dialogue, and interaction. Avoid turning first person into constant emotional self-reporting.
+
+Let scenes breathe. Noir pacing should allow pauses, slow transitions, and observations that land before the next action. Do not accelerate too quickly from atmosphere into exposition.
+
+Failed dignity humour should arise from understatement, attempted professionalism, practical inconvenience, and Dragon maintaining standards under impossible conditions.
+
+Toy-world rituals are sincere. Never wink at the audience or describe toy behaviour as imaginary or pretend. If a ritual is physically performative, it can still be emotionally and socially real to the toys.
+
+For Chapter 1 and early pink dragon scenes, the first charge is uncanny recognition rather than romance. Emphasize shared toy-dragon features, resemblance to Dragon's earlier self, contrasting repairs, and the discomfort of being seen by someone similar.
+
 ## Tone
 
 Target audience:
@@ -193,6 +203,8 @@ She hires Dragon because he is useful, because he is a dragon, and because he ca
 Her self-interest should remain active. She may care about Dragon and still leave.
 
 Dragon calls her “Miss Pink” until her final name is chosen.
+
+Her introduction should not read as immediate romance. It should first read as uncanny recognition: another rare toy dragon with familiar proportions, horns, paws, button eyes, and movement, but different preservation, stitching, dryness, and composure.
 
 ## Core Mystery
 
@@ -334,6 +346,8 @@ Use a noir detective atmosphere without parody, adult hard-boiled clichés, grap
 
 Let humour come from understatement, toy-world practicalities, Dragon’s failed dignity, rain, repair logic, treasure obsession, and emotional restraint.
 
+Keep canonical chapter drafts, experimental scene drafts, structural outlines, and narration rules separate during development. Do not merge rough scene experiments into canonical chapter text until the transition and pacing are ready.
+
 Scene or chapter brief:
 [Insert brief here]
 
@@ -350,6 +364,9 @@ Before finalising, check that:
 - Toy City feels real and theatrical
 - damage is serious but not graphic
 - the pink dragon remains complicated
+- emotional movement is implied through behaviour, objects, weather, silence, and practical consequence
+- noir pacing has breathing room and does not rush transitions
+- toy-world rituals are treated sincerely, never as a wink to the audience
 - the Ember-Stone matters emotionally
 - the Patchwork Guardian is tragic rather than monstrous
 - the ending or scene turn is emotionally grounded

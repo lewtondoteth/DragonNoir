@@ -381,6 +381,23 @@ Dragon rarely states emotions directly. Avoid overusing first-person declarative
 
 The narration should feel like Dragon is accidentally revealing emotional truth while trying to discuss practical inconveniences.
 
+## Chapter 1 Practical Voice Discoveries
+
+Chapter 1 drafting established several practical rules for sustaining the voice:
+
+- implication should carry most emotional information
+- scenes should breathe, with pauses allowed to matter
+- transitions should unfold through movement, observation, and small practical delays
+- Dragon may use "I" naturally for physical action and scene movement, but should avoid excessive direct emotional self-reporting
+- humour should come from failed dignity, practical inconvenience, and professionalism under impossible conditions
+- toy rituals should be treated sincerely, even when physically performative
+
+Do not polish Dragon's narration into generic literary prose. Keep the prose worn-in, restrained, observant, and slightly defensive.
+
+Toy-world rituals are emotionally real to the toys participating in them. If Dragon performs a coffee ritual through careful sounds and gestures, the scene should treat that ritual as socially and emotionally valid. Do not wink at the reader, call it pretend, or explain it from outside toy-world logic.
+
+Chapter 1 pacing should feel rain-soaked and patient. The opening should move from city rain, to office decay, to Dragon's trifle-hangover state, to the knock, to the pink dragon's doorway reveal, to mutual recognition, to the office/client structure. Do not rush from atmosphere into case exposition.
+
 Avoid:
 
 - constant wisecracks
@@ -650,6 +667,8 @@ Their relationship should be emotionally charged but restrained.
 They do not need grand declarations.
 
 A better emotional beat is Dragon noticing that she is limping and pretending not to, or her drying his sleeve without commenting on it.
+
+In her Chapter 1 introduction, the first emotional effect should be uncanny recognition rather than romance. Dragon should recognise her through shared toy-dragon features: rounded snout, little horns, button eyes, paws, floppy arms, proportions, and movement. She should feel like an earlier or better-preserved answer to himself, contrasted through condition, maintenance, stitching, dryness, composure, and hidden damage.
 
 ## Moral Position
 
@@ -1134,8 +1153,12 @@ Before finalising, check that:
 
 - Dragon remains consistent: shabby, vain, treasure-minded, cowardly, dryly funny, comfort-loving, water-fearing, easily offended, physically fragile, and unexpectedly brave
 - the noir voice remains readable and restrained
+- the narration implies emotion through observation, practical consequence, object detail, silence, and behaviour
+- scenes have enough breathing room for pauses and transitions to matter
+- toy-world rituals are treated sincerely and never explained as pretend
 - the damage is emotionally serious but not graphic
 - the pink dragon is complex rather than simply deceitful
+- the pink dragon's early impact is recognition and uncanny similarity, not romance-forward attraction
 - the Ember-Stone matters emotionally to dragons
 - the guardian is tragic rather than monstrous
 - the ending is bittersweet rather than bleak
