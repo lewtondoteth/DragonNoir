@@ -56,6 +56,47 @@ For any task:
 4. Keep canonical prose, scene studies, outlines, and notes in their appropriate folders.
 5. Do not promote exploratory plot material into canon unless explicitly asked.
 
+## Review Path
+
+Use this path when the user asks for review, critique, assessment, audit, feedback, or whether a passage "works".
+
+Review work is read-only unless the user explicitly asks for implementation after the review.
+
+The reviewer's job is to compare the requested material against the repo's established rules and story logic, then log detailed issues. Do not rewrite, patch, or resolve the issues during review mode.
+
+Before reviewing, load:
+
+1. `README.md`
+2. `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+3. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+4. `rules/noir_narration_rules.md`
+5. `characters/pink_dragon_character_profile.md` when the pink dragon is relevant
+6. Any relevant chapter, scene, outline, or note named by the user
+
+Review priorities, in order:
+
+1. Pacing and feel of the prose.
+2. Match to Dragon's first-person noir voice.
+3. Consequence-first narration rather than flat stage directions.
+4. Implication-heavy emotional movement rather than direct explanation.
+5. Toy-world play-as-reality logic.
+6. Character consistency, especially Dragon and the pink dragon.
+7. Canon/provisional boundary discipline.
+8. Factual continuity within the current draft.
+9. Scene function and structural flow.
+
+When logging an issue, include:
+
+- location or quoted short phrase
+- severity or priority
+- what rule, canon point, or style principle it conflicts with
+- why it affects pacing, feel, logic, character, or continuity
+- one or more suggested directions for resolving it
+
+Do not treat personal preference as an issue unless it affects the established noir voice, pacing, canon, or story logic.
+
+Do not flatten the review into general praise. If no issues are found, say so clearly and mention any residual risk or area worth watching.
+
 ## README / Path Index Maintenance
 
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.

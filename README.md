@@ -93,6 +93,33 @@ Keep canonical prose, experimental scene drafts, and structural outlines separat
 - Experimental: scene sandboxes and pacing studies.
 - Retired: discarded or backup ideas preserved for later comparison or revival.
 
+## AI Review Path
+
+When asking an AI agent to review, critique, assess, audit, or give feedback, the agent should use a read-only review path.
+
+Review mode means:
+
+- do not edit story files
+- do not resolve issues directly
+- compare the requested material against the story bible, prompt pack, narration rules, character profiles, and relevant outlines/notes
+- log detailed issues with reasons and suggested resolution directions
+
+Review should focus especially on:
+
+- pacing and feel of the prose
+- whether the passage matches Dragon's first-person noir voice
+- consequence-first narration instead of flat stage directions
+- implication-heavy emotional movement
+- toy-world play-as-reality logic
+- character consistency
+- canon/provisional boundaries
+- factual continuity inside the draft
+- scene function and structural flow
+
+An issue report should explain where the problem appears, why it conflicts with the repo's rules or story logic, how it affects pacing/feel/continuity/character, and what kind of revision would resolve it.
+
+Agents should not rewrite the passage during review unless the user explicitly asks for implementation after the review.
+
 ## Active Canon
 
 The active canon is Dragon, the pink dragon, Toy City, narration style, repair logic, treasure instinct, rain logic, play-as-reality toy ontology, and the emotional/thematic dynamics between the two dragons.
