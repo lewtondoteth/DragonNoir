@@ -2,8 +2,8 @@
 
 Before working in this repository, read:
 
-1. `AI_REPO_CONTEXT.md`
-2. `README.md`
+1. `README.md`
+2. `AI_REPO_CONTEXT.md`
 
 Follow the project separation rules in those files.
 

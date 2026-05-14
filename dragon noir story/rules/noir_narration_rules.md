@@ -55,8 +55,10 @@ Expanded canonical profile:
 
 - `../characters/pink_dragon_character_profile.md`
 
-- Her first impact is uncanny recognition, not immediate romance framing.
-- Dragon sees in her features from old mirrors, earlier versions of himself, and what time/weather/life has worn away.
-- Emphasize shared toy-dragon structure: snout, horns, button eyes, proportions, paws, floppy arms, and movement.
-- Contrast condition, maintenance, stitching, dryness, composure, and hidden damage.
-- The emotional punch should come from Dragon recognizing himself in her.
+- Her doorway impact is category shock, not full recognition and not immediate romance framing.
+- Dragon registers another dragon first, while rain, exhaustion, social defensiveness, hat, and coat prevent full processing.
+- Build recognition in layers: doorway category shock, office behavioural familiarity, coffee-settled attention, then hat/coat reveal.
+- Before the reveal, emphasize shared body mechanics through balance, chair-management, paw placement, tail positioning, pauses before movement, cup handling, and small negotiations with gravity.
+- After hat and coat removal, visual details such as snout, horns, button eyes, proportions, paws, floppy arms, and condition can land harder because the behavioural groundwork is already present.
+- Contrast preservation and weathering: her maintenance, dryness, composure, and hidden damage against Dragon's visible repairs, dampness, and worn resilience.
+- The emotional punch should come from Dragon gradually recognizing shared embodied logic, not from a blunt statement that she looks like him.

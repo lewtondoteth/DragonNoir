@@ -15,8 +15,10 @@ Before loading detailed context, identify which project the user is asking about
 - Family Dragon / domestic Dragon / household stories / Biffin / Addin / Bob / Mum / Dad:
   use `dragon family story/`
 
-- Toy Noir Dragon / noir / detective / Toy City / Ember-Stone / Patchwork Guardian / pink dragon:
+- Toy Noir Dragon / noir / detective / Toy City / pink dragon / music box opening case:
   use `dragon noir story/`
+
+Note: Ember-Stone, Patchwork Guardian, the wind-up mouse courier, and related fixed-plot machinery are retired/provisional noir development ideas, not active canon. Only use them if the user explicitly asks to revive, compare, or adapt retired plot material.
 
 If the user’s request is ambiguous, ask which project they mean or load only `README.md` and avoid mixing project bibles.
 
@@ -49,9 +51,12 @@ For Toy Noir Dragon work, load:
 1. `README.md`
 2. `dragon noir story/story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 3. `dragon noir story/story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md` if present
-4. Relevant files under:
+4. `dragon noir story/rules/noir_narration_rules.md`
+5. Relevant character profiles under `dragon noir story/characters/`
+6. Relevant files under:
    - `dragon noir story/chapters/`
    - `dragon noir story/scenes/`
+   - `dragon noir story/outlines/`
    - `dragon noir story/notes/`
 
 Use this project for:
@@ -59,13 +64,14 @@ Use this project for:
 - noir detective-book continuity
 - Dragon as private investigator
 - Toy City
-- Ember-Stone
-- Patchwork Guardian
 - pink dragon
+- music box opening-case scaffold when relevant
 - chapter planning
 - scene drafting
 - mystery structure
 - standalone toy-noir tone
+
+Retired/provisional noir plot material, including the Ember-Stone and Patchwork Guardian, belongs in development notes and should not be treated as active canon unless explicitly revived.
 
 Do not use family Dragon material unless the user explicitly asks for comparison, adaptation, or crossover.
 
