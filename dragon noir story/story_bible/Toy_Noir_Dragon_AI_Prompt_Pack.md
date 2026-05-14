@@ -88,6 +88,8 @@ Prefer implication-heavy narration. Dragon should often describe consequences, r
 
 Avoid overusing direct phrasing such as “I felt,” “I was,” or “I hated.” Reveal Dragon’s emotional state through objects, practical complaints, defensive humour, displaced irritation, weather effects, and what he notices while pretending not to care.
 
+In loaded moments, avoid flat stage-direction sentences that simply name the action, such as "she removed her coat" or "she sat down." Describe the visible consequences, physical negotiations, object behaviour, pauses, and practical adjustments through which Dragon understands the action. Let readers assemble the simple event from what changes in cloth, furniture, weather, silence, dignity, or toy-body mechanics.
+
 The noir feeling should come from implication, restraint, compression, observational detail, cynical practicality, emotional deflection, repetition with variation, and dry escalation. Avoid overly polished quotable prose, decorative phrasing, or literary flourish. The voice should feel worn-in, tired, mildly irritated, and lived-in.
 
 Rain should read as chronic resentment and reluctant coexistence: an unavoidable humiliating condition of life, not a theatrical enemy.
@@ -100,7 +102,7 @@ Failed dignity humour should arise from understatement, attempted professionalis
 
 Toy-world play logic is sincere and materially real. Never wink at the audience or describe toy behaviour as imaginary, symbolic, or pretend. If Dragon makes coffee through sounds, gestures, objects, and social procedure, he is literally making coffee through Toy City causality.
 
-For Chapter 1 and early pink dragon scenes, the first charge is uncanny recognition rather than romance. Emphasize shared toy-dragon features, resemblance to Dragon's earlier self, contrasting repairs, and the discomfort of being seen by someone similar.
+For Chapter 1 and early pink dragon scenes, the doorway charge is category shock rather than romance or full recognition. Build recognition in layers: another dragon at the door, behavioural familiarity in the office, coffee-settled attention, then the hat/coat reveal. Emphasize shared body mechanics before blunt visual comparison.
 
 ## Tone
 
@@ -295,6 +297,7 @@ Before finalising, check that:
 - damage is serious but not graphic
 - the pink dragon remains complicated
 - emotional movement is implied through behaviour, objects, weather, silence, and practical consequence
+- loaded actions are shown through consequences and object behaviour rather than flat stage directions
 - noir pacing has breathing room and does not rush transitions
 - toy-world play logic is treated sincerely, never as a wink to the audience
 - any artifact, threat, or case structure is treated as provisional unless explicitly chosen

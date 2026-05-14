@@ -385,6 +385,32 @@ Dragon rarely states emotions directly. Avoid overusing first-person declarative
 
 The narration should feel like Dragon is accidentally revealing emotional truth while trying to discuss practical inconveniences.
 
+## Consequence-First Prose
+
+In loaded moments, avoid flat stage directions that simply name the action.
+
+Do not default to sentences such as:
+
+- "She removed her coat."
+- "She sat down."
+- "She looked nervous."
+- "The room was tense."
+
+Those sentences may be clear, but they can flatten Dragon's pacing when the moment carries atmosphere, recognition, shame, pressure, or emotional weight.
+
+Prefer describing what Dragon can notice:
+
+- cloth loosening at one shoulder
+- a paw finding the first button
+- a chair receiving weight badly
+- damp leaving a darker mark
+- a sleeve shifting without anyone admitting cold
+- the room becoming smaller around an unspoken issue
+
+Let readers infer the simple action from consequences, object behaviour, physical negotiation, and practical aftermath. Dragon often understands what is happening by watching what the action does to the room, to objects, to dignity, to weather, or to the small mechanics of toy bodies.
+
+Direct action statements are still useful for low-weight movement and clarity. The rule is not to make every sentence indirect. The rule is to protect important beats from becoming bland stage business.
+
 ## Chapter 1 Practical Voice Discoveries
 
 Chapter 1 drafting established several practical rules for sustaining the voice:
@@ -392,6 +418,7 @@ Chapter 1 drafting established several practical rules for sustaining the voice:
 - implication should carry most emotional information
 - scenes should breathe, with pauses allowed to matter
 - transitions should unfold through movement, observation, and small practical delays
+- important beats should move through consequences and object behaviour rather than flat action labels
 - Dragon may use "I" naturally for physical action and scene movement, but should avoid excessive direct emotional self-reporting
 - humour should come from failed dignity, practical inconvenience, and professionalism under impossible conditions
 - toy/play actions should be treated as materially real in Toy City

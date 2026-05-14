@@ -11,6 +11,15 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Let readers infer emotional truth from what Dragon notices, avoids, counts, touches, protects, or complains about.
 - Do not over-explain world facts that can be understood through action.
 
+## Consequence-first narration
+
+- In loaded moments, avoid flat stage-direction sentences that simply name the action.
+- Do not default to labels such as "she removed her coat," "she sat down," "she looked nervous," or "the room was tense" when the beat has emotional, atmospheric, or recognition weight.
+- Describe the visible consequences, physical negotiations, object behaviour, pauses, and practical adjustments through which Dragon understands what is happening.
+- Let the reader assemble the action from fragments: buttons giving way, cloth changing shape, paws finding work, a chair objecting, dust shifting, damp spreading, silence rearranging itself.
+- Dragon should often describe what an action does to the room, the objects, his practical situation, or his sense of dignity before he names the action itself.
+- Simple direct sentences are still allowed for low-weight movement or clarity, but the important beats should move through observation rather than summary.
+
 ## Use of first-person
 
 - "I" is allowed and useful for physical action, scene movement, dialogue, and interaction.
