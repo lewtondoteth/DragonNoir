@@ -20,6 +20,8 @@ An issue should capture the part that is ready to act on:
 
 Implementation agents should treat the issue as scoped instructions, not as permission to broadly rewrite the repo.
 
+If the user asks to "log a ticket", "log an issue", "create an issue", or "make a ticket", create a GitHub issue using the appropriate template in this file. Do not edit repository files as part of issue logging unless the user separately asks for implementation.
+
 ---
 
 # 2. Issue Types

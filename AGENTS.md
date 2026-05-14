@@ -25,6 +25,8 @@ If the scoped work is complete but acceptance criteria or the post-implementatio
 
 When logging a new issue, use the appropriate template from `notes/issue_workflow.md`.
 
+If the user asks to "log a ticket", "log an issue", "create an issue", or "make a ticket", create a GitHub issue using the appropriate template and do not edit repository files unless the user separately asks for implementation.
+
 ## README / Path Index Maintenance
 
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.

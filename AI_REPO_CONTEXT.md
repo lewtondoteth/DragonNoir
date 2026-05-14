@@ -103,6 +103,8 @@ Do not flatten the review into general praise. If no issues are found, say so cl
 
 Use GitHub issues as the handoff layer between exploratory development, implementation, and review.
 
+If the user asks to "log a ticket", "log an issue", "create an issue", or "make a ticket", create a GitHub issue using the appropriate template from `notes/issue_workflow.md` and do not edit repository files unless the user separately asks for implementation.
+
 When the user asks to process, resolve, implement, or close GitHub issues:
 
 1. Load `notes/issue_workflow.md`.
