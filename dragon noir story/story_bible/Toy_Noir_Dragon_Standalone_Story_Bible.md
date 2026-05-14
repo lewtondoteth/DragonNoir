@@ -261,6 +261,10 @@ Water includes:
 
 Dragon does not merely dislike water. He regards it as unreasonable, unsafe, undignified, and personally insulting.
 
+His relationship with rain is chronic resentment rather than dramatic hatred. He treats rain as an unavoidable degrading force, a personal administrative insult, and a constant low-grade misery beneath the dignity of open emotional acknowledgement.
+
+Dragon does not rage against rain theatrically. He objects to it quietly, continuously, and on principle. The narration should treat prolonged rain through its practical consequences: bad coats, damp paper, heavy stuffing, slower thoughts, failed shortcuts, tired toys, and small civic humiliations.
+
 ## Treasure Instinct
 
 Dragon has a deep instinct to collect treasure.
@@ -363,6 +367,19 @@ Use:
 - understatement
 - dry similes drawn from toy life, office life, repair shops, rain, fabric, dogs, treasure, and cheap detective work
 - emotional restraint
+- implication over direct explanation
+- consequences, reactions, environmental effects, practical observations, and behavioural patterns
+- repetition with variation
+- dry escalation
+- worn-in, tired, mildly irritated prose
+
+Let readers infer emotional truth, city conditions, social decay, loneliness, exhaustion, corruption, fear, class, weather duration, and discomfort through indirect observation.
+
+Dragon’s narration should often describe what prolonged conditions do to toys, how the city adapts to problems, and the practical consequences of emotional realities rather than directly summarising those realities.
+
+Dragon rarely states emotions directly. Avoid overusing first-person declarative phrasing such as “I felt,” “I was,” or “I hated.” Express emotion through surrounding objects, practical complaints, defensive humour, environmental observation, implication, displaced irritation, and understated metaphor.
+
+The narration should feel like Dragon is accidentally revealing emotional truth while trying to discuss practical inconveniences.
 
 Avoid:
 
@@ -375,6 +392,8 @@ Avoid:
 - purple prose
 - modern internet humour
 - moral lectures
+- overly polished “quotable” prose
+- excessive decorative phrasing or literary flourish
 
 ## Dialogue Rules for Dragon
 

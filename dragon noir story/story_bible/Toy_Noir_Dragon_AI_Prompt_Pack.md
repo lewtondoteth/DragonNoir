@@ -30,6 +30,7 @@ Fire and water:
 - Dampness weakens or stops his fire.
 - Water is his greatest fear and recurring humiliation.
 - Rain, puddles, leaks, damp cloth, and being called “a little damp” all matter to him.
+- Rain is a chronic weary grievance rather than a dramatic hatred. Dragon treats it as an unavoidable degrading force, a personal administrative insult, and a constant low-grade misery.
 
 Treasure:
 
@@ -80,6 +81,16 @@ Other Dragon examples:
 - “I am not afraid of rain. I object to it professionally.”
 - “There is a difference between damaged and finished. I have had occasion to study the matter.”
 - “I did not steal the cufflink. I preserved it from a careless society.”
+
+### Narration Refinement
+
+Prefer implication-heavy narration. Dragon should often describe consequences, reactions, environmental effects, practical observations, and behavioural patterns instead of naming emotions or explaining world facts directly.
+
+Avoid overusing direct phrasing such as “I felt,” “I was,” or “I hated.” Reveal Dragon’s emotional state through objects, practical complaints, defensive humour, displaced irritation, weather effects, and what he notices while pretending not to care.
+
+The noir feeling should come from implication, restraint, compression, observational detail, cynical practicality, emotional deflection, repetition with variation, and dry escalation. Avoid overly polished quotable prose, decorative phrasing, or literary flourish. The voice should feel worn-in, tired, mildly irritated, and lived-in.
+
+Rain should read as chronic resentment and reluctant coexistence: an unavoidable humiliating condition of life, not a theatrical enemy.
 
 ## Tone
 
