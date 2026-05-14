@@ -25,6 +25,7 @@ This file preserves useful retired or backup ideas that should not remain as act
 
 ## Retired / Backup Artifact Ideas
 
+- Ember-Stone
 - First Button
 - Mirror Bead
 - Brass Key
@@ -34,6 +35,7 @@ This file preserves useful retired or backup ideas that should not remain as act
 
 ## Retired / Backup Missing Toy Ideas
 
+- wind-up mouse courier
 - patchwork knight
 - cracked porcelain child-doll
 - little bear from the Lost-and-Found
@@ -41,10 +43,36 @@ This file preserves useful retired or backup ideas that should not remain as act
 
 ## Retired / Backup Chosen Hero Ideas
 
+- ceremonial clockwork knight
 - golden action figure
 - celebrity rescue bear
 - newly manufactured dragon protector
 - stitched-together heroic mascot
+
+## Retired Locked Plot Package
+
+The following material previously appeared in the active story bible as if it were fixed canon. It is now retired to development notes and should not be treated as the current plot unless explicitly revived:
+
+- missing wind-up mouse courier case
+- Ember-Stone artifact
+- Patchwork Guardian
+- stitched-part harvesting conspiracy
+- ceremonial clockwork knight as staged public hero
+- senior Stitchers' Guild conspiracy leader
+- staged public catastrophe
+- fixed four-act mystery structure
+- predetermined climax where Dragon destroys the Ember-Stone
+
+Useful thematic residue to preserve when inventing a new case:
+
+- treasure should tempt Dragon for real
+- repair without consent is disturbing
+- preservation and visible damage should carry social weight
+- damaged or missing toys should be emotionally specific, not disposable clues
+- public hero stories can be cleaner than the truth
+- Dragon's best choices should cost him comfort, treasure, pride, certainty, or safety
+
+These ideas may be compared, adapted, or revived later, but they are exploratory material rather than canon.
 
 ## Retired / Backup Repairer Ally Ideas
 

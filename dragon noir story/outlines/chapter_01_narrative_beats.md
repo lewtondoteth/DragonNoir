@@ -274,10 +274,14 @@ The separate coffee ritual draft tests the next possible movement, but should re
 - A settled conversation rhythm between Dragon and the pink dragon.
 - Dragon attempting professionalism while the office undermines him.
 - Gradual case reveal without rushing into exposition.
-- Introduction of the missing wind-up mouse courier.
-- First clear connection to the Ember-Stone trail.
+- Introduction of a provisional opening case that can still be rebuilt.
+- A clear reason the case belongs in Toy City and matters to damaged or overlooked toys.
 - A reason Dragon accepts the case that preserves treasure motive, curiosity, professional pride, and emotional disruption.
 - A chapter-end movement that points Dragon out of the office and into investigation.
+
+Current exploratory opening-case scaffold:
+
+- `../notes/opening_case_music_box_scaffold.md`
 
 ## Structural Rules Going Forward
 

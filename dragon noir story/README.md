@@ -30,4 +30,6 @@ Keep canonical prose, experimental scene drafts, and structural outlines separat
 
 Use this folder for the toy-noir detective continuity, chapter planning, scene drafting, and book-level structure.
 
+The active canon is Dragon, the pink dragon, Toy City, narration style, repair logic, treasure instinct, rain logic, and the emotional/thematic dynamics between the two dragons. The exact case, mystery engine, artifact, antagonist, and ending structure are provisional until deliberately promoted into the story bible.
+
 Do not use the family story bible as guidance for this project unless explicitly asked.

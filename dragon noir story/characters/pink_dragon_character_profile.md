@@ -20,7 +20,7 @@ She initially appears preserved, elegant, composed, and socially powerful. Drago
 
 The comparison should not make her simply better or luckier than Dragon. Her preservation has a cost. She has survived by learning how to remain valuable in the eyes of others, and that survival strategy has trapped her inside a performance she cannot easily stop giving.
 
-She is client, mirror, temptation, emotional foil, and compromised guide into the conspiracy. She occupies a femme fatale story function translated into a 10+ toy-noir world: mysterious, persuasive, withholding, dangerous to trust, emotionally real, and never sexualised.
+She is client, mirror, temptation, emotional foil, and possible compromised guide into the eventual case. She occupies a femme fatale story function translated into a 10+ toy-noir world: mysterious, persuasive, withholding, dangerous to trust, emotionally real, and never sexualised.
 
 Her central contradiction:
 
@@ -49,7 +49,7 @@ She is canonically:
 - self-interested and treasure-minded
 - sneaky and strategically manipulative
 - genuinely capable of care
-- connected to the Ember-Stone trail and the conspiracy in ways she conceals
+- likely connected to the eventual case in ways she conceals
 - emotionally drawn to Dragon through shared rarity, shared instinct, and incompatible survival philosophies
 
 She is canonically not:
@@ -234,15 +234,15 @@ By the end, Dragon mourns not only losing her, but losing the only being who ins
 
 ---
 
-# 7. Relationship To The Ember-Stone
+# 7. Relationship To Treasure And Leverage
 
-The Ember-Stone should matter to her because it promises warmth, control, safety, and dragon-level significance.
+No specific artifact is fixed canon yet.
 
-It may tempt her differently than it tempts Dragon.
+Any major treasure should matter to her because it promises control, safety, status, leverage, or dragon-level significance.
 
 Dragon wants treasure in a blunt, physical, instinctive way: shine, warmth, possession, comfort, proof that the case was worth the damage.
 
-The pink dragon may want the Ember-Stone as:
+The pink dragon may want a treasure, secret, or object as:
 
 - leverage
 - protection
@@ -254,29 +254,31 @@ The pink dragon may want the Ember-Stone as:
 
 She should not be immune to dragon treasure instinct. Her version is more controlled and socially disguised, but it is still real.
 
-When she discovers the true cost of the Ember-Stone, the discovery should not erase her desire. It should force her to see the cost more clearly.
+When she discovers the true cost of what she wants, the discovery should not erase her desire. It should force her to see the cost more clearly.
 
 ---
 
-# 8. Relationship To The Patchwork Guardian
+# 8. Relationship To Repair And Reconstruction Themes
 
-The pink dragon is thematically connected to the Patchwork Guardian through preservation, reconstruction, identity, and fear.
+No specific guardian, reconstructed figure, or final threat is fixed canon yet.
+
+The pink dragon is thematically connected to preservation, reconstruction, identity, and fear.
 
 Dragon is visibly repaired but still himself.
 
-The guardian is reconstructed from many stolen parts and forced into symbolic wholeness.
+Future threats may involve toys being replaced, reconstructed, falsely preserved, or forced into symbolic wholeness.
 
 The pink dragon is preserved and carefully maintained, but internally fragmented by fear and performance.
 
-Together they form three answers to damage:
+Useful contrasts:
 
 - Dragon: damaged things can endure and retain dignity.
 - Pink dragon: visible damage must be avoided or controlled to remain valuable.
-- Patchwork Guardian: damage can be exploited, rearranged, and falsely unified for public spectacle.
+- Possible threat or institution: damage can be exploited, hidden, rearranged, or falsely unified for public reassurance.
 
-Her fear of becoming visibly damaged makes the guardian's forced reconstruction especially disturbing. It shows what happens when identity is treated as something others can assemble, display, and use.
+Her fear of becoming visibly damaged makes any exploitative repair or reconstruction plot especially disturbing. It shows what happens when identity is treated as something others can assemble, display, and use.
 
-The climax should not frame her only as a victim to be rescued. Her danger matters emotionally, but so does what she has chosen, hidden, enabled, or failed to prevent.
+The eventual climax should not frame her only as a victim to be rescued. Her danger matters emotionally, but so does what she has chosen, hidden, enabled, or failed to prevent.
 
 ---
 

@@ -8,13 +8,13 @@ Use the full standalone story bible for deeper reference:
 
 - `dragon noir story/story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 
-This file contains the core character, world, tone, plot, and style constraints needed for drafting.
+This file contains the core character, world, tone, theme, and style constraints needed for drafting.
 
 ## Core Premise
 
-A shabby toy dragon private investigator is hired by a mysterious pink dragon to find a missing wind-up mouse courier connected to the Ember-Stone. The case leads through Toy City into a conspiracy involving harvested toy parts, staged heroism, and an ancient Patchwork Guardian rebuilt from stolen pieces.
+A shabby toy dragon private investigator works in rain-slick Toy City, taking cases about missing toys, lost treasure, suspicious repairs, damaged memories, replacement fraud, and the small humiliations of damaged things trying to keep dignity.
 
-Dragon must ultimately destroy the Ember-Stone, the treasure he most desires, to save the pink dragon and free or stop the guardian.
+A mysterious pink dragon enters his life as client, mirror, temptation, and possible suspect. The exact case is not fixed canon yet; build it from Dragon, the pink dragon, Toy City, repair logic, rain, treasure instinct, damage, dignity, preservation, and identity.
 
 ## Dragon
 
@@ -162,7 +162,7 @@ Key districts:
 - The Repair Quarter: repair shops, clinics, stitchers, and back rooms
 - Shelfside: cleaner, wealthier, more polished, more dishonest
 - The Lost-and-Found: missing toys and badly catalogued records
-- The Feltworks: cloth, stuffing, thread, parts, and conspiracy supply chains
+- The Feltworks: cloth, stuffing, thread, parts, and hidden supply chains
 - The Hearth District: warm district favoured by fire-capable toys
 - The Rain Gutters: dangerous wet alleys and channels Dragon avoids
 
@@ -202,7 +202,7 @@ She is not:
 - sexualised
 - a standard femme-fatale cliché
 
-She hires Dragon because he is useful, because he is a dragon, and because he can find, handle, or understand the Ember-Stone. She withholds information and uses him, but her interest becomes genuine. She recognises his age, damage, stubborn dignity, and loneliness.
+She hires Dragon because he is useful, because he is a dragon, and because he understands treasure, damage, fear, repair, and the social logic of rare things. She withholds information and uses him, but her interest becomes genuine. She recognises his age, damage, stubborn dignity, and loneliness.
 
 Her self-interest should remain active. She may care about Dragon and still leave.
 
@@ -210,109 +210,35 @@ Dragon calls her “Miss Pink” until her final name is chosen.
 
 Her introduction should not read as immediate romance. It should first read as uncanny recognition: another rare toy dragon with familiar proportions, horns, paws, button eyes, and movement, but different preservation, stitching, dryness, and composure.
 
-## Core Mystery
+## Case Development
 
-Opening:
+The exact case is not fixed canon yet.
 
-- Pink dragon hires Dragon to find a missing wind-up mouse courier connected to the Ember-Stone.
-- Dragon accepts because of treasure, curiosity, and attraction he disguises as professional suspicion.
+Use these active foundations:
 
-Escalation:
+- Dragon is a private investigator in Toy City.
+- The pink dragon may arrive as client, suspect, guide, mirror, or some shifting mixture of these.
+- The case should begin small enough for Dragon to plausibly accept and open into wider emotional or civic pressure.
+- Treasure should matter to Dragon in a way that complicates his judgement.
+- Damage, repair, preservation, social status, and identity should matter to the mystery.
+- Any artifact, antagonist, conspiracy, public event, or final sacrifice is provisional unless explicitly chosen for the current draft.
 
-- The mouse courier is found torn apart or badly harvested.
-- Specific parts are missing.
-- More damaged toys are discovered.
-- Repair shops become frightened.
-- A pattern emerges: special parts are being harvested.
-- Dragon recovers the Ember-Stone.
-- Dragon is attacked and repaired with mismatched parts.
-- His own body becomes connected to the conspiracy.
+Good case material may involve:
 
-Conspiracy:
+- missing toys
+- suspicious repairs
+- disputed ownership of treasure
+- replacement fraud
+- damaged memory
+- black-market parts
+- hidden repair records
+- institutional neglect or quiet corruption
+- rare toys used as symbols
+- visible damage affecting who gets believed
 
-A secret faction is reconstructing the ancient Patchwork Guardian from stolen toy parts. They plan to unleash it in a staged public catastrophe so a chosen hero can defeat it and restore faith in Toy City’s institutions.
+Supporting cast should be invented to fit the chosen case. Useful roles include repairers, information brokers, civic officials, treasure dealers, witnesses from the Lower Drawers, polished Shelfside toys, and missing or damaged toys with specific ordinary lives.
 
-Chosen hero:
-
-A polished ceremonial clockwork knight built for public confidence, speeches, and staged rescues rather than real danger. He is vain, frightened, manipulated, and aware that he may not be brave enough.
-
-Conspiracy leader:
-
-A senior Stitchers’ Guild official who believes controlled myth is necessary to keep Toy City orderly. They are calm, respectable, and reasonable-sounding, not theatrical or cackling.
-
-## Ember-Stone
-
-The artifact is the Ember-Stone: a small warm treasure that lets a dragon feel perfectly dry, warm, safe, and comfortable.
-
-To Dragon, it promises:
-
-- warmth
-- dryness
-- comfort
-- safety
-- treasure
-- stronger fire
-- relief from rain and dampness
-
-The Ember-Stone can calm or bind the Patchwork Guardian by giving its mismatched parts a false sense of warmth and unity. The conspirators use it as a control mechanism.
-
-Dragon wants the Ember-Stone intensely. His desire should feel real, instinctive, and difficult to overcome.
-
-In the climax, Dragon must destroy the Ember-Stone to break the guardian’s control and save the pink dragon. This is the clearest sacrifice because he destroys the thing that promises everything he most wants.
-
-## Patchwork Guardian
-
-The Patchwork Guardian is:
-
-- an ancient legendary toy protector
-- reconstructed from stolen parts
-- enormous by toy standards
-- incomplete
-- confused
-- overburdened
-- wronged
-- built for a purpose it did not choose
-
-It represents:
-
-- repair without consent
-- resurrection as control
-- myths rebuilt for politics
-- the difference between being mended and being used
-
-It should feel tragic before it feels frightening. It is not just a monster.
-
-## Supporting Cast
-
-Repairer ally:
-
-An elderly teddy bear stitcher with spectacles sewn on slightly crookedly. They run a repair shop in the Repair Quarter and have repaired Dragon before. They explain repair politics, warn Dragon, repair him after the midpoint attack, recognise stolen-part patterns, and care without sentimentality.
-
-Information broker:
-
-A jack-in-the-box who knows things because everyone forgets he is listening until he opens. He trades gossip, objects, and lost things; gives leads; tempts Dragon with treasure; and offers comic suspicion.
-
-## Story Shape
-
-Act I:
-
-Dragon is hired by the pink dragon. He investigates the missing wind-up mouse courier and the Ember-Stone trail.
-
-Act II:
-
-Dragon discovers harvested toys, frightened repairers, and a pattern of stolen parts. He recovers the Ember-Stone, is attacked, and is repaired with mismatched parts.
-
-Act III:
-
-Dragon learns about the staged catastrophe, the clockwork knight, the Stitchers’ Guild conspiracy, and the pink dragon’s compromised role.
-
-Act IV:
-
-The Patchwork Guardian is unleashed. The staged hero fails. Dragon must destroy the Ember-Stone, despite wanting it desperately, to break the guardian’s control and save the pink dragon.
-
-Ending:
-
-The public story is incomplete or wrong. Someone else may receive credit. Pink dragon leaves. Dragon returns to his office physically and emotionally scarred, with no legendary treasure, perhaps keeping one small ordinary object she left behind. The tone is quiet and bittersweet rather than bleak.
+Retired plot machinery such as the missing wind-up mouse courier, Ember-Stone, Patchwork Guardian, stitched-parts conspiracy, ceremonial clockwork knight, staged catastrophe, and fixed four-act structure is not active canon. Use `../notes/development_options.md` only if the user explicitly asks to revive or compare old plot ideas.
 
 ## Forbidden Drift
 
@@ -329,7 +255,7 @@ Do not let the story become:
 - a story where Dragon becomes cool and fearless
 - a story where Dragon’s treasure instinct disappears
 - a story where the pink dragon is merely deceitful
-- a story where the guardian is just a monster
+- a story that accidentally locks onto old plot scaffolding
 - a story where everything is over-explained
 
 ## Style Sample
@@ -371,6 +297,5 @@ Before finalising, check that:
 - emotional movement is implied through behaviour, objects, weather, silence, and practical consequence
 - noir pacing has breathing room and does not rush transitions
 - toy-world rituals are treated sincerely, never as a wink to the audience
-- the Ember-Stone matters emotionally
-- the Patchwork Guardian is tragic rather than monstrous
+- any artifact, threat, or case structure is treated as provisional unless explicitly chosen
 - the ending or scene turn is emotionally grounded
