@@ -12,7 +12,7 @@ Everything needed for character, world, tone, plot, and style is included here.
 
 ## Premise
 
-A shabby toy dragon private investigator is hired by a mysterious pink dragon to find a missing toy connected to a legendary treasure. The case draws him through the rain-slick streets of Toy City and into a conspiracy involving stolen toy parts, reconstructed identities, staged heroism, and an ancient patchwork guardian being rebuilt for public spectacle.
+A shabby toy dragon private investigator is hired by a mysterious pink dragon to find a missing toy connected to the Ember-Stone. The case draws him through the rain-slick streets of Toy City and into a conspiracy involving stolen toy parts, reconstructed identities, staged heroism, and an ancient patchwork guardian being rebuilt for public spectacle.
 
 Dragon begins the story wanting payment, treasure, dryness, comfort, and professional dignity.
 
@@ -97,7 +97,7 @@ Often the funniest line is the one that stops early.
 
 Dragon.
 
-He may sometimes be called “Mr Dragon” by clients, officials, repair clerks, or toys attempting politeness.
+He is sometimes called “Mr Dragon” by clients, officials, repair clerks, or toys attempting politeness.
 
 He dislikes being called:
 
@@ -165,7 +165,7 @@ In the noir version, he often wears practical detective accessories scaled badly
 - a tiny hat he considers essential to the profession
 - a notebook with damp-softened pages
 - a pencil stub
-- perhaps a satchel for evidence, treasure, and snacks
+- a satchel for evidence, treasure, and snacks
 
 His clothing should never make him look genuinely cool. It should make him look like someone who has made an effort under difficult circumstances.
 
@@ -235,8 +235,8 @@ Fire rules:
 - works best when Dragon is dry
 - weakens quickly in dampness
 - fails almost completely when soaked
-- may emerge as sparks when annoyed
-- may appear as nostril smoke when offended
+- can emerge as sparks when annoyed
+- can appear as nostril smoke when offended
 - becomes stronger when he is frightened but dry
 - is unreliable in rain
 
@@ -452,9 +452,9 @@ The rain matters. For Dragon, every case in the rain is personal.
 
 Toys live, work, trade, argue, hide, repair, remember, forget, and fear damage.
 
-Possible city rules:
+City rules:
 
-- damaged toys can be repaired but may return changed
+- damaged toys can be repaired but often return changed
 - replacement parts carry emotional weight
 - some toys remember where they came from; some do not
 - repair shops function like hospitals, tailors, confessionals, and black-market clinics
@@ -464,17 +464,9 @@ Possible city rules:
 
 ## Humans
 
-Humans are currently optional.
+Humans exist outside the central frame of the story.
 
-Possible approaches:
-
-1. Humans are absent and irrelevant.
-2. Humans exist outside the frame, like distant giants or weather.
-3. Humans are mythical to some toys and mundane to others.
-4. Humans created many of the toys but do not control Toy City.
-5. Human presence is treated theatrically, with flexible scale and realism.
-
-The default approach should keep humans out of the main plot unless they become useful.
+Toy City is treated as a complete world. Human-made objects shape the city, but humans should not drive the main plot unless a specific future outline requires it.
 
 ## Districts
 
@@ -498,7 +490,7 @@ A row of shops, clinics, back rooms, and official stitching houses. Some are kin
 
 Higher-status toy neighbourhood. Cleaner fabric, better polish, fewer visible repairs, more lies.
 
-The pink dragon may come from here or pretend to.
+The pink dragon comes from here, or claims to.
 
 ### The Lost-and-Found
 
@@ -508,7 +500,7 @@ No one fully trusts it.
 
 ### The Feltworks
 
-Industrial zone where stuffing, cloth, wire, thread, and replacement parts are processed. Could be tied to the conspiracy.
+Industrial zone where stuffing, cloth, wire, thread, and replacement parts are processed. The conspiracy uses its supply chains to hide stolen parts.
 
 ### The Hearth District
 
@@ -543,13 +535,13 @@ Bad repair erases, replaces, or repurposes it.
 
 A respectable public body that claims to maintain order and protect toys.
 
-Some members may be involved in the staged heroism conspiracy.
+Complicit members are involved in the staged heroism conspiracy.
 
 ### The Hero Office / Public Safety Bureau
 
 A civic institution responsible for public rescues, ceremonies, and city morale.
 
-This is where manufactured heroism may be staged.
+This is where manufactured heroism is staged.
 
 ### The Stitchers’ Guild
 
@@ -575,24 +567,9 @@ She should be mysterious without being sexualised, manipulative without being cr
 
 ## Name
 
-Currently unresolved.
+Her final name remains one of the story’s few open questions.
 
-Possible names:
-
-- Rose
-- Rosette
-- Pink
-- Pearl
-- Mallow
-- Coral
-- Felicity
-- Miss Rosebutton
-- Miss Rosethread
-- Clementine, if the pink is faded toward peach
-
-She may initially refuse to give her real name.
-
-Dragon might call her “Miss Pink” in narration until he learns it.
+Until he learns it, Dragon calls her “Miss Pink” in narration.
 
 ## Physical Description
 
@@ -609,7 +586,7 @@ Features:
 - delicate but not fragile in spirit
 - one patch hidden beneath a ribbon, scarf, or collar
 - stitching that suggests expensive repair work
-- perhaps a faint scent of cedar drawers, old perfume, or stored fabric
+- a faint scent of cedar drawers, old perfume, or stored fabric
 
 She should not seem glamorous in an adult way. Her glamour is toy-world glamour: rare fabric, careful stitching, clean seams, controlled fear, and the impression that she has spent a long time learning how not to look damaged.
 
@@ -622,6 +599,7 @@ She is:
 - observant
 - self-interested
 - sneaky
+- treasure-minded
 - persuasive
 - rare and aware of it
 - brave in a colder way than Dragon
@@ -646,7 +624,7 @@ Dragon is drawn to her immediately because:
 - she treats him seriously
 - she frightens him a little
 
-Her interest in Dragon begins as practical. He is useful. He is a dragon. He may be able to find, handle, or understand the artifact. But her interest becomes genuine. Part of this is because they are both rare toy dragons. She recognises something in him: age, damage, stubborn dignity, and the lonely absurdity of being a rare creature in a city full of replaceable ones.
+She hires Dragon because he is useful, because he is a dragon, and because he can find, handle, or understand the Ember-Stone. She withholds information and uses him, but her interest becomes genuine. Part of this is because they are both rare toy dragons. She recognises something in him: age, damage, stubborn dignity, and the lonely absurdity of being a rare creature in a city full of replaceable ones.
 
 Their relationship should be emotionally charged but restrained.
 
@@ -656,19 +634,13 @@ A better emotional beat is Dragon noticing that she is limping and pretending no
 
 ## Moral Position
 
-The pink dragon is sneaky, self-interested, and connected to the conspiracy or the artifact trail in ways she does not reveal at first.
+The pink dragon is sneaky, self-interested, and connected to the conspiracy and the Ember-Stone trail in ways she does not reveal at first.
 
 She is not simply a villain, and she is not merely a helpless client.
 
 Her first instinct is to protect herself and get what she wants. She is a dragon, and therefore treasure has a pull on her too. She understands Dragon’s greed because she shares a version of it.
 
-Possible versions:
-
-1. She wants the artifact for herself, then discovers the cost is worse than she expected.
-2. She is using Dragon because only another dragon can find or handle the treasure.
-3. She is involved with the conspirators but plans to betray them.
-4. She is trying to rescue someone while pretending to pursue treasure.
-5. She thinks Dragon is useful at first, then finds herself caring about whether he survives.
+She wants the Ember-Stone for herself at first, then discovers the cost is worse than she expected. She is using Dragon because only another dragon can find or handle the treasure safely. Her connection to the conspirators is compromised and tactical: she knows more than she admits, plans to betray them when it suits her, and does not begin the case as an innocent.
 
 Her care for Dragon should be genuine but compromised.
 
@@ -688,11 +660,9 @@ She leaves at the end.
 
 Her departure should hurt without becoming melodrama.
 
-Possible final note:
+She leaves behind a small non-magical treasure, such as a pink thread, a button, or the unpaid part of his fee.
 
-She leaves behind a small non-magical treasure, perhaps a pink thread, a button, or the unpaid part of his fee.
-
-Dragon keeps it and insists this is only because it may become evidence later.
+Dragon keeps it and insists this is only because it will become evidence later.
 
 No one should believe him.
 
@@ -702,7 +672,7 @@ No one should believe him.
 
 ## Opening Case
 
-A mysterious pink dragon hires Dragon to find a missing toy connected to a legendary treasure.
+A mysterious pink dragon hires Dragon to find a missing toy connected to the Ember-Stone.
 
 Dragon takes the case because:
 
@@ -714,17 +684,9 @@ Dragon takes the case because:
 
 ## Initial Missing Toy
 
-The missing toy should be emotionally specific, not just a plot token.
+The missing toy is a wind-up mouse courier who was carrying the last reliable clue to the Ember-Stone.
 
-Possible candidates:
-
-1. A small patchwork knight toy who once guarded the artifact.
-2. A wind-up mouse courier carrying the artifact’s last known location.
-3. A cracked porcelain child-doll with a memory stitched inside.
-4. A little bear from the Lost-and-Found who saw too much.
-5. A cloth bird who can identify stolen parts by touch.
-
-This remains open.
+The mouse should be emotionally specific, not just a clue. It should have a name, habits, fears, and signs of ordinary toy life before the case damaged it.
 
 ## Escalation
 
@@ -776,109 +738,37 @@ They are wrong about the “manage” part.
 
 ## The Chosen Hero
 
-The chosen hero is a public-facing toy intended to defeat the guardian in front of the city.
+The chosen hero is a polished ceremonial clockwork knight: built for public confidence, speeches, and staged rescues rather than real danger.
 
-Possible forms:
-
-- a golden action figure with a perfect smile and hollow courage
-- a ceremonial clockwork knight
-- a celebrity rescue bear
-- a newly manufactured dragon promoted as the city’s protector
-- a stitched-together heroic mascot built for publicity
-
-The chosen hero should not be purely evil. They may be vain, manipulated, frightened, or unaware of the full truth.
+He is not purely evil. He is vain, frightened, manipulated, and aware on some level that he is not brave enough for the role being written for him.
 
 ---
 
 # 8. The Artifact
 
-## Current Status
+## The Ember-Stone
 
-The artifact is not yet finalised.
+The artifact is the Ember-Stone: a small warm treasure that lets a dragon feel perfectly dry, warm, safe, and comfortable.
 
-It must be a legendary treasure that is especially irresistible to dragons, not just generically valuable.
+It is not merely valuable. It is almost perfectly designed to tempt Dragon.
 
-It should connect emotionally to one or more of the following:
+To Dragon, the Ember-Stone promises:
 
-- comfort
-- hoarding
-- memory
 - warmth
 - dryness
-- control
-- identity
-- being whole
-- being rare
-- being safe
+- comfort
+- safety
+- treasure
+- stronger fire
+- relief from rain and dampness
 
-Destroying it should stop or free the guardian, but should also cost Dragon something instinctive and personal.
+The Ember-Stone can calm or bind the Patchwork Guardian by giving its mismatched parts a false sense of warmth and unity. The conspirators use it as a control mechanism.
 
-## Possible Artifact Directions
+Dragon wants the Ember-Stone intensely. His desire for it should be treated as real, instinctive, and difficult to overcome.
 
-### The Ember-Stone
+In the climax, Dragon must destroy the Ember-Stone to break the guardian’s control and save the pink dragon. This is the clearest form of sacrifice because he destroys the thing that promises everything he most wants.
 
-A small warm treasure that lets a dragon feel perfectly dry, warm, safe, and comfortable.
-
-This is the strongest current candidate if the story’s emotional centre is Dragon giving up comfort, warmth, treasure, and safety.
-
-Why it works:
-
-- directly tempts Dragon
-- connects to his fear of water
-- connects to his fire
-- gives him something he would desperately want
-- makes the final sacrifice concrete and painful
-
-Possible function:
-
-The Ember-Stone can calm the Patchwork Guardian by giving it warmth and unity, but the conspirators use it to control the guardian. Dragon must destroy it to break that control.
-
-### The First Button
-
-A golden button from the first dragon toy ever made.
-
-This is strong if the story’s emotional centre is rarity, dragon identity, and connection between Dragon and the pink dragon.
-
-Why it works:
-
-- deeply meaningful to dragons
-- connects Dragon and the pink dragon
-- makes the treasure about identity
-- symbolises being rare rather than replaceable
-
-Possible function:
-
-The First Button binds dragon-thread and can animate or control reconstructed toys. Destroying it breaks the guardian’s binding.
-
-### The Mirror Bead
-
-A polished bead that shows a toy as whole, no matter how damaged they are.
-
-This is strong if the story’s emotional centre is repair, shame, and identity after damage.
-
-Why it works:
-
-- reflects Dragon’s repaired body
-- reflects the guardian’s patchwork body
-- gives damaged toys the comfort of seeing themselves whole
-- tempts Dragon emotionally rather than only materially
-
-Possible function:
-
-The Mirror Bead makes the guardian believe it is whole, but also traps it in a false identity. Destroying it lets the guardian see what has been done to it.
-
-### Other Options
-
-- The Brass Key: opens any locked toy chest, drawer, or memory box
-- a tiny crown that makes every toy recognise its bearer as important
-- The Music-box Gear: soothes the guardian by playing its original lullaby
-- a polished coin that always returns to the owner’s hoard
-
-## Recommended Direction
-
-The current recommended artifact is the Ember-Stone.
-
-It gives Dragon the clearest sacrifice: he must destroy the one object that promises everything he instinctively wants — warmth, dryness, treasure, comfort, and safety.
+The Ember-Stone should feel emotionally symbolic, not just magical. It represents the temptation to choose personal comfort over compassion.
 
 ---
 
@@ -894,7 +784,7 @@ It is not evil. It is wronged, incomplete, confused, overburdened, and built for
 
 ## Physical Description
 
-The guardian may be enormous by toy standards, perhaps human-child sized or larger.
+The guardian is enormous by toy standards, about human-child sized or larger.
 
 It is assembled from:
 
@@ -927,12 +817,12 @@ When unleashed, the guardian does not behave like a monster.
 
 It behaves like something overwhelmed by too many parts, memories, commands, and expectations.
 
-It may:
+It can:
 
 - pause at familiar sounds
 - protect one toy while endangering others
 - repeat old guardian phrases
-- respond to the artifact
+- respond to the Ember-Stone
 - become distressed by fire
 - become confused by being called a hero or monster
 
@@ -940,9 +830,7 @@ The climax should make readers feel the tragedy of it.
 
 ## Ending for the Guardian
 
-Current rough ending:
-
-- Dragon destroys the artifact to free the guardian from control.
+- Dragon destroys the Ember-Stone to free the guardian from control.
 - The guardian falls into fire or is consumed by fire.
 - Its destruction is sad but necessary.
 - A small remnant remains: a button, patch, or piece of thread.
@@ -955,15 +843,7 @@ This should be handled with emotional restraint.
 
 ## Repairer Ally
 
-A practical repair-shop owner who has stitched Dragon before and knows too much.
-
-Possible forms:
-
-- an elderly teddy bear with spectacles sewn on crookedly
-- a tin nurse doll
-- a sock monkey surgeon
-- a wooden mannequin tailor
-- a calm rag doll who never wastes thread
+The repairer ally is an elderly teddy bear stitcher with spectacles sewn on slightly crookedly. They run a repair shop in the Repair Quarter and have repaired Dragon before.
 
 Function:
 
@@ -975,20 +855,15 @@ Function:
 
 ## Information Broker
 
-A toy who trades in gossip, objects, and lost things.
-
-Possible forms:
-
-- magpie toy
-- wind-up rat
-- marble-eyed clown
-- jack-in-the-box who knows things because everyone forgets he is listening
+The information broker is a jack-in-the-box who knows things because everyone forgets he is listening until he opens.
 
 Function:
 
+- trades gossip, objects, and lost things
 - gives leads
 - tempts Dragon with treasure
 - offers comic suspicion
+- appears harmless until he is suddenly present
 
 ## Public Hero
 
@@ -996,23 +871,13 @@ The manufactured hero meant to defeat the guardian.
 
 Should be more pathetic than villainous.
 
-Possible emotional angle:
-
-They know they are not brave but have been told the city needs them. Their public polish hides private terror.
+He knows he is not brave but has been told the city needs him. His public polish hides private terror.
 
 ## Conspiracy Leader
 
-A respectable civic figure who believes controlled myth is necessary.
+The conspiracy leader is a senior Stitchers’ Guild official who believes controlled myth is necessary to keep Toy City orderly.
 
-Possible forms:
-
-- porcelain mayor doll
-- senior Stitchers’ Guild official
-- antique soldier
-- clockwork judge
-- museum curator toy
-
-They should not cackle. They should explain themselves in reasonable terms.
+They are respectable, calm, and reasonable-sounding. They do not cackle.
 
 Their danger lies in thinking toys are safer when someone else controls the story.
 
@@ -1020,7 +885,7 @@ Their danger lies in thinking toys are safer when someone else controls the stor
 
 The damaged or missing toys should each have enough specificity to matter.
 
-They are not just clues. They represent possible futures for Dragon.
+They are not just clues. They represent plausible futures for Dragon.
 
 ---
 
@@ -1030,7 +895,7 @@ They are not just clues. They represent possible futures for Dragon.
 
 - Dragon is in his office, avoiding rain and unpaid bills.
 - Pink dragon arrives.
-- She hires him to find a missing toy and/or artifact.
+- She hires him to find the missing wind-up mouse courier and the trail to the Ember-Stone.
 - Dragon notices she is lying by omission.
 - He accepts anyway, because treasure and curiosity are old enemies of good judgement.
 - First leads take him into Toy City’s lower districts.
@@ -1043,7 +908,7 @@ They are not just clues. They represent possible futures for Dragon.
 - Repair shops are frightened.
 - The pink dragon’s story begins to crack.
 - The legendary treasure becomes more real.
-- Dragon finds or recovers the artifact at midpoint.
+- Dragon finds or recovers the Ember-Stone at midpoint.
 - He is attacked.
 - He is torn apart / badly damaged.
 - He is repaired using mismatched replacement parts.
@@ -1065,8 +930,8 @@ They are not just clues. They represent possible futures for Dragon.
 - The planned heroism fails.
 - The guardian cannot be controlled as expected.
 - Pink dragon is endangered.
-- Dragon has the artifact and wants to keep it.
-- He realises the artifact must be destroyed to stop/free the guardian.
+- Dragon has the Ember-Stone and wants to keep it.
+- He realises the Ember-Stone must be destroyed to break the guardian’s control.
 - Destroying it goes against his deepest dragon instinct.
 - He does it anyway.
 - Fire, rain, and repair all converge.
@@ -1081,7 +946,7 @@ They are not just clues. They represent possible futures for Dragon.
 - Dragon returns to his office.
 - He is physically and emotionally scarred.
 - He has no legendary treasure.
-- He has perhaps one small ordinary object left behind.
+- He has one small ordinary object left behind.
 - Rain continues, or stops just enough to be annoying in a different way.
 
 The ending should be quiet, dry, and bittersweet.
@@ -1222,41 +1087,15 @@ This had been mended by someone who did not understand the difference between re
 
 ---
 
-# 15. Current Open Questions
+# 15. Open Questions
 
-These are the main creative decisions still unresolved.
+These are the remaining high-level creative decisions.
 
-## Artifact
-
-1. Is the artifact definitely the Ember-Stone, or should it be the First Button, Mirror Bead, or something else?
-2. Does destroying it free the guardian, destroy the guardian, break control over the guardian, or all three?
-3. Was the artifact originally made for dragons, for the guardian, or by accident?
-
-## Pink Dragon
-
-4. What is her name?
-5. Did she know of Dragon before she came to his office?
-6. Is she working for the conspirators, against them, or using both sides?
-7. Does she leave because she must, because she chooses to, or because staying would require honesty?
-
-## Toy City
-
-8. Are humans absent, mythical, distant, or simply outside the frame?
-9. Are all toys alive automatically, or only some?
-10. How theatrical should the city feel compared with how physically logical it should be?
-
-## Damage Level
-
-11. How frightening can the damaged/disassembled toys be for a 10+ audience?
-12. Should the midpoint damage to Dragon be shown directly, implied, or discovered after blackout?
-13. How visibly altered should Dragon be after repair?
-
-## Ending
-
-14. Does the public ever learn the truth?
-15. Who wrongly receives credit?
-16. What small object, if any, does the pink dragon leave behind?
-17. Does the final scene end with rain, warmth, smoke, or silence?
+1. What is the pink dragon’s final name?
+2. How much of the truth does the public learn?
+3. What small object does the pink dragon leave behind?
+4. How visibly altered is Dragon after repair?
+5. Does the final scene end with rain, warmth, smoke, or silence?
 
 ---
 
@@ -1270,7 +1109,7 @@ The story should be melancholy but suitable for readers aged roughly 10 and up, 
 
 Story premise:
 
-A mysterious pink dragon hires Dragon, a toy private investigator, to find a missing toy connected to a legendary treasure. The case reveals a conspiracy to reconstruct an ancient patchwork guardian from stolen toy parts and stage a public act of heroism. Dragon must ultimately destroy the treasure he most desires in order to save the pink dragon and stop or free the guardian.
+A mysterious pink dragon hires Dragon, a toy private investigator, to find a missing wind-up mouse courier connected to the Ember-Stone. The case reveals a conspiracy to reconstruct an ancient patchwork guardian from stolen toy parts and stage a public act of heroism. Dragon must ultimately destroy the treasure he most desires in order to save the pink dragon and break the guardian’s control.
 
 Before finalising, check that:
 
@@ -1278,6 +1117,6 @@ Before finalising, check that:
 - the noir voice remains readable and restrained
 - the damage is emotionally serious but not graphic
 - the pink dragon is complex rather than simply deceitful
-- the artifact matters emotionally to dragons
+- the Ember-Stone matters emotionally to dragons
 - the guardian is tragic rather than monstrous
 - the ending is bittersweet rather than bleak
