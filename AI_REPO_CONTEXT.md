@@ -86,3 +86,11 @@ For any task:
 3. Load that project’s bible or prompt pack.
 4. Load only task-relevant drafts, chapters, scenes, or notes.
 5. Keep outputs inside the correct project folder.
+
+## README / Path Index Maintenance
+
+When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.
+
+For Dragon Noir files, keep `dragon noir story/README.md` current.
+
+For top-level project structure changes, update the root `README.md` and/or this file as appropriate.
