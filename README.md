@@ -2,6 +2,10 @@
 
 This repository contains two separate Dragon writing projects. They share a broad character origin, but they should be treated as separate continuities unless a prompt explicitly asks to compare, adapt, or cross-reference them.
 
+## AI / Agent Context
+
+AI assistants and coding agents should read `AI_REPO_CONTEXT.md` before making changes. `AGENTS.md` contains the short bootstrap instruction for agent workflows.
+
 ## Projects
 
 ### Dragon Family Story
