@@ -79,8 +79,8 @@ When processing an issue:
 6. Do not silently promote provisional material to canon.
 7. Do not silently clean up unrelated prose or structure.
 8. If adding, removing, renaming, or moving files, update the README/file index in the same change.
-9. Commit and push only after the acceptance criteria are satisfied.
-10. Close the issue only after the completed change is pushed.
+9. Commit and push when the scoped issue work is complete.
+10. Close the issue only after the completed change is pushed and any acceptance-criteria failures are either fixed or captured in follow-up issues.
 
 If an issue is ambiguous about whether material is canon or provisional, keep it provisional and say so.
 
@@ -89,6 +89,14 @@ If an issue is ambiguous about whether material is canon or provisional, keep it
 # 5. Acceptance Criteria Checklist
 
 Use these checks before closing an implementation issue.
+
+Acceptance criteria are not a reason to silently expand the current issue. If the requested work is implemented but a criterion reveals a remaining problem that cannot be fixed cleanly within the issue scope, allow the work through and log a new follow-up issue.
+
+The original issue may be closed only if:
+
+- the scoped requested work was completed
+- any acceptance-criteria failure is fixed, or a follow-up issue records it clearly
+- the final response names the follow-up issue if one was created
 
 ## Scope
 
@@ -128,6 +136,26 @@ Use these checks before closing an implementation issue.
 
 - `git diff --check` passes.
 - The final response states what changed, what files were touched, and whether canon was changed or provisional material was promoted.
+
+## Follow-Up Issue Rule
+
+Create a follow-up issue instead of broadening the current issue when:
+
+- fixing the problem would require creative judgement beyond the issue scope
+- the issue implementation exposed a style, pacing, canon, or continuity problem elsewhere
+- the requested change is valid but creates a new concern worth reviewing separately
+- acceptance criteria reveal a weakness that is real but not part of the original task
+
+The follow-up issue should include:
+
+- what was implemented
+- what acceptance criterion or repo rule exposed the problem
+- where the problem appears
+- why it matters
+- suggested directions for resolving it
+- whether it should be review-only or implementation work
+
+Do not use follow-up issues to avoid fixing simple in-scope problems. Missing README path updates, broken links, failed `git diff --check`, or accidental unrelated edits should usually be fixed before closing the original issue.
 
 ---
 

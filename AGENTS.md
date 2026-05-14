@@ -21,6 +21,8 @@ When the user asks to process, resolve, implement, or close GitHub issues, load 
 
 Treat issues as scoped handoff instructions. Do not broaden the task, promote provisional material, or rewrite unrelated prose unless the issue explicitly asks for it.
 
+If the scoped work is complete but acceptance criteria expose a real out-of-scope problem, allow the implementation through and create a follow-up issue explaining what is wrong, where it appears, and suggested resolution directions.
+
 ## README / Path Index Maintenance
 
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.
