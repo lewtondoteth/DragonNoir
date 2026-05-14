@@ -33,4 +33,6 @@ When adding, removing, renaming, or moving any file or folder, update the releva
 
 For project files, keep the root `README.md` current.
 
+When adding, removing, renaming, or changing the status of a major chapter, scene, outline, or planning artifact, update the root README's Chapter Status table in the same change.
+
 For top-level project structure changes, update the root `README.md` and/or `AI_REPO_CONTEXT.md` as appropriate.

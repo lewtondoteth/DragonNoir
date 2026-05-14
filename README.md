@@ -74,6 +74,20 @@ DragonNoir/
 
 Keep canonical prose, experimental scene drafts, and structural outlines separate while drafting.
 
+## Chapter Status
+
+Use this table to understand what each major story artifact is for before editing or reviewing it.
+
+| Item | File | Status | Use for | Notes |
+| --- | --- | --- | --- | --- |
+| Chapter 1 opening | `chapters/chapter_01_opening.md` | Active canonical draft | Main Chapter 1 prose | Treat as the current assembled chapter unless the user says otherwise. |
+| Chapter 1 narrative beats | `outlines/chapter_01_narrative_beats.md` | Active canonical structure | Pacing, sequence, and scene-function reference | Use to check whether new prose still follows the intended opening movement. |
+| Office-entry coffee ritual | `scenes/chapter_01_office_entry_coffee_ritual_draft.md` | Experimental scene study | Texture, pacing, and possible integration material | Do not treat as canonical prose unless integrated into the active chapter. |
+| Opening-case music box scaffold | `notes/opening_case_music_box_scaffold.md` | Provisional planning | Possible opening-case shape | Not fixed canon; promote only by explicit user request or canon-promotion issue. |
+| Development options | `notes/development_options.md` | Retired/exploratory notes | Backup ideas and comparison material | Not active canon unless explicitly revived. |
+
+When adding, removing, renaming, or changing the status of a major chapter, scene, outline, or planning artifact, update this table in the same change.
+
 ## Current Active Drafts
 
 - `chapters/chapter_01_opening.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, and layered recognition progression.

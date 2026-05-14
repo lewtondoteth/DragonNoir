@@ -10,6 +10,8 @@ Always read `README.md` first.
 
 The README explains the Noir folder structure, canonical references, active draft pointers, and canon/provisional separation rule.
 
+Use the README's Chapter Status table to identify whether a chapter, scene, outline, or planning file is active canon, experimental, provisional, or retired before treating it as source material.
+
 ## Project scope
 
 Use this repository for Toy Noir Dragon work:
@@ -123,5 +125,7 @@ When the user asks to log or create a GitHub issue, use the appropriate template
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.
 
 Keep the root `README.md` current.
+
+When adding, removing, renaming, or changing the status of a major chapter, scene, outline, or planning artifact, update the root README's Chapter Status table in the same change.
 
 For top-level project structure changes, update the root `README.md` and/or this file as appropriate.
