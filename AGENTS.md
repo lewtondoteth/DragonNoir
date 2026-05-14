@@ -23,6 +23,8 @@ Treat issues as scoped handoff instructions. Do not broaden the task, promote pr
 
 If the scoped work is complete but acceptance criteria expose a real out-of-scope problem, allow the implementation through and create a follow-up issue explaining what is wrong, where it appears, and suggested resolution directions.
 
+When logging a new issue, use the appropriate template from `notes/issue_workflow.md`.
+
 ## README / Path Index Maintenance
 
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.

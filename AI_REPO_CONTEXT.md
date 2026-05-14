@@ -113,6 +113,8 @@ When the user asks to process, resolve, implement, or close GitHub issues:
 
 Do not use an issue as permission to broadly rewrite unrelated prose, promote provisional material, or clean up surrounding structure unless the issue explicitly asks for it.
 
+When the user asks to log or create a GitHub issue, use the appropriate template from `notes/issue_workflow.md`.
+
 ## README / Path Index Maintenance
 
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.

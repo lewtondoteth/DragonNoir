@@ -99,6 +99,8 @@ Issue workflow reference:
 
 Implementation agents should treat issues as scoped instructions, not permission to broadly rewrite. Review issues use the read-only AI Review Path. Planning/scaffold issues stay provisional unless the issue explicitly says to promote material into canon.
 
+When logging a new issue, use the templates in `notes/issue_workflow.md` for implementation, review, planning/scaffold, canon promotion, and follow-up issues.
+
 Before closing an implementation issue, check the acceptance criteria in `notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, and `git diff --check`.
 
 If the scoped work is complete but a criterion exposes a real out-of-scope problem, the agent should allow the implementation through and create a follow-up issue explaining what is wrong and how it might be resolved.

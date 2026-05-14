@@ -67,7 +67,225 @@ If the issue comes from exploratory chat, copy in only the chosen material. Do n
 
 ---
 
-# 4. Agent Rules For Issues
+# 4. Issue Templates
+
+Use these templates when logging GitHub issues.
+
+## Implementation Issue Template
+
+```md
+## Type
+
+Implementation
+
+## Target Files
+
+- `path/to/file.md`
+
+## Canon Status
+
+Canonical / Provisional / Experimental / Retired
+
+## Goal
+
+Describe the change to make.
+
+## Material To Preserve
+
+- Specific lines, beats, discoveries, or constraints to keep.
+
+## Style Rules To Prioritize
+
+- Pacing and feel.
+- Dragon's first-person noir voice.
+- Consequence-first narration.
+- Implication-heavy emotional movement.
+- Toy-world play-as-reality logic.
+- Character/canon constraints relevant to this issue.
+
+## Do Not Change
+
+- Files, sections, canon, plot mechanics, or surrounding prose that should stay untouched.
+
+## Acceptance Criteria
+
+- Scoped requested change is implemented.
+- No unrelated prose or structure is rewritten.
+- Canon/provisional status is preserved.
+- README/file index is updated if paths change.
+- `git diff --check` passes.
+- Any out-of-scope acceptance gaps are logged as follow-up issues.
+```
+
+## Review Issue Template
+
+```md
+## Type
+
+Review only
+
+## Target Material
+
+- `path/to/file.md`
+- Section, scene, chapter, or quoted passage to review.
+
+## Review Focus
+
+- Pacing and feel.
+- Dragon's voice.
+- Consequence-first narration.
+- Implication-heavy emotional movement.
+- Toy-world logic.
+- Character consistency.
+- Canon/provisional boundary.
+- Factual continuity.
+- Scene function.
+
+## Relevant References
+
+- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+- `rules/noir_narration_rules.md`
+- Other relevant character, outline, scene, or note files.
+
+## Output Required
+
+Log detailed issues only. Do not edit files.
+
+Each issue should include:
+
+- location or short quoted phrase
+- severity or priority
+- rule/canon/style conflict
+- why it matters
+- suggested resolution direction
+```
+
+## Planning / Scaffold Issue Template
+
+```md
+## Type
+
+Planning / Scaffold
+
+## Target Files
+
+- `notes/name_of_scaffold.md`
+
+## Canon Status
+
+Provisional. Not active canon unless explicitly promoted later.
+
+## Goal
+
+Capture the exploratory structure, beat, idea, object, relationship, or case shape.
+
+## Material To Preserve
+
+- Agreed discoveries or constraints.
+- Open possibilities.
+- Undefined elements that must remain undefined.
+
+## Do Not Define Yet
+
+- Final plot mechanics.
+- Final antagonist.
+- Ending.
+- Mythology.
+- Any canon not explicitly agreed.
+
+## Acceptance Criteria
+
+- Material is captured in notes/scaffolds, not story bible canon.
+- Undefined elements remain undefined.
+- README/file index is updated if a new file is added.
+- `git diff --check` passes.
+```
+
+## Canon Promotion Issue Template
+
+```md
+## Type
+
+Canon Promotion
+
+## Source Material
+
+- `notes/source_file.md`
+- Issue, scene, or discussion source.
+
+## Target Canon Files
+
+- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+- Other relevant rules, character, outline, or README files.
+
+## Material To Promote
+
+- Exact facts, rules, beats, or constraints becoming canon.
+
+## Material To Leave Provisional
+
+- Anything not being promoted.
+
+## Reason For Promotion
+
+Why this is now stable enough to become canon.
+
+## Acceptance Criteria
+
+- Promoted material appears in the appropriate canon files.
+- Source notes are updated if needed to show what was promoted.
+- Prompt pack/rules/character files are updated if they need the new canon.
+- README/file index is updated if paths change.
+- No unrelated provisional material is promoted.
+- `git diff --check` passes.
+```
+
+## Follow-Up Issue Template
+
+```md
+## Type
+
+Follow-up
+
+## Origin
+
+- Original issue: #...
+- Commit or change that exposed this problem: ...
+
+## What Was Implemented
+
+Briefly describe the completed scoped work.
+
+## Problem Found
+
+Describe the acceptance gap, style issue, canon concern, continuity problem, or review finding.
+
+## Location
+
+- `path/to/file.md`
+- Short quoted phrase or section name.
+
+## Why It Matters
+
+Explain how it affects pacing, feel, logic, character, continuity, canon boundaries, or repo maintainability.
+
+## Suggested Resolution Direction
+
+- Possible fix direction.
+- Whether this should be review-only or implementation work.
+
+## Acceptance Criteria
+
+- Problem is reviewed or resolved within this issue's scope.
+- No unrelated prose or canon is changed.
+- `git diff --check` passes if implementation occurs.
+```
+
+---
+
+# 5. Agent Rules For Issues
 
 When processing an issue:
 
@@ -86,7 +304,7 @@ If an issue is ambiguous about whether material is canon or provisional, keep it
 
 ---
 
-# 5. Acceptance Criteria Checklist
+# 6. Acceptance Criteria Checklist
 
 Use these checks before closing an implementation issue.
 
@@ -159,7 +377,7 @@ Do not use follow-up issues to avoid fixing simple in-scope problems. Missing RE
 
 ---
 
-# 6. Review Issues
+# 7. Review Issues
 
 For review-only issues, acceptance criteria are different:
 
