@@ -1,31 +1,62 @@
-# Dragon Stories
+# Dragon Story Projects
 
-This repository contains the working story bible for generating consistent Dragon stories.
+This repository contains two separate Dragon writing projects. They share a broad character origin, but they should be treated as separate continuities unless a prompt explicitly asks to compare, adapt, or cross-reference them.
 
-## Main File
+## Projects
 
-- `Dragon_Stories_Story_Bible.md`
+### Dragon Family Story
 
-## Drafts
+Path: `dragon family story/`
 
-- `drafts/Dragon_and_the_Piece_of_Treasure.md`
+This is the warm domestic family-story continuity.
 
-## What It Contains
+Main reference:
 
-- world and continuity rules
-- family and house details
-- Dragon and Biffin character profiles
-- prose and humour guidance
-- a ready-to-use AI story prompt
-- a final consistency checklist
+- `dragon family story/Dragon_Stories_Story_Bible.md`
+
+Drafts:
+
+- `dragon family story/drafts/`
+
+Use this project for ordinary household Dragon stories, family dynamics, domestic scale, emotional safety, Biffin, Addin, Bob, Mum, Dad, the Dublin terraced house, and the established family-story prose style.
+
+### Dragon Noir Story
+
+Path: `dragon noir story/`
+
+This is the standalone toy-noir book project.
+
+Main reference:
+
+- `dragon noir story/story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+
+Working structure:
+
+- `dragon noir story/chapters/`
+- `dragon noir story/scenes/`
+- `dragon noir story/notes/`
+
+Use this project for the noir detective-book continuity, chapter planning, scene drafting, mystery structure, Toy City, and the standalone toy-noir tone defined in its own bible.
+
+## Canon Separation Rule
+
+Do not intermingle the two projects by default.
+
+When working in `dragon family story/`, use only the family story bible unless the user explicitly asks for noir comparison or adaptation.
+
+When working in `dragon noir story/`, use only the toy-noir story bible unless the user explicitly asks for family-story comparison or adaptation.
+
+Shared names or character echoes do not imply shared continuity.
 
 ## Basic Use
 
-Give the story bible to an AI as the authoritative reference, then provide a short story brief:
+Choose the correct project folder first, then use that folder's story bible as the authoritative reference.
 
-- the domestic situation
-- the small problem
-- any required characters
-- an optional target length
+For story generation, provide:
 
-The bible is meant to carry the world, voice, and continuity so the prompt itself can stay short.
+- the project name or folder
+- the premise or scene brief
+- required characters
+- approximate length or chapter/scene target
+
+For structural work, keep notes, chapters, and scenes inside the relevant project folder.
