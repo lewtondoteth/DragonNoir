@@ -1,66 +1,102 @@
-# Dragon Story Projects
+# Dragon Noir
 
-This repository contains two separate Dragon writing projects. They share a broad character origin, but they should be treated as separate continuities unless a prompt explicitly asks to compare, adapt, or cross-reference them.
+This repository contains the standalone Toy Noir Dragon book project.
+
+It is now dedicated to the noir continuity only. The family Dragon project remains in the old `Dragon-Stories` repository history and should not be used as guidance here unless explicitly provided again for comparison or adaptation.
 
 ## AI / Agent Context
 
-AI assistants and coding agents should read `AI_REPO_CONTEXT.md` before making changes. `AGENTS.md` contains the short bootstrap instruction for agent workflows.
+AI assistants and coding agents should read:
 
-## Projects
+1. `README.md`
+2. `AI_REPO_CONTEXT.md`
 
-### Dragon Family Story
+`AGENTS.md` contains the short bootstrap instruction for agent workflows.
 
-Path: `dragon family story/`
+## Authoritative Reference
 
-This is the warm domestic family-story continuity.
+- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+- `rules/noir_narration_rules.md`
+- `characters/pink_dragon_character_profile.md`
 
-Main reference:
+## File Index
 
-- `dragon family story/Dragon_Stories_Story_Bible.md`
+```text
+DragonNoir/
+├── AGENTS.md
+├── AI_REPO_CONTEXT.md
+├── README.md
+├── chapters/
+│   ├── README.md
+│   └── chapter_01_opening.md
+├── characters/
+│   └── pink_dragon_character_profile.md
+├── discarded_or_experimental/
+│   └── README.md
+├── notes/
+│   ├── README.md
+│   ├── development_options.md
+│   └── opening_case_music_box_scaffold.md
+├── outlines/
+│   └── chapter_01_narrative_beats.md
+├── rules/
+│   └── noir_narration_rules.md
+├── scenes/
+│   ├── README.md
+│   └── chapter_01_office_entry_coffee_ritual_draft.md
+└── story_bible/
+    ├── README.md
+    ├── Toy_Noir_Dragon_AI_Prompt_Pack.md
+    └── Toy_Noir_Dragon_Standalone_Story_Bible.md
+```
 
-Drafts:
+## Working Structure
 
-- `dragon family story/drafts/`
+- `chapters/` — canonical or assembled chapter drafts
+- `scenes/` — scene drafts, fragments, and scene-level experiments
+- `outlines/` — chapter architecture, narrative beats, and pacing references
+- `characters/` — canonical character profiles and expanded continuity notes
+- `rules/` — canonical practical writing rules discovered during drafting
+- `discarded_or_experimental/` — retired alternatives and preserved non-canonical material
+- `notes/` — planning notes, continuity tracking, mystery structure, and revision notes
+- `story_bible/` — authoritative noir project bible and prompt pack
 
-Use this project for ordinary household Dragon stories, family dynamics, domestic scale, emotional safety, Biffin, Addin, Bob, Mum, Dad, the Dublin terraced house, and the established family-story prose style.
+## Chapter 1 Workflow
 
-### Dragon Noir Story
+- Canonical current draft: `chapters/chapter_01_opening.md`
+- Canonical pacing reference: `outlines/chapter_01_narrative_beats.md`
+- Current experimental scene sandbox: `scenes/chapter_01_office_entry_coffee_ritual_draft.md`
+- Practical narration rules: `rules/noir_narration_rules.md`
+- Opening-case scaffold: `notes/opening_case_music_box_scaffold.md`
 
-Path: `dragon noir story/`
+Keep canonical prose, experimental scene drafts, and structural outlines separate while drafting.
 
-This is the standalone toy-noir book project.
+## Current Active Drafts
 
-Main reference:
+- `chapters/chapter_01_opening.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, and layered recognition progression.
 
-- `dragon noir story/story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+## Scene Studies
 
-Working structure:
+- `scenes/chapter_01_office_entry_coffee_ritual_draft.md` — experimental office-entry and coffee material. Retained as a scene-study sandbox; do not treat as canonical prose unless integrated into `chapters/chapter_01_opening.md`.
 
-- `dragon noir story/chapters/`
-- `dragon noir story/scenes/`
-- `dragon noir story/notes/`
+## Outlines And Notes
 
-Use this project for the noir detective-book continuity, chapter planning, scene drafting, mystery structure, Toy City, and the standalone toy-noir tone defined in its own bible.
+- `outlines/chapter_01_narrative_beats.md` — canonical Chapter 1 pacing and architecture reference.
+- `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
+- `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
 
-## Canon Separation Rule
+## Canonical vs Experimental
 
-Do not intermingle the two projects by default.
+- Canonical: story bible, narration rules, character profiles, active chapter drafts, and active outline references.
+- Development: notes and opening-case scaffolds that preserve possibilities without locking plot.
+- Experimental: scene sandboxes and pacing studies.
+- Retired: discarded or backup ideas preserved for later comparison or revival.
 
-When working in `dragon family story/`, use only the family story bible unless the user explicitly asks for noir comparison or adaptation.
+## Active Canon
 
-When working in `dragon noir story/`, use only the toy-noir story bible unless the user explicitly asks for family-story comparison or adaptation.
+The active canon is Dragon, the pink dragon, Toy City, narration style, repair logic, treasure instinct, rain logic, play-as-reality toy ontology, and the emotional/thematic dynamics between the two dragons.
 
-Shared names or character echoes do not imply shared continuity.
+The exact case, mystery engine, artifact, antagonist, and ending structure are provisional until deliberately promoted into the story bible.
 
-## Basic Use
-
-Choose the correct project folder first, then use that folder's story bible as the authoritative reference.
-
-For story generation, provide:
-
-- the project name or folder
-- the premise or scene brief
-- required characters
-- approximate length or chapter/scene target
-
-For structural work, keep notes, chapters, and scenes inside the relevant project folder.
+Retired/provisional noir plot material, including the Ember-Stone, Patchwork Guardian, wind-up mouse courier, and related fixed-plot machinery, belongs in development notes and should not be treated as active canon unless explicitly revived.

@@ -6,4 +6,4 @@ This folder contains the authoritative reference for the Dragon Noir Story.
 
 The story bible is authoritative for character, setting, tone, theme, and narration. The exact case, artifact, antagonist, and plot structure remain provisional until explicitly promoted into canon.
 
-Do not mix this bible with the family-story bible unless explicitly asked.
+Do not import family Dragon material into this bible unless explicitly asked and given the relevant source context.

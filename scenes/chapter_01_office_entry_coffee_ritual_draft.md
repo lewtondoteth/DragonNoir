@@ -201,4 +201,4 @@ The similarities became much harder to ignore after that.
 - Keep the sound effects as part of Dragon literally making coffee through toy-world logic.
 - Let the pink dragon's response normalize the coffee-making procedure.
 - Preserve implication-heavy narration and avoid explaining the ontology directly.
-- Develop the coat/hat removal and similarity reveal later.
+- The canonical chapter now develops the coat/hat removal and similarity reveal directly; preserve this file as a scene-study reference only.

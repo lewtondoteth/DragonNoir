@@ -2,7 +2,7 @@
 
 Canonical current Chapter 1 draft.
 
-This file integrates the rain/city monologue, Dragon's trifle-hangover state, the knock at the door, the pink dragon doorway reveal, mutual recognition, and the office-entry transition.
+This file integrates the rain/city monologue, Dragon's trifle-hangover state, the knock at the door, the pink dragon doorway reveal, office-entry transition, coffee sequence, and layered recognition progression.
 
 It had been raining over Toy City for three days, or possibly four.
 

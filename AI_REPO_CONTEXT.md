@@ -1,67 +1,19 @@
-# AI Repo Context — Dragon Stories
+# AI Repo Context — Dragon Noir
 
-This repository contains two separate Dragon writing projects. They should not be mixed by default.
+This repository contains only the standalone Toy Noir Dragon book project.
+
+The family Dragon project is no longer part of this repository. It remains in the old `Dragon-Stories` repository history and should not be used as guidance here unless the user explicitly provides or requests it for comparison, adaptation, or crossover.
 
 ## First file to read
 
 Always read `README.md` first.
 
-The README explains the project split, folder structure, and canon separation rule.
+The README explains the Noir folder structure, canonical references, active draft pointers, and canon/provisional separation rule.
 
-## Project selection
+## Project scope
 
-Before loading detailed context, identify which project the user is asking about:
+Use this repository for Toy Noir Dragon work:
 
-- Family Dragon / domestic Dragon / household stories / Biffin / Addin / Bob / Mum / Dad:
-  use `dragon family story/`
-
-- Toy Noir Dragon / noir / detective / Toy City / pink dragon / music box opening case:
-  use `dragon noir story/`
-
-Note: Ember-Stone, Patchwork Guardian, the wind-up mouse courier, and related fixed-plot machinery are retired/provisional noir development ideas, not active canon. Only use them if the user explicitly asks to revive, compare, or adapt retired plot material.
-
-If the user’s request is ambiguous, ask which project they mean or load only `README.md` and avoid mixing project bibles.
-
-## Family Dragon context
-
-For family Dragon work, load:
-
-1. `README.md`
-2. `dragon family story/Dragon_Stories_Story_Bible.md`
-3. Relevant files under `dragon family story/drafts/` only when needed
-
-Use this project for:
-
-- warm domestic family-story continuity
-- household Dragon stories
-- Biffin
-- Addin / Add
-- Bob / Robert
-- Mum and Dad
-- Dublin terraced house
-- domestic emotional safety
-- family-story prose style
-
-Do not use Toy Noir material unless the user explicitly asks for comparison, adaptation, or crossover.
-
-## Toy Noir Dragon context
-
-For Toy Noir Dragon work, load:
-
-1. `README.md`
-2. `dragon noir story/story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
-3. `dragon noir story/story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md` if present
-4. `dragon noir story/rules/noir_narration_rules.md`
-5. Relevant character profiles under `dragon noir story/characters/`
-6. Relevant files under:
-   - `dragon noir story/chapters/`
-   - `dragon noir story/scenes/`
-   - `dragon noir story/outlines/`
-   - `dragon noir story/notes/`
-
-Use this project for:
-
-- noir detective-book continuity
 - Dragon as private investigator
 - Toy City
 - pink dragon
@@ -71,32 +23,43 @@ Use this project for:
 - mystery structure
 - standalone toy-noir tone
 
-Retired/provisional noir plot material, including the Ember-Stone and Patchwork Guardian, belongs in development notes and should not be treated as active canon unless explicitly revived.
+Retired/provisional noir plot material, including the Ember-Stone, Patchwork Guardian, wind-up mouse courier, and related fixed-plot machinery, belongs in development notes and should not be treated as active canon unless explicitly revived.
 
-Do not use family Dragon material unless the user explicitly asks for comparison, adaptation, or crossover.
+## Context loading
+
+For Toy Noir Dragon work, load:
+
+1. `README.md`
+2. `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+3. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+4. `rules/noir_narration_rules.md`
+5. Relevant character profiles under `characters/`
+6. Relevant files under:
+   - `chapters/`
+   - `scenes/`
+   - `outlines/`
+   - `notes/`
 
 ## Canon separation rule
 
-The two projects share names and broad character echoes, but they are separate continuities.
+Do not import family Dragon canon, tone, setting, character relationships, or plot rules into this repository by default.
 
-Do not merge canon, tone, setting, character relationships, or plot rules across projects by default.
-
-Only compare, adapt, or cross-reference them when the user explicitly asks.
+Only compare, adapt, or cross-reference family Dragon material when the user explicitly asks and provides or points to the relevant source context.
 
 ## Working rule
 
 For any task:
 
 1. Read `README.md`.
-2. Identify the relevant project.
-3. Load that project’s bible or prompt pack.
-4. Load only task-relevant drafts, chapters, scenes, or notes.
-5. Keep outputs inside the correct project folder.
+2. Load the story bible, prompt pack, and narration rules.
+3. Load only task-relevant drafts, chapters, scenes, outlines, or notes.
+4. Keep canonical prose, scene studies, outlines, and notes in their appropriate folders.
+5. Do not promote exploratory plot material into canon unless explicitly asked.
 
 ## README / Path Index Maintenance
 
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.
 
-For Dragon Noir files, keep `dragon noir story/README.md` current.
+Keep the root `README.md` current.
 
 For top-level project structure changes, update the root `README.md` and/or this file as appropriate.

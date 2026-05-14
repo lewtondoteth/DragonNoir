@@ -5,14 +5,14 @@ Before working in this repository, read:
 1. `README.md`
 2. `AI_REPO_CONTEXT.md`
 
-Follow the project separation rules in those files.
+Follow the scope, canon, and provisional-material rules in those files.
 
-Do not mix the family Dragon project and Toy Noir Dragon project unless the user explicitly asks for comparison, adaptation, or crossover.
+This repository is dedicated to the Toy Noir Dragon continuity. Do not add or recreate family Dragon project material unless the user explicitly asks for comparison, adaptation, or crossover and provides the needed source context.
 
 ## README / Path Index Maintenance
 
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.
 
-For Dragon Noir files, keep `dragon noir story/README.md` current.
+For project files, keep the root `README.md` current.
 
 For top-level project structure changes, update the root `README.md` and/or `AI_REPO_CONTEXT.md` as appropriate.

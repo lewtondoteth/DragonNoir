@@ -6,7 +6,7 @@ This is the compact AI prompt pack for generating Toy Noir Dragon chapters and s
 
 Use the full standalone story bible for deeper reference:
 
-- `dragon noir story/story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+- `Toy_Noir_Dragon_Standalone_Story_Bible.md`
 
 This file contains the core character, world, tone, theme, and style constraints needed for drafting.
 
