@@ -37,6 +37,7 @@ DragonNoir/
 ├── notes/
 │   ├── README.md
 │   ├── development_options.md
+│   ├── issue_workflow.md
 │   └── opening_case_music_box_scaffold.md
 ├── outlines/
 │   └── chapter_01_narrative_beats.md
@@ -69,6 +70,7 @@ DragonNoir/
 - Current experimental scene sandbox: `scenes/chapter_01_office_entry_coffee_ritual_draft.md`
 - Practical narration rules: `rules/noir_narration_rules.md`
 - Opening-case scaffold: `notes/opening_case_music_box_scaffold.md`
+- Issue workflow: `notes/issue_workflow.md`
 
 Keep canonical prose, experimental scene drafts, and structural outlines separate while drafting.
 
@@ -83,8 +85,21 @@ Keep canonical prose, experimental scene drafts, and structural outlines separat
 ## Outlines And Notes
 
 - `outlines/chapter_01_narrative_beats.md` — canonical Chapter 1 pacing and architecture reference.
+- `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
 - `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
 - `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
+
+## Issue Workflow
+
+Use GitHub issues as the handoff layer between exploratory development, implementation, and review.
+
+Issue workflow reference:
+
+- `notes/issue_workflow.md`
+
+Implementation agents should treat issues as scoped instructions, not permission to broadly rewrite. Review issues use the read-only AI Review Path. Planning/scaffold issues stay provisional unless the issue explicitly says to promote material into canon.
+
+Before closing an implementation issue, check the acceptance criteria in `notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, and `git diff --check`.
 
 ## Canonical vs Experimental
 

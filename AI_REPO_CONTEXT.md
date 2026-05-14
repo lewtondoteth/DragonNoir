@@ -40,6 +40,8 @@ For Toy Noir Dragon work, load:
    - `outlines/`
    - `notes/`
 
+For GitHub issue work, also load `notes/issue_workflow.md`.
+
 ## Canon separation rule
 
 Do not import family Dragon canon, tone, setting, character relationships, or plot rules into this repository by default.
@@ -96,6 +98,19 @@ When logging an issue, include:
 Do not treat personal preference as an issue unless it affects the established noir voice, pacing, canon, or story logic.
 
 Do not flatten the review into general praise. If no issues are found, say so clearly and mention any residual risk or area worth watching.
+
+## Issue Workflow Path
+
+Use GitHub issues as the handoff layer between exploratory development, implementation, and review.
+
+When the user asks to process, resolve, implement, or close GitHub issues:
+
+1. Load `notes/issue_workflow.md`.
+2. Identify the issue type: implementation, review, planning/scaffold, or canon promotion.
+3. Treat the issue as scoped instructions.
+4. Apply the acceptance criteria from `notes/issue_workflow.md` before committing, pushing, or closing the issue.
+
+Do not use an issue as permission to broadly rewrite unrelated prose, promote provisional material, or clean up surrounding structure unless the issue explicitly asks for it.
 
 ## README / Path Index Maintenance
 

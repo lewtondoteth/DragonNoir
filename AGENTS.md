@@ -15,6 +15,12 @@ When the user asks for review, critique, assessment, audit, or feedback, follow 
 
 In review work, do not edit story files or resolve the issues yourself unless the user separately asks for implementation. Only report detailed issues, explain why each issue conflicts with the repo rules or story logic, and suggest possible fixes.
 
+## Issue Workflow
+
+When the user asks to process, resolve, implement, or close GitHub issues, load `notes/issue_workflow.md` and follow its issue-type rules and acceptance criteria.
+
+Treat issues as scoped handoff instructions. Do not broaden the task, promote provisional material, or rewrite unrelated prose unless the issue explicitly asks for it.
+
 ## README / Path Index Maintenance
 
 When adding, removing, renaming, or moving any file or folder, update the relevant README or file index in the same change.
