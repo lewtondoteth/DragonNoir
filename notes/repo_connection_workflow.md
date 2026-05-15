@@ -75,14 +75,11 @@ Use these mode names as the standard Dragon Noir roles.
 
 Use for drafting, scene revision, prose integration, chapter continuation, structural editing, and implementation-style story work.
 
-Default files and references:
+Route to:
 
-- `README.md`
-- `AI_REPO_CONTEXT.md`
-- story bible
-- prompt pack
-- narration rules
-- relevant chapter, scene, outline, note, or character files
+- `notes/writing_workflow.md`
+
+Writing mode should not jump directly from repo connection into prose generation. It should first retrieve and summarize the active scope context.
 
 ### Review
 

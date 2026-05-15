@@ -1,12 +1,12 @@
 # Session Extraction Workflow
 
-Provisional process design for extracting reusable Dragon Noir writing knowledge from shared ChatGPT conversations or exported conversation logs.
+Provisional process design for extracting reusable Dragon Noir writing-rule knowledge from shared ChatGPT conversations or exported conversation logs.
 
 This workflow is deliberately lightweight. It is an AI-assisted reading protocol, not an automated ingestion system. The goal is to preserve durable narrative intelligence without dumping transcripts into the repository or accidentally promoting exploratory material into canon.
 
 ## Purpose
 
-Use this workflow when the author provides a ChatGPT share URL, exported conversation log, pasted transcript, or similar writing-session record and asks an agent to extract reusable project knowledge.
+Use this workflow when the author provides a ChatGPT share URL, exported conversation log, pasted transcript, or similar writing-session record and asks an agent to extract reusable Dragon Noir rule knowledge.
 
 The agent should look for:
 
@@ -23,6 +23,8 @@ The agent should look for:
 - process improvements for future sessions
 
 The valuable material is usually the reasoning around a draft, not the transcript itself.
+
+This mode is for rule extraction only. It is not for prose extraction, issue generation, or scene-revision planning unless the author explicitly switches modes.
 
 ## Scope Classification
 
@@ -61,15 +63,9 @@ Examples:
 
 ### Scene-Specific Correction
 
-Use this for guidance that fixes the current passage but should not be generalized automatically.
+Use this only as a rejection bucket during extraction triage.
 
-Scene-Specific Corrections are often highly valuable for revision, but destructive if promoted too early into rule files.
-
-Examples:
-
-- this coffee sequence is overstaying its welcome
-- this paragraph names the intelligence of the moment too directly
-- this beat should stay in Chapter 1 notes rather than become a project rule
+Scene-Specific Corrections may be recognized so they can be excluded from rule extraction. They should not be expanded in this mode unless the author explicitly asks to see local corrections.
 
 ### Scope Test
 
@@ -81,7 +77,7 @@ If yes, it may be a `Global Rule`.
 
 If sometimes, it is probably a `Local Pattern`.
 
-If no, it is probably a `Scene-Specific Correction`.
+If no, it is probably a `Scene-Specific Correction`, which means it is usually out of scope for default rule extraction output.
 
 ## Inputs
 
@@ -101,14 +97,13 @@ Before extraction, read:
 
 1. `README.md`
 2. `AI_REPO_CONTEXT.md`
-3. `notes/issue_workflow.md`
-4. Relevant canon or style files if the session touches them:
+3. Relevant canon or style files if the session touches them:
    - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
    - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
    - `rules/noir_narration_rules.md`
    - relevant character profiles, chapter drafts, scene drafts, outlines, or notes
 
-Apply the drafting-state protocol from `AI_REPO_CONTEXT.md` and `notes/issue_workflow.md` throughout.
+Apply the drafting-state protocol from `AI_REPO_CONTEXT.md` throughout.
 
 ## Extraction Priorities
 
@@ -133,6 +128,7 @@ Weak extraction signals include:
 - newly invented names, artifacts, organisations, or plot mechanics without explicit promotion
 - broad thematic claims not grounded in a concrete correction or successful passage
 - highly local revision fixes being overstated as project-wide rules
+- prose that sounds good but does not produce reusable guidance
 
 ## Categories To Extract
 
@@ -198,14 +194,6 @@ Do not infer canon promotion from enthusiasm, repeated discussion, or polished w
 
 Do not infer that a `Scene-Specific Correction` belongs in canon guidance merely because its correction was strongly argued.
 
-### Exemplars
-
-Short passages or beats that were validated by the author, with a note explaining why they work.
-
-Keep excerpts brief. Prefer small quoted fragments plus commentary over transcript dumping.
-
-Exemplars may support a `Global Rule` or `Local Pattern`, or remain attached to a `Scene-Specific Correction`.
-
 ### Continuity Risks
 
 Risks discovered during the session.
@@ -229,13 +217,56 @@ Examples:
 
 ## Output Rules
 
-The first output should usually be an extraction report, not direct edits to canon files.
+The first output should usually be a compact extraction triage, not a full analyst report and not direct edits to canon files.
 
 After extraction, use `notes/rule_validation_workflow.md` before promoting candidate rules into canon or maintained guidance.
 
 If the author says `log that` after reviewing the extraction summary, the agent should not jump straight into canon edits. It should treat that as permission to begin a rule-by-rule validation and logging pass.
 
-The report should:
+## Default Output: Compact Triage
+
+The default extraction output should be short and high-signal.
+
+It should usually contain:
+
+- a brief source summary
+- `1-3` likely `Global Rule` candidates
+- `1-3` likely `Local Pattern` candidates
+- a short `Do Not Promote Yet` section
+- a short note if the session is mostly scene-specific rather than rule-heavy
+- a closing question such as:
+  - `Do you want to validate these one by one?`
+
+By default, do not lead with:
+
+- large category tables
+- long evidence paragraphs
+- follow-up issue suggestions
+- long continuity-risk sections
+- many Scene-Specific Corrections
+- prose fragments
+- scene-fix lists
+- chapter-specific revision planning
+
+The default goal is triage, not completeness.
+
+Evidence in the compact triage should be compressed into one short sentence per candidate.
+
+Example compression:
+
+- `Author rejected explicit interpretation in favor of consequence, movement, and pause.`
+- `Author approved a post-coffee behavioural-similarity beat before the hat/coat reveal.`
+
+## Expanded Output
+
+Use the expanded extraction report only when:
+
+- the author explicitly asks for full detail
+- the author explicitly asks to see local corrections
+- the author says `log that`
+- the session is being turned into structured candidate logging
+
+The expanded report should:
 
 - summarize the source material
 - list extracted items by category
@@ -244,7 +275,9 @@ The report should:
 - include provenance, such as conversation URL, export filename, date, or author-provided session label
 - identify proposed target files
 - identify items that require author approval before canon promotion
-- recommend follow-up issues when implementation is needed
+- stay focused on rule candidates and rule-supporting context
+
+If the session is mostly local revision intelligence, the expanded report should still say that plainly instead of inflating local corrections into a fake rule system.
 
 ## `Log That` Handoff
 
@@ -271,21 +304,61 @@ Recommended behavior:
   Present them one by one through `notes/rule_validation_workflow.md`
 
 - `Scene-Specific Correction`
-  Preserve them in extraction notes, revision notes, or issue context rather than forcing them through canon validation
+  Exclude them from the default extraction output unless the author explicitly asks to inspect local corrections
 
 After validation, the agent may log the approved candidates as issue-based implementation work, but the later implementation step must still repeat the relevant manual checks before any canon file is changed.
 
 Do not:
 
 - dump whole transcripts into the repo
-- paste long unapproved assistant drafts as exemplars
 - promote provisional nouns into canon
 - turn local revision advice into project-wide rules without a scope test
-- rewrite story files during extraction unless the user separately asks for implementation
+- rewrite story files during extraction
+- drift into prose extraction or revision planning while in Session Extraction mode
 - overwrite existing rules without explaining what changed
 - skip rule-by-rule author validation when turning extracted knowledge into canon guidance
 
-## Extraction Report Template
+## Compact Triage Template
+
+```md
+# Session Extraction Triage
+
+## Source
+
+- Link or file:
+- Session date:
+- Scope requested:
+
+## Summary
+
+Two or three sentences on what the session mainly discovered.
+
+## Likely Global Rule Candidates
+
+- Rule:
+  Evidence:
+  State:
+
+## Likely Local Pattern Candidates
+
+- Pattern:
+  Evidence:
+  State:
+
+## Do Not Promote Yet
+
+- [item]
+
+## Optional Note
+
+- This session is mostly scene-specific revision guidance.
+
+## Next Step
+
+Do you want to validate these one by one?
+```
+
+## Expanded Extraction Report Template
 
 ```md
 # Session Extraction Report
@@ -332,49 +405,16 @@ Briefly describe what the conversation was about and what kind of reusable knowl
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-## Scene-Specific Corrections
-
-| Correction | Why It Matters Here | State | Suggested Target |
-| --- | --- | --- | --- |
-|  |  |  |  |
-
-## Exemplars
-
-| Fragment | Supports | Scope | Why It Works | State | Suggested Target |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-
 ## Continuity Risks
 
 | Risk | Location / Evidence | Suggested Handling |
 | --- | --- | --- |
 |  |  |  |
 
-## Recommended Repo Updates
-
-- 
-
-## Follow-Up Issues To Log
-
-- 
-
 ## Do Not Promote Yet
 
 - 
 ```
-
-## Candidate Logging Output
-
-When the author wants the extracted material logged rather than immediately implemented, prefer creating one or more issues that preserve:
-
-- the approved rule text
-- scope
-- canon state
-- evidence summary
-- suggested target file
-- whether the future implementation must re-run validation before writing
-
-Logged candidate issues are handoff containers, not proof that the rule is already canon.
 
 ## Target Guidance By Scope
 
@@ -387,9 +427,8 @@ Use scope to constrain where extracted items should go.
   Usual targets: chapter outlines, character profiles, chapter-specific notes, scene-pattern references
 
 - `Scene-Specific Correction`
-  Usual targets: extraction report, issue, chapter note, revision note, or direct scene work
-
-Scene-Specific Corrections should not go into project-wide canon-rule files by default.
+  Usually out of scope for default Session Extraction output
+  inspect only if the author explicitly asks for local corrections
 
 ## Suggested Knowledge Targets
 
@@ -413,13 +452,13 @@ Do not create these files merely because a session exists. Add them when repeate
 Use this when asking an AI agent to extract a session:
 
 ```text
-Read `README.md`, `AI_REPO_CONTEXT.md`, `notes/issue_workflow.md`, and `notes/session_extraction_workflow.md`.
+Read `README.md`, `AI_REPO_CONTEXT.md`, and `notes/session_extraction_workflow.md`.
 
 Then review this ChatGPT conversation link or exported transcript:
 
 [source here]
 
-Extract reusable Dragon Noir writing knowledge from author corrections, approvals, rejections, and explanations. For every item, first classify scope as `Global Rule`, `Local Pattern`, or `Scene-Specific Correction`, then classify canon state as [EXPLORE], [HOLD], [CANON], or unclear. Prefer abstraction over transcript dumping. Do not edit canon files or story prose unless I approve the extraction report afterward. If I say `log that`, move into rule-by-rule validation and structured candidate logging rather than direct canon edits.
+Extract reusable Dragon Noir rule knowledge from author corrections, approvals, rejections, and explanations. For every item, first classify scope as `Global Rule`, `Local Pattern`, or `Scene-Specific Correction`, then classify canon state as [EXPLORE], [HOLD], [CANON], or unclear. Start with a compact triage summary, not a full analyst report. Focus on rules, patterns, anti-patterns, continuity-risk warnings, and process lessons. Do not drift into prose extraction, revision planning, or issue suggestions unless I explicitly ask for that. Do not edit canon files or story prose unless I approve the extraction report afterward. If I say `log that`, move into rule-by-rule validation and structured candidate logging rather than direct canon edits.
 ```
 
 For canon promotion after extraction, switch to `notes/rule_validation_workflow.md`.

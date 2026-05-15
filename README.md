@@ -41,7 +41,8 @@ DragonNoir/
 │   ├── opening_case_music_box_scaffold.md
 │   ├── repo_connection_workflow.md
 │   ├── rule_validation_workflow.md
-│   └── session_extraction_workflow.md
+│   ├── session_extraction_workflow.md
+│   └── writing_workflow.md
 ├── outlines/
 │   └── chapter_01_narrative_beats.md
 ├── rules/
@@ -106,6 +107,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
 - `notes/session_extraction_workflow.md` — provisional workflow for extracting reusable writing knowledge from shared ChatGPT sessions or exported logs.
 - `notes/rule_validation_workflow.md` — provisional workflow for validating extracted or existing rules one by one before canon updates.
+- `notes/writing_workflow.md` — drafting workflow that forces chapter/scene/character context retrieval before prose generation.
 - `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
 - `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
 

@@ -46,6 +46,8 @@ For GitHub issue work, also load `notes/issue_workflow.md`.
 
 For repo-entry and mode-routing work, also load `notes/repo_connection_workflow.md`.
 
+For drafting or prose-revision work, also load `notes/writing_workflow.md`.
+
 ## Canon separation rule
 
 Do not import family Dragon canon, tone, setting, character relationships, or plot rules into this repository by default.
@@ -88,6 +90,7 @@ For any task:
 4. Keep canonical prose, scene studies, outlines, and notes in their appropriate folders.
 5. Do not promote exploratory plot material into canon unless explicitly asked.
 6. Apply the drafting-state protocol before repo writes or issue logging.
+7. For writing work, retrieve and summarize scope-specific context before generating prose.
 
 ## Review Path
 
