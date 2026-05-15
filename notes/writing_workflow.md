@@ -4,7 +4,7 @@ Provisional workflow for drafting, revising, or continuing prose in the Dragon N
 
 This workflow exists to force retrieval before generation. The agent should not begin prose work from general vibe alone. It should first identify the scope of the work, load the relevant local guidance, and summarize what already governs that scope.
 
-It also exists to prevent unapproved scaffold, style, or character-guidance material from quietly steering the prose. If relevant scaffold, local-pattern, style-guidance, provisional character-profile items, or held global-rule candidates are present but not yet approved for drafting use, the agent must surface them and pause for approval before writing.
+It also exists to prevent unapproved scaffold, style, character-guidance, or location-guidance material from quietly steering the prose. If relevant scaffold, local-pattern, style-guidance, provisional character-profile items, provisional location-profile items, or held global-rule candidates are present but not yet approved for drafting use, the agent must surface them and pause for approval before writing.
 
 ## Purpose
 
@@ -55,6 +55,7 @@ Examples:
 
 - chapter draft in `chapters/`
 - active character profile in `characters/`
+- active location profile in `locations/`
 - relevant canon note if explicitly marked active
 
 ### 3. Scope-Specific Structure
@@ -76,6 +77,7 @@ Examples:
 - chapter-specific notes
 - relevant scene studies
 - relevant character files
+- relevant location files
 - approved chapter-level pattern notes
 
 ### 5. Provisional / Experimental Material
@@ -95,6 +97,7 @@ This includes:
 - local patterns that materially affect how the scene should function
 - style guidance that would change pacing, implication, recognition logic, or narration behavior for this scope
 - character-profile items, dynamic notes, or profile-change candidates that would materially shape behavior, reaction, presentation, or relationship logic in this draft
+- location-profile items or location-guidance candidates that would materially shape atmosphere, place logic, civic pressure, layout, or recurring scene function in this draft
 
 The agent should distinguish between:
 
@@ -127,7 +130,7 @@ When approval is needed, present each item one by one using a short validation c
 
 Each card should state:
 
-- `Type`: `Scaffold`, `Local Pattern`, `Style Guidance`, `Character Profile Item`, `Dynamic Guidance`, or `Profile Change Candidate`
+- `Type`: `Scaffold`, `Local Pattern`, `Style Guidance`, `Character Profile Item`, `Dynamic Guidance`, `Profile Change Candidate`, or `Location Profile Item`
 - `Scope`: `Global`, `Chapter`, `Scene`, or `Dynamic`
 - `Current State`: `[EXPLORE]`, `[HOLD]`, or already approved
 - `Summary`: what the item says in plain language
@@ -162,6 +165,7 @@ This applies to:
 - scaffold items worth preserving as future work
 - style or local-pattern guidance not yet ready for direct canon edits
 - character-profile or dynamic guidance not yet ready for profile updates
+- location-profile guidance not yet ready for direct profile updates
 
 In this logging path:
 
@@ -170,7 +174,7 @@ In this logging path:
 - `yes that's right` may be treated as approval to log immediately when the author has made logging the active path
 - the resulting issue preserves the approved item without treating it as already canon
 - if an open issue already exists, do not create a duplicate; reference the existing issue and continue drafting
-- later implementation must repeat the relevant manual check before updating profile, rule, bible, or note files
+- later implementation must repeat the relevant manual check before updating character profile, location profile, rule, bible, or note files
 
 When Writing mode triggered the approval card, the default interpretation should be:
 
@@ -188,7 +192,7 @@ The summary should usually include:
 - relevant approved global rules and any held global-rule candidates that may need review
 - relevant scaffolds or style items already approved for drafting use
 - any scaffold, style, or character-guidance items that still require approval before drafting
-- relevant character or dynamic constraints
+- relevant character, dynamic, or location constraints
 - any already-open issues that are likely to matter to this writing pass
 - what not to import or over-promote
 
@@ -205,7 +209,7 @@ If the work is chapter-based, the agent should explicitly answer:
 3. What scene studies or chapter notes are relevant?
 4. What local patterns have been approved for this chapter, if any?
 5. What held global-rule candidates might materially affect this chapter and still need review?
-6. What relevant scaffolds or style items still need approval before they can shape the prose?
+6. What relevant scaffolds, style items, or location-profile items still need approval before they can shape the prose?
 7. What open issues already track those items, if any?
 8. What provisional material is nearby but should not be mistaken for canon?
 

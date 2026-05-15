@@ -19,6 +19,8 @@ AI assistants and coding agents should read:
 - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 - `rules/noir_narration_rules.md`
 - `characters/pink_dragon_character_profile.md`
+- `locations/Toy_City_location_profile.md`
+- `locations/Dragon_Office_location_profile.md`
 
 ## File Index
 
@@ -34,6 +36,10 @@ DragonNoir/
 │   └── pink_dragon_character_profile.md
 ├── discarded_or_experimental/
 │   └── README.md
+├── locations/
+│   ├── README.md
+│   ├── Dragon_Office_location_profile.md
+│   └── Toy_City_location_profile.md
 ├── notes/
 │   ├── README.md
 │   ├── development_options.md
@@ -63,6 +69,7 @@ DragonNoir/
 - `scenes/` — scene drafts, fragments, and scene-level experiments
 - `outlines/` — chapter architecture, narrative beats, and pacing references
 - `characters/` — canonical character profiles and expanded continuity notes
+- `locations/` — canonical location profiles and expanded place-continuity notes
 - `rules/` — canonical practical writing rules discovered during drafting
 - `discarded_or_experimental/` — retired alternatives and preserved non-canonical material
 - `notes/` — planning notes, continuity tracking, mystery structure, and revision notes
@@ -104,6 +111,8 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 ## Outlines And Notes
 
 - `outlines/chapter_01_narrative_beats.md` — canonical Chapter 1 pacing and architecture reference.
+- `locations/Toy_City_location_profile.md` — canonical setting profile for Toy City districts, institutions, and city logic.
+- `locations/Dragon_Office_location_profile.md` — canonical location profile for Dragon's office as recurring scene space.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
 - `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
 - `notes/scaffold_capture_workflow.md` — workflow for capturing plot directions and scaffolds as provisional planning while separating out reusable knowledge.
@@ -152,7 +161,7 @@ Before issue logging, file updates, lore updates, PRs, or summaries that may bec
 
 ## Canonical vs Experimental
 
-- Canonical: story bible, narration rules, character profiles, active chapter drafts, and active outline references.
+- Canonical: story bible, narration rules, character profiles, location profiles, active chapter drafts, and active outline references.
 - Development: notes and opening-case scaffolds that preserve possibilities without locking plot.
 - Experimental: scene sandboxes and pacing studies.
 - Retired: discarded or backup ideas preserved for later comparison or revival.
@@ -165,7 +174,7 @@ Review mode means:
 
 - do not edit story files
 - do not resolve issues directly
-- compare the requested material against the story bible, prompt pack, narration rules, character profiles, and relevant outlines/notes
+- compare the requested material against the story bible, prompt pack, narration rules, character profiles, location profiles, and relevant outlines/notes
 - log detailed issues with reasons and suggested resolution directions
 
 Review should focus especially on:

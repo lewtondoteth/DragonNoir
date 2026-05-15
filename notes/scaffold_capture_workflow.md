@@ -139,7 +139,7 @@ If it travels across the project, it may be a global rule candidate.
 Before treating a takeaway as new, check the current repo guidance:
 
 - `rules/noir_narration_rules.md`
-- relevant character profiles
+- relevant character and location profiles
 - the story bible
 - the prompt pack
 - relevant outlines and active notes

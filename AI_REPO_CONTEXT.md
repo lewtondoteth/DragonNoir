@@ -36,7 +36,8 @@ For Toy Noir Dragon work, load:
 3. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 4. `rules/noir_narration_rules.md`
 5. Relevant character profiles under `characters/`
-6. Relevant files under:
+6. Relevant location profiles under `locations/`
+7. Relevant files under:
    - `chapters/`
    - `scenes/`
    - `outlines/`
@@ -108,8 +109,9 @@ Before reviewing, load:
 2. `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 3. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 4. `rules/noir_narration_rules.md`
-5. `characters/pink_dragon_character_profile.md` when the pink dragon is relevant
-6. Any relevant chapter, scene, outline, or note named by the user
+5. relevant character profiles
+6. relevant location profiles
+7. Any relevant chapter, scene, outline, or note named by the user
 
 Review priorities, in order:
 

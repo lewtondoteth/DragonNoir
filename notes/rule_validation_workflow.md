@@ -47,7 +47,7 @@ Before starting, read:
 2. `AI_REPO_CONTEXT.md`
 3. `notes/issue_workflow.md`
 4. `notes/session_extraction_workflow.md`
-5. relevant source notes, extraction reports, story files, rules, profiles, or story-bible sections
+5. relevant source notes, extraction reports, story files, rules, character/location profiles, or story-bible sections
 
 Apply the drafting-state protocol throughout.
 
@@ -156,6 +156,7 @@ Choose the target file by scope:
 
 - `Local Pattern`
   `characters/pink_dragon_character_profile.md` - Odette-specific psychology, behaviour, manipulation, presentation, relationship dynamics
+  `locations/*` - place-specific atmosphere, city logic, recurring scene-function constraints, district handling
   chapter outlines, chapter notes, scene-pattern references, or other bounded guidance files
   sometimes `rules/noir_narration_rules.md` if the pattern is clearly reusable across many scenes of the same type
 

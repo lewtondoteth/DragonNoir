@@ -64,6 +64,13 @@ Use this when a validated character-profile item, dynamic note, or bounded chara
 These issues are for approved character guidance that still needs later implementation. They are not proof that the repo has already accepted the item into a character profile, story bible, or other canon file.
 Do not create a Candidate Character Guidance Issue from exploratory discussion alone. Each candidate must first pass one-by-one approval.
 
+## Candidate Location Guidance Issue
+
+Use this when a validated location-profile item, district note, institution note, or bounded place-guidance candidate should be preserved as future work without immediately updating canonical location files.
+
+These issues are for approved location guidance that still needs later implementation. They are not proof that the repo has already accepted the item into a location profile, story bible, or other canon file.
+Do not create a Candidate Location Guidance Issue from exploratory discussion alone. Each candidate must first pass one-by-one approval.
+
 ---
 
 # 3. Recommended Issue Shape
@@ -98,6 +105,18 @@ A candidate character guidance issue should include:
 
 - the validated character or dynamic guidance text
 - scope: `Character Profile Item`, `Dynamic Guidance`, or `Profile Change Candidate`
+- current canon state
+- source or evidence summary
+- intended future target file
+- intended future target section or placement when known
+- confirmation that the candidate passed one-by-one approval before logging
+- whether future implementation must re-run manual validation before writing or profile updates
+- what should not yet be treated as canon
+
+A candidate location guidance issue should include:
+
+- the validated location, district, institution, or place-guidance text
+- scope: `Location Profile Item`, `District Guidance`, `Institution Guidance`, or `Place Change Candidate`
 - current canon state
 - source or evidence summary
 - intended future target file
@@ -242,7 +261,7 @@ Review only
 - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 - `rules/noir_narration_rules.md`
-- Other relevant character, outline, scene, or note files.
+- Other relevant character, location, outline, scene, or note files.
 
 ## Output Required
 
@@ -431,7 +450,7 @@ When processing an issue:
 
 1. Read `README.md`.
 2. Read `AI_REPO_CONTEXT.md`.
-3. Load the story bible, prompt pack, narration rules, and relevant character/profile/outline/note files.
+3. Load the story bible, prompt pack, narration rules, and relevant character/location profile, outline, and note files.
 4. Identify the issue type.
 5. Stay inside the issue scope.
 6. Do not silently promote provisional material to canon.
@@ -498,7 +517,7 @@ After implementing an issue that changes prose, style rules, narration guidance,
 - `rules/noir_narration_rules.md`
 - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
-- relevant character profiles
+- relevant character and location profiles
 - relevant outlines or active chapter drafts
 
 Look specifically for:

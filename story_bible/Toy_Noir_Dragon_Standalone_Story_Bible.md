@@ -492,6 +492,11 @@ He reveals emotion through:
 
 # 5. Toy City
 
+Expanded canonical location profiles:
+
+- `../locations/Toy_City_location_profile.md`
+- `../locations/Dragon_Office_location_profile.md`
+
 ## Core Setting
 
 Toy City is a full living-toy metropolis. It is treated with complete confidence: the toys are real, the city is real, and the story does not need to apologise for either fact.

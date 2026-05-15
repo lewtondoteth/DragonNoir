@@ -33,6 +33,7 @@ The agent should look for:
 - scene mechanics
 - plot directions and scaffolds
 - candidate profile changes or dynamic guidance
+- candidate location-profile changes or place guidance
 - anti-patterns
 - canon, hold, or explore-state decisions
 - continuity risks
@@ -40,7 +41,7 @@ The agent should look for:
 
 The valuable material is usually the reasoning around a draft, not the transcript itself.
 
-This mode is for knowledge extraction, not prose extraction. It may identify rule candidates, local patterns, character guidance, and scaffold material in the same pass, but it should not jump straight into prose generation or canon edits unless the author explicitly switches modes.
+This mode is for knowledge extraction, not prose extraction. It may identify rule candidates, local patterns, character guidance, location guidance, and scaffold material in the same pass, but it should not jump straight into prose generation or canon edits unless the author explicitly switches modes.
 
 The extraction agent should behave like a post-writing analyst, not like the original drafting partner.
 
@@ -55,6 +56,7 @@ Every extracted item should first be tagged as one of:
 - `Global Rule`
 - `Local Pattern`
 - `Character Guidance`
+- `Location Guidance`
 - `Scaffold Material`
 - `Scene-Specific Correction`
 - `Process Improvement`
@@ -66,6 +68,7 @@ After classification:
 - `Global Rule` -> rule validation path
 - `Local Pattern` -> rule validation path or bounded local guidance path
 - `Character Guidance` -> one-by-one approval, then profile/dynamic guidance logging or update path
+- `Location Guidance` -> one-by-one approval, then location-guidance logging or profile update path
 - `Scaffold Material` -> scaffold capture or planning/scaffold issue path
 - `Scene-Specific Correction` -> exclude from default triage unless explicitly requested
 - `Process Improvement` -> preserve in workflow/notes only if the author wants it kept
@@ -89,6 +92,7 @@ The `Type` and `Scope` are related, but not identical.
 Examples:
 
 - a `Character Guidance` item may have `Local Pattern` scope
+- a `Location Guidance` item may have `Local Pattern` scope
 - a `Scaffold Material` item may be chapter-scoped rather than project-wide
 - a `Global Rule` item is usually also global in scope
 
@@ -198,7 +202,7 @@ Before extraction, read:
    - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
    - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
    - `rules/noir_narration_rules.md`
-   - relevant character profiles, chapter drafts, scene drafts, outlines, or notes
+   - relevant character profiles, relevant location profiles, chapter drafts, scene drafts, outlines, or notes
 
 Apply the drafting-state protocol from `AI_REPO_CONTEXT.md` throughout.
 
@@ -322,6 +326,17 @@ Examples:
 
 These may later target character profiles, dynamic notes, or chapter-bounded guidance after one-by-one approval.
 
+### Location Guidance
+
+Bounded location-profile guidance, district logic, institution behavior, or recurring place constraints that should not be flattened into general prose rules.
+
+Examples:
+
+- Dragon's office should undermine professionalism through dampness, drafts, clutter, and weak heat
+- Shelfside should signal preservation, status, and controlled dishonesty through cleaner surfaces and fewer visible repairs
+
+These may later target location profiles, chapter-bounded notes, or scene-pattern references after one-by-one approval.
+
 ### Anti-Patterns
 
 Things that made drafts worse or broke the story logic.
@@ -375,7 +390,7 @@ The first output should usually be a compact extraction triage, not a full analy
 After extraction:
 
 - use `notes/rule_validation_workflow.md` before promoting candidate rules into canon or maintained guidance
-- use the character-guidance approval and logging path before updating profile material
+- use the character-guidance or location-guidance approval and logging path before updating profile material
 - use `notes/scaffold_capture_workflow.md` or a planning/scaffold issue when the extracted item is really scaffold material
 
 If the author says `log that` after reviewing the extraction summary, the agent should not jump straight into canon edits. It should treat that as permission to begin a rule-by-rule validation and logging pass.
@@ -409,6 +424,7 @@ It should usually contain:
 - `1-3` likely `Global Rule` candidates for the whole story that appear genuinely new or meaningfully refined
 - `1-3` likely `Local Pattern` candidates for the current chapter/scene scope that appear genuinely new or meaningfully refined
 - `0-3` likely `Character Guidance` candidates when the session materially clarified behavior or dynamic logic
+- `0-3` likely `Location Guidance` candidates when the session materially clarified place logic, district behavior, or recurring scene-space function
 - `0-3` likely `Scaffold Material` captures when the session produced usable plot or structural direction
 - a short `Do Not Promote Yet` section
 - a short note if the session is mostly scene-specific rather than rule-heavy
@@ -644,10 +660,10 @@ Briefly describe what the conversation was about and what kind of reusable knowl
 Use scope to constrain where extracted items should go.
 
 - `Global Rule`
-  Usual targets: `rules/noir_narration_rules.md`, story bible, prompt pack, durable character profiles
+  Usual targets: `rules/noir_narration_rules.md`, story bible, prompt pack, durable character or location profiles
 
 - `Local Pattern`
-  Usual targets: chapter outlines, character profiles, chapter-specific notes, scene-pattern references
+  Usual targets: chapter outlines, character profiles, location profiles, chapter-specific notes, scene-pattern references
 
 - `Scene-Specific Correction`
   Usually out of scope for default Session Extraction output
