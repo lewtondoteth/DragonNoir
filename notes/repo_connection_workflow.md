@@ -105,6 +105,8 @@ This is a separate analysis role, not a continuation of Writing mode. The normal
 2. choose `Session Extraction`
 3. provide a chat log, export, pasted transcript, or selected excerpts
 4. let the extraction agent analyze the session after the fact
+5. validate worthwhile findings one by one
+6. log approved candidates as issues unless the author explicitly asks for direct implementation
 
 This separation exists so drafting interests and extraction interests do not get mixed together.
 
@@ -117,6 +119,13 @@ Route to:
 - `notes/profile_scan_workflow.md`
 
 This mode is for reading what the prose already implies and deciding what belongs in profiles or bounded guidance, especially when useful spatial characteristics or stable place logic have emerged through drafting.
+
+The default preservation path here is the same:
+
+1. scan the prose
+2. validate worthwhile profile findings one by one
+3. log approved candidates as issues
+4. implement later only if the author explicitly asks
 
 Treat these phrases as the same mode:
 

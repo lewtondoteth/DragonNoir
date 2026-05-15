@@ -46,6 +46,13 @@ This mode is for knowledge extraction, not prose extraction. It may identify rul
 
 The extraction agent should behave like a post-writing analyst, not like the original drafting partner.
 
+The default preservation path is issue-first:
+
+1. extract and classify
+2. validate worthwhile items one by one
+3. log the approved result using the appropriate issue type
+4. implement later only if the author explicitly asks
+
 ## One-Pass Multi-Track Extraction
 
 Run one extraction pass and classify each worthwhile item by both `Type` and `Scope`.
@@ -397,6 +404,8 @@ After extraction:
 - use `notes/scaffold_capture_workflow.md` or a planning/scaffold issue when the extracted item is really scaffold material
 
 If the author says `log that` after reviewing the extraction summary, the agent should not jump straight into canon edits. It should treat that as permission to begin a rule-by-rule validation and logging pass.
+
+Unless the user explicitly asks for direct implementation, the agent should assume that approved extraction findings are meant to be preserved through issues rather than written into canon files immediately.
 
 Issue logging should be selective.
 

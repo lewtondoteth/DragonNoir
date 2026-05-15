@@ -53,6 +53,8 @@ For plot-direction, sequence-scaffold, or structural-scaffold capture work, also
 
 For prose-to-profile or prose-to-location extraction work, also load `notes/profile_scan_workflow.md`.
 
+For `Session Extraction` and `Profile Pull`, prefer issue-based preservation by default: validate findings one by one, then log the approved candidate using the appropriate issue template unless the user explicitly asks for immediate repo implementation.
+
 ## Canon separation rule
 
 Do not import family Dragon canon, tone, setting, character relationships, or plot rules into this repository by default.
@@ -96,6 +98,7 @@ For any task:
 5. Do not promote exploratory plot material into canon unless explicitly asked.
 6. Apply the drafting-state protocol before repo writes or issue logging.
 7. For writing work, retrieve and summarize scope-specific context before generating prose.
+8. For extraction or profile-scan work, prefer validated issue logging over direct canon edits unless the user explicitly asks to apply the change now.
 
 ## Review Path
 

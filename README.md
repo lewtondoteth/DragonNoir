@@ -112,7 +112,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 ## Outlines And Notes
 
 - `outlines/chapter_01_narrative_beats.md` — canonical Chapter 1 pacing and architecture reference.
-- `locations/Toy_City_location_profile.md` — canonical setting profile for Toy City districts, institutions, and city logic.
+- `locations/Toy_City_location_profile.md` — canonical setting profile for Toy City atmosphere, scale, and city logic.
 - `locations/Dragon_Office_location_profile.md` — canonical location profile for Dragon's office as recurring scene space.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
 - `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
@@ -134,6 +134,14 @@ Issue workflow reference:
 
 When asking an AI agent to "log a ticket", "log an issue", "create an issue", or "make a ticket", the agent should create a GitHub issue using the appropriate template and should not edit repository files unless implementation is separately requested.
 
+For `Session Extraction` and `Profile Pull`, the default preservation path is:
+
+1. extract and classify findings
+2. validate them one by one
+3. log the approved result as the appropriate issue type
+
+Do not treat extraction approval by itself as permission to directly update canon files unless the user explicitly switches into implementation or direct canon-update work.
+
 Implementation agents should treat issues as scoped instructions, not permission to broadly rewrite. Review issues use the read-only AI Review Path. Planning/scaffold issues stay provisional unless the issue explicitly says to promote material into canon.
 
 When logging a new issue, use the templates in `notes/issue_workflow.md` for implementation, review, planning/scaffold, canon promotion, and follow-up issues.
@@ -152,6 +160,8 @@ The intended flow is:
 2. provide the chat log, export, transcript, or attached PDF to the repo-connected agent
 3. switch into `Session Extraction`
 4. let the extraction agent analyze the session for durable knowledge
+5. validate any worthwhile findings one by one
+6. log approved candidates as issues unless direct implementation is explicitly requested
 
 This keeps prose generation and post-writing extraction as distinct activities with different goals.
 
@@ -164,7 +174,8 @@ The intended flow is:
 1. provide the prose, scene, chapter, or passage
 2. switch into `Profile Pull`
 3. let the agent separate durable profile guidance from local scene staging
-4. validate any character-profile, location-profile, or spatial-guidance findings before updating canon files
+4. validate any character-profile, location-profile, or spatial-guidance findings one by one
+5. log approved profile candidates as issues unless direct implementation is explicitly requested
 
 ## Drafting-State Protocol
 

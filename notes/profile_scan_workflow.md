@@ -110,13 +110,23 @@ For each likely character or location item, say whether it appears:
 After triage:
 
 - use one-by-one approval before changing any profile
-- use the candidate logging path if the author wants the item preserved without immediate canon edits
+- default to the candidate logging path after approval
+- only update a character or location profile directly if the author explicitly asks for immediate implementation
 - use `notes/rule_validation_workflow.md` when the finding is really a reusable rule or local pattern rather than profile material
+
+The normal preservation path is:
+
+1. scan the prose
+2. classify the findings
+3. validate worthwhile items one by one
+4. log approved profile candidates as GitHub issues
+5. implement those issues later if and when the author asks
 
 ## Do Not
 
 - do not treat all good prose as profile material
 - do not flatten scene staging into fake geometry canon
 - do not update profiles without explicit approval
+- do not treat profile-scan approval by itself as permission to directly edit canon files
 - do not override existing profiles without comparing against them
 - do not infer new named locations or institutions unless explicitly approved

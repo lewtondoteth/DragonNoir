@@ -10,14 +10,16 @@ This workflow should normally validate `Global Rule` and `Local Pattern` candida
 
 This workflow may be used in two different ways:
 
-- direct canon update path
 - candidate logging path
+- direct canon update path
 
 It also supports a third review case:
 
 - global HOLD review path
 
 In the candidate logging path, validation still happens rule by rule, but the approved result is logged into issue-based handoff rather than written into canon files immediately.
+
+The candidate logging path should be treated as the default for extraction-derived findings unless the user explicitly asks for immediate repo implementation.
 
 ## Purpose
 
