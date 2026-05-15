@@ -19,6 +19,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - In recognition-heavy or emotionally loaded moments, let consequence, movement, pause, and object interaction carry the first movement before Dragon names what it means.
 - Let the reader assemble the action from fragments: buttons giving way, cloth changing shape, paws finding work, a chair objecting, dust shifting, damp spreading, silence rearranging itself.
 - Dragon should often describe what an action does to the room, the objects, his practical situation, or his sense of dignity before he names the action itself.
+- When an object or material resists Dragon, briefly show how he works around it. The resistance should matter just long enough to reveal his practical intelligence, irritation, toy-body reality, or professional stubbornness.
 - Simple direct sentences are still allowed for low-weight movement or clarity, but the important beats should move through observation rather than summary.
 
 ## Analytical labels
@@ -28,6 +29,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - In recognition, vulnerability, or social-pressure beats, prefer physical evidence first: tail placement, cup handling, pauses, posture correction, chairs objecting, dampness, repairs, or the room changing around the action.
 - Do not flatten a live beat into summary labels such as naming poise, balance, hesitation, distrust, or emotional significance before the reader has felt the pressure through consequence.
 - Use analytical phrasing later when it sharpens noir voice or lands a beat that the scene has already earned.
+- Do not comment on every polished, clever, or evasive line another character speaks. If the manoeuvre is already legible, let some dialogue land without immediate narrator gloss.
 
 ## Use of first-person
 
@@ -35,6 +37,12 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Natural examples include "I got up," "I opened the door," and "I looked at her."
 - Avoid excessive self-reporting emotional language such as "I felt," "I hated," "I preferred," or "I was embarrassed."
 - When possible, route emotion through practical concerns, defensive humour, object focus, weather, repairs, and silence.
+
+## Dragon's written text
+
+- Whenever Dragon's visible writing appears on the page, use irregular mixed upper- and lower-case letters.
+- Keep the wording simple, legible, and Dragon-like rather than polished adult prose.
+- The handwriting should look eccentric and childlike without becoming random spelling chaos.
 
 ## Failed dignity humour
 

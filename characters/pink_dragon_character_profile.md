@@ -169,6 +169,8 @@ She does not manipulate because she enjoys cruelty. She manipulates because cont
 
 Her moral danger is not that she lacks feeling. It is that she can feel deeply and still calculate around it.
 
+In controlled or vulnerable circumstances, she may answer the useful version of a question rather than the full one. She selects the angle that preserves control, reveals only what helps her immediate aim, and leaves the dangerous truth untouched.
+
 She should be able to:
 
 - care about Dragon and still lie to him
@@ -176,6 +178,8 @@ She should be able to:
 - regret harm without immediately undoing it
 - offer tenderness that is sincere but not uncomplicated
 - leave even after real attachment has formed
+
+Her evasive answers should stay elegant and character-driven, not jokey, legalistic, or pleased with their own cleverness. When she withholds, redirects, or narrows a question, it should feel like controlled self-protection rather than a quip or technical word game.
 
 Avoid turning her confession or self-awareness into instant redemption. Recognition is not repair.
 

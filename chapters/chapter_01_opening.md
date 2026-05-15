@@ -685,3 +685,125 @@ She did not improve the answer.
 The cup turned slightly between her paws. Not nervous. Measured. Like she was choosing which part of the truth could afford light.
 
 "It was stolen," she said, "not in the legal sense. In the moral one."
+
+"Whose moral sense?" I asked.
+
+"Mine."
+
+"That narrows the jurisdiction."
+
+"I was hoping for a private understanding."
+
+"You came to the right office by mistake."
+
+Her mouth moved slightly around the edge of the cup. Not quite a smile. More the idea of one, checked for loose thread and put back in its box.
+
+"Who stole it from you?"
+
+"I did."
+
+That held the room for a second.
+
+Rain worked quietly at the window. The radiator clicked once behind the filing cabinet like it had a small objection and no plan for enforcement.
+
+"When?" I said.
+
+"Ten years ago."
+
+"You've taken your time bringing it in."
+
+"It was stolen again."
+
+I looked at her over the notebook.
+
+"Let me see if the paperwork can limp this far. You sold it ten years ago. Someone else has now stolen it. This is the theft."
+
+"Yes."
+
+"That is not usually the word for that arrangement."
+
+"It was treasure."
+
+That changed the room.
+
+Not visibly. The window stayed wet. The radiator stayed vindictive. The trifle bowls remained where poor decisions go to feel seen.
+
+But the word landed where dragon words land.
+
+Treasure was not the same thing as value. It was not necessarily gold, shine, rarity, or whatever accountancy liked to call regret once it had been priced.
+
+Treasure was the catch.
+
+The moment a thing found the hidden place in you and refused to leave.
+
+Safe. Secret. Hidden. Mine.
+
+On the shelf behind my desk sat the remains of a private economy: two bent coins, three brass screws, a green marble with a white fault running through it like bad weather, a blue glass bead, and a gutter key that had no business being beautiful and insisted on it anyway.
+
+None of them would have impressed a respectable appraiser.
+
+All of them had managed the catch.
+
+I tried, briefly, to imagine handing one over for money.
+
+The thought reached some internal mechanism and was turned away for lacking the proper clearance.
+
+So I looked at her again.
+
+Pink plush. Careful seams. Cup in both paws. Tail placed safely out of trouble. Composed enough to make composure look accidental.
+
+Another dragon.
+
+If she said treasure, she did not mean ornament. She meant the deeper disease.
+
+"All right," I said. "Tell me why."
+
+"I sold it because I had to."
+
+"That usually means there is a longer version."
+
+The cup turned once between her paws.
+
+Careful.
+
+Too careful.
+
+"Then let it remain longer."
+
+There it was.
+
+Not confession. Not apology. A door shut quietly in a polite house.
+
+I had seen that sort of silence before, outside pawn counters and repair shops with curtained windows. Toys did not stand that still unless something inside them was trying not to show through the seams.
+
+Selling treasure would do that to a dragon.
+
+It might do worse.
+
+I let the question sit between us for another second.
+
+She did not pick it up.
+
+"To whom?" I asked.
+
+Relief moved through her so neatly that most toys would have missed it.
+
+"That doesn't matter," she said.
+
+"It matters to invoices."
+
+"What matters is where it ended up."
+
+"That is not usually how ownership works."
+
+"It ended up here."
+
+Her paw left the cup and went to her coat.
+
+Not quickly. Not slowly either.
+
+Precisely.
+
+She drew out a square of newspaper folded twice and kept dry enough to make the rest of the office look negligent.
+
+"Yesterday morning," she said, "I saw this."
