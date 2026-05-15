@@ -123,7 +123,57 @@ If a future draft needs a specific district, market, archive, civic office, or r
 
 ---
 
-# 5. Writing Guidance
+# 5. Stable Spatial Logic
+
+Toy City should behave like a real city, even when only a small corner of it is visible.
+
+Stable assumptions:
+
+- the city has meaningful class and condition differences from place to place
+- weather exposure changes how spaces feel and what they cost socially
+- movement through the city should imply distance, inconvenience, and uneven safety
+- repair access, polish, dryness, and storage conditions are not evenly distributed
+- crowded public space and overlooked back space both exist
+
+The city should not feel like one flat repeating street.
+
+---
+
+# 6. Geometry And Scale Guidance
+
+Toy City is toy-scaled, but should still feel architecturally real.
+
+Use stable geometry assumptions like:
+
+- streets, alleys, rooms, shops, stairways, thresholds, counters, and storage spaces all function as actual navigable places
+- repurposed human objects can shape the city, but should be absorbed into working civic space rather than treated as whimsical display
+- interiors should usually feel a little too small, a little too improvised, or a little too weather-exposed rather than luxuriously open
+- public spaces should imply density and friction, not empty decorative background
+
+Do not require map-level precision. Preserve practical spatial credibility.
+
+---
+
+# 7. What Can Vary vs What Stays Stable
+
+What can vary:
+
+- the exact materials of a street, room, shop, or alley
+- what kind of repurposed objects the area is built from
+- how polished, damp, crowded, or dangerous a specific local area is
+- the visible trade, repair, or storage function in a given scene
+
+What should stay stable:
+
+- Toy City is a full metropolis, not a hidden corner
+- weather matters materially
+- repair politics shape daily life
+- class and condition differences are visible in space
+- place affects dignity, value, mobility, and vulnerability
+
+---
+
+# 8. Writing Guidance
 
 Use Toy City as a living pressure system, not as painted scenery.
 

@@ -83,7 +83,54 @@ It may occasionally feel sheltering, but the shelter is always imperfect.
 
 ---
 
-# 4. Relationship To Dragon
+# 4. Stable Physical Features
+
+These features should usually remain true unless a draft explicitly changes them:
+
+- there is one main desk that dominates the room and gets in the way
+- there is a window that carries weather pressure into the scene
+- there is a weak radiator near the window area
+- there is guest seating that is usable but not comfortable
+- paper, files, and small desk objects are regularly present
+- the room is narrow or cramped enough that movement through it matters
+
+The exact clutter can vary. The room logic should not.
+
+---
+
+# 5. Geometry And Layout
+
+Use a stable practical layout even when the prose does not list every feature.
+
+Working assumptions:
+
+- the door opens from the corridor directly into the office
+- the desk sits far enough inside the room that entering toys must negotiate around it
+- the guest chair or visitor position is on the far side of the desk
+- the window and radiator create one main weather-pressure side of the room
+- shelves, files, or storage sit near the edges rather than opening the room up
+- walking from door to desk or from desk to guest position should feel like crossing limited, inconvenient ground rather than a generous open floor
+
+Do not treat this as blueprint precision. Treat it as stable scene geometry.
+
+---
+
+# 6. Recurring Objects
+
+Objects that may recur without needing to be identical every time:
+
+- damp papers or files
+- pencil, notebook, or writing clutter
+- weak office lighting
+- blanket or other evidence of Dragon half-living in the workspace
+- small treasure objects kept near the desk or shelf area
+- cups, coffee equipment, or procedural clutter when Dragon is trying to regain control
+
+These objects should help stage scenes, not become mandatory checklist props.
+
+---
+
+# 7. Relationship To Dragon
 
 The office reflects Dragon without becoming a blunt symbol.
 
@@ -107,7 +154,7 @@ It is one of the main spaces where Dragon turns embarrassment into procedure.
 
 ---
 
-# 5. Scene Use
+# 8. Scene Use
 
 The office is especially good for scenes involving:
 
@@ -135,7 +182,28 @@ Do not use the office as:
 
 ---
 
-# 6. Writing Guidance
+# 9. What Can Move vs What Stays Stable
+
+What can move:
+
+- the exact clutter
+- which papers are dampest
+- what loose object becomes a nuisance
+- where a blanket, bowl, cup, or notebook happens to be
+- how much temporary disorder one bad week has added
+
+What should stay stable:
+
+- the office is cramped
+- the desk is inconvenient
+- weather enters through the window side
+- the radiator is weak
+- the room resists clean professionalism
+- visitors must be spatially negotiated, not simply welcomed into open space
+
+---
+
+# 10. Writing Guidance
 
 Do not require every office scene to repeat the same inventory of props.
 
