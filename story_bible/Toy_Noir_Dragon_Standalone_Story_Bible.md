@@ -638,9 +638,11 @@ She should be mysterious without being sexualised, manipulative without being cr
 
 ## Name
 
-Her final name remains one of the story’s few open questions.
+Her name is Odette.
 
-Until he learns it, Dragon calls her “Miss Pink” in narration.
+Dragon may register her first as the pink dragon before he learns the name. Once she gives it, he uses Odette.
+
+The name should carry her social presentation: polished, old-fashioned, carefully arranged, and not the whole of what she is. At a deeper species-level, she is also a dragon in the same blunt sense that Dragon is Dragon.
 
 ## Physical Description
 
@@ -1038,12 +1040,11 @@ This had been mended by someone who did not understand the difference between re
 
 These are the remaining high-level creative decisions.
 
-1. What is the pink dragon’s final name?
-2. What is the first major case?
-3. What small object does the pink dragon leave behind?
-4. How visibly altered is Dragon after repair?
-5. Does the final scene end with rain, warmth, smoke, or silence?
-6. Which retired plot ideas, if any, should be revived from development notes?
+1. What is the first major case?
+2. What small object does Odette leave behind?
+3. How visibly altered is Dragon after repair?
+4. Does the final scene end with rain, warmth, smoke, or silence?
+5. Which retired plot ideas, if any, should be revived from development notes?
 
 ---
 

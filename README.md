@@ -38,7 +38,10 @@ DragonNoir/
 │   ├── README.md
 │   ├── development_options.md
 │   ├── issue_workflow.md
-│   └── opening_case_music_box_scaffold.md
+│   ├── opening_case_music_box_scaffold.md
+│   ├── repo_connection_workflow.md
+│   ├── rule_validation_workflow.md
+│   └── session_extraction_workflow.md
 ├── outlines/
 │   └── chapter_01_narrative_beats.md
 ├── rules/
@@ -100,6 +103,9 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 
 - `outlines/chapter_01_narrative_beats.md` — canonical Chapter 1 pacing and architecture reference.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
+- `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
+- `notes/session_extraction_workflow.md` — provisional workflow for extracting reusable writing knowledge from shared ChatGPT sessions or exported logs.
+- `notes/rule_validation_workflow.md` — provisional workflow for validating extracted or existing rules one by one before canon updates.
 - `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
 - `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
 
@@ -120,6 +126,12 @@ When logging a new issue, use the templates in `notes/issue_workflow.md` for imp
 Before closing an implementation issue, check the acceptance criteria in `notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, post-implementation style/flow conflicts, and `git diff --check`.
 
 If the scoped work is complete but a criterion or style/flow check exposes a real out-of-scope problem, the agent should allow the implementation through and create a follow-up issue explaining what is wrong and how it might be resolved.
+
+## Drafting-State Protocol
+
+Use `[EXPLORE]`, `[HOLD]`, and `[CANON]` to prevent exploratory drafting material from becoming accidental continuity.
+
+Before issue logging, file updates, lore updates, PRs, or summaries that may become handoff material, verify what has actually been approved as canon. If uncertain, generalise the material and avoid promoting provisional names, organisations, artifacts, case terms, or plot mechanics.
 
 ## Canonical vs Experimental
 

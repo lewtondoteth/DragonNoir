@@ -35,9 +35,11 @@ She should never become a helpless client, a straightforward villain, a secret i
 
 # 2. Canonical Status
 
-Her final name remains open.
+Her name is Odette.
 
-Until the story chooses it, Dragon calls her "Miss Pink" in narration.
+Dragon may first register her as the pink dragon before he learns the name. Once she gives it, he uses Odette.
+
+Odette is her social name and presentation. It is elegant, old-fashioned, controlled, and memorable without becoming theatrical. It does not cancel the deeper identity mirror: she is also fundamentally a dragon in the same rare toy-species sense as Dragon.
 
 She is canonically:
 

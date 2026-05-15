@@ -44,11 +44,39 @@ For Toy Noir Dragon work, load:
 
 For GitHub issue work, also load `notes/issue_workflow.md`.
 
+For repo-entry and mode-routing work, also load `notes/repo_connection_workflow.md`.
+
 ## Canon separation rule
 
 Do not import family Dragon canon, tone, setting, character relationships, or plot rules into this repository by default.
 
 Only compare, adapt, or cross-reference family Dragon material when the user explicitly asks and provides or points to the relevant source context.
+
+## Drafting-state protocol
+
+Use explicit drafting states to prevent exploratory material from becoming accidental canon.
+
+### [EXPLORE]
+
+Free drafting mode. Nothing introduced here may be treated as canonical by default.
+
+New names, organisations, places, artifacts, lore terms, case terminology, plot hooks, and continuity details are volatile. Do not log them as fixed issue facts, patch them into canon files, or rely on them in future continuity unless the user explicitly promotes them.
+
+### [HOLD]
+
+Working material the author currently likes and may continue building around.
+
+It is stable enough for iterative drafting, but still non-canonical. Do not use [HOLD] material as a continuity anchor, story-bible fact, or issue implementation requirement unless the user explicitly takes it off hold or asks to implement it.
+
+### [CANON]
+
+Explicitly approved continuity.
+
+Canonical material may be committed to files, referenced by future scenes, added to story-bible material, and logged in issues as fixed continuity.
+
+### Operational rule
+
+Before any repo write action, including issue creation, file updates, pull requests, lore updates, and summaries that may become handoff material, verify what in the conversation is actually canonical. If unclear, generalise. Prefer emotional or structural abstractions over provisional nouns.
 
 ## Working rule
 
@@ -59,6 +87,7 @@ For any task:
 3. Load only task-relevant drafts, chapters, scenes, outlines, or notes.
 4. Keep canonical prose, scene studies, outlines, and notes in their appropriate folders.
 5. Do not promote exploratory plot material into canon unless explicitly asked.
+6. Apply the drafting-state protocol before repo writes or issue logging.
 
 ## Review Path
 

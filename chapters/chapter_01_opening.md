@@ -188,7 +188,9 @@ She stepped inside carefully.
 
 Small steps.
 
-Same as mine.
+A pause before each one.
+
+Toe first, then weight, then the rest of the body following after the floor had proved it could be trusted.
 
 The door shut behind her with a tired little click.
 
@@ -256,7 +258,9 @@ Behind me, she moved further into the office.
 
 Small steps.
 
-Same as mine.
+Measured around the desk leg, the loose file, the place where the floor dipped near the radiator.
+
+Her tail followed a half-second later, avoiding the same trap mine had found three mornings out of five.
 
 That was beginning to become distracting in a way I distrusted immediately.
 
@@ -290,7 +294,7 @@ Good.
 
 Coffee gave a room terms.
 
-I crossed to the kitchenette, collecting the sherry trifles on the way.
+I crossed to the kitchenette, collecting the trifle evidence on the way.
 
 One beside the sink.
 
@@ -301,6 +305,10 @@ A third under yesterday's newspaper, where it had taken shelter from consequence
 I stacked them beside the kettle with the labels turned inward.
 
 This improved nothing.
+
+The labels were not the charge. The trifles were.
+
+I had been persecuted by custard before and survived with my reputation largely theoretical.
 
 Behind me, the chair creaked once.
 
@@ -464,7 +472,25 @@ Long arms.
 
 Little paws.
 
-The same basic shape, made elsewhere and kept from weather.
+The same shape.
+
+Not the same colour. Not the same finish. Not the same sort of life stitched into the seams.
+
+But the same kind of dragon.
+
+Mine was faded green-blue, flattened by weather, patched where the world had got careless.
+
+Hers was pink.
+
+Clean pink.
+
+Shelf pink.
+
+The sort of pink that looked as if dust had never found it, rain had never touched it, and no careless hand had ever squeezed too hard.
+
+Different answers.
+
+Same pattern.
 
 The thought did not arrive cleanly.
 
@@ -473,3 +499,141 @@ It worked through the coffee, the old aches, the damp places, and the little cur
 Then it sat there.
 
 Across from me.
+
+Dimly, somewhere beyond the shock, rain tapped against the office window with the quiet persistence of something that had mistaken me for a personal grievance.
+
+Then, slowly, the world started forcing its way back in.
+
+The radiator clicked once behind the filing cabinet.
+
+A car hissed through standing water somewhere below the office.
+
+One of the loose papers near my elbow shifted slightly in the draft from the window frame.
+
+The coffee had gone cooler near the top.
+
+My tail was wound tight around one of the chair crossbars hard enough to pull at the stitching near my hip.
+
+Thoughts arrived afterward.
+
+Not in order.
+
+Coffee.
+
+Client.
+
+Dragon.
+
+Staring.
+
+I had been staring.
+
+There are ways to recover professional dignity after staring at a client. None of them had survived contact with the last ten seconds.
+
+She did not mention it.
+
+Her mouth moved into the smallest possible smile, then stopped before it became impolite.
+
+"Your name," I said.
+
+It was not my finest sentence.
+
+"Odette."
+
+The name settled between us with the steam.
+
+Polished. Old-fashioned. Arranged.
+
+It suited her well enough to make me suspicious of it.
+
+"Miss Odette," I said, because procedure was a useful thing to hide behind when the rest of the room had become unreliable.
+
+She lifted the cup again.
+
+There was the same small pause before the sip.
+
+Paws steady.
+
+Tail placed where a careless chair could not catch it.
+
+"Odette will do."
+
+Naturally.
+
+I picked up my pencil stub.
+
+It had rolled half an inch toward the edge of the desk during the silence, possibly from sympathy.
+
+"Then you came to the right door by accident or design," I said. "I charge differently for each."
+
+"Design."
+
+"That costs more."
+
+"I expected it would."
+
+She set the cup down, one paw waiting for the saucer before the other let go.
+
+The sound did not arrive.
+
+Some toys spend money on repair. Some spend it on silence.
+
+"You find things," she said.
+
+"When they are missing."
+
+"And when people prefer they stay that way."
+
+I looked at her over the pencil.
+
+Rain tapped twice against the glass and took its time about it.
+
+"That is a different rate."
+
+"And discreetly."
+
+There it was.
+
+Not a request. A narrowing of the hallway after I had already stepped into it.
+
+I had intended to ask what she wanted found. I had intended to ask who had sent her, how she had found the office, why she had come through three days of rain in a coat that treated weather as something that happened to other people.
+
+Instead I opened the notebook.
+
+The page was clean except for an old coffee mark in the corner and a note reminding me never to trust a doll with matching gloves.
+
+"Private recovery," I said.
+
+Odette lowered her eyes to the notebook.
+
+"Yes."
+
+"No police toys."
+
+"Not yet."
+
+"Not yet costs more than no."
+
+"I know."
+
+She knew too many things in too few words.
+
+The pencil waited.
+
+So did she.
+
+Somewhere in the room, the trifle bowls remained unhelpfully visible.
+
+I wrote the date.
+
+Then I wrote her name beneath it.
+
+Odette.
+
+The letters looked too clean for my handwriting.
+
+"Start at the beginning," I said.
+
+She looked toward the rain, then back at me.
+
+"I would rather start where it went missing."

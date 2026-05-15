@@ -208,7 +208,9 @@ She hires Dragon because he is useful, because he is a dragon, and because he un
 
 Her self-interest should remain active. She may care about Dragon and still leave.
 
-Dragon calls her “Miss Pink” until her final name is chosen.
+Her name is Odette.
+
+Dragon may first register her as the pink dragon before he learns the name. Once she gives it, he uses Odette. The name should feel elegant, old-fashioned, controlled, and socially arranged. It should not erase the deeper species-level recognition that she is also a dragon in the same blunt sense that Dragon is Dragon.
 
 Her introduction should not read as immediate romance. It should first read as uncanny recognition: another rare toy dragon with familiar proportions, horns, paws, button eyes, and movement, but different preservation, stitching, dryness, and composure.
 

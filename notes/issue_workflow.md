@@ -69,7 +69,56 @@ If the issue comes from exploratory chat, copy in only the chosen material. Do n
 
 ---
 
-# 4. Issue Templates
+# 4. Drafting-State Protocol
+
+Use explicit drafting states when turning conversation into repo work.
+
+## [EXPLORE]
+
+Free drafting mode.
+
+- Nothing may be treated as canonical.
+- No issue creation, file patching, lore promotion, or continuity assumptions should be based on exploratory nouns or plot specifics.
+- Newly introduced names, organisations, places, artifacts, lore terms, case terminology, and plot hooks remain volatile.
+
+## [HOLD]
+
+Working material the author currently likes and may continue building around.
+
+- Still non-canonical.
+- Stable enough for iterative drafting.
+- Not stable enough for continuity anchoring, story-bible updates, or issue implementation unless the user explicitly takes it off hold or asks to implement it.
+
+## [CANON]
+
+Explicitly approved continuity.
+
+- May be committed to files.
+- May be referenced by future scenes.
+- May be added to story bible, prompt pack, rules, profiles, and issue handoffs as fixed continuity.
+
+## No Accidental Noun Canon
+
+Any newly introduced name, organisation, place, artifact, lore term, case term, or plot mechanism defaults to [EXPLORE] unless explicitly promoted.
+
+When logging drafting discussions, prefer emotional and structural abstractions over implementation-specific nouns if canon status is unclear.
+
+Example:
+
+- Good: "the pink dragon responds with a restrained smile"
+- Bad: using an unapproved character name introduced during exploratory drafting
+
+## Pre-Write Verification
+
+Before any repo write action, ask:
+
+> What in this conversation is actually canonical?
+
+Write only what has been approved for the relevant state. If uncertain, generalise and avoid promoting specifics.
+
+---
+
+# 5. Issue Templates
 
 Use these templates when logging GitHub issues.
 
