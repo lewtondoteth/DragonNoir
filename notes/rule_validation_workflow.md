@@ -6,6 +6,15 @@ This workflow sits after `notes/session_extraction_workflow.md`.
 
 Extraction finds candidate knowledge. Validation asks the author about each candidate rule one at a time. Canon updates happen only after the author has approved, rejected, or corrected the agent's understanding.
 
+This workflow should normally validate `Global Rule` and `Local Pattern` candidates. `Scene-Specific Correction` items usually belong in revision notes, issues, or direct scene work, not canon-rule files.
+
+This workflow may be used in two different ways:
+
+- direct canon update path
+- candidate logging path
+
+In the candidate logging path, validation still happens rule by rule, but the approved result is logged into issue-based handoff rather than written into canon files immediately.
+
 ## Purpose
 
 Use this workflow when an AI agent has extracted possible rules from notes, session reports, ChatGPT share links, exported logs, or existing repo guidance and the author wants to decide what should become durable guidance.
@@ -20,9 +29,11 @@ The agent should act as an interviewer and canon clerk:
 6. accept correction
 7. restate the corrected rule
 8. ask for final approval
-9. only then update the appropriate repo file
+9. only then update the appropriate repo file or log the approved candidate for later implementation
 
 Do not batch-approve rules. One rule means one decision.
+
+Do not let issue logging replace validation. Logging happens after validation, not instead of it.
 
 ## Required References
 
@@ -45,6 +56,9 @@ For each candidate, present a compact card in this form:
 
 Rule:
 One sentence.
+
+Scope:
+`Global Rule` / `Local Pattern` / `Scene-Specific Correction`
 
 Meaning:
 Short explanation in plain language.
@@ -79,7 +93,7 @@ Positive and negative examples may be paraphrased. Use short direct excerpts onl
 
 The agent must handle responses as follows:
 
-- `yes` - restate the rule in final form and ask for final approval to update the repo.
+- `yes` - restate the rule in final form and ask for final approval to update the repo, if the scope supports canon guidance.
 - `no` - mark the candidate rejected and do not write it into canon.
 - correction or clarification - rewrite the rule card using the author's language, then ask again.
 - `hold` - record it as `[HOLD]` only if the user wants it preserved; do not add it to canon guidance unless the target file supports provisional material.
@@ -102,17 +116,50 @@ For each candidate rule:
 
 This is intentionally slower than automated extraction. The slowness protects canon.
 
+If the scope is `Scene-Specific Correction`, the default follow-up question should not be about canon files. It should usually be:
+
+> Should I preserve this in a session report, revision note, issue, or chapter note?
+
+## Candidate Logging Path
+
+Use this path when the author says `log that` after an extraction summary or after a validated rule card.
+
+In this mode:
+
+1. validate the candidate rule one by one exactly as usual
+2. ask whether the validated candidate should be logged
+3. if yes, create or update a structured issue rather than immediately editing canon files
+4. record that later implementation must still repeat the relevant manual checking process before writing
+
+The logging path is for preserving approved candidates and creating a work queue. It is not the same thing as canon promotion.
+
+No issue should be created from an unvalidated candidate. Summary-level extraction output is not enough.
+
+Recommended follow-up question after validation:
+
+> Should I log this as a candidate issue for later implementation, or add it directly to `[target file]` now?
+
 ## Where Rules Belong
 
 Choose the target file by scope:
 
-- `rules/noir_narration_rules.md` - prose mechanics, voice, pacing, narration, scene handling, recurring drafting anti-patterns
-- `characters/pink_dragon_character_profile.md` - Odette-specific psychology, behaviour, manipulation, presentation, relationship dynamics
-- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md` - high-level canon, world rules, durable character facts, major project-level constraints
-- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md` - compact operational guidance agents need during drafting
-- `notes/*` - provisional, exploratory, session-specific, or not-yet-canon material
+- `Global Rule`
+  `rules/noir_narration_rules.md` - prose mechanics, voice, pacing, narration, scene handling, recurring drafting anti-patterns
+  `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md` - high-level canon, world rules, durable character facts, major project-level constraints
+  `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md` - compact operational guidance agents need during drafting
+
+- `Local Pattern`
+  `characters/pink_dragon_character_profile.md` - Odette-specific psychology, behaviour, manipulation, presentation, relationship dynamics
+  chapter outlines, chapter notes, scene-pattern references, or other bounded guidance files
+  sometimes `rules/noir_narration_rules.md` if the pattern is clearly reusable across many scenes of the same type
+
+- `Scene-Specific Correction`
+  `notes/*`, extraction report, revision note, issue, or direct scene-work context
+  not project-wide canon files by default
 
 If a rule affects multiple files, validate the rule once, then ask separately about each target update.
+
+If the user chooses the candidate logging path, the issue should name the intended future target, but the target file should still be treated as pending until implementation is separately approved and checked.
 
 ## Rule Quality Tests
 
@@ -125,6 +172,10 @@ A validated rule should be:
 - clear about what not to do
 - placed at the right canon level
 
+A `Local Pattern` should be reusable within a bounded scene family or character dynamic, even if it is not globally portable.
+
+A `Scene-Specific Correction` may be valid and important without qualifying as a durable rule.
+
 Reject or hold rules that are:
 
 - just preferences without story impact
@@ -132,6 +183,12 @@ Reject or hold rules that are:
 - assistant inventions without author approval
 - provisional nouns disguised as style guidance
 - redundant with a clearer existing rule
+
+Demote candidate rules when:
+
+- they only solve the current paragraph
+- they depend too heavily on one object, one beat order, or one exact scene setup
+- they would become misleading if applied elsewhere
 
 ## Existing Rule Audit
 
@@ -195,27 +252,39 @@ For long validation sessions, maintain a temporary report before editing canon f
 
 ## Approved For Canon
 
-| Rule | Target | Status |
-| --- | --- | --- |
-|  |  |  |
+| Rule | Scope | Target | Status |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
 ## Corrected And Pending
 
-| Rule | Correction Needed | Next Question |
-| --- | --- | --- |
-|  |  |  |
+| Rule | Scope | Correction Needed | Next Question |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
 ## Rejected
 
-| Rule | Reason |
-| --- | --- |
-|  |  |
+| Rule | Scope | Reason |
+| --- | --- | --- |
+|  |  |  |
 
 ## Hold / Explore
 
-| Rule | State | Where Preserved |
+| Rule | Scope | State | Where Preserved |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+## Scene-Specific Corrections
+
+| Correction | Preserve Where | Status |
 | --- | --- | --- |
 |  |  |  |
+
+## Logged For Later
+
+| Rule | Scope | Intended Target | Issue |
+| --- | --- | --- | --- |
+|  |  |  |  |
 ```
 
 ## Minimal Agent Prompt
@@ -229,13 +298,14 @@ Use the supplied extraction report, notes, or conversation source to identify ca
 
 Ask me about one rule at a time using the Candidate Rule Card format:
 - rule
+- scope
 - meaning
 - works-like examples
 - not-like examples
 - canon state
 - suggested target
 
-Wait for my yes/no/correction. If I correct the explanation, restate it and ask whether you now understand it. Do not add anything to canon files until I explicitly approve that specific rule and target file.
+Wait for my yes/no/correction. If I correct the explanation, restate it and ask whether you now understand it. Do not add anything to canon files until I explicitly approve that specific rule and target file. If the candidate is really only a Scene-Specific Correction, preserve it locally instead of treating it as canon guidance. If I say `log that`, use the candidate logging path rather than assuming direct canon edits.
 ```
 
 Use this when auditing existing rules:

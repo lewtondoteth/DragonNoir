@@ -50,6 +50,13 @@ Use this when provisional material should become active canon.
 
 This must be explicit. Do not infer canon promotion from enthusiasm, repeated discussion, or a polished draft.
 
+## Candidate Rule Issue
+
+Use this when validated rule candidates should be preserved as structured future work without immediately updating canon files.
+
+These issues are for approved candidate guidance that still needs later implementation. They are not proof that the repo has already accepted the rule into canon files.
+Do not create a Candidate Rule Issue from an extraction summary alone. Each candidate must first pass the rule-by-rule validation process.
+
 ---
 
 # 3. Recommended Issue Shape
@@ -66,6 +73,17 @@ An implementation issue should include:
 - acceptance criteria
 
 If the issue comes from exploratory chat, copy in only the chosen material. Do not assume everything discussed in the chat should be implemented.
+
+A candidate rule issue should include:
+
+- the validated rule text
+- scope: `Global Rule`, `Local Pattern`, or `Scene-Specific Correction`
+- current canon state
+- source or evidence summary
+- intended future target file
+- confirmation that the candidate passed rule-by-rule validation before logging
+- whether future implementation must re-run manual validation before writing
+- what should not yet be treated as canon
 
 ---
 
@@ -291,6 +309,50 @@ Why this is now stable enough to become canon.
 - README/file index is updated if paths change.
 - No unrelated provisional material is promoted.
 - `git diff --check` passes.
+```
+
+## Candidate Rule Issue Template
+
+```md
+## Type
+
+Candidate Rule
+
+## Rule
+
+One validated rule or bounded pattern.
+
+## Scope
+
+Global Rule / Local Pattern / Scene-Specific Correction
+
+## Current State
+
+EXPLORE / HOLD / CANON candidate / unclear
+
+## Source
+
+- Extraction report, chat session, note file, or author review summary
+
+## Evidence Summary
+
+- Short explanation of what author correction, approval, or reasoning supports this candidate.
+
+## Intended Target
+
+- `path/to/file.md`
+
+## Do Not Treat As Final Yet
+
+- Anything that remains unimplemented or unpromoted.
+
+## Acceptance Criteria
+
+- Candidate is preserved accurately.
+- Scope is stated clearly.
+- Candidate was validated one by one before logging.
+- Later implementation repeats the relevant manual validation/checking process before writing.
+- No canon files are updated unless separately approved.
 ```
 
 ## Follow-Up Issue Template
