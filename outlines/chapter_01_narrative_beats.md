@@ -318,5 +318,7 @@ Current exploratory opening-case scaffold:
 - Maintain slow breathing pacing.
 - Prefer implication, object detail, behaviour, and practical complaint over direct emotional explanation.
 - Keep failed dignity humour grounded in professionalism under impossible conditions.
+- In Dragon/Odette client-conversation scenes, Dragon may notice the right physical evidence while misreading its cause. Let relief, stillness, carefulness, silence, cup handling, or evasive timing stay visible without forcing the narration to flag the misread immediately.
+- Keep this pattern local to Dragon/Odette interrogation, recognition, and client-conversation beats. Do not generalize it into a broad rule that Dragon is unreliable in all scenes.
 - Treat toy-world logic sincerely; do not describe play-actions as pretend, symbolic, or imaginary.
 - Keep canonical chapter prose, experimental scene drafts, and structural outlines separate.
