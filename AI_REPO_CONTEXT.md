@@ -122,13 +122,15 @@ Review priorities, in order:
 
 1. Pacing and feel of the prose.
 2. Match to Dragon's first-person noir voice.
-3. Consequence-first narration rather than flat stage directions.
-4. Implication-heavy emotional movement rather than direct explanation.
-5. Toy-world play-as-reality logic.
-6. Character consistency, especially Dragon and the pink dragon.
-7. Canon/provisional boundary discipline.
-8. Factual continuity within the current draft.
-9. Scene function and structural flow.
+3. Tone consistency across the passage or requested scope.
+4. Consequence-first narration rather than flat stage directions.
+5. Implication-heavy emotional movement rather than direct explanation.
+6. Toy-world play-as-reality logic.
+7. Character consistency, motives, and action logic, especially Dragon and the pink dragon, against the current character files.
+8. Location consistency and stable spatial logic against the current location files.
+9. Canon/provisional boundary discipline.
+10. Factual continuity within the current draft.
+11. Scene function and structural flow.
 
 When logging an issue, include:
 
@@ -137,6 +139,15 @@ When logging an issue, include:
 - what rule, canon point, or style principle it conflicts with
 - why it affects pacing, feel, logic, character, or continuity
 - one or more suggested directions for resolving it
+
+If review identifies a conflict or uncertainty that needs author input before the issue can be framed correctly:
+
+1. ask one clarification question at a time
+2. let the author correct the diagnosis
+3. restate the issue in corrected form
+4. then log it
+
+The default repair path in review mode is to identify and log issues, not to fix them directly.
 
 Do not treat personal preference as an issue unless it affects the established noir voice, pacing, canon, or story logic.
 

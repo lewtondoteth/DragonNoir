@@ -63,7 +63,7 @@ After orienting, the agent should ask what mode the author wants.
 
 The routing question should be simple and concrete, for example:
 
-> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Profile Pull, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
+> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Profile Pull / Character Scan, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
 
 If the author already made the mode clear, do not ask again. Route immediately.
 
@@ -90,6 +90,8 @@ Route to:
 - Review Path in `AI_REPO_CONTEXT.md`
 
 This mode is read-only unless the author explicitly asks for implementation after review.
+
+Review should check not only prose quality but also whether tone, motivations, actions, and location logic stay consistent with the current canon files. If it finds a likely clash, the default path is to identify it, ask any needed clarification one question at a time, and log an issue rather than silently fixing it.
 
 ### Session Extraction
 
@@ -131,7 +133,9 @@ Treat these phrases as the same mode:
 
 - `Profile Pull`
 - `Profile Scan`
+- `Character Scan`
 - `scan this prose for profile updates`
+- `scan this prose for character consistency`
 - `pull profile guidance from this chapter`
 
 ### Rule Validation

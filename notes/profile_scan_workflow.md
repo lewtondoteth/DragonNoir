@@ -19,6 +19,8 @@ It is a profile-focused extraction pass over prose.
 
 You can think of this as a manual profile pull from prose.
 
+This same mode also covers `Character Scan`: pulling durable character guidance from prose and checking whether the passage clashes with the current character or location profiles.
+
 ## Inputs
 
 Acceptable inputs:
@@ -54,6 +56,8 @@ When scanning prose, look for durable profile knowledge such as:
 - geometry or layout assumptions that staging keeps reusing
 - recurring objects that belong to the place rather than one isolated beat
 - what can vary scene to scene and what should stay spatially stable
+- clashes between the prose and the current character or location profiles
+- motives, actions, or spatial assumptions that do not line up with the current canon files
 
 ## Character vs Location vs Scene Detail
 
@@ -98,12 +102,19 @@ Separate findings into:
 - likely `Location Guidance`
 - likely `Local Pattern`
 - `Scene-Specific Detail` that should not be promoted
+- `Potential Conflict` that may need clarification or a fix issue
 
 For each likely character or location item, say whether it appears:
 
 - new
 - already represented
 - a refinement of existing profile material
+
+For each potential conflict, say whether it looks like:
+
+- a real contradiction with an existing profile
+- a likely gap in the current profile
+- an uncertain case that needs author clarification
 
 ## Next Step
 
@@ -114,6 +125,13 @@ After triage:
 - only update a character or location profile directly if the author explicitly asks for immediate implementation
 - use `notes/rule_validation_workflow.md` when the finding is really a reusable rule or local pattern rather than profile material
 
+When the scan surfaces a conflict or inconsistency:
+
+1. identify the clash clearly
+2. ask one clarification question at a time if the conflict is not yet certain
+3. allow correction before fixing the diagnosis
+4. log a fix issue or profile-gap issue unless the author explicitly asks for immediate implementation
+
 The normal preservation path is:
 
 1. scan the prose
@@ -121,6 +139,14 @@ The normal preservation path is:
 3. validate worthwhile items one by one
 4. log approved profile candidates as GitHub issues
 5. implement those issues later if and when the author asks
+
+The normal conflict path is:
+
+1. scan the prose
+2. identify likely clashes against current profiles
+3. clarify one question at a time if needed
+4. log the issue
+5. implement later if and when the author asks
 
 ## Do Not
 
@@ -130,3 +156,4 @@ The normal preservation path is:
 - do not treat profile-scan approval by itself as permission to directly edit canon files
 - do not override existing profiles without comparing against them
 - do not infer new named locations or institutions unless explicitly approved
+- do not ignore contradictions between prose and current profiles; surface them and route them into issue logging

@@ -169,6 +169,8 @@ This keeps prose generation and post-writing extraction as distinct activities w
 
 Use `Profile Pull` when the useful profile knowledge is already embodied in prose and should be extracted from the draft itself rather than from a chat export.
 
+This mode also covers `Character Scan` work: reading prose to extract durable character guidance and to check for clashes against the current character or location profiles.
+
 The intended flow is:
 
 1. provide the prose, scene, chapter, or passage
@@ -176,6 +178,7 @@ The intended flow is:
 3. let the agent separate durable profile guidance from local scene staging
 4. validate any character-profile, location-profile, or spatial-guidance findings one by one
 5. log approved profile candidates as issues unless direct implementation is explicitly requested
+6. if the scan finds a clash or inconsistency, identify it clearly, ask any needed clarification questions one at a time, and log a fix issue unless direct implementation is explicitly requested
 
 ## Drafting-State Protocol
 
@@ -205,15 +208,24 @@ Review should focus especially on:
 
 - pacing and feel of the prose
 - whether the passage matches Dragon's first-person noir voice
+- whether the tone stays internally consistent across the passage
 - consequence-first narration instead of flat stage directions
 - implication-heavy emotional movement
 - toy-world play-as-reality logic
-- character consistency
+- character consistency, motives, and action logic against the current character files
+- location consistency and stable spatial logic against the current location files
 - canon/provisional boundaries
 - factual continuity inside the draft
 - scene function and structural flow
 
 An issue report should explain where the problem appears, why it conflicts with the repo's rules or story logic, how it affects pacing/feel/continuity/character, and what kind of revision would resolve it.
+
+When review uncovers a likely conflict, gap, or unresolved inconsistency, the normal repair path is:
+
+1. identify the issue clearly
+2. ask any needed clarification questions one at a time
+3. allow correction before locking the diagnosis
+4. log the issue for later implementation unless the user explicitly asks to fix it now
 
 Agents should not rewrite the passage during review unless the user explicitly asks for implementation after the review.
 
