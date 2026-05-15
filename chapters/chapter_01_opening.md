@@ -628,7 +628,7 @@ I wrote the date.
 
 Then I wrote her name beneath it.
 
-Odette.
+OdEttE.
 
 The letters looked too clean for my handwriting.
 
@@ -636,4 +636,52 @@ The letters looked too clean for my handwriting.
 
 She looked toward the rain, then back at me.
 
-"I would rather start where it went missing."
+"Beginnings are rarely that helpful, Mr Dragon," she said. "I would rather start with the theft."
+
+I made a note.
+
+The pencil dragged through the damp page and left a grey trench instead of a word. The paper wrinkled under it, puffed slightly, and began absorbing the case before I had agreed to take it.
+
+I shifted the notebook until I found a drier corner.
+
+There was not much of one.
+
+The note remained legible by the standards of my profession.
+
+ThEfT.
+
+I looked at it.
+
+The letters looked back with the stubborn confidence of creatures that knew what shape they were meant to be and had chosen otherwise.
+
+Odette noticed.
+
+Of course she noticed.
+
+"You write in a particular hand," she said.
+
+"It discourages forgery."
+
+"It discourages reading."
+
+"Then it serves two purposes."
+
+I tapped the pencil against the word.
+
+"What was stolen?"
+
+Her paws stayed around the cup.
+
+"Something special to me."
+
+I waited.
+
+She did not improve the answer.
+
+"Special covers a lot of floor," I said.
+
+"In this case, enough."
+
+The cup turned slightly between her paws. Not nervous. Measured. Like she was choosing which part of the truth could afford light.
+
+"It was stolen," she said, "not in the legal sense. In the moral one."
