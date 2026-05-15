@@ -131,6 +131,19 @@ Before closing an implementation issue, check the acceptance criteria in `notes/
 
 If the scoped work is complete but a criterion or style/flow check exposes a real out-of-scope problem, the agent should allow the implementation through and create a follow-up issue explaining what is wrong and how it might be resolved.
 
+## Session Extraction Flow
+
+Use `Session Extraction` as a separate repo role after a drafting chat is finished.
+
+The intended flow is:
+
+1. have the drafting conversation elsewhere
+2. provide the chat log, export, transcript, or attached PDF to the repo-connected agent
+3. switch into `Session Extraction`
+4. let the extraction agent analyze the session for durable knowledge
+
+This keeps prose generation and post-writing extraction as distinct activities with different goals.
+
 ## Drafting-State Protocol
 
 Use `[EXPLORE]`, `[HOLD]`, and `[CANON]` to prevent exploratory drafting material from becoming accidental continuity.

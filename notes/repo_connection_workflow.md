@@ -99,6 +99,15 @@ Route to:
 
 - `notes/session_extraction_workflow.md`
 
+This is a separate analysis role, not a continuation of Writing mode. The normal flow is:
+
+1. connect to the repo
+2. choose `Session Extraction`
+3. provide a chat log, export, pasted transcript, or selected excerpts
+4. let the extraction agent analyze the session after the fact
+
+This separation exists so drafting interests and extraction interests do not get mixed together.
+
 ### Rule Validation
 
 Use when candidate rules have been extracted and the author wants to approve them one at a time before they are written into canon or maintained guidance.
@@ -166,6 +175,10 @@ Example:
   - connect
   - route to Session Extraction
 
+- `connect to the repo and extract from this chat log`
+  - connect
+  - route to Session Extraction
+
 - `connect to DragonNoir and audit the current rules`
   - connect
   - route to Rule Audit
@@ -183,6 +196,7 @@ During connection and routing:
 - do not skip `README.md` and `AI_REPO_CONTEXT.md`
 - do not route Review into Writing unless the author explicitly changes modes
 - do not route Session Extraction straight into canon edits without Rule Validation
+- do not treat Session Extraction as live drafting or prose generation
 - do not route Rule Validation into canon changes without rule-by-rule approval
 - do not route Scaffold Capture straight into canon promotion without explicit approval
 

@@ -12,6 +12,16 @@ The agent should not require separate passes for rules, scaffolds, and character
 
 Use this workflow when the author provides a ChatGPT share URL, exported conversation log, pasted transcript, or similar writing-session record and asks an agent to extract reusable Dragon Noir knowledge.
 
+The intended flow is:
+
+1. write or brainstorm in a separate chat
+2. export or attach that chat log
+3. connect to the repo
+4. switch into `Session Extraction`
+5. let the extraction agent read the finished session as source material
+
+This keeps drafting and extraction as separate roles with different goals.
+
 The agent should look for:
 
 - corrections from the author
@@ -31,6 +41,8 @@ The agent should look for:
 The valuable material is usually the reasoning around a draft, not the transcript itself.
 
 This mode is for knowledge extraction, not prose extraction. It may identify rule candidates, local patterns, character guidance, and scaffold material in the same pass, but it should not jump straight into prose generation or canon edits unless the author explicitly switches modes.
+
+The extraction agent should behave like a post-writing analyst, not like the original drafting partner.
 
 ## One-Pass Multi-Track Extraction
 
@@ -130,8 +142,11 @@ Acceptable inputs:
 - pasted transcript
 - selected excerpts from a conversation
 - author summary of a session
+- attached chat-export PDF
 
 If the agent cannot access a shared URL, it should ask the author for an export, paste, or selected excerpts rather than guessing.
+
+The clean default is that the author attaches or provides the chat log directly, as in a PDF export or pasted transcript, and the extraction agent works from that source.
 
 ## Required References
 
