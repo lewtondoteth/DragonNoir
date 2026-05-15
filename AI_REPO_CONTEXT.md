@@ -48,6 +48,8 @@ For repo-entry and mode-routing work, also load `notes/repo_connection_workflow.
 
 For drafting or prose-revision work, also load `notes/writing_workflow.md`.
 
+For plot-direction, sequence-scaffold, or structural-scaffold capture work, also load `notes/scaffold_capture_workflow.md`.
+
 ## Canon separation rule
 
 Do not import family Dragon canon, tone, setting, character relationships, or plot rules into this repository by default.

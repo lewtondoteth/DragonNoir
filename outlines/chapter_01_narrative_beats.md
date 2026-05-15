@@ -235,7 +235,36 @@ Transition:
 
 Use the coffee to let Dragon's nervous system settle before deeper recognition begins.
 
-### Beat 8 - Coat/Hat Removal / Similarity Escalation
+### Beat 8 - Post-Coffee Behavioural Similarity
+
+Purpose:
+
+- let recognition begin through shared body mechanics before explicit visual confirmation
+- keep pressure in the room without jumping too fast into the case
+- preserve contrast in presentation while surfacing similarity underneath
+
+Key functions:
+
+- shared chair-management, cup handling, balance, tail placement, pauses, and small negotiations with gravity
+- Dragon noticing consequences and bodily logic before he fully interprets them
+- behavioural familiarity beginning to work underneath visible difference
+
+Important:
+
+This beat should sit structurally after the coffee/play ontology sequence and before the hat/coat reveal. The point is not that Dragon consciously solves the resemblance yet. The point is that the room starts proving it to him through movement.
+
+Emotional effect:
+
+- uneasy familiarity
+- recognition under pressure
+- intimacy through mirrored practical problems
+- rising destabilization before clearer visual confirmation
+
+Transition:
+
+Let the behavioural groundwork load the room so the later hat/coat reveal lands harder.
+
+### Beat 9 - Coat/Hat Removal / Similarity Escalation
 
 Purpose:
 
@@ -274,6 +303,7 @@ The separate coffee scene study preserves earlier office-entry material, but the
 - A settled conversation rhythm between Dragon and the pink dragon.
 - Dragon attempting professionalism while the office undermines him.
 - Gradual case reveal without rushing into exposition.
+- A post-coffee behavioural similarity beat before hat/coat reveal.
 - Introduction of a provisional opening case that can still be rebuilt.
 - A clear reason the case belongs in Toy City and matters to damaged or overlooked toys.
 - A reason Dragon accepts the case that preserves treasure motive, curiosity, professional pride, and emotional disruption.

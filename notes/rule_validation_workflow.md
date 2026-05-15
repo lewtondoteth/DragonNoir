@@ -58,7 +58,7 @@ Rule:
 One sentence.
 
 Scope:
-`Global Rule` / `Local Pattern` / `Scene-Specific Correction`
+`Global Rule (whole story)` / `Local Pattern (current chapter/scene/dynamic)` / `Scene-Specific Correction`
 
 Meaning:
 Short explanation in plain language.
@@ -94,6 +94,8 @@ Positive and negative examples may be paraphrased. Use short direct excerpts onl
 The agent must handle responses as follows:
 
 - `yes` - restate the rule in final form and ask for final approval to update the repo, if the scope supports canon guidance.
+- `yes that's right` in direct canon update path - treat as confirmation of understanding, then ask whether to add it to the target file.
+- `yes that's right` in candidate logging path - treat as confirmation of understanding and approval to log it immediately as a candidate issue or preserve it locally, depending on scope.
 - `no` - mark the candidate rejected and do not write it into canon.
 - correction or clarification - rewrite the rule card using the author's language, then ask again.
 - `hold` - record it as `[HOLD]` only if the user wants it preserved; do not add it to canon guidance unless the target file supports provisional material.
@@ -109,9 +111,9 @@ For each candidate rule:
 2. Wait for the author's response.
 3. If corrected, restate the revised rule card.
 4. Ask: "Do I have that right?"
-5. When the author confirms, ask: "Should I add this to `[target file]`?"
-6. Write only after explicit approval.
-7. After writing, summarize the exact file and section changed.
+5. In direct canon update path, when the author confirms, ask: "Should I add this to `[target file]`?"
+6. In candidate logging path, `yes that's right` is enough to move straight to logging.
+7. After writing or logging, summarize the exact result.
 8. Move to the next candidate.
 
 This is intentionally slower than automated extraction. The slowness protects canon.
@@ -127,17 +129,17 @@ Use this path when the author says `log that` after an extraction summary or aft
 In this mode:
 
 1. validate the candidate rule one by one exactly as usual
-2. ask whether the validated candidate should be logged
-3. if yes, create or update a structured issue rather than immediately editing canon files
+2. if the author responds with `yes that's right`, create or update a structured issue rather than immediately editing canon files
+3. if the author wants correction first, revise the card and ask again
 4. record that later implementation must still repeat the relevant manual checking process before writing
 
 The logging path is for preserving approved candidates and creating a work queue. It is not the same thing as canon promotion.
 
 No issue should be created from an unvalidated candidate. Summary-level extraction output is not enough.
 
-Recommended follow-up question after validation:
+Recommended logging-path confirmation:
 
-> Should I log this as a candidate issue for later implementation, or add it directly to `[target file]` now?
+> If this is right, say `yes that's right` and I’ll log it.
 
 ## Where Rules Belong
 

@@ -221,6 +221,8 @@ Beneath their different life paths, their instincts and rhythms are deeply simil
 - both use performance to survive, though Dragon's is shabby professionalism and hers is polished control
 - both deflect fear through language
 
+In scenes where Dragon begins recognizing himself in her, the similarity should emerge beneath the contrast. She is poised, controlled, and carefully maintained; Dragon is shabby, damp, and visibly repaired. The shared logic should first appear through body mechanics, object handling, pauses, tail management, chair negotiation, and the small practical problems of being the same kind of toy in different condition.
+
 Over time, she becomes genuinely emotionally honest with Dragon. The honesty should come in controlled fragments, not grand speeches.
 
 Their incompatibility:
@@ -233,6 +235,10 @@ Their incompatibility:
 They can understand one another deeply and still be unable to stay together.
 
 By the end, Dragon mourns not only losing her, but losing the only being who instinctively understood him at a species level.
+
+That late grief should not be projected backward too early. Early-story scenes should build the conditions for that recognition without letting Dragon narrate the relationship in its end-state terms before he has lived them.
+
+Recognition and compatibility are not the same thing. Dragon and Odette may understand one another with unusual depth and still be unable to build a stable life together.
 
 ---
 

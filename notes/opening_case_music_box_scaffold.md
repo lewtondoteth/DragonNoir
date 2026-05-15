@@ -31,6 +31,12 @@ The music box should feel like an object Dragon can understand immediately as tr
 
 It should also be plausible that ordinary thieves would see it as loot, officials would see it as property, the pink dragon would describe it as dragon treasure, and a hidden organization would need it for reasons no one is ready to explain.
 
+The opening case works best when it operates as three overlapping stories:
+
+- Dragon's apparent story: another dragon wants help recovering a stolen treasure or heirloom.
+- The pink dragon's concealed story: a covert or concealed operation has gone wrong because the target object vanished after an indirect theft.
+- The reader's developing story: the music box gradually proves connected to something larger than a simple recovery case.
+
 ---
 
 # 2. The Burglary
@@ -85,12 +91,15 @@ She approaches Dragon privately and claims:
 
 Her claim should be emotionally plausible to Dragon even if it is incomplete, slanted, or strategically false.
 
+The strongest version of her cover story is materially true but strategically incomplete: true enough to survive pressure, incomplete enough to manipulate Dragon's understanding.
+
 Dragon accepts the emotional logic because:
 
 - dragons instinctively understand attachment to treasure
 - he validates the importance of recovering it
 - he initially believes he is helping another dragon reclaim something precious
 - the fee, curiosity, and her unnerving familiarity make refusal difficult
+- she gives him enough truth to keep the case emotionally legible while withholding the larger operational stakes
 
 She should not explain the operational stakes at first. She lets Dragon believe he is working a treasure recovery case.
 

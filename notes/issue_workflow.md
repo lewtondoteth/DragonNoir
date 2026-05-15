@@ -57,6 +57,13 @@ Use this when validated rule candidates should be preserved as structured future
 These issues are for approved candidate guidance that still needs later implementation. They are not proof that the repo has already accepted the rule into canon files.
 Do not create a Candidate Rule Issue from an extraction summary alone. Each candidate must first pass the rule-by-rule validation process.
 
+## Candidate Character Guidance Issue
+
+Use this when a validated character-profile item, dynamic note, or bounded character-guidance candidate should be preserved as future work without immediately updating canonical profile files.
+
+These issues are for approved character guidance that still needs later implementation. They are not proof that the repo has already accepted the item into a character profile, story bible, or other canon file.
+Do not create a Candidate Character Guidance Issue from exploratory discussion alone. Each candidate must first pass one-by-one approval.
+
 ---
 
 # 3. Recommended Issue Shape
@@ -65,6 +72,7 @@ An implementation issue should include:
 
 - summary of the desired change
 - target file or folder
+- target section or insertion point when known
 - canon status: canonical, provisional, experimental, retired, or review-only
 - exact material, lines, beats, or discoveries to preserve
 - style rules to prioritize
@@ -81,9 +89,28 @@ A candidate rule issue should include:
 - current canon state
 - source or evidence summary
 - intended future target file
+- intended future target section or placement when known
 - confirmation that the candidate passed rule-by-rule validation before logging
 - whether future implementation must re-run manual validation before writing
 - what should not yet be treated as canon
+
+A candidate character guidance issue should include:
+
+- the validated character or dynamic guidance text
+- scope: `Character Profile Item`, `Dynamic Guidance`, or `Profile Change Candidate`
+- current canon state
+- source or evidence summary
+- intended future target file
+- intended future target section or placement when known
+- confirmation that the candidate passed one-by-one approval before logging
+- whether future implementation must re-run manual validation before writing or profile updates
+- what should not yet be treated as canon
+
+If the validated candidate is already adequately represented in the repo, do not create a new issue just to restate it. Prefer:
+
+- no issue
+- a refinement note in the extraction or validation report
+- a narrowly scoped implementation issue only if there is a genuine gap, ambiguity, missing section, or placement problem to resolve
 
 ---
 

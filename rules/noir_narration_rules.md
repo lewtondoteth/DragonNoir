@@ -16,9 +16,18 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - In loaded moments, avoid flat stage-direction sentences that simply name the action.
 - Do not default to labels such as "she removed her coat," "she sat down," "she looked nervous," or "the room was tense" when the beat has emotional, atmospheric, or recognition weight.
 - Describe the visible consequences, physical negotiations, object behaviour, pauses, and practical adjustments through which Dragon understands what is happening.
+- In recognition-heavy or emotionally loaded moments, let consequence, movement, pause, and object interaction carry the first movement before Dragon names what it means.
 - Let the reader assemble the action from fragments: buttons giving way, cloth changing shape, paws finding work, a chair objecting, dust shifting, damp spreading, silence rearranging itself.
 - Dragon should often describe what an action does to the room, the objects, his practical situation, or his sense of dignity before he names the action itself.
 - Simple direct sentences are still allowed for low-weight movement or clarity, but the important beats should move through observation rather than summary.
+
+## Analytical labels
+
+- Avoid premature analytical labels when embodied detail, object response, silence, and practical inconvenience can carry the same meaning.
+- Dragon may be perceptive, dry, and interpretive, but loaded moments should not collapse too early into tidy narrator verdicts.
+- In recognition, vulnerability, or social-pressure beats, prefer physical evidence first: tail placement, cup handling, pauses, posture correction, chairs objecting, dampness, repairs, or the room changing around the action.
+- Do not flatten a live beat into summary labels such as naming poise, balance, hesitation, distrust, or emotional significance before the reader has felt the pressure through consequence.
+- Use analytical phrasing later when it sharpens noir voice or lands a beat that the scene has already earned.
 
 ## Use of first-person
 

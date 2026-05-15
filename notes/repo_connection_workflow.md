@@ -63,7 +63,7 @@ After orienting, the agent should ask what mode the author wants.
 
 The routing question should be simple and concrete, for example:
 
-> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Rule Validation, Rule Audit, Canon Promotion, or Issue Work?
+> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
 
 If the author already made the mode clear, do not ask again. Route immediately.
 
@@ -115,6 +115,16 @@ Route to:
 
 - Existing Rule Audit section in `notes/rule_validation_workflow.md`
 
+### Scaffold Capture
+
+Use when the author arrives with a plot direction, sequence scaffold, case shape, chapter movement, or structural idea that should be preserved and possibly distilled into reusable knowledge.
+
+Route to:
+
+- `notes/scaffold_capture_workflow.md`
+
+This mode captures planning material first, then separates out any local patterns or global-rule candidates without promoting plot specifics into canon by accident.
+
 ### Canon Promotion
 
 Use when material is currently provisional, exploratory, or hold-state and the author wants to explicitly promote it into canon files.
@@ -160,6 +170,10 @@ Example:
   - connect
   - route to Rule Audit
 
+- `connect to DragonNoir and capture this Chapter 1 scaffold`
+  - connect
+  - route to Scaffold Capture
+
 ## Safety Rules
 
 During connection and routing:
@@ -170,6 +184,7 @@ During connection and routing:
 - do not route Review into Writing unless the author explicitly changes modes
 - do not route Session Extraction straight into canon edits without Rule Validation
 - do not route Rule Validation into canon changes without rule-by-rule approval
+- do not route Scaffold Capture straight into canon promotion without explicit approval
 
 ## Minimal Agent Prompt
 
@@ -184,6 +199,7 @@ Read `README.md` and `AI_REPO_CONTEXT.md`, orient yourself to the repo, summariz
 - Session Extraction
 - Rule Validation
 - Rule Audit
+- Scaffold Capture
 - Canon Promotion
 - Issue Work
 
