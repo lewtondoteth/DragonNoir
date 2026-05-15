@@ -59,6 +59,9 @@ Examples:
 - chapter draft in `chapters/`
 - active character profile in `characters/`
 - active location profile in `locations/`
+- active case profile in `cases/`
+- active object profile in `objects/`
+- active organisation profile in `organisations/`
 - relevant canon note if explicitly marked active
 
 ### 3. Scope-Specific Structure
@@ -81,6 +84,9 @@ Examples:
 - relevant scene studies
 - relevant character files
 - relevant location files
+- relevant case files
+- relevant object files
+- relevant organisation files
 - approved chapter-level pattern notes
 
 ### 5. Provisional / Experimental Material
@@ -101,6 +107,9 @@ This includes:
 - style guidance that would change pacing, implication, recognition logic, or narration behavior for this scope
 - character-profile items, dynamic notes, or profile-change candidates that would materially shape behavior, reaction, presentation, or relationship logic in this draft
 - location-profile items or location-guidance candidates that would materially shape atmosphere, place logic, civic pressure, layout, or recurring scene function in this draft
+- case-profile items or case-guidance candidates that would materially shape what the case appears to be, hides, or pressures in this draft
+- object-profile items or object-guidance candidates that would materially shape object identity, value, function, or hidden pressure in this draft
+- organisation-profile items or organisation-guidance candidates that would materially shape group pressure, cover story, or institutional behavior in this draft
 
 The agent should distinguish between:
 
@@ -133,7 +142,7 @@ When approval is needed, present each item one by one using a short validation c
 
 Each card should state:
 
-- `Type`: `Scaffold`, `Local Pattern`, `Style Guidance`, `Character Profile Item`, `Dynamic Guidance`, `Profile Change Candidate`, or `Location Profile Item`
+- `Type`: `Scaffold`, `Local Pattern`, `Style Guidance`, `Character Profile Item`, `Dynamic Guidance`, `Profile Change Candidate`, `Location Profile Item`, `Case Profile Item`, `Object Profile Item`, or `Organisation Profile Item`
 - `Scope`: `Global`, `Chapter`, `Scene`, or `Dynamic`
 - `Current State`: `[EXPLORE]`, `[HOLD]`, or already approved
 - `Summary`: what the item says in plain language
@@ -169,6 +178,9 @@ This applies to:
 - style or local-pattern guidance not yet ready for direct canon edits
 - character-profile or dynamic guidance not yet ready for profile updates
 - location-profile guidance not yet ready for direct profile updates
+- case-profile guidance not yet ready for direct profile updates
+- object-profile guidance not yet ready for direct profile updates
+- organisation-profile guidance not yet ready for direct profile updates
 
 In this logging path:
 
@@ -196,6 +208,7 @@ The summary should usually include:
 - relevant scaffolds or style items already approved for drafting use
 - any scaffold, style, or character-guidance items that still require approval before drafting
 - relevant character, dynamic, or location constraints
+- relevant case, object, or organisation constraints
 - any already-open issues that are likely to matter to this writing pass
 - what not to import or over-promote
 

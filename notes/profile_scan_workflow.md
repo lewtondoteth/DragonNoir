@@ -1,6 +1,6 @@
 # Profile Pull / Profile Scan / Character Scan Workflow
 
-Provisional workflow for scanning existing prose and extracting durable character-profile, location-profile, dynamic, or spatial guidance from what is already on the page.
+Provisional workflow for scanning existing prose and extracting durable character-profile, location-profile, case-profile, object-profile, organisation-profile, dynamic, or spatial guidance from what is already on the page.
 
 This workflow exists for moments when the useful knowledge is already embodied in draft prose rather than in a chat transcript.
 
@@ -10,6 +10,7 @@ Use this workflow when the author wants an agent to read prose and answer questi
 
 - what stable character traits are implied here?
 - what place logic or spatial characteristics are now clear enough to preserve?
+- what durable case, object, or organisation information is now clear enough to preserve?
 - what should move into a character profile or location profile?
 - what in this prose is just local staging, and what is durable guidance?
 
@@ -19,7 +20,7 @@ It is a profile-focused extraction pass over prose.
 
 You can think of this as a manual profile pull from prose.
 
-This same mode also covers `Character Scan` and `Consistency Scan`: pulling durable character guidance from prose and checking whether the passage clashes with the current character or location profiles.
+This same mode also covers `Character Scan` and `Consistency Scan`: pulling durable character guidance from prose and checking whether the passage clashes with the current character, location, case, object, or organisation surfaces.
 
 ## Inputs
 
@@ -42,8 +43,9 @@ Before scanning, read:
 5. `rules/noir_narration_rules.md`
 6. relevant character profiles
 7. relevant location profiles
-8. relevant chapter, scene, outline, or note files
-9. `notes/mode_preflight_workflow.md` when the scope is non-trivial or issue logging is likely
+8. relevant case, object, or organisation files
+9. relevant chapter, scene, outline, or note files
+10. `notes/mode_preflight_workflow.md` when the scope is non-trivial or issue logging is likely
 
 ## What To Look For
 
@@ -57,7 +59,8 @@ When scanning prose, look for durable profile knowledge such as:
 - geometry or layout assumptions that staging keeps reusing
 - recurring objects that belong to the place rather than one isolated beat
 - what can vary scene to scene and what should stay spatially stable
-- clashes between the prose and the current character or location profiles
+- durable case, object, or organisation information that now seems stable enough to preserve
+- clashes between the prose and the current character, location, case, object, or organisation surfaces
 - motives, actions, or spatial assumptions that do not line up with the current canon files
 
 ## Character vs Location vs Scene Detail
@@ -101,15 +104,23 @@ Separate findings into:
 
 - likely `Character Guidance`
 - likely `Location Guidance`
+- likely `Case Guidance`
+- likely `Object Guidance`
+- likely `Organisation Guidance`
 - likely `Local Pattern`
 - `Scene-Specific Detail` that should not be promoted
 - `Potential Conflict` that may need clarification or a fix issue
 
-For each likely character or location item, say whether it appears:
+For each likely character, location, case, object, or organisation item, say whether it appears:
 
 - new
 - already represented
 - a refinement of existing profile material
+
+For each entity item, also say whether:
+
+- an existing canon surface should be enriched
+- a new entity surface should be established later
 
 For each potential conflict, say whether it looks like:
 

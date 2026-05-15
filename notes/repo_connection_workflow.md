@@ -70,7 +70,7 @@ After orienting, the agent should ask what mode the author wants.
 
 The routing question should be simple and concrete, for example:
 
-> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Profile Pull / Character Scan / Consistency Scan, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
+> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Profile Pull / Character Scan / Entity Scan / Consistency Scan, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
 
 If the author already made the mode clear, do not ask again. Route immediately.
 
@@ -121,7 +121,7 @@ This separation exists so drafting interests and extraction interests do not get
 
 ### Profile Pull
 
-Use for scanning existing prose and extracting durable character-profile, location-profile, dynamic, or spatial guidance from the draft itself.
+Use for scanning existing prose and extracting durable character-profile, location-profile, case-profile, object-profile, organisation-profile, dynamic, or spatial guidance from the draft itself.
 
 Route to:
 
@@ -141,9 +141,11 @@ Treat these phrases as the same mode:
 - `Profile Pull`
 - `Profile Scan`
 - `Character Scan`
+- `Entity Scan`
 - `Consistency Scan`
 - `scan this prose for profile updates`
 - `scan this prose for character consistency`
+- `scan this prose for entity updates`
 - `pull profile guidance from this chapter`
 
 ### Rule Validation
@@ -258,7 +260,7 @@ Read `README.md` and `AI_REPO_CONTEXT.md`, orient yourself to the repo, summariz
 - Writing
 - Review
 - Session Extraction
-- Profile Pull / Character Scan / Consistency Scan
+- Profile Pull / Character Scan / Entity Scan / Consistency Scan
 - Rule Validation
 - Rule Audit
 - Scaffold Capture

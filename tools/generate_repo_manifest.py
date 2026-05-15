@@ -19,6 +19,9 @@ AUTHORITATIVE_REFERENCE = [
     "characters/pink_dragon_character_profile.md",
     "locations/Toy_City_location_profile.md",
     "locations/Dragon_Office_location_profile.md",
+    "cases/README.md",
+    "objects/README.md",
+    "organisations/README.md",
 ]
 
 
@@ -44,8 +47,8 @@ MODES = [
     {
         "name": "Profile Pull",
         "route": "notes/profile_scan_workflow.md",
-        "aliases": ["profile scan", "character scan", "scan this prose for profile updates"],
-        "default_action": "scan prose, identify profile guidance or conflicts, validate or clarify, then log issues by default",
+        "aliases": ["profile scan", "character scan", "entity scan", "scan this prose for profile updates"],
+        "default_action": "scan prose, identify entity guidance or conflicts, validate or clarify, then log issues by default",
     },
     {
         "name": "Consistency Scan",
@@ -103,6 +106,9 @@ ISSUE_LABELS = {
         "type:candidate-rule",
         "type:candidate-character",
         "type:candidate-location",
+        "type:candidate-case",
+        "type:candidate-object",
+        "type:candidate-organisation",
         "type:consistency-fix",
     ],
     "scope_examples": [
@@ -115,12 +121,15 @@ ISSUE_LABELS = {
 
 
 TOP_DIRS = [
+    "cases",
     "chapters",
     "characters",
     "discarded_or_experimental",
     "locations",
     "notes",
+    "objects",
     "outlines",
+    "organisations",
     "rules",
     "scenes",
     "story_bible",

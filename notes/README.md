@@ -12,7 +12,7 @@ Opening-case scaffolds and exploratory plot foundations belong here until explic
 - `issue_workflow.md` — GitHub issue handoff workflow, issue types, acceptance criteria, and drafting-state protocol.
 - `mode_preflight_workflow.md` — shared preflight for manifest refresh, scoped file loading, and open-issue dedupe before mode work.
 - `opening_case_music_box_scaffold.md` — provisional opening-case scaffold.
-- `profile_scan_workflow.md` — workflow for a manual profile pull or character scan from prose, extracting durable character-profile, location-profile, and spatial guidance, surfacing inconsistencies, and normally preserving approved findings through issues first.
+- `profile_scan_workflow.md` — workflow for a manual profile pull, character scan, or entity scan from prose, extracting durable character, location, case, object, organisation, and spatial guidance, surfacing inconsistencies, and normally preserving approved findings through issues first.
 - `repo_manifest.json` — generated machine-readable repo index for agent orientation.
 - `repo_manifest.md` — generated human-readable repo index for agent orientation.
 - `repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.

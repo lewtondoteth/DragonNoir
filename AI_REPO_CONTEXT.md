@@ -37,7 +37,11 @@ For Toy Noir Dragon work, load:
 4. `rules/noir_narration_rules.md`
 5. Relevant character profiles under `characters/`
 6. Relevant location profiles under `locations/`
-7. Relevant files under:
+7. Relevant entity files under:
+   - `cases/`
+   - `objects/`
+   - `organisations/`
+8. Relevant files under:
    - `chapters/`
    - `scenes/`
    - `outlines/`
@@ -52,6 +56,8 @@ For drafting or prose-revision work, also load `notes/writing_workflow.md`.
 For plot-direction, sequence-scaffold, or structural-scaffold capture work, also load `notes/scaffold_capture_workflow.md`.
 
 For prose-to-profile or prose-to-location extraction work, also load `notes/profile_scan_workflow.md`.
+
+For extraction or scan work that may grow entity surfaces, use `cases/`, `objects/`, and `organisations/` the same way you use `characters/` and `locations/`: enrich the existing file if one already exists, otherwise preserve the result through the correct issue path until implementation is requested.
 
 For shared setup, manifest refresh, and open-issue dedupe, also load `notes/mode_preflight_workflow.md` when the scope is non-trivial.
 
@@ -102,6 +108,7 @@ For any task:
 7. For writing work, retrieve and summarize scope-specific context before generating prose.
 8. For extraction or profile-scan work, prefer validated issue logging over direct canon edits unless the user explicitly asks to apply the change now.
 9. For review, profile-scan, extraction, scaffold-capture, or writing-follow-up logging work, check for already-open matching issues before creating a new one.
+10. When a session or prose scan introduces durable case, object, organisation, or character information, decide whether it belongs in an existing entity surface or whether a new candidate issue is needed to establish that surface cleanly.
 
 ## Review Path
 

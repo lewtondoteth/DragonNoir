@@ -34,6 +34,9 @@ The agent should look for:
 - plot directions and scaffolds
 - candidate profile changes or dynamic guidance
 - candidate location-profile changes or place guidance
+- candidate case-profile changes or case guidance
+- candidate object-profile changes or object guidance
+- candidate organisation-profile changes or organisation guidance
 - spatial characteristics that may belong in location profiles
 - anti-patterns
 - canon, hold, or explore-state decisions
@@ -42,7 +45,7 @@ The agent should look for:
 
 The valuable material is usually the reasoning around a draft, not the transcript itself.
 
-This mode is for knowledge extraction, not prose extraction. It may identify rule candidates, local patterns, character guidance, location guidance, and scaffold material in the same pass, but it should not jump straight into prose generation or canon edits unless the author explicitly switches modes.
+This mode is for knowledge extraction, not prose extraction. It may identify rule candidates, local patterns, character guidance, location guidance, case guidance, object guidance, organisation guidance, and scaffold material in the same pass, but it should not jump straight into prose generation or canon edits unless the author explicitly switches modes.
 
 The extraction agent should behave like a post-writing analyst, not like the original drafting partner.
 
@@ -65,6 +68,9 @@ Every extracted item should first be tagged as one of:
 - `Local Pattern`
 - `Character Guidance`
 - `Location Guidance`
+- `Case Guidance`
+- `Object Guidance`
+- `Organisation Guidance`
 - `Scaffold Material`
 - `Scene-Specific Correction`
 - `Process Improvement`
@@ -77,6 +83,9 @@ After classification:
 - `Local Pattern` -> rule validation path or bounded local guidance path
 - `Character Guidance` -> one-by-one approval, then profile/dynamic guidance logging or update path
 - `Location Guidance` -> one-by-one approval, then location-guidance logging or profile update path
+- `Case Guidance` -> one-by-one approval, then case-guidance logging or case-profile update path
+- `Object Guidance` -> one-by-one approval, then object-guidance logging or object-profile update path
+- `Organisation Guidance` -> one-by-one approval, then organisation-guidance logging or organisation-profile update path
 - `Scaffold Material` -> scaffold capture or planning/scaffold issue path
 - `Scene-Specific Correction` -> exclude from default triage unless explicitly requested
 - `Process Improvement` -> preserve in workflow/notes only if the author wants it kept
@@ -101,8 +110,36 @@ Examples:
 
 - a `Character Guidance` item may have `Local Pattern` scope
 - a `Location Guidance` item may have `Local Pattern` scope
+- a `Case Guidance`, `Object Guidance`, or `Organisation Guidance` item may have `Local Pattern` scope
 - a `Scaffold Material` item may be chapter-scoped rather than project-wide
 - a `Global Rule` item is usually also global in scope
+
+## Entity Growth Check
+
+When a session produces durable information about a named or strongly implied entity, the extraction pass should ask:
+
+1. what kind of entity is this?
+   - character
+   - location
+   - case
+   - object
+   - organisation
+2. does a canon surface for it already exist in the repo?
+3. if yes, is this:
+   - already represented
+   - a refinement
+   - a real new addition
+4. if no, is there enough durable information to justify establishing a new canon surface later?
+
+If an entity surface already exists, the default is:
+
+- enrich that existing surface through validated issue logging or direct implementation when requested
+
+If an entity surface does not exist yet, the default is:
+
+- log the correct candidate issue so the entity can be established cleanly later
+
+Do not silently promote a newly mentioned thief, organisation, object, or case noun into canon just because the chat made it vivid.
 
 ### Global Rule
 
@@ -226,6 +263,7 @@ Look first in:
 3. `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 4. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 5. relevant chapter outlines or approved local notes for the requested scope
+6. relevant case, object, or organisation files if they already exist
 
 The extraction pass should ask:
 
@@ -240,6 +278,13 @@ Possible outcomes:
 - `Existing local pattern already covers this`
 - `Possible duplicate; needs validation`
 - `Already represented; no issue needed`
+
+The same logic applies to entity surfaces:
+
+- `Existing entity surface already covers this`
+- `Existing entity surface, but clearer summary was discovered`
+- `New entity candidate`
+- `Entity candidate exists only in scaffold form so far`
 
 Do not surface rediscovered guidance as if it were a fresh rule unless there is a meaningful difference.
 
@@ -438,6 +483,9 @@ It should usually contain:
 - `1-3` likely `Local Pattern` candidates for the current chapter/scene scope that appear genuinely new or meaningfully refined
 - `0-3` likely `Character Guidance` candidates when the session materially clarified behavior or dynamic logic
 - `0-3` likely `Location Guidance` candidates when the session materially clarified place logic, district behavior, or recurring scene-space function
+- `0-3` likely `Case Guidance` candidates when the session materially clarified what the case is, how it should appear, or what remains hidden
+- `0-3` likely `Object Guidance` candidates when the session materially clarified what an important object is, appears to be, or pressures in scenes
+- `0-3` likely `Organisation Guidance` candidates when the session materially clarified group pressure, cover story, or institutional logic
 - `0-3` likely `Scaffold Material` captures when the session produced usable plot or structural direction
 - a short `Do Not Promote Yet` section
 - a short note if the session is mostly scene-specific rather than rule-heavy
@@ -583,6 +631,14 @@ Two or three sentences on what the session mainly discovered.
   Scope meaning: current chapter / scene
   Status:
   Evidence:
+  State:
+
+## Likely Character / Location / Entity Candidates
+
+- Character / Location / Case / Object / Organisation:
+  Status:
+  Evidence:
+  Existing surface or new candidate:
   State:
 
 ## Already Covered / Likely Duplicate

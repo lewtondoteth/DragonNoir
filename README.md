@@ -29,6 +29,8 @@ DragonNoir/
 ├── AGENTS.md
 ├── AI_REPO_CONTEXT.md
 ├── README.md
+├── cases/
+│   └── README.md
 ├── chapters/
 │   ├── README.md
 │   └── chapter_01_opening.md
@@ -40,6 +42,8 @@ DragonNoir/
 │   ├── README.md
 │   ├── Dragon_Office_location_profile.md
 │   └── Toy_City_location_profile.md
+├── objects/
+│   └── README.md
 ├── notes/
 │   ├── README.md
 │   ├── development_options.md
@@ -56,6 +60,8 @@ DragonNoir/
 │   └── writing_workflow.md
 ├── outlines/
 │   └── chapter_01_narrative_beats.md
+├── organisations/
+│   └── README.md
 ├── rules/
 │   └── noir_narration_rules.md
 ├── scenes/
@@ -73,10 +79,13 @@ DragonNoir/
 ## Working Structure
 
 - `chapters/` — canonical or assembled chapter drafts
+- `cases/` — canonical case profiles and bounded case-guidance notes
 - `scenes/` — scene drafts, fragments, and scene-level experiments
 - `outlines/` — chapter architecture, narrative beats, and pacing references
 - `characters/` — canonical character profiles and expanded continuity notes
 - `locations/` — canonical location profiles and expanded place-continuity notes
+- `objects/` — canonical object profiles and bounded object-guidance notes
+- `organisations/` — canonical organisation profiles and bounded organisation-guidance notes
 - `rules/` — canonical practical writing rules discovered during drafting
 - `discarded_or_experimental/` — retired alternatives and preserved non-canonical material
 - `notes/` — planning notes, continuity tracking, mystery structure, and revision notes
@@ -121,6 +130,9 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `outlines/chapter_01_narrative_beats.md` — canonical Chapter 1 pacing and architecture reference.
 - `locations/Toy_City_location_profile.md` — canonical setting profile for Toy City atmosphere, scale, and city logic.
 - `locations/Dragon_Office_location_profile.md` — canonical location profile for Dragon's office as recurring scene space.
+- `cases/README.md` — guidance for how case profiles should be created and maintained.
+- `objects/README.md` — guidance for how object profiles should be created and maintained.
+- `organisations/README.md` — guidance for how organisation profiles should be created and maintained.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
 - `notes/mode_preflight_workflow.md` — shared preflight for manifest refresh, scoped file loading, and open-issue dedupe before mode work.
 - `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
@@ -153,6 +165,17 @@ For `Session Extraction` and `Profile Pull`, the default preservation path is:
 
 Do not treat extraction approval by itself as permission to directly update canon files unless the user explicitly switches into implementation or direct canon-update work.
 
+When extraction or scaffold work surfaces durable entity information, the agent should decide whether it belongs to:
+
+- an existing character profile
+- an existing location profile
+- an existing case profile
+- an existing object profile
+- an existing organisation profile
+- or a new candidate issue to establish that entity cleanly
+
+The goal is to let repeated drafting and extraction gradually build these canon surfaces out indirectly instead of relying on one big manual worldbuilding pass.
+
 Before logging any new issue in Review, Session Extraction, Profile Pull, Character Scan, Consistency Scan, Writing follow-up logging, or Scaffold Capture, check whether the same scope is already tracked by an open issue and reuse it instead of creating a duplicate.
 
 Implementation agents should treat issues as scoped instructions, not permission to broadly rewrite. Review issues use the read-only AI Review Path. Planning/scaffold issues stay provisional unless the issue explicitly says to promote material into canon.
@@ -176,6 +199,11 @@ The intended flow is:
 5. validate any worthwhile findings one by one
 6. log approved candidates as issues unless direct implementation is explicitly requested
 
+This includes entity-growth work:
+
+- enrich an existing character, case, object, or organisation surface when the session adds durable information
+- or log the right issue to establish that entity if it does not yet have a canon surface
+
 This keeps prose generation and post-writing extraction as distinct activities with different goals.
 
 ## Profile Pull Flow
@@ -185,6 +213,8 @@ Use `Profile Pull` when the useful profile knowledge is already embodied in pros
 This mode also covers `Character Scan` work: reading prose to extract durable character guidance and to check for clashes against the current character or location profiles.
 
 `Consistency Scan` is an accepted alias when the main goal is to compare prose against the current rules, character profiles, and location profiles and then log any needed fix issues.
+
+This mode may also identify durable case, object, or organisation information already embodied in the prose and route it into the right entity surface or issue path.
 
 The intended flow is:
 
@@ -215,6 +245,7 @@ Before issue logging, file updates, lore updates, PRs, or summaries that may bec
 ## Canonical vs Experimental
 
 - Canonical: story bible, narration rules, character profiles, location profiles, active chapter drafts, and active outline references.
+- Canonical entity surfaces may also include case profiles, object profiles, and organisation profiles once they are established.
 - Development: notes and opening-case scaffolds that preserve possibilities without locking plot.
 - Experimental: scene sandboxes and pacing studies.
 - Retired: discarded or backup ideas preserved for later comparison or revival.

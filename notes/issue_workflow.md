@@ -77,6 +77,27 @@ Use this when a validated location-profile item, district note, institution note
 These issues are for approved location guidance that still needs later implementation. They are not proof that the repo has already accepted the item into a location profile, story bible, or other canon file.
 Do not create a Candidate Location Guidance Issue from exploratory discussion alone. Each candidate must first pass one-by-one approval.
 
+## Candidate Case Guidance Issue
+
+Use this when a validated case-profile item or bounded case-guidance candidate should be preserved as future work without immediately updating canonical case files.
+
+These issues are for approved case guidance that still needs later implementation. They are not proof that the repo has already accepted the item into a case profile, story bible, or other canon file.
+Do not create a Candidate Case Guidance Issue from exploratory discussion alone. Each candidate must first pass one-by-one approval.
+
+## Candidate Object Guidance Issue
+
+Use this when a validated object-profile item or bounded object-guidance candidate should be preserved as future work without immediately updating canonical object files.
+
+These issues are for approved object guidance that still needs later implementation. They are not proof that the repo has already accepted the item into an object profile, story bible, or other canon file.
+Do not create a Candidate Object Guidance Issue from exploratory discussion alone. Each candidate must first pass one-by-one approval.
+
+## Candidate Organisation Guidance Issue
+
+Use this when a validated organisation-profile item or bounded organisation-guidance candidate should be preserved as future work without immediately updating canonical organisation files.
+
+These issues are for approved organisation guidance that still needs later implementation. They are not proof that the repo has already accepted the item into an organisation profile, story bible, or other canon file.
+Do not create a Candidate Organisation Guidance Issue from exploratory discussion alone. Each candidate must first pass one-by-one approval.
+
 ## Shared Dedupe Rule
 
 Before logging any new issue from Review, Session Extraction, Profile Pull, Character Scan, Consistency Scan, Scaffold Capture, or Writing follow-up preservation:
@@ -139,6 +160,42 @@ A candidate location guidance issue should include:
 - whether future implementation must re-run manual validation before writing or profile updates
 - what should not yet be treated as canon
 
+A candidate case guidance issue should include:
+
+- the validated case guidance text
+- scope: `Case Profile Item`, `Case Logic`, or `Case Change Candidate`
+- current canon state
+- source or evidence summary
+- intended future target file
+- intended future target section or placement when known
+- confirmation that the candidate passed one-by-one approval before logging
+- whether future implementation must re-run manual validation before writing or case-profile updates
+- what should not yet be treated as canon
+
+A candidate object guidance issue should include:
+
+- the validated object guidance text
+- scope: `Object Profile Item`, `Object Logic`, or `Object Change Candidate`
+- current canon state
+- source or evidence summary
+- intended future target file
+- intended future target section or placement when known
+- confirmation that the candidate passed one-by-one approval before logging
+- whether future implementation must re-run manual validation before writing or object-profile updates
+- what should not yet be treated as canon
+
+A candidate organisation guidance issue should include:
+
+- the validated organisation guidance text
+- scope: `Organisation Profile Item`, `Organisation Logic`, or `Organisation Change Candidate`
+- current canon state
+- source or evidence summary
+- intended future target file
+- intended future target section or placement when known
+- confirmation that the candidate passed one-by-one approval before logging
+- whether future implementation must re-run manual validation before writing or organisation-profile updates
+- what should not yet be treated as canon
+
 If the validated candidate is already adequately represented in the repo, do not create a new issue just to restate it. Prefer:
 
 - no issue
@@ -172,6 +229,9 @@ Use labels consistently when the repository or GitHub setup supports them.
 - `type:candidate-rule`
 - `type:candidate-character`
 - `type:candidate-location`
+- `type:candidate-case`
+- `type:candidate-object`
+- `type:candidate-organisation`
 - `type:consistency-fix`
 
 ### Scope Labels
@@ -628,6 +688,159 @@ One validated location-profile, district, institution, or place-guidance item.
 
 - No location profile or canon files are updated during issue logging.
 - Later implementation must repeat the relevant manual validation/checking process before writing or profile updates.
+
+## Acceptance Criteria
+
+- Candidate guidance is preserved accurately.
+- Scope is stated clearly.
+- Candidate passed one-by-one approval before logging.
+- No canon files are updated unless separately approved.
+```
+
+## Candidate Case Guidance Issue Template
+
+```md
+## Type
+
+Candidate Case Guidance
+
+## Recommended Labels
+
+- `mode:session-extraction`, `mode:profile-scan`, or `mode:scaffold-capture`
+- `type:candidate-case`
+- `scope:...`
+
+## Guidance
+
+One validated case-profile, case-logic, or case-guidance item.
+
+## Scope
+
+`Case Profile Item` / `Case Logic` / `Case Change Candidate`
+
+## Current State
+
+`[EXPLORE]` / `[HOLD]` / `CANON candidate`
+
+## Source
+
+- Session extraction, scaffold capture, validation session, or other approved source.
+
+## Evidence Summary
+
+- Short explanation of what the author approved and why it matters.
+
+## Intended Target
+
+- `cases/path_to_case_profile.md`
+- Suggested placement or section when known
+
+## Do Not Treat As Final Yet
+
+- No case profile or canon files are updated during issue logging.
+- Later implementation must repeat the relevant manual validation/checking process before writing or case-profile updates.
+
+## Acceptance Criteria
+
+- Candidate guidance is preserved accurately.
+- Scope is stated clearly.
+- Candidate passed one-by-one approval before logging.
+- No canon files are updated unless separately approved.
+```
+
+## Candidate Object Guidance Issue Template
+
+```md
+## Type
+
+Candidate Object Guidance
+
+## Recommended Labels
+
+- `mode:session-extraction`, `mode:profile-scan`, or `mode:scaffold-capture`
+- `type:candidate-object`
+- `scope:...`
+
+## Guidance
+
+One validated object-profile or object-guidance item.
+
+## Scope
+
+`Object Profile Item` / `Object Logic` / `Object Change Candidate`
+
+## Current State
+
+`[EXPLORE]` / `[HOLD]` / `CANON candidate`
+
+## Source
+
+- Session extraction, scaffold capture, validation session, or other approved source.
+
+## Evidence Summary
+
+- Short explanation of what the author approved and why it matters.
+
+## Intended Target
+
+- `objects/path_to_object_profile.md`
+- Suggested placement or section when known
+
+## Do Not Treat As Final Yet
+
+- No object profile or canon files are updated during issue logging.
+- Later implementation must repeat the relevant manual validation/checking process before writing or object-profile updates.
+
+## Acceptance Criteria
+
+- Candidate guidance is preserved accurately.
+- Scope is stated clearly.
+- Candidate passed one-by-one approval before logging.
+- No canon files are updated unless separately approved.
+```
+
+## Candidate Organisation Guidance Issue Template
+
+```md
+## Type
+
+Candidate Organisation Guidance
+
+## Recommended Labels
+
+- `mode:session-extraction`, `mode:profile-scan`, or `mode:scaffold-capture`
+- `type:candidate-organisation`
+- `scope:...`
+
+## Guidance
+
+One validated organisation-profile or organisation-guidance item.
+
+## Scope
+
+`Organisation Profile Item` / `Organisation Logic` / `Organisation Change Candidate`
+
+## Current State
+
+`[EXPLORE]` / `[HOLD]` / `CANON candidate`
+
+## Source
+
+- Session extraction, scaffold capture, validation session, or other approved source.
+
+## Evidence Summary
+
+- Short explanation of what the author approved and why it matters.
+
+## Intended Target
+
+- `organisations/path_to_organisation_profile.md`
+- Suggested placement or section when known
+
+## Do Not Treat As Final Yet
+
+- No organisation profile or canon files are updated during issue logging.
+- Later implementation must repeat the relevant manual validation/checking process before writing or organisation-profile updates.
 
 ## Acceptance Criteria
 

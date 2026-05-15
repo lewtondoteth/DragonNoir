@@ -2,7 +2,7 @@
 
 Generated helper index for Dragon Noir agents.
 
-- Generated at: `2026-05-15T16:06:48+00:00`
+- Generated at: `2026-05-15T19:28:38+00:00`
 
 ## Authoritative Reference
 
@@ -12,6 +12,9 @@ Generated helper index for Dragon Noir agents.
 - `characters/pink_dragon_character_profile.md`
 - `locations/Toy_City_location_profile.md`
 - `locations/Dragon_Office_location_profile.md`
+- `cases/README.md`
+- `objects/README.md`
+- `organisations/README.md`
 
 ## Modes
 
@@ -36,8 +39,8 @@ Generated helper index for Dragon Noir agents.
 ### Profile Pull
 
 - Route: `notes/profile_scan_workflow.md`
-- Default action: scan prose, identify profile guidance or conflicts, validate or clarify, then log issues by default
-- Aliases: `profile scan`, `character scan`, `scan this prose for profile updates`
+- Default action: scan prose, identify entity guidance or conflicts, validate or clarify, then log issues by default
+- Aliases: `profile scan`, `character scan`, `entity scan`, `scan this prose for profile updates`
 
 ### Consistency Scan
 
@@ -95,6 +98,9 @@ Generated helper index for Dragon Noir agents.
 - `type:candidate-rule`
 - `type:candidate-character`
 - `type:candidate-location`
+- `type:candidate-case`
+- `type:candidate-object`
+- `type:candidate-organisation`
 - `type:consistency-fix`
 
 ### scope_examples
@@ -105,6 +111,10 @@ Generated helper index for Dragon Noir agents.
 - `scope:odette`
 
 ## Top-Level Files
+
+### cases
+
+- `cases/README.md`
 
 ### chapters
 
@@ -141,9 +151,17 @@ Generated helper index for Dragon Noir agents.
 - `notes/session_extraction_workflow.md`
 - `notes/writing_workflow.md`
 
+### objects
+
+- `objects/README.md`
+
 ### outlines
 
 - `outlines/chapter_01_narrative_beats.md`
+
+### organisations
+
+- `organisations/README.md`
 
 ### rules
 
