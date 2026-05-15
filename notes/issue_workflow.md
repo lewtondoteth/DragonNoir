@@ -38,6 +38,12 @@ Use this when material should be assessed against the repo rules.
 
 The agent must use the Review Path and stay read-only. It may log detailed issues and suggested fixes, but must not edit prose or resolve the issues itself.
 
+## Consistency Fix Issue
+
+Use this when review, profile scan, character scan, consistency scan, or writing follow-up work identifies a real clash, contradiction, profile gap, or location-logic mismatch that should be repaired later.
+
+These issues are for fixable inconsistencies or missing bounded guidance. They are not permission to rewrite the repo immediately.
+
 ## Planning / Scaffold Issue
 
 Use this when material should be preserved as provisional development material.
@@ -70,6 +76,14 @@ Use this when a validated location-profile item, district note, institution note
 
 These issues are for approved location guidance that still needs later implementation. They are not proof that the repo has already accepted the item into a location profile, story bible, or other canon file.
 Do not create a Candidate Location Guidance Issue from exploratory discussion alone. Each candidate must first pass one-by-one approval.
+
+## Shared Dedupe Rule
+
+Before logging any new issue from Review, Session Extraction, Profile Pull, Character Scan, Consistency Scan, Scaffold Capture, or Writing follow-up preservation:
+
+1. check whether an open issue already tracks the same scope
+2. if yes, reference the existing issue instead of creating a duplicate
+3. only create a new issue when there is a genuinely new unresolved repo task
 
 ---
 
@@ -130,6 +144,44 @@ If the validated candidate is already adequately represented in the repo, do not
 - no issue
 - a refinement note in the extraction or validation report
 - a narrowly scoped implementation issue only if there is a genuine gap, ambiguity, missing section, or placement problem to resolve
+
+All issue types should also include, when known:
+
+- existing matching issue check result
+- recommended labels
+
+## Recommended Labels
+
+Use labels consistently when the repository or GitHub setup supports them.
+
+### Mode Labels
+
+- `mode:writing`
+- `mode:review`
+- `mode:session-extraction`
+- `mode:profile-scan`
+- `mode:scaffold-capture`
+- `mode:issue-work`
+
+### Type Labels
+
+- `type:implementation`
+- `type:review`
+- `type:scaffold`
+- `type:canon-promotion`
+- `type:candidate-rule`
+- `type:candidate-character`
+- `type:candidate-location`
+- `type:consistency-fix`
+
+### Scope Labels
+
+Use narrow scope labels when they help prevent duplication, for example:
+
+- `scope:chapter-1`
+- `scope:dragon-office`
+- `scope:toy-city`
+- `scope:odette`
 
 ---
 
@@ -193,6 +245,11 @@ Use these templates when logging GitHub issues.
 
 Implementation
 
+## Recommended Labels
+
+- `type:implementation`
+- `scope:...`
+
 ## Target Files
 
 - `path/to/file.md`
@@ -239,6 +296,12 @@ Describe the change to make.
 
 Review only
 
+## Recommended Labels
+
+- `mode:review`
+- `type:review`
+- `scope:...`
+
 ## Target Material
 
 - `path/to/file.md`
@@ -255,6 +318,8 @@ Review only
 - Canon/provisional boundary.
 - Factual continuity.
 - Scene function.
+- Tone consistency.
+- Location consistency.
 
 ## Relevant References
 
@@ -276,12 +341,70 @@ Each issue should include:
 - suggested resolution direction
 ```
 
+## Consistency Fix Issue Template
+
+```md
+## Type
+
+Consistency Fix
+
+## Recommended Labels
+
+- `mode:review` or `mode:profile-scan`
+- `type:consistency-fix`
+- `scope:...`
+
+## Target Material
+
+- `path/to/file.md`
+- profile, location, outline, or draft area where the clash appears
+
+## Conflict Summary
+
+Describe the contradiction, mismatch, or missing bounded guidance.
+
+## Conflicts With
+
+- `path/to/reference.md`
+- specific profile, rule, location, or canon point
+
+## Why It Matters
+
+- tone / continuity / motive / action / spatial logic / canon integrity
+
+## Clarification Status
+
+- confirmed by author
+- still needs one clarification
+- inferred from repo comparison only
+
+## Suggested Repair Direction
+
+- update the draft
+- update the profile
+- add bounded guidance
+- revise the outline
+
+## Acceptance Criteria
+
+- issue states the clash clearly
+- conflicting references are named
+- duplicate check was performed
+- no repo files are edited during issue logging
+```
+
 ## Planning / Scaffold Issue Template
 
 ```md
 ## Type
 
 Planning / Scaffold
+
+## Recommended Labels
+
+- `mode:scaffold-capture`
+- `type:scaffold`
+- `scope:...`
 
 ## Target Files
 
@@ -324,6 +447,11 @@ Capture the exploratory structure, beat, idea, object, relationship, or case sha
 
 Canon Promotion
 
+## Recommended Labels
+
+- `type:canon-promotion`
+- `scope:...`
+
 ## Source Material
 
 - `notes/source_file.md`
@@ -363,6 +491,12 @@ Why this is now stable enough to become canon.
 ## Type
 
 Candidate Rule
+
+## Recommended Labels
+
+- `mode:session-extraction`
+- `type:candidate-rule`
+- `scope:...`
 
 ## Rule
 
@@ -408,6 +542,12 @@ EXPLORE / HOLD / CANON candidate / unclear
 
 Candidate Character Guidance
 
+## Recommended Labels
+
+- `mode:session-extraction` or `mode:profile-scan`
+- `type:candidate-character`
+- `scope:...`
+
 ## Guidance
 
 One validated character-profile, dynamic, or behavior-guidance item.
@@ -452,6 +592,12 @@ One validated character-profile, dynamic, or behavior-guidance item.
 ## Type
 
 Candidate Location Guidance
+
+## Recommended Labels
+
+- `mode:session-extraction` or `mode:profile-scan`
+- `type:candidate-location`
+- `scope:...`
 
 ## Guidance
 

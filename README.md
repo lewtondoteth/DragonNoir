@@ -44,8 +44,11 @@ DragonNoir/
 │   ├── README.md
 │   ├── development_options.md
 │   ├── issue_workflow.md
+│   ├── mode_preflight_workflow.md
 │   ├── opening_case_music_box_scaffold.md
 │   ├── profile_scan_workflow.md
+│   ├── repo_manifest.json
+│   ├── repo_manifest.md
 │   ├── repo_connection_workflow.md
 │   ├── scaffold_capture_workflow.md
 │   ├── rule_validation_workflow.md
@@ -58,10 +61,13 @@ DragonNoir/
 ├── scenes/
 │   ├── README.md
 │   └── chapter_01_office_entry_coffee_ritual_draft.md
-└── story_bible/
+├── story_bible/
+│   ├── README.md
+│   ├── Toy_Noir_Dragon_AI_Prompt_Pack.md
+│   └── Toy_Noir_Dragon_Standalone_Story_Bible.md
+└── tools/
     ├── README.md
-    ├── Toy_Noir_Dragon_AI_Prompt_Pack.md
-    └── Toy_Noir_Dragon_Standalone_Story_Bible.md
+    └── generate_repo_manifest.py
 ```
 
 ## Working Structure
@@ -75,6 +81,7 @@ DragonNoir/
 - `discarded_or_experimental/` — retired alternatives and preserved non-canonical material
 - `notes/` — planning notes, continuity tracking, mystery structure, and revision notes
 - `story_bible/` — authoritative noir project bible and prompt pack
+- `tools/` — small maintenance helpers for manifest generation and repo upkeep
 
 ## Chapter 1 Workflow
 
@@ -115,7 +122,10 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `locations/Toy_City_location_profile.md` — canonical setting profile for Toy City atmosphere, scale, and city logic.
 - `locations/Dragon_Office_location_profile.md` — canonical location profile for Dragon's office as recurring scene space.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
+- `notes/mode_preflight_workflow.md` — shared preflight for manifest refresh, scoped file loading, and open-issue dedupe before mode work.
 - `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
+- `notes/repo_manifest.json` — generated machine-readable repo index for agent orientation.
+- `notes/repo_manifest.md` — generated human-readable repo index for agent orientation.
 - `notes/profile_scan_workflow.md` — workflow for a manual profile pull from prose, extracting durable character-profile, location-profile, and spatial guidance from draft text.
 - `notes/scaffold_capture_workflow.md` — workflow for capturing plot directions and scaffolds as provisional planning while separating out reusable knowledge.
 - `notes/session_extraction_workflow.md` — provisional workflow for extracting reusable writing knowledge from shared ChatGPT sessions or exported logs.
@@ -123,6 +133,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `notes/writing_workflow.md` — drafting workflow that forces chapter/scene/character context retrieval before prose generation.
 - `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
 - `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
+- `tools/generate_repo_manifest.py` — regenerates the repo manifest so agent orientation scales as files and modes are added.
 
 ## Issue Workflow
 
@@ -141,6 +152,8 @@ For `Session Extraction` and `Profile Pull`, the default preservation path is:
 3. log the approved result as the appropriate issue type
 
 Do not treat extraction approval by itself as permission to directly update canon files unless the user explicitly switches into implementation or direct canon-update work.
+
+Before logging any new issue in Review, Session Extraction, Profile Pull, Character Scan, Consistency Scan, Writing follow-up logging, or Scaffold Capture, check whether the same scope is already tracked by an open issue and reuse it instead of creating a duplicate.
 
 Implementation agents should treat issues as scoped instructions, not permission to broadly rewrite. Review issues use the read-only AI Review Path. Planning/scaffold issues stay provisional unless the issue explicitly says to promote material into canon.
 
@@ -171,6 +184,8 @@ Use `Profile Pull` when the useful profile knowledge is already embodied in pros
 
 This mode also covers `Character Scan` work: reading prose to extract durable character guidance and to check for clashes against the current character or location profiles.
 
+`Consistency Scan` is an accepted alias when the main goal is to compare prose against the current rules, character profiles, and location profiles and then log any needed fix issues.
+
 The intended flow is:
 
 1. provide the prose, scene, chapter, or passage
@@ -179,6 +194,17 @@ The intended flow is:
 4. validate any character-profile, location-profile, or spatial-guidance findings one by one
 5. log approved profile candidates as issues unless direct implementation is explicitly requested
 6. if the scan finds a clash or inconsistency, identify it clearly, ask any needed clarification questions one at a time, and log a fix issue unless direct implementation is explicitly requested
+
+## Shared Mode Preflight
+
+Use `notes/mode_preflight_workflow.md` before mode-specific work when the scope is non-trivial, the repo tree has changed, or issue dedupe matters.
+
+The preflight should:
+
+1. refresh the repo manifest with `python3 tools/generate_repo_manifest.py` when needed
+2. load the minimum relevant files for the current scope
+3. check for already-open matching issues
+4. give a short mode-specific orientation summary before proceeding
 
 ## Drafting-State Protocol
 

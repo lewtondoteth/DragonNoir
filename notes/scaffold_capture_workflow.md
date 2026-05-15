@@ -160,6 +160,23 @@ Store local patterns near the chapter, scene, or dynamic they govern.
 
 Route global-rule candidates into `notes/rule_validation_workflow.md` before they are added anywhere authoritative.
 
+### 6. Check For Existing Open Issues Before Logging
+
+If the author wants the scaffold or any derived guidance preserved through issue logging:
+
+1. check whether an open issue already tracks the same scaffold, local pattern, or guidance gap
+2. if yes, reference the existing issue and do not create a duplicate
+3. if no, log the correct issue type
+
+If the scaffold summary or derived guidance is still ambiguous:
+
+1. ask one clarification question at a time
+2. allow correction
+3. restate the corrected understanding
+4. only then log the issue
+
+If the result is mainly a repair path for an inconsistency or missing bounded guidance, prefer a `Consistency Fix Issue` or narrowly scoped `Implementation Issue` over a second vague scaffold ticket.
+
 ## What This Mode Should Produce
 
 The default output should be short and structured.
@@ -173,6 +190,7 @@ It should usually include:
 - `Global Rule Candidates Found`
 - `What Stays Provisional`
 - `Suggested Repo Target`
+- `Existing Open Issue` when one already tracks the same work
 
 ## What This Mode Should Not Do
 
@@ -191,6 +209,7 @@ Do not:
 - Use `notes/session_extraction_workflow.md` when the source is a transcript/session and the goal is rules extraction.
 - Use `notes/rule_validation_workflow.md` when a scaffold produces candidate local/global guidance that should be approved one by one.
 - Use `notes/issue_workflow.md` when the author wants the scaffold logged as a GitHub planning/scaffold issue.
+- Use `notes/mode_preflight_workflow.md` to refresh the manifest and perform open-issue dedupe before logging.
 
 ## Minimal Agent Prompt
 

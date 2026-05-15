@@ -1,0 +1,188 @@
+{
+  "generated_at_utc": "2026-05-15T16:06:48+00:00",
+  "repo_name": "DragonNoir",
+  "authoritative_reference": [
+    "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
+    "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
+    "rules/noir_narration_rules.md",
+    "characters/pink_dragon_character_profile.md",
+    "locations/Toy_City_location_profile.md",
+    "locations/Dragon_Office_location_profile.md"
+  ],
+  "modes": [
+    {
+      "name": "Writing",
+      "route": "notes/writing_workflow.md",
+      "aliases": [
+        "draft",
+        "write",
+        "continue chapter",
+        "scene revision"
+      ],
+      "default_action": "retrieve scope context, check open issues, then draft"
+    },
+    {
+      "name": "Review",
+      "route": "AI_REPO_CONTEXT.md#review-path",
+      "aliases": [
+        "review",
+        "critique",
+        "audit prose",
+        "feedback"
+      ],
+      "default_action": "read-only review, ask clarifications one at a time if needed, then log issues"
+    },
+    {
+      "name": "Session Extraction",
+      "route": "notes/session_extraction_workflow.md",
+      "aliases": [
+        "extract from chat",
+        "extract from transcript",
+        "chat extraction"
+      ],
+      "default_action": "extract, validate one by one, then log issues by default"
+    },
+    {
+      "name": "Profile Pull",
+      "route": "notes/profile_scan_workflow.md",
+      "aliases": [
+        "profile scan",
+        "character scan",
+        "scan this prose for profile updates"
+      ],
+      "default_action": "scan prose, identify profile guidance or conflicts, validate or clarify, then log issues by default"
+    },
+    {
+      "name": "Consistency Scan",
+      "route": "notes/profile_scan_workflow.md",
+      "aliases": [
+        "consistency scan",
+        "scan this prose for character consistency"
+      ],
+      "default_action": "check prose against rules, profiles, and location logic, then log issues by default"
+    },
+    {
+      "name": "Rule Validation",
+      "route": "notes/rule_validation_workflow.md",
+      "aliases": [
+        "validate rules",
+        "rule by rule"
+      ],
+      "default_action": "validate candidates one at a time"
+    },
+    {
+      "name": "Rule Audit",
+      "route": "notes/rule_validation_workflow.md#existing-rule-audit",
+      "aliases": [
+        "audit rules",
+        "review current rules"
+      ],
+      "default_action": "audit existing rules one by one"
+    },
+    {
+      "name": "Scaffold Capture",
+      "route": "notes/scaffold_capture_workflow.md",
+      "aliases": [
+        "capture scaffold",
+        "capture plot direction"
+      ],
+      "default_action": "separate scaffold, local guidance, and global knowledge, then log issues by default when preserving"
+    },
+    {
+      "name": "Canon Promotion",
+      "route": "notes/issue_workflow.md#canon-promotion-issue-template",
+      "aliases": [
+        "promote to canon",
+        "canonise"
+      ],
+      "default_action": "promote explicitly approved material only"
+    },
+    {
+      "name": "Issue Work",
+      "route": "notes/issue_workflow.md",
+      "aliases": [
+        "log issue",
+        "implement issue",
+        "close issue"
+      ],
+      "default_action": "use issue workflow and acceptance criteria"
+    }
+  ],
+  "issue_labels": {
+    "mode": [
+      "mode:writing",
+      "mode:review",
+      "mode:session-extraction",
+      "mode:profile-scan",
+      "mode:scaffold-capture",
+      "mode:issue-work"
+    ],
+    "type": [
+      "type:implementation",
+      "type:review",
+      "type:scaffold",
+      "type:canon-promotion",
+      "type:candidate-rule",
+      "type:candidate-character",
+      "type:candidate-location",
+      "type:consistency-fix"
+    ],
+    "scope_examples": [
+      "scope:chapter-1",
+      "scope:dragon-office",
+      "scope:toy-city",
+      "scope:odette"
+    ]
+  },
+  "top_level_files": {
+    "chapters": [
+      "chapters/README.md",
+      "chapters/chapter_01_opening.md"
+    ],
+    "characters": [
+      "characters/pink_dragon_character_profile.md"
+    ],
+    "discarded_or_experimental": [
+      "discarded_or_experimental/README.md"
+    ],
+    "locations": [
+      "locations/Dragon_Office_location_profile.md",
+      "locations/README.md",
+      "locations/Toy_City_location_profile.md"
+    ],
+    "notes": [
+      "notes/README.md",
+      "notes/development_options.md",
+      "notes/issue_workflow.md",
+      "notes/mode_preflight_workflow.md",
+      "notes/opening_case_music_box_scaffold.md",
+      "notes/profile_scan_workflow.md",
+      "notes/repo_connection_workflow.md",
+      "notes/repo_manifest.json",
+      "notes/repo_manifest.md",
+      "notes/rule_validation_workflow.md",
+      "notes/scaffold_capture_workflow.md",
+      "notes/session_extraction_workflow.md",
+      "notes/writing_workflow.md"
+    ],
+    "outlines": [
+      "outlines/chapter_01_narrative_beats.md"
+    ],
+    "rules": [
+      "rules/noir_narration_rules.md"
+    ],
+    "scenes": [
+      "scenes/README.md",
+      "scenes/chapter_01_office_entry_coffee_ritual_draft.md"
+    ],
+    "story_bible": [
+      "story_bible/README.md",
+      "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
+      "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md"
+    ],
+    "tools": [
+      "tools/README.md",
+      "tools/generate_repo_manifest.py"
+    ]
+  }
+}

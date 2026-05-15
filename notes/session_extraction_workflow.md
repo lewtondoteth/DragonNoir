@@ -206,6 +206,7 @@ Before extraction, read:
 
 1. `README.md`
 2. `AI_REPO_CONTEXT.md`
+3. `notes/mode_preflight_workflow.md` when the scope is non-trivial or issue logging is likely
 3. Relevant canon or style files if the session touches them:
    - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
    - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
@@ -442,8 +443,8 @@ It should usually contain:
 - a short note if the session is mostly scene-specific rather than rule-heavy
 - a short note when the session mostly confirms guidance the repo already has
 - a short note when a candidate is better treated as a refinement of existing guidance than as a fresh issue
-- a closing question such as:
-  - `Do you want to validate these one by one, log the scaffold items, or both?`
+  - a closing question such as:
+    - `Do you want to validate these one by one, log the scaffold items, or both?`
 
 By default, do not lead with:
 
@@ -501,7 +502,6 @@ The expanded report should also mark each candidate as one of:
 - `New`
 - `Refinement of existing guidance`
 - `Duplicate of existing guidance`
-- `Refinement of existing guidance`
 - `Unclear / needs comparison`
 
 If the session is mostly local revision intelligence, the expanded report should still say that plainly instead of inflating local corrections into a fake rule system.
@@ -600,7 +600,7 @@ Two or three sentences on what the session mainly discovered.
 
 ## Next Step
 
-Do you want to validate these one by one?
+Do you want to validate these one by one, log the scaffold items, or both?
 ```
 
 ## Expanded Extraction Report Template

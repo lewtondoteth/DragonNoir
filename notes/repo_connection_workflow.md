@@ -38,12 +38,19 @@ On connection, read:
 
 1. `README.md`
 2. `AI_REPO_CONTEXT.md`
+3. `notes/mode_preflight_workflow.md`
 
 Then briefly scan the current working structure, relevant notes, and current worktree status if needed.
 
 The goal is to be able to say, in effect:
 
 > I have looked at the repo, opened the key guidance, and I know what is available from here.
+
+If the tree has changed or the scope is non-trivial, refresh the repo manifest before mode work:
+
+```bash
+python3 tools/generate_repo_manifest.py
+```
 
 ## What The Agent Should Report After Connecting
 
@@ -63,7 +70,7 @@ After orienting, the agent should ask what mode the author wants.
 
 The routing question should be simple and concrete, for example:
 
-> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Profile Pull / Character Scan, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
+> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Profile Pull / Character Scan / Consistency Scan, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
 
 If the author already made the mode clear, do not ask again. Route immediately.
 
@@ -134,6 +141,7 @@ Treat these phrases as the same mode:
 - `Profile Pull`
 - `Profile Scan`
 - `Character Scan`
+- `Consistency Scan`
 - `scan this prose for profile updates`
 - `scan this prose for character consistency`
 - `pull profile guidance from this chapter`
@@ -221,6 +229,10 @@ Example:
   - connect
   - route to Profile Pull
 
+- `connect to DragonNoir and run a consistency scan on this chapter`
+  - connect
+  - route to Profile Pull
+
 ## Safety Rules
 
 During connection and routing:
@@ -246,7 +258,7 @@ Read `README.md` and `AI_REPO_CONTEXT.md`, orient yourself to the repo, summariz
 - Writing
 - Review
 - Session Extraction
-- Profile Pull
+- Profile Pull / Character Scan / Consistency Scan
 - Rule Validation
 - Rule Audit
 - Scaffold Capture

@@ -53,6 +53,8 @@ For plot-direction, sequence-scaffold, or structural-scaffold capture work, also
 
 For prose-to-profile or prose-to-location extraction work, also load `notes/profile_scan_workflow.md`.
 
+For shared setup, manifest refresh, and open-issue dedupe, also load `notes/mode_preflight_workflow.md` when the scope is non-trivial.
+
 For `Session Extraction` and `Profile Pull`, prefer issue-based preservation by default: validate findings one by one, then log the approved candidate using the appropriate issue template unless the user explicitly asks for immediate repo implementation.
 
 ## Canon separation rule
@@ -99,6 +101,7 @@ For any task:
 6. Apply the drafting-state protocol before repo writes or issue logging.
 7. For writing work, retrieve and summarize scope-specific context before generating prose.
 8. For extraction or profile-scan work, prefer validated issue logging over direct canon edits unless the user explicitly asks to apply the change now.
+9. For review, profile-scan, extraction, scaffold-capture, or writing-follow-up logging work, check for already-open matching issues before creating a new one.
 
 ## Review Path
 
@@ -117,6 +120,7 @@ Before reviewing, load:
 5. relevant character profiles
 6. relevant location profiles
 7. Any relevant chapter, scene, outline, or note named by the user
+8. `notes/mode_preflight_workflow.md` when issue logging or dedupe is likely
 
 Review priorities, in order:
 
@@ -148,6 +152,8 @@ If review identifies a conflict or uncertainty that needs author input before th
 4. then log it
 
 The default repair path in review mode is to identify and log issues, not to fix them directly.
+
+Before logging a new review or consistency-fix issue, check whether an open issue already tracks the same clash or gap.
 
 Do not treat personal preference as an issue unless it affects the established noir voice, pacing, canon, or story logic.
 

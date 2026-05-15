@@ -1,4 +1,4 @@
-# Profile Pull / Profile Scan Workflow
+# Profile Pull / Profile Scan / Character Scan Workflow
 
 Provisional workflow for scanning existing prose and extracting durable character-profile, location-profile, dynamic, or spatial guidance from what is already on the page.
 
@@ -19,7 +19,7 @@ It is a profile-focused extraction pass over prose.
 
 You can think of this as a manual profile pull from prose.
 
-This same mode also covers `Character Scan`: pulling durable character guidance from prose and checking whether the passage clashes with the current character or location profiles.
+This same mode also covers `Character Scan` and `Consistency Scan`: pulling durable character guidance from prose and checking whether the passage clashes with the current character or location profiles.
 
 ## Inputs
 
@@ -43,6 +43,7 @@ Before scanning, read:
 6. relevant character profiles
 7. relevant location profiles
 8. relevant chapter, scene, outline, or note files
+9. `notes/mode_preflight_workflow.md` when the scope is non-trivial or issue logging is likely
 
 ## What To Look For
 
@@ -147,6 +148,16 @@ The normal conflict path is:
 3. clarify one question at a time if needed
 4. log the issue
 5. implement later if and when the author asks
+
+## Open-Issue Dedupe
+
+Before logging a new issue from a profile pull, character scan, or consistency scan:
+
+1. check whether an open issue already tracks the same profile item, conflict, or gap
+2. if yes, reference the existing issue and do not create a duplicate
+3. if no, log the issue using the appropriate issue type
+
+Use `Consistency Fix Issue` when the main result is a clash, contradiction, or profile-gap repair path rather than a new guidance candidate.
 
 ## Do Not
 

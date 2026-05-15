@@ -43,9 +43,12 @@ Always load:
 
 1. `README.md`
 2. `AI_REPO_CONTEXT.md`
-3. `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
-4. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
-5. `rules/noir_narration_rules.md`
+3. `notes/mode_preflight_workflow.md`
+4. `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+5. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+6. `rules/noir_narration_rules.md`
+
+Refresh `notes/repo_manifest.json` with `python3 tools/generate_repo_manifest.py` when the tree has changed or the scope is non-trivial.
 
 ### 2. Scope-Specific Canon
 
