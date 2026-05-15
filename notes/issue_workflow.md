@@ -401,6 +401,96 @@ EXPLORE / HOLD / CANON candidate / unclear
 - No canon files are updated unless separately approved.
 ```
 
+## Candidate Character Guidance Issue Template
+
+```md
+## Type
+
+Candidate Character Guidance
+
+## Guidance
+
+One validated character-profile, dynamic, or behavior-guidance item.
+
+## Scope
+
+`Character Profile Item` / `Dynamic Guidance` / `Profile Change Candidate`
+
+## Current State
+
+`[EXPLORE]` / `[HOLD]` / `CANON candidate`
+
+## Source
+
+- Session extraction, validation session, or other approved source.
+
+## Evidence Summary
+
+- Short explanation of what the author approved and why it matters.
+
+## Intended Target
+
+- `characters/path_to_profile.md`
+- Suggested placement or section when known
+
+## Do Not Treat As Final Yet
+
+- No profile or canon files are updated during issue logging.
+- Later implementation must repeat the relevant manual validation/checking process before writing or profile updates.
+
+## Acceptance Criteria
+
+- Candidate guidance is preserved accurately.
+- Scope is stated clearly.
+- Candidate passed one-by-one approval before logging.
+- No canon files are updated unless separately approved.
+```
+
+## Candidate Location Guidance Issue Template
+
+```md
+## Type
+
+Candidate Location Guidance
+
+## Guidance
+
+One validated location-profile, district, institution, or place-guidance item.
+
+## Scope
+
+`Location Profile Item` / `District Guidance` / `Institution Guidance` / `Place Change Candidate`
+
+## Current State
+
+`[EXPLORE]` / `[HOLD]` / `CANON candidate`
+
+## Source
+
+- Session extraction, validation session, or other approved source.
+
+## Evidence Summary
+
+- Short explanation of what the author approved and why it matters.
+
+## Intended Target
+
+- `locations/path_to_location_profile.md`
+- Suggested placement or section when known
+
+## Do Not Treat As Final Yet
+
+- No location profile or canon files are updated during issue logging.
+- Later implementation must repeat the relevant manual validation/checking process before writing or profile updates.
+
+## Acceptance Criteria
+
+- Candidate guidance is preserved accurately.
+- Scope is stated clearly.
+- Candidate passed one-by-one approval before logging.
+- No canon files are updated unless separately approved.
+```
+
 ## Follow-Up Issue Template
 
 ```md

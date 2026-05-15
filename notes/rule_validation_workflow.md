@@ -137,6 +137,12 @@ In this mode:
 3. if the author wants correction first, revise the card and ask again
 4. record that later implementation must still repeat the relevant manual checking process before writing
 
+Use the issue type that matches the candidate:
+
+- `Candidate Rule Issue`
+- `Candidate Character Guidance Issue`
+- `Candidate Location Guidance Issue`
+
 The logging path is for preserving approved candidates and creating a work queue. It is not the same thing as canon promotion.
 
 No issue should be created from an unvalidated candidate. Summary-level extraction output is not enough.
