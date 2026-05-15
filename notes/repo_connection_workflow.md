@@ -63,7 +63,7 @@ After orienting, the agent should ask what mode the author wants.
 
 The routing question should be simple and concrete, for example:
 
-> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
+> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Profile Pull, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
 
 If the author already made the mode clear, do not ask again. Route immediately.
 
@@ -107,6 +107,23 @@ This is a separate analysis role, not a continuation of Writing mode. The normal
 4. let the extraction agent analyze the session after the fact
 
 This separation exists so drafting interests and extraction interests do not get mixed together.
+
+### Profile Pull
+
+Use for scanning existing prose and extracting durable character-profile, location-profile, dynamic, or spatial guidance from the draft itself.
+
+Route to:
+
+- `notes/profile_scan_workflow.md`
+
+This mode is for reading what the prose already implies and deciding what belongs in profiles or bounded guidance, especially when useful spatial characteristics or stable place logic have emerged through drafting.
+
+Treat these phrases as the same mode:
+
+- `Profile Pull`
+- `Profile Scan`
+- `scan this prose for profile updates`
+- `pull profile guidance from this chapter`
 
 ### Rule Validation
 
@@ -187,6 +204,10 @@ Example:
   - connect
   - route to Scaffold Capture
 
+- `connect to DragonNoir and scan this chapter for profile updates`
+  - connect
+  - route to Profile Pull
+
 ## Safety Rules
 
 During connection and routing:
@@ -197,6 +218,7 @@ During connection and routing:
 - do not route Review into Writing unless the author explicitly changes modes
 - do not route Session Extraction straight into canon edits without Rule Validation
 - do not treat Session Extraction as live drafting or prose generation
+- do not treat Profile Pull as ordinary prose critique or as permission to silently update profiles
 - do not route Rule Validation into canon changes without rule-by-rule approval
 - do not route Scaffold Capture straight into canon promotion without explicit approval
 
@@ -211,6 +233,7 @@ Read `README.md` and `AI_REPO_CONTEXT.md`, orient yourself to the repo, summariz
 - Writing
 - Review
 - Session Extraction
+- Profile Pull
 - Rule Validation
 - Rule Audit
 - Scaffold Capture

@@ -34,6 +34,7 @@ The agent should look for:
 - plot directions and scaffolds
 - candidate profile changes or dynamic guidance
 - candidate location-profile changes or place guidance
+- spatial characteristics that may belong in location profiles
 - anti-patterns
 - canon, hold, or explore-state decisions
 - continuity risks
@@ -334,6 +335,8 @@ Examples:
 
 - Dragon's office should undermine professionalism through dampness, drafts, clutter, and weak heat
 - Toy City should signal preservation pressure, social difference, and repair politics through visible consequences rather than lore explanation
+- a recurring location may imply stable geometry, object grouping, approach path, or weather-pressure side that belongs in a location profile
+- the prose may establish what can vary in a room and what should stay spatially stable
 
 These may later target location profiles, chapter-bounded notes, or scene-pattern references after one-by-one approval.
 

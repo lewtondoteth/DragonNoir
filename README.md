@@ -45,6 +45,7 @@ DragonNoir/
 │   ├── development_options.md
 │   ├── issue_workflow.md
 │   ├── opening_case_music_box_scaffold.md
+│   ├── profile_scan_workflow.md
 │   ├── repo_connection_workflow.md
 │   ├── scaffold_capture_workflow.md
 │   ├── rule_validation_workflow.md
@@ -115,6 +116,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `locations/Dragon_Office_location_profile.md` — canonical location profile for Dragon's office as recurring scene space.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
 - `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
+- `notes/profile_scan_workflow.md` — workflow for a manual profile pull from prose, extracting durable character-profile, location-profile, and spatial guidance from draft text.
 - `notes/scaffold_capture_workflow.md` — workflow for capturing plot directions and scaffolds as provisional planning while separating out reusable knowledge.
 - `notes/session_extraction_workflow.md` — provisional workflow for extracting reusable writing knowledge from shared ChatGPT sessions or exported logs.
 - `notes/rule_validation_workflow.md` — provisional workflow for validating extracted or existing rules one by one before canon updates.
@@ -152,6 +154,17 @@ The intended flow is:
 4. let the extraction agent analyze the session for durable knowledge
 
 This keeps prose generation and post-writing extraction as distinct activities with different goals.
+
+## Profile Pull Flow
+
+Use `Profile Pull` when the useful profile knowledge is already embodied in prose and should be extracted from the draft itself rather than from a chat export.
+
+The intended flow is:
+
+1. provide the prose, scene, chapter, or passage
+2. switch into `Profile Pull`
+3. let the agent separate durable profile guidance from local scene staging
+4. validate any character-profile, location-profile, or spatial-guidance findings before updating canon files
 
 ## Drafting-State Protocol
 

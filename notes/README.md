@@ -11,6 +11,7 @@ Opening-case scaffolds and exploratory plot foundations belong here until explic
 - `development_options.md` — retired, backup, and exploratory ideas.
 - `issue_workflow.md` — GitHub issue handoff workflow, issue types, acceptance criteria, and drafting-state protocol.
 - `opening_case_music_box_scaffold.md` — provisional opening-case scaffold.
+- `profile_scan_workflow.md` — workflow for a manual profile pull from prose, extracting durable character-profile, location-profile, and spatial guidance.
 - `repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
 - `scaffold_capture_workflow.md` — workflow for capturing plot directions and scaffolds as provisional planning while separating out reusable knowledge.
 - `rule_validation_workflow.md` — provisional workflow for validating extracted or existing rules one by one before canon updates.
