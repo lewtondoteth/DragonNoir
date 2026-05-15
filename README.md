@@ -184,6 +184,8 @@ When logging a new issue, use the templates in `notes/issue_workflow.md` for imp
 
 Before closing an implementation issue, check the acceptance criteria in `notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, post-implementation style/flow conflicts, and `git diff --check`.
 
+When implementing an issue, the agent should not jump straight into editing. It should enter the `Implementation Wizard` from `notes/issue_workflow.md`, show the proposed changes one by one, and get approval before each change is made.
+
 If the scoped work is complete but a criterion or style/flow check exposes a real out-of-scope problem, the agent should allow the implementation through and create a follow-up issue explaining what is wrong and how it might be resolved.
 
 ## Session Extraction Flow

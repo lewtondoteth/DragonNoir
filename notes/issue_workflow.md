@@ -32,6 +32,8 @@ Use this when material should be added, revised, moved, or integrated.
 
 The agent may edit files, but only within the issue scope.
 
+When implementing this issue type, the agent must use the `Implementation Wizard` before making changes.
+
 ## Review Issue
 
 Use this when material should be assessed against the repo rules.
@@ -44,17 +46,23 @@ Use this when review, profile scan, character scan, consistency scan, or writing
 
 These issues are for fixable inconsistencies or missing bounded guidance. They are not permission to rewrite the repo immediately.
 
+When implementing this issue type, the agent must use the `Implementation Wizard` before making changes.
+
 ## Planning / Scaffold Issue
 
 Use this when material should be preserved as provisional development material.
 
 The agent may add or update notes, scaffolds, or planning docs, but must not promote the material into canon unless the issue explicitly says to do so.
 
+If this issue will change repo files rather than only log planning material, the agent must use the `Implementation Wizard` before making changes.
+
 ## Canon Promotion Issue
 
 Use this when provisional material should become active canon.
 
 This must be explicit. Do not infer canon promotion from enthusiasm, repeated discussion, or a polished draft.
+
+When implementing this issue type, the agent must use the `Implementation Wizard` before making changes.
 
 ## Candidate Rule Issue
 
@@ -109,6 +117,95 @@ Before logging any new issue from Review, Session Extraction, Profile Pull, Char
 ---
 
 # 3. Recommended Issue Shape
+
+## Implementation Wizard
+
+When the user asks an agent to process, resolve, implement, or close an issue, the agent must not jump straight into editing.
+
+It must enter an explicit `Implementation Wizard`.
+
+The purpose of the wizard is:
+
+1. break the issue into concrete proposed changes
+2. show those changes to the user one by one
+3. get approval before each change is made
+4. keep the implementation from silently broadening
+
+### Wizard Steps
+
+For issue implementation work:
+
+1. read the issue carefully
+2. inspect the relevant repo files
+3. produce a short `Planned Changes` list
+4. convert that list into one or more `Change Cards`
+5. present the cards one at a time
+6. wait for the user's response before editing
+7. only make the approved change
+8. then move to the next card
+
+Do not batch unrelated edits into one approval.
+
+### Change Card
+
+Each proposed change should be presented in a compact card:
+
+```md
+## Proposed Change
+
+Issue:
+#123
+
+Target:
+`path/to/file.md`
+
+Change:
+One concrete thing to add, revise, move, or remove.
+
+Why:
+Why this change is needed to satisfy the issue.
+
+Scope Check:
+What this change will not touch.
+
+Question:
+Approve this change?
+```
+
+### Allowed User Responses
+
+The user should be able to answer in plain language, for example:
+
+- `yes`
+- `yes that's right`
+- `no`
+- `skip that`
+- `correct: ...`
+
+If the user corrects the description, the agent must restate the corrected change before editing.
+
+### Default Rule
+
+Approval of the issue as a whole is not approval of each concrete file change.
+
+The agent must obtain approval for each concrete change before making it.
+
+### After Each Approved Change
+
+After making an approved change, the agent should:
+
+1. summarize what changed
+2. say which issue card it satisfied
+3. present the next proposed change card, if any
+
+### Closing Rule
+
+An implementation issue should only be closed after:
+
+- every approved change card has been applied
+- skipped or rejected cards are clearly noted
+- acceptance criteria are checked
+- any out-of-scope findings are logged as follow-up issues
 
 An implementation issue should include:
 
@@ -322,6 +419,13 @@ Canonical / Provisional / Experimental / Retired
 
 Describe the change to make.
 
+## Implementation Wizard
+
+- Break the issue into concrete change cards before editing.
+- Present each proposed change one by one.
+- Get explicit approval before each change is made.
+- Restate corrections before editing if the user adjusts the card.
+
 ## Material To Preserve
 
 - Specific lines, beats, discoveries, or constraints to keep.
@@ -342,6 +446,7 @@ Describe the change to make.
 ## Acceptance Criteria
 
 - Scoped requested change is implemented.
+- Each concrete change was approved through the Implementation Wizard before being made.
 - No unrelated prose or structure is rewritten.
 - Canon/provisional status is preserved.
 - README/file index is updated if paths change.

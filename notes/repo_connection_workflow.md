@@ -193,6 +193,8 @@ Route to:
 
 - `notes/issue_workflow.md`
 
+When the user is resolving or implementing an issue, Issue Work should enter the `Implementation Wizard` before any edits are made.
+
 ## Mode Selection Rule
 
 If the author gives only the connection command and nothing else, the agent should orient first and then ask which mode applies.
