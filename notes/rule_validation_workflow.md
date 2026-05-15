@@ -13,6 +13,10 @@ This workflow may be used in two different ways:
 - direct canon update path
 - candidate logging path
 
+It also supports a third review case:
+
+- global HOLD review path
+
 In the candidate logging path, validation still happens rule by rule, but the approved result is logged into issue-based handoff rather than written into canon files immediately.
 
 ## Purpose
@@ -213,6 +217,42 @@ The agent should:
 6. Apply edits only after explicit approval for the specific rule or section.
 
 Audit questions should focus on whether the rule is still true, clear, useful, and placed in the correct file.
+
+## Global HOLD Review
+
+Use this path when the author wants to review held global-rule candidates that are not yet canon but are starting to matter to repeated drafting.
+
+The agent should:
+
+1. gather held `Global Rule` candidates from extraction reports, notes, or open candidate issues
+2. identify which of them are already affecting current or near-term writing
+3. present them one by one using the candidate card format
+4. ask whether each one should be:
+   - promoted to direct canon update path
+   - kept on `[HOLD]`
+   - logged or preserved as future work if not already tracked
+   - demoted to `Local Pattern`
+   - rejected
+
+This review exists to stop held global candidates from drifting into permanent half-status.
+
+### Notification Rule
+
+When writing readiness or scope retrieval discovers a held `Global Rule` candidate that would materially shape the current draft, the agent should say so plainly.
+
+Default phrasing:
+
+> There is a held global-rule candidate relevant to this writing pass. It does not automatically block drafting, but it should either be approved for this pass, left out, or moved into Global HOLD Review.
+
+### Open-Issue Check
+
+Before presenting a held global-rule candidate as if it were untracked, check whether an open candidate issue already exists for it.
+
+If an open issue exists:
+
+- reference it in the card
+- do not create a duplicate
+- use the review to decide whether to keep using the candidate as held guidance, promote it, or leave it parked
 
 ## Audit Card
 

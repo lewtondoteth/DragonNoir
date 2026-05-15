@@ -4,7 +4,7 @@ Provisional workflow for drafting, revising, or continuing prose in the Dragon N
 
 This workflow exists to force retrieval before generation. The agent should not begin prose work from general vibe alone. It should first identify the scope of the work, load the relevant local guidance, and summarize what already governs that scope.
 
-It also exists to prevent unapproved scaffold, style, or character-guidance material from quietly steering the prose. If relevant scaffold, local-pattern, style-guidance, or provisional character-profile items are present but not yet approved for drafting use, the agent must surface them and pause for approval before writing.
+It also exists to prevent unapproved scaffold, style, or character-guidance material from quietly steering the prose. If relevant scaffold, local-pattern, style-guidance, provisional character-profile items, or held global-rule candidates are present but not yet approved for drafting use, the agent must surface them and pause for approval before writing.
 
 ## Purpose
 
@@ -90,6 +90,7 @@ After retrieval and before drafting, the agent must check whether any relevant s
 
 This includes:
 
+- held `Global Rule` candidates that would materially shape the current writing pass
 - scaffolds that shape the chapter, scene, reveal order, case movement, or acceptance logic
 - local patterns that materially affect how the scene should function
 - style guidance that would change pacing, implication, recognition logic, or narration behavior for this scope
@@ -101,7 +102,24 @@ The agent should distinguish between:
 - present in the repo but still `[EXPLORE]` or `[HOLD]`
 - ambiguous enough that approval is still needed
 
-If a scaffold, style, or character-guidance item would materially steer the prose and is not already approved for drafting use, the agent must pause and run a one-by-one approval check before writing.
+If a global-rule candidate, scaffold, style, or character-guidance item would materially steer the prose and is not already approved for drafting use, the agent must pause and run a one-by-one approval check before writing.
+
+## Open-Issue Check Before Approval
+
+Before presenting an approval card for a non-canon item, check whether an open GitHub issue already exists for that exact guidance or scaffold.
+
+If an open issue already exists:
+
+- mention it in the summary or card
+- do not promise to log a second issue for the same thing
+- let the author approve the item for the current writing pass without treating that approval as new canon
+
+If no open issue exists and the item is approved for use in the writing pass:
+
+- the default follow-up should be to preserve it through the appropriate issue-handoff path after drafting, unless the author explicitly says not to log it
+- use the existing issue categories from `notes/issue_workflow.md`
+
+This prevents duplicate issues and also prevents draft-shaping approvals from vanishing without a paper trail.
 
 ## Approval Card Format
 
@@ -115,6 +133,7 @@ Each card should state:
 - `Summary`: what the item says in plain language
 - `Proposed Use In Drafting`: how it would affect this writing pass
 - `Suggested Source`: where the item currently lives
+- `Existing Open Issue`: issue number/link if one already exists, otherwise `none found`
 
 The author should be able to answer in plain language, for example:
 
@@ -127,6 +146,12 @@ The author should be able to answer in plain language, for example:
 If the author corrects the explanation, the agent should restate its understanding before treating the item as approved for use.
 
 If the author approves an item in this step, it may guide the current writing pass. That does not automatically make it global canon.
+
+In Writing mode, approval means:
+
+- approved for this writing pass
+- not automatically canon
+- preserve or reference the relevant issue handoff unless the item is already adequately tracked or the author explicitly declines logging
 
 ## Logging Path For Drafting Guidance
 
@@ -141,9 +166,15 @@ This applies to:
 In this logging path:
 
 - approval still happens one item at a time
+- before logging, check whether an open issue already exists for the same item
 - `yes that's right` may be treated as approval to log immediately when the author has made logging the active path
 - the resulting issue preserves the approved item without treating it as already canon
+- if an open issue already exists, do not create a duplicate; reference the existing issue and continue drafting
 - later implementation must repeat the relevant manual check before updating profile, rule, bible, or note files
+
+When Writing mode triggered the approval card, the default interpretation should be:
+
+> approve for this draft now, and make sure the repo has the right follow-up issue unless one already exists
 
 ## Required Pre-Draft Summary
 
@@ -154,9 +185,11 @@ The summary should usually include:
 - active canon file for this scope
 - governing outline or structure file
 - relevant local patterns or chapter-level constraints
+- relevant approved global rules and any held global-rule candidates that may need review
 - relevant scaffolds or style items already approved for drafting use
 - any scaffold, style, or character-guidance items that still require approval before drafting
 - relevant character or dynamic constraints
+- any already-open issues that are likely to matter to this writing pass
 - what not to import or over-promote
 
 The goal is to be able to say:
@@ -171,8 +204,10 @@ If the work is chapter-based, the agent should explicitly answer:
 2. What outline governs this chapter?
 3. What scene studies or chapter notes are relevant?
 4. What local patterns have been approved for this chapter, if any?
-5. What relevant scaffolds or style items still need approval before they can shape the prose?
-6. What provisional material is nearby but should not be mistaken for canon?
+5. What held global-rule candidates might materially affect this chapter and still need review?
+6. What relevant scaffolds or style items still need approval before they can shape the prose?
+7. What open issues already track those items, if any?
+8. What provisional material is nearby but should not be mistaken for canon?
 
 Example for Chapter 1:
 
@@ -189,9 +224,11 @@ If the work is scene-based, the agent should explicitly answer:
 2. What canonical chapter material surrounds it?
 3. What local scene study or draft already exists?
 4. What chapter-level patterns constrain this scene?
-5. What scaffolds or style items would materially shape this scene?
-6. Which of those are approved for drafting use, and which still need approval?
-7. What character-dynamic rules matter here?
+5. What held global-rule candidates would materially shape this scene?
+6. What scaffolds or style items would materially shape this scene?
+7. Which of those are approved for drafting use, and which still need approval?
+8. What open issues already track those items, if any?
+9. What character-dynamic rules matter here?
 
 ## Character Workflow
 
@@ -202,7 +239,9 @@ If the work is character-focused, the agent should explicitly answer:
 3. What local chapter or scene constraints affect this appearance?
 4. What profile items, dynamic notes, patterns, or style items belong only to this dynamic rather than the whole project?
 5. Which of those are already approved for drafting use?
-6. Which still need one-by-one approval before they shape the prose?
+6. Which held global-rule candidates are relevant here and still need review?
+7. Which still need one-by-one approval before they shape the prose?
+8. What open issues already track those items, if any?
 
 ## Local Pattern Retrieval
 
@@ -220,6 +259,8 @@ The agent should not flatten a local pattern into a global law while drafting.
 
 Unapproved scaffold, style, or character-guidance items may be discussed, summarized, or offered for approval, but they should not quietly govern the draft.
 
+Held global-rule candidates should also be surfaced when they are relevant. They do not automatically block writing, but they should not quietly become de facto canon through repeated drafting use without review.
+
 ## Pre-Draft Questions The Agent Must Answer Internally
 
 Before writing, the agent should be able to answer:
@@ -228,9 +269,11 @@ Before writing, the agent should be able to answer:
 - What is the active canon file for this scope?
 - What outline or structure governs it?
 - What local patterns or constraints apply here?
+- What held global-rule candidates are relevant to this scope?
 - What relevant scaffold or style items are already approved for drafting use?
 - What relevant character-profile or dynamic-guidance items are already approved for drafting use?
 - What scaffold, style, or character-guidance items still require approval?
+- What open issues already track those items?
 - What material is nearby but should not be promoted?
 
 If the agent cannot answer those questions, it should load more context before drafting.
@@ -244,7 +287,9 @@ Do not:
 - treat experimental scene files as canon by default
 - import provisional plot details without explicit permission
 - let `[EXPLORE]` or `[HOLD]` scaffold/style/character-guidance material silently steer the prose
+- let `[HOLD]` global-rule candidates quietly become default canon through use
 - apply global rules while forgetting scope-specific local patterns
+- ignore an existing open issue and prompt or log as if the item were untracked
 - skip the one-by-one approval step when unapproved scaffold, style, or character-guidance items matter to the draft
 - start prose generation before summarizing what governs the requested scope
 
@@ -260,4 +305,6 @@ Before drafting, follow `notes/writing_workflow.md`.
 Identify the scope of the work, load the active canon file, the governing outline, the relevant local notes/scenes/character files, and summarize what already governs this scope. Then continue with the prose work.
 
 If any relevant scaffold, style, or character-guidance items are not yet approved for drafting use, pause and run the one-by-one approval check before writing.
+
+Before prompting any approval card for a non-canon item, check whether an open issue already tracks it. If the item is approved for this writing pass and no issue exists, preserve it through the correct issue-handoff path after drafting unless I explicitly say not to log it.
 ```
