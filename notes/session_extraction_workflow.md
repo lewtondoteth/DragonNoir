@@ -133,6 +133,46 @@ If sometimes, it is probably a `Local Pattern`.
 
 If no, it is probably a `Scene-Specific Correction`, which means it is usually out of scope for default rule extraction output.
 
+## Accepted Prose Beat vs Reusable Guidance
+
+When extracting from a drafting session, do not assume that an accepted line, beat, or correction is reusable guidance.
+
+First ask what the author's approval actually means:
+
+1. this exact prose or beat should be used in the current draft
+2. this is a scene-specific correction or implementation texture
+3. this is a local pattern that may help future similar scenes
+4. this is a global rule or character-guidance candidate
+
+Accepted prose belongs in the relevant implementation issue or current draft, not in rule guidance, unless it survives the scope test.
+
+Scene-specific corrections should usually stay attached to the implementation issue or draft they belong to.
+
+Examples of things that are often accepted prose beats rather than reusable guidance:
+
+- a redirected question in one specific exchange
+- a silence, cup turn, pause, or stillness beat that only solves the current scene
+- the order of one reveal inside one implementation issue
+- a line that works here but does not travel well outside this passage
+
+The extraction agent should ask:
+
+> Is this reusable guidance, or just an accepted choice for this exact scene?
+
+If the answer is "just this scene," treat it as accepted prose beat or `Scene-Specific Correction`, not as a new candidate rule.
+
+## Discarded Draft Wording vs Canon Risk
+
+Do not treat every removed name, object, place, or mechanism as a canon-boundary risk.
+
+Distinguish between:
+
+- a discarded draft phrase
+- a provisional noun that might accidentally enter canon
+- an actual canon-boundary risk that needs preservation or warning
+
+If the author clarifies that something was only draft wording from a rejected phrasing, mark it as discarded local draft material and do not create a separate issue for it.
+
 ## Inputs
 
 Acceptable inputs:
@@ -347,6 +387,17 @@ Do not log a new issue just because an item was discussed and validated. If the 
 - no issue
 - a refinement note inside the extraction report
 - a follow-up issue only if the repo has a real gap, ambiguity, or placement problem that implementation work still needs to resolve
+
+Before logging an issue from extraction, ask:
+
+- Is this already captured by an existing implementation issue?
+- Is this merely accepted wording or a beat for the current scene?
+- Is this a scene-specific correction rather than reusable guidance?
+- Is this a discarded draft phrase rather than a canon/provisional risk?
+- Does this survive as reusable guidance outside the immediate passage?
+- Is there a real unresolved repo task?
+
+If no, do not log a new issue.
 
 ## Default Output: Compact Triage
 
