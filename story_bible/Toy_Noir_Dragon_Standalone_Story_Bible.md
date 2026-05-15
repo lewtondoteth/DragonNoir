@@ -8,6 +8,14 @@ Everything needed for character, world, tone, theme, and style is included here.
 
 The exact case, mystery engine, artifact, antagonist structure, and ending mechanics are not fixed canon yet. Plot ideas should remain provisional until intentionally promoted into this bible.
 
+Current working opening-case shape, while still provisional in deeper purpose, is:
+
+- Odette hires Dragon to recover a missing music box from an unrecovered stolen haul.
+- The theft was carried out by a single outside professional thief brought into Toy City for the job.
+- The thief dies in a police confrontation before delivering the goods.
+- The stash is not recovered.
+- The music box matters more than its public treasure value, but the larger purpose remains undefined.
+
 ---
 
 # 1. Core Story Identity

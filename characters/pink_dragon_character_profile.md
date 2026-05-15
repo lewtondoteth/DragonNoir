@@ -264,6 +264,17 @@ The pink dragon may want a treasure, secret, or object as:
 - a way to remain rare and untouchable
 - a guarantee that she will never again be merely a damaged toy hoping someone chooses kindness
 
+In the opening-case shape, this should currently express itself through the missing music box case.
+
+Stable current guidance:
+
+- she can present the object as dragon treasure and be telling a truth that still functions as camouflage
+- she may offer a fee large enough to read as professional payment, urgency, status display, and concealment at once
+- she may be aligned with the party that originally wanted the object stolen
+- her recovery motive can be real without being complete
+
+She should be able to use treasure truth to hide operational truth.
+
 She should not be immune to dragon treasure instinct. Her version is more controlled and socially disguised, but it is still real.
 
 When she discovers the true cost of what she wants, the discovery should not erase her desire. It should force her to see the cost more clearly.
@@ -324,6 +335,8 @@ When comfortable with Dragon:
 - she may show treasure instinct without dressing it as strategy
 - she may make practical observations instead of polished ones
 - she may allow silence without filling it
+
+In early case scenes, she may answer the useful version of Dragon's question while leaving the commissioned-theft truth untouched. This should feel controlled, necessary, and character-consistent rather than like a puzzle-box tease for its own sake.
 
 She should not cry often or collapse into confession. Her vulnerability is strongest when it remains specific, practical, and restrained.
 

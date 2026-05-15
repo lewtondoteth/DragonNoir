@@ -223,6 +223,18 @@ Use these active foundations:
 - Damage, repair, preservation, social status, and identity should matter to the mystery.
 - Any artifact, antagonist, conspiracy, public event, or final sacrifice is provisional unless explicitly chosen for the current draft.
 
+Current approved opening-case working shape:
+
+- Odette hires Dragon to recover a music box from a missing stolen haul.
+- The theft was performed by a single outside professional thief brought into Toy City for the job.
+- The thief dies in a police confrontation before delivering the goods.
+- The stash is not recovered.
+- A public reward notice in the paper exists under the ordinary owner-facing story.
+- Odette uses dragon-treasure language and an unusually high fee as truthful camouflage for the object's hidden importance.
+- Dragon begins by treating the case as treasure recovery and may later work around the police after noticing a clue they miss.
+- Odette is aligned with the party that wanted the music box stolen, but Dragon does not know that yet.
+- The deeper purpose of the music box and the moral status of the commissioning party remain undefined.
+
 Good case material may involve:
 
 - missing toys

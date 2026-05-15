@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-15T19:28:38+00:00",
+  "generated_at_utc": "2026-05-15T21:00:49+00:00",
   "repo_name": "DragonNoir",
   "authoritative_reference": [
     "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
@@ -143,13 +143,15 @@
   },
   "top_level_files": {
     "cases": [
-      "cases/README.md"
+      "cases/README.md",
+      "cases/opening_music_box_case_profile.md"
     ],
     "chapters": [
       "chapters/README.md",
       "chapters/chapter_01_opening.md"
     ],
     "characters": [
+      "characters/outside_professional_thief_character_profile.md",
       "characters/pink_dragon_character_profile.md"
     ],
     "discarded_or_experimental": [
@@ -176,13 +178,15 @@
       "notes/writing_workflow.md"
     ],
     "objects": [
-      "objects/README.md"
+      "objects/README.md",
+      "objects/music_box_object_profile.md"
     ],
     "outlines": [
       "outlines/chapter_01_narrative_beats.md"
     ],
     "organisations": [
-      "organisations/README.md"
+      "organisations/README.md",
+      "organisations/commissioning_party_profile.md"
     ],
     "rules": [
       "rules/noir_narration_rules.md"

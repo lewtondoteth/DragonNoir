@@ -30,11 +30,13 @@ DragonNoir/
 ├── AI_REPO_CONTEXT.md
 ├── README.md
 ├── cases/
-│   └── README.md
+│   ├── README.md
+│   └── opening_music_box_case_profile.md
 ├── chapters/
 │   ├── README.md
 │   └── chapter_01_opening.md
 ├── characters/
+│   ├── outside_professional_thief_character_profile.md
 │   └── pink_dragon_character_profile.md
 ├── discarded_or_experimental/
 │   └── README.md
@@ -43,7 +45,8 @@ DragonNoir/
 │   ├── Dragon_Office_location_profile.md
 │   └── Toy_City_location_profile.md
 ├── objects/
-│   └── README.md
+│   ├── README.md
+│   └── music_box_object_profile.md
 ├── notes/
 │   ├── README.md
 │   ├── development_options.md
@@ -61,7 +64,8 @@ DragonNoir/
 ├── outlines/
 │   └── chapter_01_narrative_beats.md
 ├── organisations/
-│   └── README.md
+│   ├── README.md
+│   └── commissioning_party_profile.md
 ├── rules/
 │   └── noir_narration_rules.md
 ├── scenes/
@@ -113,6 +117,10 @@ Use this table to understand what each major story artifact is for before editin
 | Chapter 1 narrative beats | `outlines/chapter_01_narrative_beats.md` | Active canonical structure | Pacing, sequence, and scene-function reference | Use to check whether new prose still follows the intended opening movement. |
 | Office-entry coffee ritual | `scenes/chapter_01_office_entry_coffee_ritual_draft.md` | Experimental scene study | Texture, pacing, and possible integration material | Do not treat as canonical prose unless integrated into the active chapter. |
 | Opening-case music box scaffold | `notes/opening_case_music_box_scaffold.md` | Provisional planning | Possible opening-case shape | Not fixed canon; promote only by explicit user request or canon-promotion issue. |
+| Opening music box case profile | `cases/opening_music_box_case_profile.md` | Active working case profile | Current bounded opening-case logic | Stable enough to guide drafting while keeping the deeper purpose and hidden party morally undefined. |
+| Music box object profile | `objects/music_box_object_profile.md` | Active working object profile | Current bounded object logic | Use for what the music box outwardly is and what remains intentionally undefined. |
+| Commissioning party profile | `organisations/commissioning_party_profile.md` | Provisional organisation profile | Hidden-party pressure logic | Preserve the hidden party's function without naming or morally fixing them too early. |
+| Outside professional thief profile | `characters/outside_professional_thief_character_profile.md` | Provisional character profile | Bounded case-function character logic | Preserve the thief's role in the case without overbuilding them too early. |
 | Development options | `notes/development_options.md` | Retired/exploratory notes | Backup ideas and comparison material | Not active canon unless explicitly revived. |
 
 When adding, removing, renaming, or changing the status of a major chapter, scene, outline, or planning artifact, update this table in the same change.
@@ -131,8 +139,12 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `locations/Toy_City_location_profile.md` — canonical setting profile for Toy City atmosphere, scale, and city logic.
 - `locations/Dragon_Office_location_profile.md` — canonical location profile for Dragon's office as recurring scene space.
 - `cases/README.md` — guidance for how case profiles should be created and maintained.
+- `cases/opening_music_box_case_profile.md` — current bounded opening-case profile for the missing music box case.
 - `objects/README.md` — guidance for how object profiles should be created and maintained.
+- `objects/music_box_object_profile.md` — current bounded object profile for the music box.
 - `organisations/README.md` — guidance for how organisation profiles should be created and maintained.
+- `organisations/commissioning_party_profile.md` — current bounded profile for the hidden party behind the theft job.
+- `characters/outside_professional_thief_character_profile.md` — current bounded profile for the outside professional thief used in the opening case.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
 - `notes/mode_preflight_workflow.md` — shared preflight for manifest refresh, scoped file loading, and open-issue dedupe before mode work.
 - `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.

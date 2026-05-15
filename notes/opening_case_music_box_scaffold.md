@@ -47,23 +47,21 @@ The exact purpose is intentionally undefined.
 
 The organization does not want to be directly connected to acquiring the music box, so it arranges or exploits a broader burglary involving multiple stolen valuables.
 
-The burglary should look like a conventional noir theft case:
+Current approved burglary shape:
+
+- the theft is carried out by a single outside professional thief
+- the target is a vault, safe-deposit, or safe-style collection
+- many items are taken so the music box's true importance remains hidden
+- the thief dies in a police confrontation before delivering the goods
+- the stolen stash is not recovered
+
+The burglary should still look like a conventional noir theft case:
 
 - several valuables are taken
 - the burglary has enough ordinary motive to feel plausible
-- the thieves may not understand the true importance of one item
 - the official story can remain small while the hidden pressure grows
 
-The burglars complete the theft and hand over the stolen goods.
-
-However:
-
-- the music box is missing from the recovered haul
-- something went wrong during or after the burglary
-- one or more burglars may have hidden, sold, lost, or privately kept the music box
-- the theft accidentally destabilizes the larger hidden operation
-
-The useful shape is a petty theft that has knocked something much larger off balance.
+The useful shape is a professional theft that has knocked something much larger off balance while leaving the goods themselves missing.
 
 ---
 
@@ -85,13 +83,19 @@ Possible relationship types:
 
 She approaches Dragon privately and claims:
 
-- the music box belonged to her
+- the music box belonged to her or stands as her treasure claim
 - it is effectively dragon treasure
 - the burglary has given her a rare chance to recover it unofficially before the authorities reclaim it
 
 Her claim should be emotionally plausible to Dragon even if it is incomplete, slanted, or strategically false.
 
 The strongest version of her cover story is materially true but strategically incomplete: true enough to survive pressure, incomplete enough to manipulate Dragon's understanding.
+
+Current approved pressure shape:
+
+- the owner places a public reward notice in the paper for information or recovery
+- Odette offers Dragon an unusually high fee under the treasure-cover story
+- the fee should work as professional payment, emotional urgency, status signal, and camouflage for the object's real importance
 
 Dragon accepts the emotional logic because:
 
@@ -133,6 +137,12 @@ The hidden organization sees:
 - exposure risk
 - an operation becoming unstable
 - a private failure that must not become public
+
+The public owner sees:
+
+- an unrecovered haul
+- a missing valuable object
+- a reason to offer a newspaper reward
 
 This case works because each group has a different genre in its head.
 
@@ -197,6 +207,12 @@ Potential clue types:
 
 Keep clues toy-scaled, physical, and emotionally textured.
 
+Current approved Dragon path:
+
+- he takes the case as treasure recovery
+- he later finds or notices a clue the police miss
+- he then works around or against the police while pursuing the hidden stash
+
 ---
 
 # 7. Relationship Function
@@ -231,7 +247,7 @@ Preserve:
 - layered misunderstandings
 - dragon/treasure emotional logic
 - gradual reveal structure
-- petty theft disrupting something larger
+- a professional theft disrupting something larger
 - the pink dragon's genuine-but-compromised care
 - room to invent the actual larger mystery from scratch
 
@@ -241,8 +257,8 @@ Avoid:
 - defining the final conspiracy
 - explaining the music box's full function
 - making the pink dragon simply innocent
-- making the thieves fully aware of the larger operation
+- making the thief or thieves fully aware of the larger operation by default
 - locking in a final artifact, entity, mythology, or ending
 - collapsing this scaffold into the active story bible as settled canon
 
-The active value of this scaffold is the opening pressure: a small stolen object, several incompatible understandings of its value, and Dragon's treasure instinct leading him into a case that is not as small as it first appears.
+The active value of this scaffold is the opening pressure: a small stolen object, several incompatible understandings of its value, a dead professional thief, a missing stash, and Dragon's treasure instinct leading him into a case that is not as small as it first appears.

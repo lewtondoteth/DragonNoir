@@ -2,7 +2,7 @@
 
 Generated helper index for Dragon Noir agents.
 
-- Generated at: `2026-05-15T19:28:38+00:00`
+- Generated at: `2026-05-15T21:00:49+00:00`
 
 ## Authoritative Reference
 
@@ -115,6 +115,7 @@ Generated helper index for Dragon Noir agents.
 ### cases
 
 - `cases/README.md`
+- `cases/opening_music_box_case_profile.md`
 
 ### chapters
 
@@ -123,6 +124,7 @@ Generated helper index for Dragon Noir agents.
 
 ### characters
 
+- `characters/outside_professional_thief_character_profile.md`
 - `characters/pink_dragon_character_profile.md`
 
 ### discarded_or_experimental
@@ -154,6 +156,7 @@ Generated helper index for Dragon Noir agents.
 ### objects
 
 - `objects/README.md`
+- `objects/music_box_object_profile.md`
 
 ### outlines
 
@@ -162,6 +165,7 @@ Generated helper index for Dragon Noir agents.
 ### organisations
 
 - `organisations/README.md`
+- `organisations/commissioning_party_profile.md`
 
 ### rules
 
