@@ -106,112 +106,24 @@ Bad repair erases, replaces, repurposes, or distorts it.
 
 ---
 
-# 4. Districts
+# 4. District And Institution Handling
 
-## The Lower Drawers
+Toy City should feel large enough to contain:
 
-A cramped, damp district where old toys, loose parts, and forgotten things gather.
+- wealth differences
+- repair economies
+- municipal incompetence
+- black-market exchange
+- weather-exposed danger
+- places where preserved toys are treated differently from worn ones
 
-Known for:
+But no named districts, neighborhoods, institutions, brokerages, or civic bodies are fixed canon yet beyond Toy City itself.
 
-- cheap repairs
-- worse coffee
-- better information
-
-Dragon knows the Lower Drawers well and pretends not to.
-
-## Button Market
-
-A crowded trading district where buttons, beads, small gears, doll shoes, marbles, and questionable evidence change hands.
-
-Treasure is everywhere. Dragon finds this professionally distracting.
-
-## The Repair Quarter
-
-A row of shops, clinics, back rooms, and official stitching houses.
-
-Some are kind. Some are expensive. Some ask no questions because they already know the answers.
-
-## Shelfside
-
-A higher-status neighbourhood with cleaner fabric, better polish, fewer visible repairs, and more lies.
-
-Odette comes from here, or claims to.
-
-## The Lost-and-Found
-
-A municipal office, warehouse, or mythic archive where missing toys are catalogued badly.
-
-No one fully trusts it.
-
-## The Feltworks
-
-An industrial zone where stuffing, cloth, wire, thread, and replacement parts are processed.
-
-It is useful for cases involving repair politics, labour, replacement parts, or hidden supply chains, but no specific conspiracy is fixed canon here yet.
-
-## The Hearth District
-
-A warmer, older area favored by fire-capable toys, mechanical toys, and toys that dislike damp.
-
-Dragon prefers it but cannot afford to work there.
-
-## The Rain Gutters
-
-Dangerous channels and alleys where water gathers.
-
-Dragon avoids them until a case makes that impossible.
+If a future draft needs a specific district, market, archive, civic office, or repair authority, treat it as exploratory until separately approved and preserved.
 
 ---
 
-# 5. Institutions
-
-## Repair Shops
-
-Repair shops are central to Toy City.
-
-They should be treated as practical, emotional, and political spaces all at once.
-
-## The Civic Toy Council
-
-A respectable public body that claims to maintain order and protect toys.
-
-Depending on the eventual case, it may be:
-
-- honest
-- compromised
-- frightened
-- useless
-- quietly corrupt
-
-## The Hero Office / Public Safety Bureau
-
-A civic institution responsible for public rescues, ceremonies, and city morale.
-
-Useful for stories about:
-
-- public confidence
-- manufactured bravery
-- city ceremony
-- the gap between official heroism and private courage
-
-No staged-hero plot is fixed canon yet.
-
-## The Stitchers' Guild
-
-The official repair authority.
-
-Some members are compassionate. Others may be vain, frightened, careless, corrupt, or simply trapped inside bad rules.
-
-## Treasure Brokers
-
-Dealers in old objects, shiny things, dragon hoards, and artifacts.
-
-They should feel like part appraiser, part fence, part confessor, part opportunist.
-
----
-
-# 6. Writing Guidance
+# 5. Writing Guidance
 
 Use Toy City as a living pressure system, not as painted scenery.
 

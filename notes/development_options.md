@@ -38,7 +38,7 @@ This file preserves useful retired or backup ideas that should not remain as act
 - wind-up mouse courier
 - patchwork knight
 - cracked porcelain child-doll
-- little bear from the Lost-and-Found
+- little bear from a badly catalogued municipal store of missing toys
 - cloth bird who can identify stolen parts
 
 ## Retired / Backup Chosen Hero Ideas
@@ -58,7 +58,7 @@ The following material previously appeared in the active story bible as if it we
 - Patchwork Guardian
 - stitched-part harvesting conspiracy
 - ceremonial clockwork knight as staged public hero
-- senior Stitchers' Guild conspiracy leader
+- senior repair-authority conspiracy leader
 - staged public catastrophe
 - fixed four-act mystery structure
 - predetermined climax where Dragon destroys the Ember-Stone

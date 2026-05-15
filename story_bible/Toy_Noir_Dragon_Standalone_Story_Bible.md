@@ -540,90 +540,21 @@ Humans exist outside the central frame of the story.
 
 Toy City is treated as a complete world. Human-made objects shape the city, but humans should not drive the main plot unless a specific future outline requires it.
 
-## Districts
+## Districts And Institutions
 
-### The Lower Drawers
+Toy City should feel broad enough to contain:
 
-A cramped, damp district where old toys, loose parts, and forgotten things gather. Cheap repairs, worse coffee, better information.
+- wealthier and poorer areas
+- repair economies
+- civic offices
+- archives or record-keeping failures
+- trade in small objects and parts
+- weather-exposed danger zones
+- places where preservation changes how toys are treated
 
-Dragon knows the Lower Drawers well and pretends not to.
+But no named districts, named institutions, broker chains, guilds, or civic bodies are fixed canon yet beyond Toy City itself.
 
-### Button Market
-
-A crowded trading district where buttons, beads, small gears, doll shoes, marbles, and questionable evidence change hands.
-
-Treasure is everywhere. Dragon finds this professionally distracting.
-
-### The Repair Quarter
-
-A row of shops, clinics, back rooms, and official stitching houses. Some are kind. Some are expensive. Some ask no questions because they already know the answers.
-
-### Shelfside
-
-Higher-status toy neighbourhood. Cleaner fabric, better polish, fewer visible repairs, more lies.
-
-The pink dragon comes from here, or claims to.
-
-### The Lost-and-Found
-
-A municipal office, warehouse, or mythic archive where missing toys are catalogued badly.
-
-No one fully trusts it.
-
-### The Feltworks
-
-Industrial zone where stuffing, cloth, wire, thread, and replacement parts are processed. It is useful for cases involving repair politics, labour, replacement parts, or hidden supply chains, but no specific conspiracy is canon yet.
-
-### The Hearth District
-
-A warmer, older area beloved by fire-capable toys, mechanical toys, and those who dislike damp. Dragon prefers it but cannot afford to work there.
-
-### The Rain Gutters
-
-Dangerous channels and alleys where water gathers. Dragon avoids them until a case makes that impossible.
-
-## Institutions
-
-### Repair Shops
-
-Repair shops are central to Toy City.
-
-They function as:
-
-- hospitals
-- tailors
-- mechanics
-- memory clinics
-- gossip exchanges
-- black-market part suppliers
-- places of care
-- places of exploitation
-
-Good repair preserves identity.
-
-Bad repair erases, replaces, or repurposes it.
-
-### The Civic Toy Council
-
-A respectable public body that claims to maintain order and protect toys.
-
-It may be honest, compromised, useless, frightened, or quietly corrupt depending on the eventual case.
-
-### The Hero Office / Public Safety Bureau
-
-A civic institution responsible for public rescues, ceremonies, and city morale.
-
-It is available for stories about public confidence, manufactured bravery, city ceremony, or the gap between official heroism and private courage. No staged-hero plot is currently fixed canon.
-
-### The Stitchers’ Guild
-
-Official repair authority. Some members are compassionate. Others may be vain, frightened, careless, corrupt, or simply bound by bad rules. Many are afraid.
-
-### Treasure Brokers
-
-Dealers in old objects, shiny things, dragon hoards, and artifacts.
-
-They understand Dragon better than is convenient.
+Repair shops remain central to city logic. Good repair preserves identity. Bad repair erases, replaces, or repurposes it.
 
 ---
 
@@ -879,8 +810,8 @@ Recurring roles that fit the world:
 - a repairer ally who understands damage without sentimentality
 - an information broker who trades in small objects and overheard truths
 - a civic official whose politeness hides fear or convenience
-- a toy from Shelfside who knows the cost of looking untouched
-- a Lower Drawers witness who notices what polished toys ignore
+- a toy whose preservation has made them socially careful
+- a witness from a rougher corner of the city who notices what polished toys ignore
 - a treasure dealer who understands Dragon too well
 - a missing or damaged toy whose ordinary life makes the case matter
 

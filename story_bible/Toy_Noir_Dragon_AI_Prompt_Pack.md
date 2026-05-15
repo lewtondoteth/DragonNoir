@@ -162,16 +162,7 @@ It is:
 
 Humans exist outside the central frame. Human-made objects shape the city, but humans should not drive the main plot unless specifically required.
 
-Key districts:
-
-- The Lower Drawers: damp, crowded, old toys, cheap repairs, useful information
-- Button Market: trade in buttons, beads, gears, doll shoes, marbles, and questionable evidence
-- The Repair Quarter: repair shops, clinics, stitchers, and back rooms
-- Shelfside: cleaner, wealthier, more polished, more dishonest
-- The Lost-and-Found: missing toys and badly catalogued records
-- The Feltworks: cloth, stuffing, thread, parts, and hidden supply chains
-- The Hearth District: warm district favoured by fire-capable toys
-- The Rain Gutters: dangerous wet alleys and channels Dragon avoids
+Toy City should feel large enough to imply wealth differences, repair economies, municipal incompetence, archives, markets, and weather-exposed danger, but no named districts or institutions are fixed canon yet beyond Toy City itself.
 
 Repair logic:
 
@@ -245,7 +236,7 @@ Good case material may involve:
 - rare toys used as symbols
 - visible damage affecting who gets believed
 
-Supporting cast should be invented to fit the chosen case. Useful roles include repairers, information brokers, civic officials, treasure dealers, witnesses from the Lower Drawers, polished Shelfside toys, and missing or damaged toys with specific ordinary lives.
+Supporting cast should be invented to fit the chosen case. Useful roles include repairers, information brokers, civic officials, treasure dealers, socially polished toys, witnesses from rougher corners of the city, and missing or damaged toys with specific ordinary lives.
 
 Retired plot machinery such as the missing wind-up mouse courier, Ember-Stone, Patchwork Guardian, stitched-parts conspiracy, ceremonial clockwork knight, staged catastrophe, and fixed four-act structure is not active canon. Use `../notes/development_options.md` only if the user explicitly asks to revive or compare old plot ideas.
 

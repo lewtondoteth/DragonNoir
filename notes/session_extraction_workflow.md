@@ -333,7 +333,7 @@ Bounded location-profile guidance, district logic, institution behavior, or recu
 Examples:
 
 - Dragon's office should undermine professionalism through dampness, drafts, clutter, and weak heat
-- Shelfside should signal preservation, status, and controlled dishonesty through cleaner surfaces and fewer visible repairs
+- Toy City should signal preservation pressure, social difference, and repair politics through visible consequences rather than lore explanation
 
 These may later target location profiles, chapter-bounded notes, or scene-pattern references after one-by-one approval.
 
