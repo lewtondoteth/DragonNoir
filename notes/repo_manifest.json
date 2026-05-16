@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-15T21:00:49+00:00",
+  "generated_at_utc": "2026-05-16T20:45:30+00:00",
   "repo_name": "DragonNoir",
   "authoritative_reference": [
     "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
@@ -125,6 +125,7 @@
       "type:implementation",
       "type:review",
       "type:scaffold",
+      "type:long-session-capture",
       "type:canon-promotion",
       "type:candidate-rule",
       "type:candidate-character",
@@ -141,7 +142,22 @@
       "scope:odette"
     ]
   },
+  "top_level_text_files": [
+    ".gitignore",
+    "AGENTS.md",
+    "AI_REPO_CONTEXT.md",
+    "README.md"
+  ],
   "top_level_files": {
+    ".github": [
+      ".github/ISSUE_TEMPLATE/candidate_guidance.md",
+      ".github/ISSUE_TEMPLATE/canon_promotion.md",
+      ".github/ISSUE_TEMPLATE/config.yml",
+      ".github/ISSUE_TEMPLATE/implementation.md",
+      ".github/ISSUE_TEMPLATE/long_session_capture.md",
+      ".github/ISSUE_TEMPLATE/planning_scaffold.md",
+      ".github/ISSUE_TEMPLATE/review_consistency.md"
+    ],
     "cases": [
       "cases/README.md",
       "cases/opening_music_box_case_profile.md"
@@ -151,6 +167,7 @@
       "chapters/chapter_01_opening.md"
     ],
     "characters": [
+      "characters/README.md",
       "characters/outside_professional_thief_character_profile.md",
       "characters/pink_dragon_character_profile.md"
     ],
@@ -164,6 +181,7 @@
     ],
     "notes": [
       "notes/README.md",
+      "notes/clockwork_orchestra_story_direction_scaffold.md",
       "notes/development_options.md",
       "notes/issue_workflow.md",
       "notes/mode_preflight_workflow.md",
@@ -182,6 +200,7 @@
       "objects/music_box_object_profile.md"
     ],
     "outlines": [
+      "outlines/README.md",
       "outlines/chapter_01_narrative_beats.md"
     ],
     "organisations": [
@@ -189,6 +208,7 @@
       "organisations/commissioning_party_profile.md"
     ],
     "rules": [
+      "rules/README.md",
       "rules/noir_narration_rules.md"
     ],
     "scenes": [
@@ -202,7 +222,11 @@
     ],
     "tools": [
       "tools/README.md",
-      "tools/generate_repo_manifest.py"
+      "tools/generate_repo_manifest.py",
+      "tools/setup_repo_hooks.sh"
     ]
+  },
+  "maintenance_warnings": {
+    "unexpected_top_level_dirs": []
   }
 }

@@ -56,6 +56,19 @@ The agent may add or update notes, scaffolds, or planning docs, but must not pro
 
 If this issue will change repo files rather than only log planning material, the agent must use the `Implementation Wizard` before making changes.
 
+## Long Session Capture Issue
+
+Use this when a long AI writing chat, transcript, or exported session should be scanned before implementation work begins.
+
+This issue type is for preserving the source and forcing a Session Extraction pass, not for directly patching prose or canon files.
+
+If an issue is based on a long writing session or transcript, do not implement it directly unless:
+
+- a Session Extraction summary is attached or linked, or
+- the issue explicitly says extraction is not needed and explains the narrow implementation scope.
+
+The purpose is to prevent useful secondary knowledge from being lost, including rejected directions, author corrections, anti-patterns, profile guidance, case/object/organisation guidance, and rule candidates.
+
 ## Canon Promotion Issue
 
 Use this when provisional material should become active canon.
@@ -322,6 +335,7 @@ Use labels consistently when the repository or GitHub setup supports them.
 - `type:implementation`
 - `type:review`
 - `type:scaffold`
+- `type:long-session-capture`
 - `type:canon-promotion`
 - `type:candidate-rule`
 - `type:candidate-character`
@@ -603,6 +617,74 @@ Capture the exploratory structure, beat, idea, object, relationship, or case sha
 - Undefined elements remain undefined.
 - README/file index is updated if a new file is added.
 - `git diff --check` passes.
+```
+
+## Long Session Capture Issue Template
+
+```md
+## Type
+
+Long Session Capture
+
+## Recommended Labels
+
+- `mode:session-extraction`
+- `type:long-session-capture`
+- `scope:...`
+
+## Source Material
+
+- Chat transcript, export, PDF, selected excerpts, or link.
+- If the source is stored outside the repo, describe where the agent can access it.
+
+## Source Confidence
+
+- Full transcript / selected excerpt / author summary / memory of chat / already validated extraction:
+- Any known missing context:
+
+## Goal
+
+Run Session Extraction before any implementation work. Identify what should become prose, scaffold material, profile guidance, rule candidates, review/fix issues, or discarded material.
+
+## Session Capture Checklist
+
+- Prose to preserve:
+- Plot or scaffold discoveries:
+- Character guidance discovered:
+- Location or place guidance discovered:
+- Case guidance discovered:
+- Object guidance discovered:
+- Organisation guidance discovered:
+- Style or rule candidates discovered:
+- Anti-patterns or rejected directions:
+- Canon / HOLD / EXPLORE decisions:
+- Continuity risks:
+- Material that must remain undefined:
+- Material that should not be preserved:
+- Suggested target files:
+- Existing matching issue check:
+
+## Extraction Requirements
+
+- Follow `notes/session_extraction_workflow.md`.
+- Compare extracted candidates against existing repo guidance before treating them as new.
+- Validate worthwhile candidates one by one before logging candidate issues or updating canon.
+- Do not edit prose, profiles, rules, scaffolds, or canon files during extraction unless the user explicitly switches to implementation.
+
+## Implementation Gate
+
+Do not implement from this long-session source until one of these is true:
+
+- a Session Extraction summary has been attached or linked, or
+- the issue explicitly says extraction is not needed and gives a narrow implementation scope.
+
+## Acceptance Criteria
+
+- Session Extraction triage is completed.
+- Findings are classified by type and scope.
+- Already-represented guidance is marked as such instead of duplicated.
+- Follow-up issues are logged only for validated, genuinely unresolved tasks.
+- No canon/provisional boundary is changed during capture alone.
 ```
 
 ## Canon Promotion Issue Template
@@ -1010,7 +1092,7 @@ When processing an issue:
 6. Do not silently promote provisional material to canon.
 7. Do not silently clean up unrelated prose or structure.
 8. If adding, removing, renaming, or moving files, update the README/file index in the same change.
-9. Commit and push when the scoped issue work is complete.
+9. Commit and push when the user has asked for issue completion/publishing, or when the current repo workflow clearly expects it.
 10. Run the post-implementation style/flow conflict check.
 11. Close the issue only after the completed change is pushed and any acceptance-criteria or style/flow conflicts are either fixed or captured in follow-up issues.
 

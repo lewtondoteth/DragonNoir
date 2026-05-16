@@ -1,0 +1,8 @@
+#!/bin/sh
+set -eu
+
+python3 tools/generate_repo_manifest.py >/dev/null
+
+if ! git diff --quiet -- notes/repo_manifest.json notes/repo_manifest.md; then
+  git add notes/repo_manifest.json notes/repo_manifest.md
+fi

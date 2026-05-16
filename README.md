@@ -13,19 +13,45 @@ AI assistants and coding agents should read:
 
 `AGENTS.md` contains the short bootstrap instruction for agent workflows.
 
+## Author Workflow
+
+The normal creative workflow is issue-led integration:
+
+1. Draft, brainstorm, revise, or explore prose in a separate AI chat.
+2. When the author is happy with a result, log a scoped GitHub issue for the part that should enter this repository.
+3. Use the issue as the handoff between exploratory writing and repo implementation.
+4. The repo-connected agent implements only the scoped issue material, preserving canon/provisional boundaries.
+5. Extraction, review, profile-pull, scaffold-capture, and rule-validation work should normally preserve approved findings through issues unless the author explicitly asks for direct repo implementation.
+
+This repository is therefore the controlled continuity and integration layer, not the scratchpad for every exploratory draft.
+
 ## Authoritative Reference
 
-- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
-- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
-- `rules/noir_narration_rules.md`
-- `characters/pink_dragon_character_profile.md`
-- `locations/Toy_City_location_profile.md`
-- `locations/Dragon_Office_location_profile.md`
+Use this hierarchy when deciding what an AI agent may rely on:
+
+| Level | Meaning | Current Files |
+| --- | --- | --- |
+| Canon / authoritative guidance | Stable story, tone, character, narration, and world guidance. | `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`; `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`; `rules/noir_narration_rules.md`; `characters/pink_dragon_character_profile.md`; `locations/Toy_City_location_profile.md`; `locations/Dragon_Office_location_profile.md` |
+| Active working guidance | Stable enough to guide current drafting, while preserving stated unknowns. | `cases/opening_music_box_case_profile.md`; `objects/music_box_object_profile.md`; `organisations/commissioning_party_profile.md`; `characters/outside_professional_thief_character_profile.md`; `notes/clockwork_orchestra_story_direction_scaffold.md` for the approved early-case path only |
+| Provisional planning | Useful planning, not fixed canon unless explicitly promoted. | `notes/opening_case_music_box_scaffold.md`; later-novel material in `notes/clockwork_orchestra_story_direction_scaffold.md` |
+| Experimental / retired | Not active guidance unless explicitly revived. | `scenes/chapter_01_office_entry_coffee_ritual_draft.md`; `notes/development_options.md`; `discarded_or_experimental/` |
 
 ## File Index
 
 ```text
 DragonNoir/
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       ├── candidate_guidance.md
+│       ├── canon_promotion.md
+│       ├── config.yml
+│       ├── implementation.md
+│       ├── long_session_capture.md
+│       ├── planning_scaffold.md
+│       └── review_consistency.md
+├── .githooks/
+│   └── pre-commit
+├── .gitignore
 ├── AGENTS.md
 ├── AI_REPO_CONTEXT.md
 ├── README.md
@@ -36,6 +62,7 @@ DragonNoir/
 │   ├── README.md
 │   └── chapter_01_opening.md
 ├── characters/
+│   ├── README.md
 │   ├── outside_professional_thief_character_profile.md
 │   └── pink_dragon_character_profile.md
 ├── discarded_or_experimental/
@@ -63,11 +90,13 @@ DragonNoir/
 │   ├── session_extraction_workflow.md
 │   └── writing_workflow.md
 ├── outlines/
+│   ├── README.md
 │   └── chapter_01_narrative_beats.md
 ├── organisations/
 │   ├── README.md
 │   └── commissioning_party_profile.md
 ├── rules/
+│   ├── README.md
 │   └── noir_narration_rules.md
 ├── scenes/
 │   ├── README.md
@@ -76,9 +105,10 @@ DragonNoir/
 │   ├── README.md
 │   ├── Toy_Noir_Dragon_AI_Prompt_Pack.md
 │   └── Toy_Noir_Dragon_Standalone_Story_Bible.md
-└── tools/
-    ├── README.md
-    └── generate_repo_manifest.py
+├── tools/
+│   ├── README.md
+│   ├── generate_repo_manifest.py
+│   └── setup_repo_hooks.sh
 ```
 
 ## Working Structure
@@ -146,7 +176,9 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `objects/music_box_object_profile.md` — current bounded object profile for the music box.
 - `organisations/README.md` — guidance for how organisation profiles should be created and maintained.
 - `organisations/commissioning_party_profile.md` — current bounded profile for the hidden party behind the theft job.
+- `characters/README.md` — guidance for how character profiles should be created and maintained.
 - `characters/outside_professional_thief_character_profile.md` — current bounded profile for the outside professional thief used in the opening case.
+- `outlines/README.md` — guidance for structural references and chapter beat maps.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
 - `notes/mode_preflight_workflow.md` — shared preflight for manifest refresh, scoped file loading, and open-issue dedupe before mode work.
 - `notes/clockwork_orchestra_story_direction_scaffold.md` — current mixed-status story-direction scaffold: approved early case guidance through Chapter 4, with wider novel direction still provisional.
@@ -160,7 +192,29 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `notes/writing_workflow.md` — drafting workflow that forces chapter/scene/character context retrieval before prose generation.
 - `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
 - `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
+- `rules/README.md` — guidance for maintained writing rules and the rule-validation flow.
 - `tools/generate_repo_manifest.py` — regenerates the repo manifest so agent orientation scales as files and modes are added.
+- `tools/setup_repo_hooks.sh` — configures the local Git hooks path for manifest refresh automation.
+- `.githooks/pre-commit` — local hook that refreshes and stages generated repo manifests before commits when `core.hooksPath` is set to `.githooks`.
+- `.github/ISSUE_TEMPLATE/` — GitHub UI issue templates matching the repo issue workflow.
+
+## Repo Upkeep
+
+When adding, removing, renaming, or moving files, update the relevant README or file index in the same change.
+
+The repo manifest is generated from the current tree. Refresh it with:
+
+```bash
+python3 tools/generate_repo_manifest.py
+```
+
+For automatic manifest refresh on commit, this repo includes `.githooks/pre-commit`. Enable it locally with:
+
+```bash
+sh tools/setup_repo_hooks.sh
+```
+
+The setup script configures `core.hooksPath` to `.githooks`. The hook regenerates `notes/repo_manifest.json` and `notes/repo_manifest.md` and stages them during commit. If a new top-level folder appears outside the approved structure, the manifest records a maintenance warning so the structure can be cleaned up or documented.
 
 ## Issue Workflow
 
@@ -171,6 +225,8 @@ Issue workflow reference:
 - `notes/issue_workflow.md`
 
 When asking an AI agent to "log a ticket", "log an issue", "create an issue", or "make a ticket", the agent should create a GitHub issue using the appropriate template and should not edit repository files unless implementation is separately requested.
+
+If the issue comes from a long writing session, chat transcript, or exported conversation, use the Long Session Capture template in `notes/issue_workflow.md` first unless a Session Extraction summary is already attached or the issue explicitly says extraction is not needed.
 
 For `Session Extraction` and `Profile Pull`, the default preservation path is:
 

@@ -102,6 +102,7 @@ ISSUE_LABELS = {
         "type:implementation",
         "type:review",
         "type:scaffold",
+        "type:long-session-capture",
         "type:canon-promotion",
         "type:candidate-rule",
         "type:candidate-character",
@@ -121,6 +122,7 @@ ISSUE_LABELS = {
 
 
 TOP_DIRS = [
+    ".github",
     "cases",
     "chapters",
     "characters",
@@ -134,6 +136,21 @@ TOP_DIRS = [
     "scenes",
     "story_bible",
     "tools",
+]
+
+IGNORED_TOP_LEVEL_DIRS = {
+    ".agents",
+    ".codex",
+    ".git",
+    ".githooks",
+    "source_transcripts",
+}
+
+TOP_LEVEL_TEXT_FILES = [
+    ".gitignore",
+    "AGENTS.md",
+    "AI_REPO_CONTEXT.md",
+    "README.md",
 ]
 
 
@@ -155,14 +172,37 @@ def list_files(relative_dir: str) -> list[str]:
 def build_manifest() -> dict:
     now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     top_level = {dirname: list_files(dirname) for dirname in TOP_DIRS if (ROOT / dirname).exists()}
-    return {
+    top_level_text_files = [item for item in TOP_LEVEL_TEXT_FILES if (ROOT / item).is_file()]
+    unexpected_dirs = sorted(
+        path.name
+        for path in ROOT.iterdir()
+        if path.is_dir()
+        and path.name not in TOP_DIRS
+        and path.name not in IGNORED_TOP_LEVEL_DIRS
+    )
+    manifest = {
         "generated_at_utc": now,
         "repo_name": "DragonNoir",
         "authoritative_reference": AUTHORITATIVE_REFERENCE,
         "modes": MODES,
         "issue_labels": ISSUE_LABELS,
+        "top_level_text_files": top_level_text_files,
         "top_level_files": top_level,
+        "maintenance_warnings": {
+            "unexpected_top_level_dirs": unexpected_dirs,
+        },
     }
+    if JSON_OUT.exists():
+        try:
+            previous = json.loads(JSON_OUT.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            previous = None
+        if previous is not None:
+            previous_without_time = {key: value for key, value in previous.items() if key != "generated_at_utc"}
+            manifest_without_time = {key: value for key, value in manifest.items() if key != "generated_at_utc"}
+            if previous_without_time == manifest_without_time:
+                manifest["generated_at_utc"] = previous.get("generated_at_utc", now)
+    return manifest
 
 
 def write_json(manifest: dict) -> None:
@@ -201,12 +241,29 @@ def write_markdown(manifest: dict) -> None:
         lines.append("")
     lines.append("## Top-Level Files")
     lines.append("")
+    lines.append("### root")
+    lines.append("")
+    for item in manifest["top_level_text_files"]:
+        lines.append(f"- `{item}`")
+    lines.append("")
     for dirname, files in manifest["top_level_files"].items():
         lines.append(f"### {dirname}")
         lines.append("")
         for item in files:
             lines.append(f"- `{item}`")
         lines.append("")
+    warnings = manifest.get("maintenance_warnings", {})
+    unexpected = warnings.get("unexpected_top_level_dirs", [])
+    lines.append("## Maintenance Warnings")
+    lines.append("")
+    if unexpected:
+        lines.append("Unexpected top-level directories not covered by the approved structure:")
+        lines.append("")
+        for item in unexpected:
+            lines.append(f"- `{item}`")
+    else:
+        lines.append("No unexpected top-level directories found.")
+    lines.append("")
     MD_OUT.write_text("\n".join(lines), encoding="utf-8")
 
 

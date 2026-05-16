@@ -2,7 +2,7 @@
 
 Generated helper index for Dragon Noir agents.
 
-- Generated at: `2026-05-15T21:00:49+00:00`
+- Generated at: `2026-05-16T20:45:30+00:00`
 
 ## Authoritative Reference
 
@@ -94,6 +94,7 @@ Generated helper index for Dragon Noir agents.
 - `type:implementation`
 - `type:review`
 - `type:scaffold`
+- `type:long-session-capture`
 - `type:canon-promotion`
 - `type:candidate-rule`
 - `type:candidate-character`
@@ -112,6 +113,23 @@ Generated helper index for Dragon Noir agents.
 
 ## Top-Level Files
 
+### root
+
+- `.gitignore`
+- `AGENTS.md`
+- `AI_REPO_CONTEXT.md`
+- `README.md`
+
+### .github
+
+- `.github/ISSUE_TEMPLATE/candidate_guidance.md`
+- `.github/ISSUE_TEMPLATE/canon_promotion.md`
+- `.github/ISSUE_TEMPLATE/config.yml`
+- `.github/ISSUE_TEMPLATE/implementation.md`
+- `.github/ISSUE_TEMPLATE/long_session_capture.md`
+- `.github/ISSUE_TEMPLATE/planning_scaffold.md`
+- `.github/ISSUE_TEMPLATE/review_consistency.md`
+
 ### cases
 
 - `cases/README.md`
@@ -124,6 +142,7 @@ Generated helper index for Dragon Noir agents.
 
 ### characters
 
+- `characters/README.md`
 - `characters/outside_professional_thief_character_profile.md`
 - `characters/pink_dragon_character_profile.md`
 
@@ -140,6 +159,7 @@ Generated helper index for Dragon Noir agents.
 ### notes
 
 - `notes/README.md`
+- `notes/clockwork_orchestra_story_direction_scaffold.md`
 - `notes/development_options.md`
 - `notes/issue_workflow.md`
 - `notes/mode_preflight_workflow.md`
@@ -160,6 +180,7 @@ Generated helper index for Dragon Noir agents.
 
 ### outlines
 
+- `outlines/README.md`
 - `outlines/chapter_01_narrative_beats.md`
 
 ### organisations
@@ -169,6 +190,7 @@ Generated helper index for Dragon Noir agents.
 
 ### rules
 
+- `rules/README.md`
 - `rules/noir_narration_rules.md`
 
 ### scenes
@@ -186,3 +208,8 @@ Generated helper index for Dragon Noir agents.
 
 - `tools/README.md`
 - `tools/generate_repo_manifest.py`
+- `tools/setup_repo_hooks.sh`
+
+## Maintenance Warnings
+
+No unexpected top-level directories found.

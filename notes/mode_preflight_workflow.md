@@ -48,6 +48,10 @@ python3 tools/generate_repo_manifest.py
 
 The manifest should be treated as a helper index, not as canon.
 
+For local commits, `.githooks/pre-commit` can refresh and stage the manifest automatically when `git config core.hooksPath .githooks` has been set.
+
+If the manifest reports unexpected top-level directories, pause before treating them as source material. Either document them in the approved structure or remove/relocate them if they are accidental legacy material.
+
 ## Shared Inputs
 
 Always load:

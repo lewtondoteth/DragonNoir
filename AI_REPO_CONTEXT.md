@@ -27,6 +27,17 @@ Use this repository for Toy Noir Dragon work:
 
 Retired/provisional noir plot material, including the Ember-Stone, Patchwork Guardian, wind-up mouse courier, and related fixed-plot machinery, belongs in development notes and should not be treated as active canon unless explicitly revived.
 
+## Author workflow
+
+The normal author workflow is:
+
+1. write, explore, or revise in a separate AI chat
+2. decide what material is worth preserving
+3. log a scoped GitHub issue for the approved integration work
+4. let the repo-connected agent implement that issue within the stated scope
+
+Treat the repository as the controlled continuity and implementation layer. Do not assume that every external drafting chat, transcript, or polished passage is automatically repo-ready canon.
+
 ## Context loading
 
 For Toy Noir Dragon work, load:
@@ -62,6 +73,8 @@ For extraction or scan work that may grow entity surfaces, use `cases/`, `object
 For shared setup, manifest refresh, and open-issue dedupe, also load `notes/mode_preflight_workflow.md` when the scope is non-trivial.
 
 For `Session Extraction` and `Profile Pull`, prefer issue-based preservation by default: validate findings one by one, then log the approved candidate using the appropriate issue template unless the user explicitly asks for immediate repo implementation.
+
+If an issue is based on a long writing session or transcript, do not implement it directly unless a Session Extraction summary is attached or linked, or the issue explicitly says extraction is not needed and explains the narrow implementation scope.
 
 ## Canon separation rule
 
@@ -109,6 +122,7 @@ For any task:
 8. For extraction or profile-scan work, prefer validated issue logging over direct canon edits unless the user explicitly asks to apply the change now.
 9. For review, profile-scan, extraction, scaffold-capture, or writing-follow-up logging work, check for already-open matching issues before creating a new one.
 10. When a session or prose scan introduces durable case, object, organisation, or character information, decide whether it belongs in an existing entity surface or whether a new candidate issue is needed to establish that surface cleanly.
+11. When files or folders are added, removed, moved, or renamed, refresh the generated repo manifest and update the relevant README or file index in the same change.
 
 ## Review Path
 
