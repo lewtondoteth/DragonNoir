@@ -9,6 +9,7 @@ Opening-case scaffolds and exploratory plot foundations belong here until explic
 ## Files
 
 - `development_options.md` — retired, backup, and exploratory ideas.
+- `clockwork_orchestra_story_direction_scaffold.md` — mixed-status story-direction scaffold: active early-case guidance through Chapter 4 and provisional wider novel direction beyond that.
 - `issue_workflow.md` — GitHub issue handoff workflow, issue types, acceptance criteria, and drafting-state protocol.
 - `mode_preflight_workflow.md` — shared preflight for manifest refresh, scoped file loading, and open-issue dedupe before mode work.
 - `opening_case_music_box_scaffold.md` — provisional opening-case scaffold.

@@ -49,6 +49,7 @@ DragonNoir/
 │   └── music_box_object_profile.md
 ├── notes/
 │   ├── README.md
+│   ├── clockwork_orchestra_story_direction_scaffold.md
 │   ├── development_options.md
 │   ├── issue_workflow.md
 │   ├── mode_preflight_workflow.md
@@ -116,6 +117,7 @@ Use this table to understand what each major story artifact is for before editin
 | Chapter 1 opening | `chapters/chapter_01_opening.md` | Active canonical draft | Main Chapter 1 prose | Treat as the current assembled chapter unless the user says otherwise. |
 | Chapter 1 narrative beats | `outlines/chapter_01_narrative_beats.md` | Active canonical structure | Pacing, sequence, and scene-function reference | Use to check whether new prose still follows the intended opening movement. |
 | Office-entry coffee ritual | `scenes/chapter_01_office_entry_coffee_ritual_draft.md` | Experimental scene study | Texture, pacing, and possible integration material | Do not treat as canonical prose unless integrated into the active chapter. |
+| Clockwork orchestra story-direction scaffold | `notes/clockwork_orchestra_story_direction_scaffold.md` | Active early-case guidance / provisional wider planning | Current Chapters 1-4 guidance and wider story-direction reference | Use for the approved early case path through Chapter 4; treat later novel movement in the same file as provisional. |
 | Opening-case music box scaffold | `notes/opening_case_music_box_scaffold.md` | Provisional planning | Possible opening-case shape | Not fixed canon; promote only by explicit user request or canon-promotion issue. |
 | Opening music box case profile | `cases/opening_music_box_case_profile.md` | Active working case profile | Current bounded opening-case logic | Stable enough to guide drafting while keeping the deeper purpose and hidden party morally undefined. |
 | Music box object profile | `objects/music_box_object_profile.md` | Active working object profile | Current bounded object logic | Use for what the music box outwardly is and what remains intentionally undefined. |
@@ -147,6 +149,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `characters/outside_professional_thief_character_profile.md` — current bounded profile for the outside professional thief used in the opening case.
 - `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
 - `notes/mode_preflight_workflow.md` — shared preflight for manifest refresh, scoped file loading, and open-issue dedupe before mode work.
+- `notes/clockwork_orchestra_story_direction_scaffold.md` — current mixed-status story-direction scaffold: approved early case guidance through Chapter 4, with wider novel direction still provisional.
 - `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
 - `notes/repo_manifest.json` — generated machine-readable repo index for agent orientation.
 - `notes/repo_manifest.md` — generated human-readable repo index for agent orientation.

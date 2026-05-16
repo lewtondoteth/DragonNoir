@@ -6,7 +6,7 @@ This document is a standalone story bible for a toy-noir detective world starrin
 
 Everything needed for character, world, tone, theme, and style is included here.
 
-The exact case, mystery engine, artifact, antagonist structure, and ending mechanics are not fixed canon yet. Plot ideas should remain provisional until intentionally promoted into this bible.
+The exact chapter structure, scene ordering, artifact mechanics, antagonist identity, and ending logistics are not fixed canon yet. Plot ideas should remain provisional until intentionally promoted into this bible.
 
 Current working opening-case shape, while still provisional in deeper purpose, is:
 
@@ -15,6 +15,39 @@ Current working opening-case shape, while still provisional in deeper purpose, i
 - The thief dies in a police confrontation before delivering the goods.
 - The stash is not recovered.
 - The music box matters more than its public treasure value, but the larger purpose remains undefined.
+
+## Current Canon Direction For Ongoing Writing
+
+Future drafting should currently work toward the following canon-direction shape:
+
+- the opening case is an auction-house-linked music-box recovery case
+- Dragon takes the case under sincere treasure logic
+- the robbery should feel institutionally embarrassing and socially discreet rather than loud or sensational
+- the thief's escape plan failed midway through because a small access item was lost or left behind
+- Dragon's detective edge comes from recognizing interrupted intention, contextual wrongness, and the failed return loop
+- Odette's use of treasure language is emotionally real but strategically incomplete
+- the story should eventually turn through a false-treasure betrayal rather than a simple ownership dispute
+- Odette's broader pressure should come from structural dependency, managed status, and constrained freedom rather than melodramatic captivity
+- the strongest current wider plot direction is a clockwork orchestra or linked performance-set storyline
+- the larger mystery should grow from intimate office noir into institutional noir, collector obsession, damage, and melancholy convergence
+- the final emotional shape should remain intimate, costly, object-focused, and bittersweet rather than triumphant or magical
+
+This canon direction is intended to guide future AI writing.
+
+Current chapter-level guidance for future writing currently extends through the early case arc only:
+
+- Chapter 1: Dragon meets Odette, the music box is framed as treasure, the auction-house theft is revealed, and Dragon takes the case
+- Chapter 2: Dragon visits the auction house and encounters the institutional embarrassment and collector-world texture around the robbery
+- Chapter 3: Dragon focuses on the contradiction that a professional thief returned toward the crime scene
+- Chapter 4: Dragon realizes the escape plan failed midway because the thief could not access the intended fallback point
+
+What remains intentionally flexible for now:
+
+- any chapter movement after the early case arc above
+- exact inventory of orchestra pieces
+- exact mechanism inside or role of the music box
+- exact family identity and collector identity
+- exact murder, attack, repair, and ending logistics
 
 ---
 
