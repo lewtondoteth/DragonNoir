@@ -54,23 +54,28 @@ python3 tools/generate_repo_manifest.py
 
 ## What The Agent Should Report After Connecting
 
-After the startup read, the agent should give a short orientation summary that covers:
+After the startup read, the agent should give a short orientation summary, not a file inventory.
+
+For a plain repo connection, the summary should usually be no more than 3-5 short lines:
 
 - this is the Toy Noir Dragon repo
-- the active canon/provisional boundaries
-- the main current guidance files
-- whether there are important uncommitted changes in the working tree
-- which work modes are available
+- current clean/dirty worktree state
+- active draft or obvious current focus, if clear
+- any important blocker, such as uncommitted changes or unresolved issue work
 
-The summary should be brief. The purpose is confidence, not a file inventory dump.
+Do not list every work mode unless the author asks. The purpose is confidence and orientation, not a file inventory dump.
 
 ## Routing Question
 
-After orienting, the agent should ask what mode the author wants.
+After orienting, the agent should ask what the author wants to do next in plain language.
 
-The routing question should be simple and concrete, for example:
+For writing-oriented connection, the routing question should invite direction rather than presenting the whole workflow menu:
 
-> I have the repo context loaded. Are we doing Writing, Review, Session Extraction, Profile Pull / Character Scan / Entity Scan / Consistency Scan, Rule Validation, Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work?
+> I have the repo loaded. The current saved chapter ends with Odette showing Dragon the newspaper clipping. What do you want to write or change next?
+
+For non-writing ambiguity, ask a compact routing question:
+
+> I have the repo loaded. Are we writing, reviewing, extracting from a session, scanning profiles/consistency, capturing a scaffold, or working an issue?
 
 If the author already made the mode clear, do not ask again. Route immediately.
 
@@ -87,6 +92,8 @@ Route to:
 - `notes/writing_workflow.md`
 
 Writing mode should not jump directly from repo connection into prose generation. It should first retrieve and summarize the active scope context.
+
+The writing summary should be compact and action-oriented. Include a short last-saved-prose cue so the author can settle back into the draft, then ask for the next writing direction.
 
 ### Review
 

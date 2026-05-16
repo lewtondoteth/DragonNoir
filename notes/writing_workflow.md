@@ -195,11 +195,13 @@ When Writing mode triggered the approval card, the default interpretation should
 
 > approve for this draft now, and make sure the repo has the right follow-up issue unless one already exists
 
-## Required Pre-Draft Summary
+## Required Pre-Draft Context Check
 
-Before generating prose, the agent should summarize what it found for the requested scope.
+Before generating prose, the agent should check what governs the requested scope.
 
-The summary should usually include:
+Most of this check is internal. Do not dump the full checklist to the author unless they ask for it, the scope is ambiguous, or there is a canon/provisional risk that needs approval.
+
+Internally, the agent should identify:
 
 - active canon file for this scope
 - governing outline or structure file
@@ -212,13 +214,38 @@ The summary should usually include:
 - any already-open issues that are likely to matter to this writing pass
 - what not to import or over-promote
 
-The goal is to be able to say:
+## User-Facing Writing Startup
+
+For ordinary writing continuation, the user-facing startup should be brief and focused.
+
+It should usually include:
+
+- `Scope`: the active chapter/scene/file being used
+- `Last saved prose`: one short paraphrase or a very short quote from the end of the active draft
+- `Next`: one simple question asking what the author wants to write, continue, or change
+
+Keep this to roughly 3-6 short lines.
+
+Example:
+
+```text
+I have Chapter 1 loaded.
+Last saved prose: Odette has just drawn out a dry folded newspaper clipping and says, "Yesterday morning, I saw this."
+The current guidance keeps this as intimate office noir before the auction-house case opens out.
+What do you want to do next: continue from the clipping, revise the exchange before it, or try a new beat?
+```
+
+If the author asks for a detailed context recap, then provide the fuller governing-context summary.
+
+The goal is to be able to proceed from:
 
 > We are working on Chapter 1. Here is the active draft, the governing outline, the relevant local constraints, and the things we should not accidentally import.
 
+without saying all of that every time.
+
 ## Chapter Workflow
 
-If the work is chapter-based, the agent should explicitly answer:
+If the work is chapter-based, the agent should answer these internally:
 
 1. What is the active canonical chapter file?
 2. What outline governs this chapter?
@@ -238,7 +265,7 @@ Example for Chapter 1:
 
 ## Scene Workflow
 
-If the work is scene-based, the agent should explicitly answer:
+If the work is scene-based, the agent should answer these internally:
 
 1. What chapter does this scene belong to?
 2. What canonical chapter material surrounds it?
@@ -252,7 +279,7 @@ If the work is scene-based, the agent should explicitly answer:
 
 ## Character Workflow
 
-If the work is character-focused, the agent should explicitly answer:
+If the work is character-focused, the agent should answer these internally:
 
 1. What character profile is authoritative?
 2. What story-bible material governs the character?
@@ -311,7 +338,8 @@ Do not:
 - apply global rules while forgetting scope-specific local patterns
 - ignore an existing open issue and prompt or log as if the item were untracked
 - skip the one-by-one approval step when unapproved scaffold, style, or character-guidance items matter to the draft
-- start prose generation before summarizing what governs the requested scope
+- start prose generation before checking what governs the requested scope
+- greet the author with a wall of context when a short writing cue would do
 
 ## Minimal Agent Prompt
 
@@ -323,6 +351,8 @@ Connect to my repo lewtondoteth/DragonNoir and switch to Writing mode.
 Before drafting, follow `notes/writing_workflow.md`.
 
 Identify the scope of the work, load the active canon file, the governing outline, the relevant local notes/scenes/character files, and summarize what already governs this scope. Then continue with the prose work.
+
+Keep the user-facing startup compact: name the active file, give a short cue from the last saved prose, and ask what the author wants to write or change next. Keep the fuller checklist internal unless approval or clarification is needed.
 
 If any relevant scaffold, style, or character-guidance items are not yet approved for drafting use, pause and run the one-by-one approval check before writing.
 

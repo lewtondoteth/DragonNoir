@@ -279,6 +279,19 @@ This includes entity-growth work:
 
 This keeps prose generation and post-writing extraction as distinct activities with different goals.
 
+## Writing Connection Flow
+
+When the author connects to write, agents should not open with a long context report.
+
+The normal writing startup should be compact:
+
+1. confirm the active draft or scene
+2. give a short cue from the last saved prose
+3. mention only the most relevant current constraint, if useful
+4. ask what the author wants to write, continue, or change next
+
+Detailed canon, workflow, and file summaries should stay internal unless the author asks for them or a canon/provisional decision is needed.
+
 ## Profile Pull Flow
 
 Use `Profile Pull` when the useful profile knowledge is already embodied in prose and should be extracted from the draft itself rather than from a chat export.

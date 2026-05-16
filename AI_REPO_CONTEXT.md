@@ -124,6 +124,8 @@ For any task:
 10. When a session or prose scan introduces durable case, object, organisation, or character information, decide whether it belongs in an existing entity surface or whether a new candidate issue is needed to establish that surface cleanly.
 11. When files or folders are added, removed, moved, or renamed, refresh the generated repo manifest and update the relevant README or file index in the same change.
 
+For ordinary writing connection, keep the user-facing summary compact. Include the active draft/scene, a short cue from the last saved prose, and a direct question about what the author wants to write or change next. Do not dump the full context checklist unless the author asks or a canon/provisional decision is needed.
+
 ## Review Path
 
 Use this path when the user asks for review, critique, assessment, audit, feedback, or whether a passage "works".
