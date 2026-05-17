@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-17T13:24:00+00:00",
+  "generated_at_utc": "2026-05-17T15:12:41+00:00",
   "repo_name": "Dragon Noir",
   "shared_process": "../writing-agent-process",
   "authoritative_reference": [
@@ -217,7 +217,8 @@
     ],
     "chapters": [
       "chapters/README.md",
-      "chapters/chapter_01_opening.md"
+      "chapters/chapter_01_opening.md",
+      "chapters/chapter_02_opening.md"
     ],
     "characters": [
       "characters/README.md",

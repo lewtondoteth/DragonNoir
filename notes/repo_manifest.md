@@ -2,7 +2,7 @@
 
 Generated helper index for `Dragon Noir`.
 
-- Generated at: `2026-05-17T13:24:00+00:00`
+- Generated at: `2026-05-17T15:12:41+00:00`
 - Shared process: `../writing-agent-process`
 
 ## Authoritative Reference
@@ -187,6 +187,7 @@ Not active guidance unless explicitly revived.
 
 - `chapters/README.md`
 - `chapters/chapter_01_opening.md`
+- `chapters/chapter_02_opening.md`
 
 ### characters
 

@@ -64,7 +64,8 @@ DragonNoir/
 │   └── opening_music_box_case_profile.md
 ├── chapters/
 │   ├── README.md
-│   └── chapter_01_opening.md
+│   ├── chapter_01_opening.md
+│   └── chapter_02_opening.md
 ├── characters/
 │   ├── README.md
 │   ├── outside_professional_thief_character_profile.md
@@ -139,6 +140,7 @@ Use this table to understand what each major story artifact is for before editin
 | Item | File | Status | Use for | Notes |
 | --- | --- | --- | --- | --- |
 | Chapter 1 opening | `chapters/chapter_01_opening.md` | Active canonical draft | Main Chapter 1 prose | Treat as the current assembled chapter unless the user says otherwise; currently reaches the auction-catalogue case reveal and PI/property-evaluator exchange. |
+| Chapter 2 opening | `chapters/chapter_02_opening.md` | Active canonical draft | Main Chapter 2 opening prose | Opens with legal formalities, rate agreement, and Odette leaving while Dragon files the papers. |
 | Chapter 1 narrative beats | `outlines/chapter_01_narrative_beats.md` | Active canonical structure | Pacing, sequence, and scene-function reference | Use to check whether new prose still follows the intended opening movement. |
 | Office-entry coffee ritual | `scenes/chapter_01_office_entry_coffee_ritual_draft.md` | Experimental scene study | Texture, pacing, and possible integration material | Do not treat as canonical prose unless integrated into the active chapter. |
 | Clockwork orchestra story-direction scaffold | `notes/clockwork_orchestra_story_direction_scaffold.md` | Active early-case guidance / provisional wider planning | Current Chapters 1-4 guidance and wider story-direction reference | Use for the approved early case path through Chapter 4; treat later novel movement in the same file as provisional. |
@@ -154,6 +156,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 ## Current Active Drafts
 
 - `chapters/chapter_01_opening.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, layered recognition progression, auction-catalogue music-box reveal, Tonight realization, and PI/property-evaluator exchange.
+- `chapters/chapter_02_opening.md` — canonical current Chapter 2 opening draft. Contains the legal formalities, rate agreement, and Odette's quiet departure while Dragon's back is turned.
 
 ## Scene Studies
 

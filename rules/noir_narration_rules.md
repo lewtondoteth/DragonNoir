@@ -10,6 +10,8 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Prefer observation, behaviour, practical consequence, environmental detail, physical habit, and object description.
 - Let readers infer emotional truth from what Dragon notices, avoids, counts, touches, protects, or complains about.
 - Do not over-explain world facts that can be understood through action.
+- Avoid announcing that something is meaningful, noir, witty, large, rich, dangerous, or emotionally important when the evidence can make the reader feel it.
+- Let meaning emerge from accumulated behaviour, objects, timing, and consequence rather than from narrator explanation.
 
 ## Consequence-first narration
 
@@ -49,6 +51,16 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Humour comes from understatement, attempted professionalism, practical inconvenience, and Dragon maintaining standards under impossible conditions.
 - Dragon may be vain, evasive, tired, and unreasonable, but he should not become cruel.
 - Often the joke is strongest when the narration stops before explaining why it is funny.
+- Wit should emerge from practical observation and pressure rather than from authorial performance.
+- Stylish commentary must earn its space by carrying image, humour, character, plot, class, pacing, or emotional weight. Do not keep flourish that exists only for atmosphere or cleverness.
+
+## Grounded narration and flourish
+
+- Keep narration attached to observable action, dialogue, objects, immediate perception, and scene pressure.
+- Do not let noir commentary drift into conceptual language that floats away from the active scene.
+- Returning from abstract commentary into concrete action can make the prose feel uninhabited. Keep Dragon's voice lived-in, practical, and present in the room.
+- A polished sentence is not automatically a useful sentence. It should pay for itself through image, humour, character, plot, tone, class, or pacing.
+- When a flourish works, it should feel like Dragon noticing something under pressure, not like the prose admiring itself.
 
 ## Rain handling
 
@@ -74,10 +86,32 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Pauses matter.
 - Let observations land fully before shifting into the next action.
 - Noir pacing should feel patient, rain-soaked, tired, and deliberate without becoming static.
+- "Too fast" often means the scene has not been allowed to settle between beats, not simply that it needs more prose.
+- Readers can tolerate omitted information more easily than rushed orientation.
+- Compress by selective omission rather than by accelerating the prose cadence through necessary physical, emotional, or procedural beats.
+- Preserve experiential rhythm even when procedural content is reduced.
+- Physical actions, pauses, and ordinary interruptions should occupy enough narrative space to feel real.
 - Let most lines stay plain and functional so sharper noir lines have space to land.
 - Do not keep a sentence only because it is polished, quotable, or beautiful if it slows the scene, explains too much, or makes Dragon sound too literary.
 - When choosing between two good sentences, prefer the one that preserves Dragon's tired, practical, defensive voice and moves the scene through pressure, object detail, or consequence.
 - End a scene or chapter when the emotional and structural work has landed. Do not add procedural aftermath just because the next practical step exists.
+
+## Social meaning through behaviour
+
+- Social and class logic should remain inside behaviour, assumption, timing, and transaction rather than becoming direct commentary.
+- Dragon often expects trust to be secured through payment, proof, or practical leverage.
+- Wealthier or more protected characters may assume payment certainty, social continuity, or civilised procedure without intending evasion.
+- Let humour and tension emerge from incompatible assumptions rather than from explaining the social contrast.
+- Procedural friction can reveal emotional or social truth more strongly than direct confession.
+- Characters reveal themselves through how they navigate transactions, expectations, delays, and misunderstandings.
+
+## Character-driven noir
+
+- Noir atmosphere should emerge from truthful character behaviour under pressure, not from characters consciously performing noir archetypes.
+- Ordinary believable delays can carry more weight than stylised exits, entrances, or dramatic gestures.
+- Good noir in this project grows from worldview, class, fatigue, suspicion, compromise, restraint, transactional pressure, weather, and damaged dignity.
+- Avoid making characters behave theatrically just to keep the scene noir.
+- Themes should accumulate through repeated variation across chapters rather than through self-contained thematic declarations.
 
 ## Treasure Logic
 
