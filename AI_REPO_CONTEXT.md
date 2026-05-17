@@ -4,9 +4,11 @@ This repository contains only the standalone Toy Noir Dragon book project.
 
 The family Dragon project is no longer part of this repository. It remains in the old `Dragon-Stories` repository history and should not be used as guidance here unless the user explicitly provides or requests it for comparison, adaptation, or crossover.
 
-## First file to read
+## Project bootstrap
 
-Always read `README.md` first.
+When entering through this repository's `AGENTS.md`, read `../writing-agent-process/AGENTS.md` first, then read this project's local bootstrap files.
+
+Within the Dragon Noir repository, read `README.md` before using project content.
 
 The README explains the Noir folder structure, canonical references, active draft pointers, and canon/provisional separation rule.
 
