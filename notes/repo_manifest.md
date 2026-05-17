@@ -1,9 +1,57 @@
 # Repo Manifest
 
-Generated helper index for `Dragon stories`.
+Generated helper index for `Dragon Noir`.
 
-- Generated at: `2026-05-17T12:58:04+00:00`
+- Generated at: `2026-05-17T13:19:13+00:00`
 - Shared process: `../writing-agent-process`
+
+## Authoritative Reference
+
+- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+- `rules/noir_narration_rules.md`
+- `characters/pink_dragon_character_profile.md`
+- `locations/Toy_City_location_profile.md`
+- `locations/Dragon_Office_location_profile.md`
+
+## Reference Hierarchy
+
+### Canon / authoritative guidance
+
+Stable story, tone, character, narration, and world guidance.
+
+- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+- `rules/noir_narration_rules.md`
+- `characters/pink_dragon_character_profile.md`
+- `locations/Toy_City_location_profile.md`
+- `locations/Dragon_Office_location_profile.md`
+
+### Active working guidance
+
+Stable enough to guide current drafting, while preserving stated unknowns.
+
+- `cases/opening_music_box_case_profile.md`
+- `objects/music_box_object_profile.md`
+- `organisations/commissioning_party_profile.md`
+- `characters/outside_professional_thief_character_profile.md`
+- `notes/clockwork_orchestra_story_direction_scaffold.md`
+
+### Provisional planning
+
+Useful planning, not fixed canon unless explicitly promoted.
+
+- `notes/opening_case_music_box_scaffold.md`
+- `notes/clockwork_orchestra_story_direction_scaffold.md`
+
+### Experimental / retired
+
+Not active guidance unless explicitly revived.
+
+- `scenes/chapter_01_office_entry_coffee_ritual_draft.md`
+- `notes/development_options.md`
+- `discarded_or_experimental/`
+
 
 ## Modes
 

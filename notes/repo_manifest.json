@@ -1,7 +1,57 @@
 {
-  "generated_at_utc": "2026-05-17T12:58:04+00:00",
-  "repo_name": "Dragon stories",
+  "generated_at_utc": "2026-05-17T13:19:13+00:00",
+  "repo_name": "Dragon Noir",
   "shared_process": "../writing-agent-process",
+  "authoritative_reference": [
+    "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
+    "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
+    "rules/noir_narration_rules.md",
+    "characters/pink_dragon_character_profile.md",
+    "locations/Toy_City_location_profile.md",
+    "locations/Dragon_Office_location_profile.md"
+  ],
+  "reference_hierarchy": [
+    {
+      "level": "Canon / authoritative guidance",
+      "meaning": "Stable story, tone, character, narration, and world guidance.",
+      "files": [
+        "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
+        "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
+        "rules/noir_narration_rules.md",
+        "characters/pink_dragon_character_profile.md",
+        "locations/Toy_City_location_profile.md",
+        "locations/Dragon_Office_location_profile.md"
+      ]
+    },
+    {
+      "level": "Active working guidance",
+      "meaning": "Stable enough to guide current drafting, while preserving stated unknowns.",
+      "files": [
+        "cases/opening_music_box_case_profile.md",
+        "objects/music_box_object_profile.md",
+        "organisations/commissioning_party_profile.md",
+        "characters/outside_professional_thief_character_profile.md",
+        "notes/clockwork_orchestra_story_direction_scaffold.md"
+      ]
+    },
+    {
+      "level": "Provisional planning",
+      "meaning": "Useful planning, not fixed canon unless explicitly promoted.",
+      "files": [
+        "notes/opening_case_music_box_scaffold.md",
+        "notes/clockwork_orchestra_story_direction_scaffold.md"
+      ]
+    },
+    {
+      "level": "Experimental / retired",
+      "meaning": "Not active guidance unless explicitly revived.",
+      "files": [
+        "scenes/chapter_01_office_entry_coffee_ritual_draft.md",
+        "notes/development_options.md",
+        "discarded_or_experimental/"
+      ]
+    }
+  ],
   "modes": [
     {
       "name": "Writing",
