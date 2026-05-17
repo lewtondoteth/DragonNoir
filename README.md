@@ -48,6 +48,7 @@ DragonNoir/
 │       ├── candidate_guidance.md
 │       ├── canon_promotion.md
 │       ├── config.yml
+│       ├── follow_up.md
 │       ├── implementation.md
 │       ├── long_session_capture.md
 │       ├── planning_scaffold.md

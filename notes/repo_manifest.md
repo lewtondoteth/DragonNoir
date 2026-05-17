@@ -2,7 +2,7 @@
 
 Generated helper index for `Dragon Noir`.
 
-- Generated at: `2026-05-17T13:19:13+00:00`
+- Generated at: `2026-05-17T13:24:00+00:00`
 - Shared process: `../writing-agent-process`
 
 ## Authoritative Reference
@@ -172,6 +172,7 @@ Not active guidance unless explicitly revived.
 - `.github/ISSUE_TEMPLATE/candidate_guidance.md`
 - `.github/ISSUE_TEMPLATE/canon_promotion.md`
 - `.github/ISSUE_TEMPLATE/config.yml`
+- `.github/ISSUE_TEMPLATE/follow_up.md`
 - `.github/ISSUE_TEMPLATE/implementation.md`
 - `.github/ISSUE_TEMPLATE/long_session_capture.md`
 - `.github/ISSUE_TEMPLATE/planning_scaffold.md`

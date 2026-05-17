@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-17T13:19:13+00:00",
+  "generated_at_utc": "2026-05-17T13:24:00+00:00",
   "repo_name": "Dragon Noir",
   "shared_process": "../writing-agent-process",
   "authoritative_reference": [
@@ -205,6 +205,7 @@
       ".github/ISSUE_TEMPLATE/candidate_guidance.md",
       ".github/ISSUE_TEMPLATE/canon_promotion.md",
       ".github/ISSUE_TEMPLATE/config.yml",
+      ".github/ISSUE_TEMPLATE/follow_up.md",
       ".github/ISSUE_TEMPLATE/implementation.md",
       ".github/ISSUE_TEMPLATE/long_session_capture.md",
       ".github/ISSUE_TEMPLATE/planning_scaffold.md",
