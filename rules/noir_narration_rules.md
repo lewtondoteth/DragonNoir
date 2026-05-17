@@ -74,6 +74,17 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Pauses matter.
 - Let observations land fully before shifting into the next action.
 - Noir pacing should feel patient, rain-soaked, tired, and deliberate without becoming static.
+- Let most lines stay plain and functional so sharper noir lines have space to land.
+- Do not keep a sentence only because it is polished, quotable, or beautiful if it slows the scene, explains too much, or makes Dragon sound too literary.
+- When choosing between two good sentences, prefer the one that preserves Dragon's tired, practical, defensive voice and moves the scene through pressure, object detail, or consequence.
+- End a scene or chapter when the emotional and structural work has landed. Do not add procedural aftermath just because the next practical step exists.
+
+## Treasure Logic
+
+- Dragon may recognize treasure as psychologically irrational before he can explain it.
+- Let treasure pull at him through instinct, possession, value, comfort, pride, and private recognition rather than through direct thematic explanation.
+- When an object matters disproportionately, preserve some uncertainty around why it matters. The prose should make the pressure legible without solving the mystery too early.
+- Avoid turning treasure recognition into lore-dump, moral speech, or neat emotional self-knowledge.
 
 ## Pink dragon handling
 

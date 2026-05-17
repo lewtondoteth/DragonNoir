@@ -93,7 +93,9 @@ Route to:
 
 Writing mode should not jump directly from repo connection into prose generation. It should first retrieve and summarize the active scope context.
 
-The writing summary should be compact and action-oriented. Include a short last-saved-prose cue so the author can settle back into the draft, then ask for the next writing direction.
+The writing summary should be compact and action-oriented. Include a short last-saved-prose cue so the author can settle back into the draft, check whether open prose/writing issues provide provisional forward-draft context beyond the saved file, then ask for the next writing direction.
+
+If issue-tracked prose moves the author-facing draft beyond the saved canon file, Writing mode may use that material as provisional context for continuation. It must still keep the issue material non-canonical until normal issue processing or explicit canon update work happens.
 
 ### Review
 

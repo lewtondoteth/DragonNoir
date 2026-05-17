@@ -127,6 +127,8 @@ Before logging any new issue from Review, Session Extraction, Profile Pull, Char
 2. if yes, reference the existing issue instead of creating a duplicate
 3. only create a new issue when there is a genuinely new unresolved repo task
 
+For Writing follow-up preservation, also compare against any `Forward Draft Context` loaded from open prose/writing issues. Log only the new delta from the current writing session. Do not create issues that merely restate prose, guidance, scaffold material, or profile candidates already present in the saved file or in open issues.
+
 ---
 
 # 3. Recommended Issue Shape

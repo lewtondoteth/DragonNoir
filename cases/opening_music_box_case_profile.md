@@ -79,8 +79,12 @@ From the public point of view:
 - the thief died before the goods were properly recovered
 - the loot is missing
 - the owner places a public reward notice in the paper for information or recovery
+- the music box can surface in an auction listing or catalogue as one item among many, described in dry institutional language
+- the catalogue description should be scarce on details, noting only outward facts such as working condition, worn finish, age, or a faded maker's mark
 
 This public reward should feel plausible and ordinary enough to let the hidden pressure remain hidden.
+
+Auction or catalogue material should feel emotionally indifferent. It can make the music box visible to Dragon and Odette without making its true importance legible to the wider world.
 
 ---
 
@@ -125,6 +129,8 @@ His likely path through the case:
 - begin working around or against the police while pursuing the hidden stash
 
 This should preserve Dragon's practical detective logic and his treasure instinct without turning him into a dupe alone.
+
+In the Chapter 1 case reveal, Dragon can understand that Odette's attachment is disproportionate before he understands the reason. His recognition should come through treasure logic, professional suspicion, and observed pressure rather than through a clear explanation of the music box's hidden purpose.
 
 ---
 

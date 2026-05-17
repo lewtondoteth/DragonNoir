@@ -38,6 +38,9 @@ Outwardly, the music box should read as:
 - mechanically intricate
 - emotionally resonant
 - plausible dragon treasure
+- ordinary enough to be catalogued among other valuables
+- functional or described as working, so its mechanism has living toy-world weight
+- marked by age or history, such as a faded or partial maker's mark, without immediately explaining what that history means
 
 It should make immediate sense that Dragon would recognize it as treasure even before understanding why it matters more than the rest of the haul.
 
@@ -86,6 +89,8 @@ Preserve:
 - treasure readability
 - concealed deeper significance
 - enough ordinary value to fit inside a broader burglary
+- sparse public description that makes the object look ordinary to outsiders
+- private pressure around the object that Odette and Dragon register before the reader knows why
 
 Avoid:
 

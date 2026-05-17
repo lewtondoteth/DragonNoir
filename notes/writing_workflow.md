@@ -6,6 +6,8 @@ This workflow exists to force retrieval before generation. The agent should not 
 
 It also exists to prevent unapproved scaffold, style, character-guidance, or location-guidance material from quietly steering the prose. If relevant scaffold, local-pattern, style-guidance, provisional character-profile items, provisional location-profile items, or held global-rule candidates are present but not yet approved for drafting use, the agent must surface them and pause for approval before writing.
 
+One exception exists for author-supplied prose progress that is already captured in open writing/prose issues. Writing mode may use that material as provisional forward-draft context so the author can keep writing from where the exploratory work has reached before the issue implementation process catches up. This does not make the issue material canon and does not replace later issue processing.
+
 ## Purpose
 
 Use this workflow when the author wants:
@@ -95,6 +97,50 @@ Load only if it is explicitly relevant to the requested work.
 
 Do not let exploratory material override active canon.
 
+### 6. Forward Draft Context From Open Prose Issues
+
+When the author wants to keep writing and the repo may lag behind their latest approved-in-chat prose, check for open GitHub issues that preserve writing progress for the requested scope before asking for approval cards.
+
+Look for open issues that contain or clearly reference:
+
+- prose to preserve
+- chapter continuation material
+- scene replacement or extension text
+- accepted drafting-session output not yet implemented
+- long-session capture items whose prose portion is explicitly intended as forward draft context
+- chapter-specific prose issues for the active chapter or scene
+
+If such issues exist, the agent should build a temporary internal `Forward Draft Context`:
+
+1. identify the active canon endpoint from the repo file
+2. identify the latest issue-tracked prose or scene movement beyond that endpoint
+3. summarize only the minimum forward state needed to continue writing
+4. mark that state as `[HOLD]` / issue-tracked / not yet canon
+5. track which issue or source each forward-context item came from
+6. use it to understand where the author is currently writing from
+
+This step lets writing continue from the author's real current draft position without forcing the author to process every implementation issue first.
+
+Do not paste the whole issue content into chat unless the author asks. The normal startup can simply say that issue-tracked forward context was found and is being used provisionally.
+
+Forward Draft Context may guide the current writing pass without a separate approval card only when:
+
+- it comes from an open issue or author-provided prose source for the same chapter/scene
+- it is being used to continue drafting, not to update canon files
+- the agent keeps the repo's canon/provisional boundary explicit
+- later implementation will still process the issue normally before writing to canon files
+
+If the issue contains new rules, profile changes, lore, case facts, or broad style guidance beyond prose continuity, those still follow the normal approval and validation paths before they can become durable guidance.
+
+Forward Draft Context is also the baseline for later writing-session logging. If the author asks to log follow-up material after drafting from forward context, log only the new delta beyond:
+
+- the saved canon file
+- the issue-tracked forward context already loaded
+- existing open issues for the same prose, scene movement, rule, profile item, or scaffold
+- existing repo guidance that already captures the point
+
+Do not re-log all loaded issue material just because it was used for drafting continuity.
+
 ## Pre-Writing Approval Check
 
 After retrieval and before drafting, the agent must check whether any relevant scaffold or style items still need approval for use in this writing pass.
@@ -118,6 +164,8 @@ The agent should distinguish between:
 - ambiguous enough that approval is still needed
 
 If a global-rule candidate, scaffold, style, or character-guidance item would materially steer the prose and is not already approved for drafting use, the agent must pause and run a one-by-one approval check before writing.
+
+Do not treat issue-tracked forward prose context as a blocker in this step. Its job is to let the author continue writing before implementation catches up. Surface it as provisional context, use it for continuity during the writing session, and keep any broader guidance inside it subject to the normal approval rules.
 
 ## Open-Issue Check Before Approval
 
@@ -186,6 +234,9 @@ In this logging path:
 
 - approval still happens one item at a time
 - before logging, check whether an open issue already exists for the same item
+- compare against the current Forward Draft Context, if one was loaded
+- log only the new material produced or clarified in the current writing session
+- when creating a new issue, include a short `New Delta` note explaining what is new compared with the saved file and already-open issues
 - `yes that's right` may be treated as approval to log immediately when the author has made logging the active path
 - the resulting issue preserves the approved item without treating it as already canon
 - if an open issue already exists, do not create a duplicate; reference the existing issue and continue drafting
@@ -204,6 +255,9 @@ Most of this check is internal. Do not dump the full checklist to the author unl
 Internally, the agent should identify:
 
 - active canon file for this scope
+- any open prose/writing issues that move the author-facing draft beyond the active canon file
+- the provisional forward-draft endpoint, if issue-tracked prose exists
+- what content is already covered by those open issues and should not be logged again
 - governing outline or structure file
 - relevant local patterns or chapter-level constraints
 - relevant approved global rules and any held global-rule candidates that may need review
@@ -222,6 +276,7 @@ It should usually include:
 
 - `Scope`: the active chapter/scene/file being used
 - `Last saved prose`: one short paraphrase or a very short quote from the end of the active draft
+- `Forward context`: a short note only if open prose issues move the writing beyond the saved file
 - `Next`: one simple question asking what the author wants to write, continue, or change
 
 Keep this to roughly 3-6 short lines.
@@ -250,11 +305,13 @@ If the work is chapter-based, the agent should answer these internally:
 1. What is the active canonical chapter file?
 2. What outline governs this chapter?
 3. What scene studies or chapter notes are relevant?
-4. What local patterns have been approved for this chapter, if any?
-5. What held global-rule candidates might materially affect this chapter and still need review?
-6. What relevant scaffolds, style items, or location-profile items still need approval before they can shape the prose?
-7. What open issues already track those items, if any?
-8. What provisional material is nearby but should not be mistaken for canon?
+4. Are there open prose/writing issues that contain author-facing chapter progress beyond the saved canon file?
+5. If yes, what is the provisional forward-draft endpoint, and what must remain issue-tracked rather than canon?
+6. What local patterns have been approved for this chapter, if any?
+7. What held global-rule candidates might materially affect this chapter and still need review?
+8. What relevant scaffolds, style items, or location-profile items still need approval before they can shape the prose?
+9. What open issues already track those items, if any?
+10. What provisional material is nearby but should not be mistaken for canon?
 
 Example for Chapter 1:
 
@@ -270,12 +327,14 @@ If the work is scene-based, the agent should answer these internally:
 1. What chapter does this scene belong to?
 2. What canonical chapter material surrounds it?
 3. What local scene study or draft already exists?
-4. What chapter-level patterns constrain this scene?
-5. What held global-rule candidates would materially shape this scene?
-6. What scaffolds or style items would materially shape this scene?
-7. Which of those are approved for drafting use, and which still need approval?
-8. What open issues already track those items, if any?
-9. What character-dynamic rules matter here?
+4. Are there open prose/writing issues that contain scene progress beyond the saved canon file?
+5. If yes, what is the provisional forward-draft endpoint, and what must remain issue-tracked rather than canon?
+6. What chapter-level patterns constrain this scene?
+7. What held global-rule candidates would materially shape this scene?
+8. What scaffolds or style items would materially shape this scene?
+9. Which of those are approved for drafting use, and which still need approval?
+10. What open issues already track those items, if any?
+11. What character-dynamic rules matter here?
 
 ## Character Workflow
 
@@ -314,6 +373,9 @@ Before writing, the agent should be able to answer:
 
 - What scope am I writing in?
 - What is the active canon file for this scope?
+- Is there issue-tracked prose that moves the author-facing draft beyond the active canon file?
+- If yes, what is the provisional forward-draft endpoint, and what is still not canon?
+- What is already covered by the saved file or open issues, so it should not be re-logged later?
 - What outline or structure governs it?
 - What local patterns or constraints apply here?
 - What held global-rule candidates are relevant to this scope?
@@ -331,7 +393,10 @@ Do not:
 
 - draft from the story bible alone when a local chapter file exists
 - ignore the chapter outline
+- ignore issue-tracked prose progress and force the author to write from an artificially stale saved file
 - treat experimental scene files as canon by default
+- treat Forward Draft Context as canon or write it into repo files without normal issue processing
+- log already-loaded Forward Draft Context as if it were new writing-session output
 - import provisional plot details without explicit permission
 - let `[EXPLORE]` or `[HOLD]` scaffold/style/character-guidance material silently steer the prose
 - let `[HOLD]` global-rule candidates quietly become default canon through use
@@ -357,4 +422,8 @@ Keep the user-facing startup compact: name the active file, give a short cue fro
 If any relevant scaffold, style, or character-guidance items are not yet approved for drafting use, pause and run the one-by-one approval check before writing.
 
 Before prompting any approval card for a non-canon item, check whether an open issue already tracks it. If the item is approved for this writing pass and no issue exists, preserve it through the correct issue-handoff path after drafting unless I explicitly say not to log it.
+
+If open prose/writing issues contain author-facing draft progress beyond the saved chapter file, build a provisional Forward Draft Context from those issues before asking where to continue. Use it only for drafting continuity; do not treat it as canon or implement it into files unless I explicitly switch to issue implementation or canon update work.
+
+When logging after a writing session that used Forward Draft Context, log only the new delta beyond the saved file and already-open issues. Do not duplicate prose, guidance, or scaffold material that was merely loaded as context.
 ```

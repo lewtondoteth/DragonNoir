@@ -289,25 +289,96 @@ Transition:
 
 After similarity is undeniable, begin settling the client conversation and case reveal.
 
+### Beat 10 - Auction Catalogue Reveal
+
+Purpose:
+
+- move from abstract treasure talk into a concrete case hook
+- reveal the music box through public institutional language rather than direct exposition
+- let object detail carry emotional pressure before the mystery is explained
+
+Key functions:
+
+- Odette produces an auction listing or catalogue sheet, not a generic newspaper clipping
+- the music box appears as a circled entry among other items
+- the listing is sparse, dry, and materially specific
+- details such as working condition, worn finish, and a faded maker's mark matter because they imply function, age, and hidden history without solving them
+- the auction house language should feel indifferent to the object's private significance
+
+Emotional effect:
+
+- the case becomes tangible
+- Odette's fixation becomes visible without melodrama
+- Dragon sees that the object is being treated as ordinary property while Odette treats it as treasure
+
+Transition:
+
+Move from catalogue intrigue to public urgency. Let the catalogue make the mystery visible before any newspaper or reward material makes the consequences immediate.
+
+### Beat 11 - Public Urgency / Newspaper Escalation
+
+Purpose:
+
+- widen the case from private object recovery into an urgent search
+- show that the object may disappear into public commerce, official reward logic, or ordinary stolen-property handling
+- keep the hidden meaning concealed while increasing pressure
+
+Key functions:
+
+- catalogue material creates mystery
+- newspaper or reward material creates urgency
+- public notices should not explain the hidden stakes
+- Dragon should notice the practical danger of delay before the full truth is available
+
+Emotional effect:
+
+- the case starts feeling like a hunt rather than a conversation about an object
+- Odette's restraint becomes more pressured
+- Dragon's professional distance begins to fail under treasure logic and good money
+
+Transition:
+
+Move toward case acceptance once Dragon has enough pressure, motive, and fee to act without needing the mystery fully explained.
+
+### Beat 12 - Case Acceptance
+
+Purpose:
+
+- close Chapter 1 by turning atmosphere, recognition, and object pressure into forward motion
+- preserve noir genre shape through reluctant professional commitment
+- end before the office scene becomes too comfortable or procedural
+
+Key functions:
+
+- Dragon morally or professionally hesitates just enough
+- treasure logic lets him understand Odette at a level he pretends not to
+- the fee can wipe away remaining objections without making the decision noble
+- the chapter should close cleanly on acceptance rather than drift into next-morning logistics
+
+Emotional effect:
+
+- reluctant commitment
+- compromised ethics
+- promise of investigation
+- the city opening outward from the office
+
+Transition:
+
+End Chapter 1 on or very near "I'll take the case." Chapter 2 should begin the investigation rather than continuing office aftermath.
+
 ## Current Structural Position
 
-The canonical draft currently sits at the transition between:
+The canonical draft carries the Chapter 1 office-client sequence from atmospheric encounter into case acceptance.
 
-- atmospheric encounter
-- detective-office structure
-
-The separate coffee scene study preserves earlier office-entry material, but the canonical chapter now carries the integrated transition and coffee sequence.
+The separate coffee scene study preserves earlier office-entry material, but the canonical chapter now carries the integrated transition, coffee sequence, behavioural recognition, case reveal, and acceptance movement.
 
 ## What Chapter 1 Still Needs
 
-- A settled conversation rhythm between Dragon and the pink dragon.
-- Dragon attempting professionalism while the office undermines him.
-- Gradual case reveal without rushing into exposition.
-- A post-coffee behavioural similarity beat before hat/coat reveal.
-- Introduction of a provisional opening case that can still be rebuilt.
-- A clear reason the case belongs in Toy City and matters to damaged or overlooked toys.
-- A reason Dragon accepts the case that preserves treasure motive, curiosity, professional pride, and emotional disruption.
-- A chapter-end movement that points Dragon out of the office and into investigation.
+- Preserve the settled conversation rhythm between Dragon and the pink dragon while the case details sharpen.
+- Keep Dragon attempting professionalism while the office, the fee, and Odette's restraint undermine him.
+- Let the case reveal move through catalogue detail, public urgency, treasure recognition, and acceptance rather than exposition.
+- Keep the music box's deeper purpose hidden even as its private pressure becomes obvious.
+- Close with a chapter-end movement that points Dragon out of the office and into investigation.
 
 Current exploratory opening-case scaffold:
 
@@ -317,6 +388,10 @@ Current exploratory opening-case scaffold:
 
 - Maintain slow breathing pacing.
 - Prefer implication, object detail, behaviour, and practical complaint over direct emotional explanation.
+- Let material transitions carry escalation: coffee cup to social opening, catalogue to mystery, newspaper or reward notice to public consequence.
+- Keep most prose restrained so the occasional sharper line can land. Avoid stacking too many beautiful or quotable sentences.
+- Do not explain treasure too directly. Dragon can recognize disproportionate treasure-attachment before he understands or admits why it matters.
+- End the chapter once acceptance lands. Avoid post-acceptance procedural drag.
 - Keep failed dignity humour grounded in professionalism under impossible conditions.
 - In Dragon/Odette client-conversation scenes, Dragon may notice the right physical evidence while misreading its cause. Let relief, stillness, carefulness, silence, cup handling, or evasive timing stay visible without forcing the narration to flag the misread immediately.
 - Keep this pattern local to Dragon/Odette interrogation, recognition, and client-conversation beats. Do not generalize it into a broad rule that Dragon is unreliable in all scenes.

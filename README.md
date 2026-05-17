@@ -144,7 +144,7 @@ Use this table to understand what each major story artifact is for before editin
 
 | Item | File | Status | Use for | Notes |
 | --- | --- | --- | --- | --- |
-| Chapter 1 opening | `chapters/chapter_01_opening.md` | Active canonical draft | Main Chapter 1 prose | Treat as the current assembled chapter unless the user says otherwise. |
+| Chapter 1 opening | `chapters/chapter_01_opening.md` | Active canonical draft | Main Chapter 1 prose | Treat as the current assembled chapter unless the user says otherwise; currently reaches the auction-catalogue case reveal and PI/property-evaluator exchange. |
 | Chapter 1 narrative beats | `outlines/chapter_01_narrative_beats.md` | Active canonical structure | Pacing, sequence, and scene-function reference | Use to check whether new prose still follows the intended opening movement. |
 | Office-entry coffee ritual | `scenes/chapter_01_office_entry_coffee_ritual_draft.md` | Experimental scene study | Texture, pacing, and possible integration material | Do not treat as canonical prose unless integrated into the active chapter. |
 | Clockwork orchestra story-direction scaffold | `notes/clockwork_orchestra_story_direction_scaffold.md` | Active early-case guidance / provisional wider planning | Current Chapters 1-4 guidance and wider story-direction reference | Use for the approved early case path through Chapter 4; treat later novel movement in the same file as provisional. |
@@ -159,7 +159,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 
 ## Current Active Drafts
 
-- `chapters/chapter_01_opening.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, and layered recognition progression.
+- `chapters/chapter_01_opening.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, layered recognition progression, auction-catalogue music-box reveal, Tonight realization, and PI/property-evaluator exchange.
 
 ## Scene Studies
 
@@ -287,10 +287,15 @@ The normal writing startup should be compact:
 
 1. confirm the active draft or scene
 2. give a short cue from the last saved prose
-3. mention only the most relevant current constraint, if useful
-4. ask what the author wants to write, continue, or change next
+3. check whether open prose/writing issues contain author-facing draft progress beyond the saved file
+4. mention only the most relevant current constraint or provisional forward context, if useful
+5. ask what the author wants to write, continue, or change next
 
 Detailed canon, workflow, and file summaries should stay internal unless the author asks for them or a canon/provisional decision is needed.
+
+If open issues preserve prose that has not yet been implemented into the repo, Writing mode may use that material as provisional `Forward Draft Context` so drafting can continue from the author's current working position. This does not make the issue material canon and does not replace later issue processing.
+
+When logging follow-up material after using `Forward Draft Context`, log only the new delta from the current session. Do not duplicate prose, guidance, or scaffold material already present in the saved file or open issues.
 
 ## Profile Pull Flow
 

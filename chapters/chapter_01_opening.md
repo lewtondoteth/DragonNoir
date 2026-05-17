@@ -2,7 +2,7 @@
 
 Canonical current Chapter 1 draft.
 
-This file integrates the rain/city monologue, Dragon's trifle-hangover state, the knock at the door, the pink dragon doorway reveal, office-entry transition, coffee sequence, and layered recognition progression.
+This file integrates the rain/city monologue, Dragon's trifle-hangover state, the knock at the door, the pink dragon doorway reveal, office-entry transition, coffee sequence, layered recognition progression, and opening case reveal.
 
 It had been raining over Toy City for three days, or possibly four.
 
@@ -804,6 +804,158 @@ Not quickly. Not slowly either.
 
 Precisely.
 
-She drew out a square of newspaper folded twice and kept dry enough to make the rest of the office look negligent.
+She drew out a folded catalogue and pushed it carefully across the desk.
 
-"Yesterday morning," she said, "I saw this."
+The paper stopped beneath my paw.
+
+It was cream.
+
+Not white. White paper belongs to offices, hospitals, and people who believe signatures improve things.
+
+This was cream paper thick enough to survive inheritance disputes and wealthy disappointment.
+
+At the top, embossed lettering declared:
+
+Harrow & Vale Auctioneers.
+
+One of the expensive houses.
+
+Not the loud kind.
+
+The quiet kind.
+
+The kind with carpet thick enough to muffle regret and rooms where inheritance was turned into lot numbers before the body was cold.
+
+They did not sell belongings there.
+
+They sold estates.
+
+The difference was mostly lighting, paper quality, and how politely grief was asked to leave.
+
+I looked down.
+
+The page offered the usual inventory of respectable loss.
+
+Lot numbers. Estimates. Descriptions polished clean of attachment.
+
+Near the centre, one listing had been circled.
+
+Not underlined.
+
+Not marked with a cross.
+
+Circled.
+
+Carefully. Twice.
+
+LOT 47.
+
+Musical Box.
+
+Walnut exterior with painted interior scene.
+
+Maker's mark faded.
+
+Mechanism functional.
+
+Minor cosmetic wear consistent with age.
+
+The words sat there calmly, the way official words do when they have never been asked to care about anything.
+
+Mechanism functional.
+
+That one stayed under my claw a moment longer.
+
+In Toy City, working was not a small word.
+
+A small black-and-white catalogue photograph sat beside the listing.
+
+Poor contrast.
+
+Dark shape.
+
+Curved lid.
+
+A pale smudge where the interior scene might have been.
+
+The rest had been flattened by ink, paper, and professional indifference.
+
+Underneath, the description remained calm.
+
+The page continued around it.
+
+Clockwork carousel horse.
+
+Silver candle stands.
+
+Porcelain nursery lamp.
+
+Marionette theatre.
+
+Brass diving helmet.
+
+Silver tea service.
+
+Dress hats on velvet stands.
+
+Dollhouse furniture.
+
+Framed paintings.
+
+Expensive little things arranged into lot numbers and columns.
+
+Odette watched me read.
+
+She did not interrupt.
+
+Her stillness was careful, which was not the same as calm. Calm is what happens when there is nothing to hold in. Careful is what happens when holding in has become a skill.
+
+I looked back at the listing.
+
+A toy does not carry a Harrow & Vale catalogue through three days of rain because of furniture.
+
+Treasure had entered the office before she unfolded the page.
+
+Now it had a lot number.
+
+My eye drifted lower.
+
+Evening Estate Auction.
+
+Thursday.
+
+Seven-thirty.
+
+Preview viewing from noon.
+
+The rain moved softly against the window.
+
+I looked again.
+
+Thursday.
+
+Seven-thirty.
+
+Tonight.
+
+"Ah," I said.
+
+I closed the catalogue slightly.
+
+"I see the issue here."
+
+Odette waited.
+
+"This is a P.I. office," I explained, not unkindly. "P.I. stands for private investigator."
+
+I tapped the catalogue once.
+
+"Not property evaluator."
+
+"But I see where you went wrong."
+
+She stared back at me for a moment.
+
+Then she said, calmly, "Evaluation starts with an E."
+
+"Does it?" I said. "That must be new. I haven't read the latest dictionary."
