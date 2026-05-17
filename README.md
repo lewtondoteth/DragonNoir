@@ -8,13 +8,13 @@ It is now dedicated to the noir continuity only. The family Dragon project remai
 
 AI assistants and coding agents should read:
 
-1. `../writing-agent-process/AGENTS.md`
+1. `../ElectricMonk/AGENTS.md`
 2. `README.md`
 3. `AI_REPO_CONTEXT.md`
 
-`../writing-agent-process/` contains the shared workflow machinery. This repository contains the Toy Noir Dragon story content, canon, style, prose, and project-specific scope rules.
+`../ElectricMonk/` contains the shared workflow machinery, also called the Monk. This repository contains the Toy Noir Dragon story content, canon, style, prose, and project-specific scope rules.
 
-`AGENTS.md` contains the short bootstrap instruction that links the shared process to this private story repo.
+`AGENTS.md` contains the short bootstrap instruction that links ElectricMonk to this private story repo.
 
 ## Author Workflow
 
@@ -104,7 +104,7 @@ DragonNoir/
 │   └── Toy_Noir_Dragon_Standalone_Story_Bible.md
 ```
 
-Shared process files live in the sibling repo `../writing-agent-process/`.
+ElectricMonk files live in the sibling repo `../ElectricMonk/`.
 
 ## Working Structure
 
@@ -120,7 +120,7 @@ Shared process files live in the sibling repo `../writing-agent-process/`.
 - `discarded_or_experimental/` — retired alternatives and preserved non-canonical material
 - `notes/` — planning notes, continuity tracking, mystery structure, and revision notes
 - `story_bible/` — authoritative noir project bible and prompt pack
-- `../writing-agent-process/` — shared agent workflow machinery and maintenance tools
+- `../ElectricMonk/` — ElectricMonk shared agent workflow machinery and maintenance tools
 
 ## Chapter 1 Workflow
 
@@ -129,7 +129,7 @@ Shared process files live in the sibling repo `../writing-agent-process/`.
 - Current experimental scene sandbox: `scenes/chapter_01_office_entry_coffee_ritual_draft.md`
 - Practical narration rules: `rules/noir_narration_rules.md`
 - Opening-case scaffold: `notes/opening_case_music_box_scaffold.md`
-- Issue workflow: `../writing-agent-process/notes/issue_workflow.md`
+- Issue workflow: `../ElectricMonk/notes/issue_workflow.md`
 
 Keep canonical prose, experimental scene drafts, and structural outlines separate while drafting.
 
@@ -182,8 +182,8 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
 - `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
 - `rules/README.md` — guidance for maintained writing rules and the rule-validation flow.
-- `../writing-agent-process/notes/` — shared writing, review, extraction, issue, preflight, and connection workflows.
-- `../writing-agent-process/tools/generate_repo_manifest.py` — shared manifest generator.
+- `../ElectricMonk/notes/` — Monk writing, review, extraction, issue, preflight, and connection workflows.
+- `../ElectricMonk/tools/generate_repo_manifest.py` — Monk manifest generator.
 - `.githooks/pre-commit` — local hook that calls the shared manifest generator and stages generated repo manifests before commits when `core.hooksPath` is set to `.githooks`.
 - `.github/ISSUE_TEMPLATE/` — GitHub UI issue templates matching the repo issue workflow.
 
@@ -194,7 +194,7 @@ When adding, removing, renaming, or moving files, update the relevant README or 
 The repo manifest is generated from the current tree. Refresh it with:
 
 ```bash
-python3 ../writing-agent-process/tools/generate_repo_manifest.py .
+python3 ../ElectricMonk/tools/generate_repo_manifest.py .
 ```
 
 For automatic manifest refresh on commit, this repo includes `.githooks/pre-commit`. Enable it locally with:
@@ -204,7 +204,7 @@ git config core.hooksPath .githooks
 chmod +x .githooks/pre-commit
 ```
 
-The hook calls the shared manifest generator from `../writing-agent-process/`, regenerates `notes/repo_manifest.json` and `notes/repo_manifest.md`, and stages them during commit. If a new top-level folder appears outside the approved structure, the manifest records a maintenance warning so the structure can be cleaned up or documented.
+The hook calls the Monk manifest generator from `../ElectricMonk/`, regenerates `notes/repo_manifest.json` and `notes/repo_manifest.md`, and stages them during commit. If a new top-level folder appears outside the approved structure, the manifest records a maintenance warning so the structure can be cleaned up or documented.
 
 ## Issue Workflow
 
@@ -212,11 +212,11 @@ Use GitHub issues as the handoff layer between exploratory development, implemen
 
 Issue workflow reference:
 
-- `../writing-agent-process/notes/issue_workflow.md`
+- `../ElectricMonk/notes/issue_workflow.md`
 
 When asking an AI agent to "log a ticket", "log an issue", "create an issue", or "make a ticket", the agent should create a GitHub issue using the appropriate template and should not edit repository files unless implementation is separately requested.
 
-If the issue comes from a long writing session, chat transcript, or exported conversation, use the Long Session Capture template and the shared rules in `../writing-agent-process/notes/issue_workflow.md` first unless a Session Extraction summary is already attached or the issue explicitly says extraction is not needed.
+If the issue comes from a long writing session, chat transcript, or exported conversation, use the Long Session Capture template and the shared rules in `../ElectricMonk/notes/issue_workflow.md` first unless a Session Extraction summary is already attached or the issue explicitly says extraction is not needed.
 
 For `Session Extraction` and `Profile Pull`, the default preservation path is:
 
@@ -241,11 +241,11 @@ Before logging any new issue in Review, Session Extraction, Profile Pull, Charac
 
 Implementation agents should treat issues as scoped instructions, not permission to broadly rewrite. Review issues use the read-only AI Review Path. Planning/scaffold issues stay provisional unless the issue explicitly says to promote material into canon.
 
-When logging a new issue, use this repo's `.github/ISSUE_TEMPLATE/` templates and the shared rules in `../writing-agent-process/notes/issue_workflow.md` for implementation, review, planning/scaffold, canon promotion, and follow-up issues.
+When logging a new issue, use this repo's `.github/ISSUE_TEMPLATE/` templates and the shared rules in `../ElectricMonk/notes/issue_workflow.md` for implementation, review, planning/scaffold, canon promotion, and follow-up issues.
 
-Before closing an implementation issue, check the acceptance criteria in `../writing-agent-process/notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, post-implementation style/flow conflicts, and `git diff --check`.
+Before closing an implementation issue, check the acceptance criteria in `../ElectricMonk/notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, post-implementation style/flow conflicts, and `git diff --check`.
 
-When implementing an issue, the agent should not jump straight into editing. It should enter the `Implementation Wizard` from `../writing-agent-process/notes/issue_workflow.md`, show the proposed changes one by one, and get approval before each change is made.
+When implementing an issue, the agent should not jump straight into editing. It should enter the `Implementation Wizard` from `../ElectricMonk/notes/issue_workflow.md`, show the proposed changes one by one, and get approval before each change is made.
 
 If the scoped work is complete but a criterion or style/flow check exposes a real out-of-scope problem, the agent should allow the implementation through and create a follow-up issue explaining what is wrong and how it might be resolved.
 
@@ -314,11 +314,11 @@ The intended flow is:
 
 ## Shared Mode Preflight
 
-Use `../writing-agent-process/notes/mode_preflight_workflow.md` before mode-specific work when the scope is non-trivial, the repo tree has changed, or issue dedupe matters.
+Use `../ElectricMonk/notes/mode_preflight_workflow.md` before mode-specific work when the scope is non-trivial, the repo tree has changed, or issue dedupe matters.
 
 The preflight should:
 
-1. refresh the repo manifest with `python3 ../writing-agent-process/tools/generate_repo_manifest.py .` when needed
+1. refresh the repo manifest with `python3 ../ElectricMonk/tools/generate_repo_manifest.py .` when needed
 2. load the minimum relevant files for the current scope
 3. check for already-open matching issues
 4. give a short mode-specific orientation summary before proceeding

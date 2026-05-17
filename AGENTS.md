@@ -2,11 +2,11 @@
 
 Before working in this repository, read:
 
-1. `../writing-agent-process/AGENTS.md`
+1. `../ElectricMonk/AGENTS.md`
 2. `README.md`
 3. `AI_REPO_CONTEXT.md`
 
-Use `../writing-agent-process/` for shared workflow machinery. Use this repository for Toy Noir Dragon story content, canon, style, prose, and project-specific issue scope.
+Use `../ElectricMonk/` for Monk workflow machinery. Use this repository for Toy Noir Dragon story content, canon, style, prose, and project-specific issue scope.
 
 Follow the scope, canon, and provisional-material rules in this repository's files.
 
@@ -20,13 +20,13 @@ In review work, do not edit story files or resolve the issues yourself unless th
 
 ## Issue Workflow
 
-When the user asks to process, resolve, implement, or close GitHub issues, load `../writing-agent-process/notes/issue_workflow.md` and follow its issue-type rules and acceptance criteria, plus the Toy Noir Dragon project-specific rules in `AI_REPO_CONTEXT.md`.
+When the user asks to process, resolve, implement, or close GitHub issues, load `../ElectricMonk/notes/issue_workflow.md` and follow its issue-type rules and acceptance criteria, plus the Toy Noir Dragon project-specific rules in `AI_REPO_CONTEXT.md`.
 
 Treat issues as scoped handoff instructions. Do not broaden the task, promote provisional material, or rewrite unrelated prose unless the issue explicitly asks for it.
 
 If the scoped work is complete but acceptance criteria or the post-implementation style/flow check expose a real out-of-scope problem, allow the implementation through and create a follow-up issue explaining what is wrong, where it appears, and suggested resolution directions.
 
-When logging a new issue, use the appropriate template from this repo's `.github/ISSUE_TEMPLATE/` directory and the shared issue rules in `../writing-agent-process/notes/issue_workflow.md`.
+When logging a new issue, use the appropriate template from this repo's `.github/ISSUE_TEMPLATE/` directory and the Monk issue rules in `../ElectricMonk/notes/issue_workflow.md`.
 
 If the user asks to "log a ticket", "log an issue", "create an issue", or "make a ticket", create a GitHub issue using the appropriate template and do not edit repository files unless the user separately asks for implementation.
 

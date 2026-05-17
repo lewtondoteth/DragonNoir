@@ -2,8 +2,8 @@
 
 Generated helper index for `Dragon Noir`.
 
-- Generated at: `2026-05-17T15:12:41+00:00`
-- Shared process: `../writing-agent-process`
+- Generated at: `2026-05-17T15:33:36+00:00`
+- Shared process: `../ElectricMonk`
 
 ## Authoritative Reference
 
@@ -57,61 +57,61 @@ Not active guidance unless explicitly revived.
 
 ### Writing
 
-- Route: `../writing-agent-process/notes/writing_workflow.md`
+- Route: `../ElectricMonk/notes/writing_workflow.md`
 - Default action: retrieve scope context, check forward issues, then draft
 - Aliases: `draft`, `write`, `continue chapter`, `scene revision`, `prose integration`
 
 ### Review
 
-- Route: `../writing-agent-process/notes/review_workflow.md`
+- Route: `../ElectricMonk/notes/review_workflow.md`
 - Default action: read-only review, clarify if needed, then log issues by default
 - Aliases: `review`, `critique`, `audit prose`, `feedback`, `consistency check`
 
 ### Session Extraction
 
-- Route: `../writing-agent-process/notes/session_extraction_workflow.md`
+- Route: `../ElectricMonk/notes/session_extraction_workflow.md`
 - Default action: extract, classify, validate one by one, then log issues by default
 - Aliases: `extract from chat`, `extract from transcript`, `chat extraction`
 
 ### Profile / Entity Scan
 
-- Route: `../writing-agent-process/notes/profile_scan_workflow.md`
+- Route: `../ElectricMonk/notes/profile_scan_workflow.md`
 - Default action: scan prose for guidance or clashes, validate, then log issues by default
 - Aliases: `profile scan`, `character scan`, `entity scan`, `scan this prose for profile updates`
 
 ### Consistency Scan
 
-- Route: `../writing-agent-process/notes/profile_scan_workflow.md`
+- Route: `../ElectricMonk/notes/profile_scan_workflow.md`
 - Default action: check prose against rules, profiles, entity surfaces, and location logic, then log issues by default
 - Aliases: `consistency scan`, `scan this prose for character consistency`
 
 ### Scaffold Capture
 
-- Route: `../writing-agent-process/notes/scaffold_capture_workflow.md`
+- Route: `../ElectricMonk/notes/scaffold_capture_workflow.md`
 - Default action: separate scaffold, local guidance, and global knowledge
 - Aliases: `capture scaffold`, `capture plot direction`, `planning capture`
 
 ### Rule Validation
 
-- Route: `../writing-agent-process/notes/rule_validation_workflow.md`
+- Route: `../ElectricMonk/notes/rule_validation_workflow.md`
 - Default action: validate candidates one at a time
 - Aliases: `validate rules`, `rule by rule`
 
 ### Rule Audit
 
-- Route: `../writing-agent-process/notes/rule_validation_workflow.md#existing-rule-audit`
+- Route: `../ElectricMonk/notes/rule_validation_workflow.md#existing-rule-audit`
 - Default action: audit existing rules one by one
 - Aliases: `audit rules`, `review current rules`
 
 ### Canon Promotion
 
-- Route: `../writing-agent-process/notes/issue_workflow.md#canon-promotion-issue`
+- Route: `../ElectricMonk/notes/issue_workflow.md#canon-promotion-issue`
 - Default action: promote explicitly approved material only
 - Aliases: `promote to canon`, `canonise`, `canonize`
 
 ### Issue Work
 
-- Route: `../writing-agent-process/notes/issue_workflow.md`
+- Route: `../ElectricMonk/notes/issue_workflow.md`
 - Default action: use issue workflow and acceptance criteria
 - Aliases: `log issue`, `implement issue`, `close issue`
 

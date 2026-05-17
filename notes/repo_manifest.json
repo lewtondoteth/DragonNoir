@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-05-17T15:12:41+00:00",
+  "generated_at_utc": "2026-05-17T15:33:36+00:00",
   "repo_name": "Dragon Noir",
-  "shared_process": "../writing-agent-process",
+  "shared_process": "../ElectricMonk",
   "authoritative_reference": [
     "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
     "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
@@ -55,7 +55,7 @@
   "modes": [
     {
       "name": "Writing",
-      "route": "../writing-agent-process/notes/writing_workflow.md",
+      "route": "../ElectricMonk/notes/writing_workflow.md",
       "aliases": [
         "draft",
         "write",
@@ -67,7 +67,7 @@
     },
     {
       "name": "Review",
-      "route": "../writing-agent-process/notes/review_workflow.md",
+      "route": "../ElectricMonk/notes/review_workflow.md",
       "aliases": [
         "review",
         "critique",
@@ -79,7 +79,7 @@
     },
     {
       "name": "Session Extraction",
-      "route": "../writing-agent-process/notes/session_extraction_workflow.md",
+      "route": "../ElectricMonk/notes/session_extraction_workflow.md",
       "aliases": [
         "extract from chat",
         "extract from transcript",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Profile / Entity Scan",
-      "route": "../writing-agent-process/notes/profile_scan_workflow.md",
+      "route": "../ElectricMonk/notes/profile_scan_workflow.md",
       "aliases": [
         "profile scan",
         "character scan",
@@ -100,7 +100,7 @@
     },
     {
       "name": "Consistency Scan",
-      "route": "../writing-agent-process/notes/profile_scan_workflow.md",
+      "route": "../ElectricMonk/notes/profile_scan_workflow.md",
       "aliases": [
         "consistency scan",
         "scan this prose for character consistency"
@@ -109,7 +109,7 @@
     },
     {
       "name": "Scaffold Capture",
-      "route": "../writing-agent-process/notes/scaffold_capture_workflow.md",
+      "route": "../ElectricMonk/notes/scaffold_capture_workflow.md",
       "aliases": [
         "capture scaffold",
         "capture plot direction",
@@ -119,7 +119,7 @@
     },
     {
       "name": "Rule Validation",
-      "route": "../writing-agent-process/notes/rule_validation_workflow.md",
+      "route": "../ElectricMonk/notes/rule_validation_workflow.md",
       "aliases": [
         "validate rules",
         "rule by rule"
@@ -128,7 +128,7 @@
     },
     {
       "name": "Rule Audit",
-      "route": "../writing-agent-process/notes/rule_validation_workflow.md#existing-rule-audit",
+      "route": "../ElectricMonk/notes/rule_validation_workflow.md#existing-rule-audit",
       "aliases": [
         "audit rules",
         "review current rules"
@@ -137,7 +137,7 @@
     },
     {
       "name": "Canon Promotion",
-      "route": "../writing-agent-process/notes/issue_workflow.md#canon-promotion-issue",
+      "route": "../ElectricMonk/notes/issue_workflow.md#canon-promotion-issue",
       "aliases": [
         "promote to canon",
         "canonise",
@@ -147,7 +147,7 @@
     },
     {
       "name": "Issue Work",
-      "route": "../writing-agent-process/notes/issue_workflow.md",
+      "route": "../ElectricMonk/notes/issue_workflow.md",
       "aliases": [
         "log issue",
         "implement issue",

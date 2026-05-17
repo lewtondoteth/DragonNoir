@@ -6,7 +6,7 @@ Use this folder for continuity notes, chapter planning, mystery structure, revis
 
 Opening-case scaffolds and exploratory plot foundations belong here until explicitly promoted into the story bible.
 
-Shared workflow machinery now lives in the sibling repo `../writing-agent-process/`. This `notes/` folder is for Dragon Noir project material and generated project manifests.
+ElectricMonk workflow machinery now lives in the sibling repo `../ElectricMonk/`. This `notes/` folder is for Dragon Noir project material and generated project manifests.
 
 ## Files
 
