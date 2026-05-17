@@ -299,6 +299,8 @@ When logging follow-up material after using `Forward Draft Context`, log only th
 
 During live drafting, if the author says a line or beat feels wrong without knowing why, the writing agent should help diagnose the issue with a few concrete possibilities instead of forcing an immediate explanation. Confirmed diagnoses can later be captured as style, pacing, character, or local-pattern guidance.
 
+After logging or preserving writing-session material, the agent should notice unresolved design choices and offer to go through them one by one. The goal is to capture why rejected options failed and why chosen versions worked, without automatically turning every answer into canon.
+
 ## Profile Pull Flow
 
 Use `Profile Pull` when the useful profile knowledge is already embodied in prose and should be extracted from the draft itself rather than from a chat export.

@@ -472,6 +472,35 @@ Before logging an issue from extraction, ask:
 
 If no, do not log a new issue.
 
+## Post-Logging Design-Choice Clarification Offer
+
+After logging or preserving extracted writing-session material, the agent should identify whether the source contained design choices that could use author clarification.
+
+This is useful when the transcript contains:
+
+- accepted and rejected sentence options
+- author comments such as `wrong shape`, `too pretty`, `too direct`, `not Dragon`, or `too fast`
+- a chosen reveal order, joke, pause, object detail, or response pattern
+- a strong author preference where the reasoning is not yet explicit
+
+The agent should not turn these into rules automatically. Instead, it should offer to go through them one by one.
+
+Suggested wording:
+
+```text
+There are a few design choices here that could be clarified further if you want. We can take them one by one: what the rejected option was doing wrong, why the chosen version worked, and whether that lesson is global, local, or just this scene.
+```
+
+If the author agrees, use compact cards:
+
+- `Choice`
+- `Chosen Direction`
+- `Rejected Direction`
+- `Likely Difference`
+- `Question`
+
+Author answers from this follow-up become new extraction source material. They should still be classified by scope and checked against existing guidance before any issue logging or canon update.
+
 ## Default Output: Compact Triage
 
 The default extraction output should be short and high-signal.

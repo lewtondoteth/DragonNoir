@@ -195,6 +195,42 @@ Useful capture shape:
 
 If the author never finds a reason, preserve the reaction only lightly. Repeated similar reactions may become evidence for a later style pattern, but one unexplained dislike should not become a rule.
 
+## Post-Logging Design-Choice Clarification
+
+After logging or preserving writing-session material, the agent should briefly check whether the session contains design choices that would become more useful if the author explained them.
+
+This is not a demand for more work. It is an optional follow-up offer.
+
+Use this when the session includes:
+
+- competing sentence options
+- a chosen version and a rejected version
+- a line or beat the author liked but did not explain
+- a line or beat the author rejected as wrong, too direct, too pretty, too fast, not Dragon, or wrong shape
+- pacing choices where one reveal order worked better than another
+- humour choices where one joke landed and another did not
+- character-response choices where one reaction felt more truthful
+
+After logging the new material, the agent should say something like:
+
+```text
+I also spotted a few design choices in this session that could teach the repo more if you want to unpack them. We can go through them one by one: what the rejected option was doing wrong, why the chosen version works, and whether the lesson is global, local, or scene-specific.
+```
+
+If the author agrees, present one design-choice card at a time.
+
+Each card should include:
+
+- `Choice`: the decision point in plain language
+- `Chosen Direction`: the version or approach the author preferred
+- `Rejected Direction`: the alternative, if known
+- `Likely Difference`: the agent's best short diagnosis
+- `Question`: ask the author why the rejected option failed or why the chosen one worked
+
+Do not log new guidance from these cards automatically. Treat the answers as fresh writing-session material that may later go through Session Extraction, rule validation, or issue logging.
+
+Keep the loop lightweight. If the author says they do not know why, offer two or three possible diagnoses and let them confirm, correct, or skip.
+
 ## Pre-Writing Approval Check
 
 After retrieval and before drafting, the agent must check whether any relevant scaffold or style items still need approval for use in this writing pass.
