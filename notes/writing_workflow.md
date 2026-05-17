@@ -229,6 +229,38 @@ Each card should include:
 
 Do not log new guidance from these cards automatically. Treat the answers as fresh writing-session material that may later go through Session Extraction, rule validation, or issue logging.
 
+After the author has unpacked one design choice, the agent should summarize the clarified lesson and offer to log that specific lesson as its own scoped follow-up.
+
+Suggested wording:
+
+```text
+That gives us a clearer lesson: [one-sentence lesson]. Do you want me to log this specific design-choice note?
+```
+
+If the author says yes, log only the clarified design-choice delta, not the original prose or the whole previous session.
+
+Before logging, classify the clarified lesson as one of:
+
+- `Global Rule`
+- `Local Pattern`
+- `Character Guidance`
+- `Location Guidance`
+- `Case Guidance`
+- `Object Guidance`
+- `Organisation Guidance`
+- `Scaffold Material`
+- `Scene-Specific Correction`
+- `Process Improvement`
+
+Then check:
+
+- whether the lesson is already captured in repo guidance
+- whether an open issue already tracks the same lesson
+- whether the lesson is reusable or just a scene-specific correction
+- whether the author approved logging this specific clarified item
+
+If it is already captured, say so and do not create a duplicate issue. If it is scene-specific, preserve it only if the author still wants it logged as a local implementation/revision note.
+
 Keep the loop lightweight. If the author says they do not know why, offer two or three possible diagnoses and let them confirm, correct, or skip.
 
 ## Pre-Writing Approval Check

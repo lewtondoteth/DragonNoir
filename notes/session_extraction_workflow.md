@@ -501,6 +501,25 @@ If the author agrees, use compact cards:
 
 Author answers from this follow-up become new extraction source material. They should still be classified by scope and checked against existing guidance before any issue logging or canon update.
 
+After each clarified design choice, the agent may offer to log that specific clarified lesson.
+
+Suggested wording:
+
+```text
+That sounds like a distinct [rule/local pattern/character guidance/etc.] candidate. Do you want me to log this specific clarified lesson?
+```
+
+If the author agrees, log only the clarified design-choice delta, not the whole prior session or already-logged source material.
+
+Before logging, check:
+
+- whether existing repo guidance already captures the lesson
+- whether an open issue already tracks it
+- whether the lesson is reusable, local, or scene-specific
+- whether the author has approved logging this specific clarified item
+
+If it is already represented, do not create a duplicate issue. If it is scene-specific, keep it local and do not inflate it into a global rule.
+
 ## Default Output: Compact Triage
 
 The default extraction output should be short and high-signal.

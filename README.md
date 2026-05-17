@@ -301,6 +301,8 @@ During live drafting, if the author says a line or beat feels wrong without know
 
 After logging or preserving writing-session material, the agent should notice unresolved design choices and offer to go through them one by one. The goal is to capture why rejected options failed and why chosen versions worked, without automatically turning every answer into canon.
 
+After a design choice is unpacked, the agent may offer to log that specific clarified lesson as a new scoped delta. It should not re-log the original prose or already-preserved session material.
+
 ## Profile Pull Flow
 
 Use `Profile Pull` when the useful profile knowledge is already embodied in prose and should be extracted from the draft itself rather than from a chat export.
