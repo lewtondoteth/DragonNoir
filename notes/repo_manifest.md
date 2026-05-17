@@ -2,7 +2,7 @@
 
 Generated helper index for `Dragon stories`.
 
-- Generated at: `2026-05-17T11:34:22+00:00`
+- Generated at: `2026-05-17T12:58:04+00:00`
 - Shared process: `../writing-agent-process`
 
 ## Modes
@@ -29,7 +29,13 @@ Generated helper index for `Dragon stories`.
 
 - Route: `../writing-agent-process/notes/profile_scan_workflow.md`
 - Default action: scan prose for guidance or clashes, validate, then log issues by default
-- Aliases: `profile scan`, `character scan`, `entity scan`, `consistency scan`
+- Aliases: `profile scan`, `character scan`, `entity scan`, `scan this prose for profile updates`
+
+### Consistency Scan
+
+- Route: `../writing-agent-process/notes/profile_scan_workflow.md`
+- Default action: check prose against rules, profiles, entity surfaces, and location logic, then log issues by default
+- Aliases: `consistency scan`, `scan this prose for character consistency`
 
 ### Scaffold Capture
 
@@ -40,8 +46,20 @@ Generated helper index for `Dragon stories`.
 ### Rule Validation
 
 - Route: `../writing-agent-process/notes/rule_validation_workflow.md`
-- Default action: validate or audit rules one at a time
-- Aliases: `validate rules`, `rule audit`, `rule by rule`
+- Default action: validate candidates one at a time
+- Aliases: `validate rules`, `rule by rule`
+
+### Rule Audit
+
+- Route: `../writing-agent-process/notes/rule_validation_workflow.md#existing-rule-audit`
+- Default action: audit existing rules one by one
+- Aliases: `audit rules`, `review current rules`
+
+### Canon Promotion
+
+- Route: `../writing-agent-process/notes/issue_workflow.md#canon-promotion-issue`
+- Default action: promote explicitly approved material only
+- Aliases: `promote to canon`, `canonise`, `canonize`
 
 ### Issue Work
 
@@ -71,7 +89,11 @@ Generated helper index for `Dragon stories`.
 - `type:follow-up`
 - `type:candidate-rule`
 - `type:candidate-profile`
+- `type:candidate-character`
 - `type:candidate-location`
+- `type:candidate-case`
+- `type:candidate-object`
+- `type:candidate-organisation`
 - `type:candidate-entity`
 
 ### status

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-17T11:34:22+00:00",
+  "generated_at_utc": "2026-05-17T12:58:04+00:00",
   "repo_name": "Dragon stories",
   "shared_process": "../writing-agent-process",
   "modes": [
@@ -44,9 +44,18 @@
         "profile scan",
         "character scan",
         "entity scan",
-        "consistency scan"
+        "scan this prose for profile updates"
       ],
       "default_action": "scan prose for guidance or clashes, validate, then log issues by default"
+    },
+    {
+      "name": "Consistency Scan",
+      "route": "../writing-agent-process/notes/profile_scan_workflow.md",
+      "aliases": [
+        "consistency scan",
+        "scan this prose for character consistency"
+      ],
+      "default_action": "check prose against rules, profiles, entity surfaces, and location logic, then log issues by default"
     },
     {
       "name": "Scaffold Capture",
@@ -63,10 +72,28 @@
       "route": "../writing-agent-process/notes/rule_validation_workflow.md",
       "aliases": [
         "validate rules",
-        "rule audit",
         "rule by rule"
       ],
-      "default_action": "validate or audit rules one at a time"
+      "default_action": "validate candidates one at a time"
+    },
+    {
+      "name": "Rule Audit",
+      "route": "../writing-agent-process/notes/rule_validation_workflow.md#existing-rule-audit",
+      "aliases": [
+        "audit rules",
+        "review current rules"
+      ],
+      "default_action": "audit existing rules one by one"
+    },
+    {
+      "name": "Canon Promotion",
+      "route": "../writing-agent-process/notes/issue_workflow.md#canon-promotion-issue",
+      "aliases": [
+        "promote to canon",
+        "canonise",
+        "canonize"
+      ],
+      "default_action": "promote explicitly approved material only"
     },
     {
       "name": "Issue Work",
@@ -98,7 +125,11 @@
       "type:follow-up",
       "type:candidate-rule",
       "type:candidate-profile",
+      "type:candidate-character",
       "type:candidate-location",
+      "type:candidate-case",
+      "type:candidate-object",
+      "type:candidate-organisation",
       "type:candidate-entity"
     ],
     "status": [
