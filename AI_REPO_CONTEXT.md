@@ -58,19 +58,19 @@ For Toy Noir Dragon work, load:
    - `outlines/`
    - `notes/`
 
-For GitHub issue work, also load `notes/issue_workflow.md`.
+For GitHub issue work, also load `../writing-agent-process/notes/issue_workflow.md`.
 
-For repo-entry and mode-routing work, also load `notes/repo_connection_workflow.md`.
+For repo-entry and mode-routing work, also load `../writing-agent-process/notes/repo_connection_workflow.md`.
 
-For drafting or prose-revision work, also load `notes/writing_workflow.md`.
+For drafting or prose-revision work, also load `../writing-agent-process/notes/writing_workflow.md`.
 
-For plot-direction, sequence-scaffold, or structural-scaffold capture work, also load `notes/scaffold_capture_workflow.md`.
+For plot-direction, sequence-scaffold, or structural-scaffold capture work, also load `../writing-agent-process/notes/scaffold_capture_workflow.md`.
 
-For prose-to-profile or prose-to-location extraction work, also load `notes/profile_scan_workflow.md`.
+For prose-to-profile or prose-to-location extraction work, also load `../writing-agent-process/notes/profile_scan_workflow.md`.
 
 For extraction or scan work that may grow entity surfaces, use `cases/`, `objects/`, and `organisations/` the same way you use `characters/` and `locations/`: enrich the existing file if one already exists, otherwise preserve the result through the correct issue path until implementation is requested.
 
-For shared setup, manifest refresh, and open-issue dedupe, also load `notes/mode_preflight_workflow.md` when the scope is non-trivial.
+For shared setup, manifest refresh, and open-issue dedupe, also load `../writing-agent-process/notes/mode_preflight_workflow.md` when the scope is non-trivial.
 
 For `Session Extraction` and `Profile Pull`, prefer issue-based preservation by default: validate findings one by one, then log the approved candidate using the appropriate issue template unless the user explicitly asks for immediate repo implementation.
 
@@ -143,7 +143,7 @@ Before reviewing, load:
 5. relevant character profiles
 6. relevant location profiles
 7. Any relevant chapter, scene, outline, or note named by the user
-8. `notes/mode_preflight_workflow.md` when issue logging or dedupe is likely
+8. `../writing-agent-process/notes/mode_preflight_workflow.md` when issue logging or dedupe is likely
 
 Review priorities, in order:
 
@@ -186,22 +186,22 @@ Do not flatten the review into general praise. If no issues are found, say so cl
 
 Use GitHub issues as the handoff layer between exploratory development, implementation, and review.
 
-If the user asks to "log a ticket", "log an issue", "create an issue", or "make a ticket", create a GitHub issue using the appropriate template from `notes/issue_workflow.md` and do not edit repository files unless the user separately asks for implementation.
+If the user asks to "log a ticket", "log an issue", "create an issue", or "make a ticket", create a GitHub issue using this repo's issue templates and the shared rules in `../writing-agent-process/notes/issue_workflow.md`; do not edit repository files unless the user separately asks for implementation.
 
 When the user asks to process, resolve, implement, or close GitHub issues:
 
-1. Load `notes/issue_workflow.md`.
+1. Load `../writing-agent-process/notes/issue_workflow.md`.
 2. Identify the issue type: implementation, review, planning/scaffold, or canon promotion.
 3. Treat the issue as scoped instructions.
-4. Enter the `Implementation Wizard` from `notes/issue_workflow.md` before making any change.
+4. Enter the `Implementation Wizard` from `../writing-agent-process/notes/issue_workflow.md` before making any change.
 5. Present concrete proposed changes one by one and get approval before each edit.
-6. Apply the acceptance criteria from `notes/issue_workflow.md` before closing the issue.
-7. Run the post-implementation style/flow conflict check from `notes/issue_workflow.md` when the issue changes prose, style guidance, narration rules, character guidance, or scene structure.
+6. Apply the acceptance criteria from `../writing-agent-process/notes/issue_workflow.md` before closing the issue.
+7. Run the post-implementation style/flow conflict check from `../writing-agent-process/notes/issue_workflow.md` when the issue changes prose, style guidance, narration rules, character guidance, or scene structure.
 8. If the scoped work is complete but an acceptance criterion or style/flow check reveals an out-of-scope problem, create a follow-up issue that explains the problem instead of broadening the current issue.
 
 Do not use an issue as permission to broadly rewrite unrelated prose, promote provisional material, or clean up surrounding structure unless the issue explicitly asks for it.
 
-When the user asks to log or create a GitHub issue, use the appropriate template from `notes/issue_workflow.md`.
+When the user asks to log or create a GitHub issue, use the appropriate template from this repo's `.github/ISSUE_TEMPLATE/` directory and the shared rules in `../writing-agent-process/notes/issue_workflow.md`.
 
 ## README / Path Index Maintenance
 

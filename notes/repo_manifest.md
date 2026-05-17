@@ -1,80 +1,51 @@
 # Repo Manifest
 
-Generated helper index for Dragon Noir agents.
+Generated helper index for `Dragon stories`.
 
-- Generated at: `2026-05-16T20:45:30+00:00`
-
-## Authoritative Reference
-
-- `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
-- `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
-- `rules/noir_narration_rules.md`
-- `characters/pink_dragon_character_profile.md`
-- `locations/Toy_City_location_profile.md`
-- `locations/Dragon_Office_location_profile.md`
-- `cases/README.md`
-- `objects/README.md`
-- `organisations/README.md`
+- Generated at: `2026-05-17T11:34:22+00:00`
+- Shared process: `../writing-agent-process`
 
 ## Modes
 
 ### Writing
 
-- Route: `notes/writing_workflow.md`
-- Default action: retrieve scope context, check open issues, then draft
-- Aliases: `draft`, `write`, `continue chapter`, `scene revision`
+- Route: `../writing-agent-process/notes/writing_workflow.md`
+- Default action: retrieve scope context, check forward issues, then draft
+- Aliases: `draft`, `write`, `continue chapter`, `scene revision`, `prose integration`
 
 ### Review
 
-- Route: `AI_REPO_CONTEXT.md#review-path`
-- Default action: read-only review, ask clarifications one at a time if needed, then log issues
-- Aliases: `review`, `critique`, `audit prose`, `feedback`
+- Route: `../writing-agent-process/notes/review_workflow.md`
+- Default action: read-only review, clarify if needed, then log issues by default
+- Aliases: `review`, `critique`, `audit prose`, `feedback`, `consistency check`
 
 ### Session Extraction
 
-- Route: `notes/session_extraction_workflow.md`
-- Default action: extract, validate one by one, then log issues by default
+- Route: `../writing-agent-process/notes/session_extraction_workflow.md`
+- Default action: extract, classify, validate one by one, then log issues by default
 - Aliases: `extract from chat`, `extract from transcript`, `chat extraction`
 
-### Profile Pull
+### Profile / Entity Scan
 
-- Route: `notes/profile_scan_workflow.md`
-- Default action: scan prose, identify entity guidance or conflicts, validate or clarify, then log issues by default
-- Aliases: `profile scan`, `character scan`, `entity scan`, `scan this prose for profile updates`
-
-### Consistency Scan
-
-- Route: `notes/profile_scan_workflow.md`
-- Default action: check prose against rules, profiles, and location logic, then log issues by default
-- Aliases: `consistency scan`, `scan this prose for character consistency`
-
-### Rule Validation
-
-- Route: `notes/rule_validation_workflow.md`
-- Default action: validate candidates one at a time
-- Aliases: `validate rules`, `rule by rule`
-
-### Rule Audit
-
-- Route: `notes/rule_validation_workflow.md#existing-rule-audit`
-- Default action: audit existing rules one by one
-- Aliases: `audit rules`, `review current rules`
+- Route: `../writing-agent-process/notes/profile_scan_workflow.md`
+- Default action: scan prose for guidance or clashes, validate, then log issues by default
+- Aliases: `profile scan`, `character scan`, `entity scan`, `consistency scan`
 
 ### Scaffold Capture
 
-- Route: `notes/scaffold_capture_workflow.md`
-- Default action: separate scaffold, local guidance, and global knowledge, then log issues by default when preserving
-- Aliases: `capture scaffold`, `capture plot direction`
+- Route: `../writing-agent-process/notes/scaffold_capture_workflow.md`
+- Default action: separate scaffold, local guidance, and global knowledge
+- Aliases: `capture scaffold`, `capture plot direction`, `planning capture`
 
-### Canon Promotion
+### Rule Validation
 
-- Route: `notes/issue_workflow.md#canon-promotion-issue-template`
-- Default action: promote explicitly approved material only
-- Aliases: `promote to canon`, `canonise`
+- Route: `../writing-agent-process/notes/rule_validation_workflow.md`
+- Default action: validate or audit rules one at a time
+- Aliases: `validate rules`, `rule audit`, `rule by rule`
 
 ### Issue Work
 
-- Route: `notes/issue_workflow.md`
+- Route: `../writing-agent-process/notes/issue_workflow.md`
 - Default action: use issue workflow and acceptance criteria
 - Aliases: `log issue`, `implement issue`, `close issue`
 
@@ -93,23 +64,29 @@ Generated helper index for Dragon Noir agents.
 
 - `type:implementation`
 - `type:review`
+- `type:consistency-fix`
 - `type:scaffold`
 - `type:long-session-capture`
 - `type:canon-promotion`
+- `type:follow-up`
 - `type:candidate-rule`
-- `type:candidate-character`
+- `type:candidate-profile`
 - `type:candidate-location`
-- `type:candidate-case`
-- `type:candidate-object`
-- `type:candidate-organisation`
-- `type:consistency-fix`
+- `type:candidate-entity`
+
+### status
+
+- `status:blocked`
+- `status:needs-author`
+- `status:ready`
 
 ### scope_examples
 
-- `scope:chapter-1`
-- `scope:dragon-office`
-- `scope:toy-city`
-- `scope:odette`
+- `scope:chapter`
+- `scope:scene`
+- `scope:style`
+- `scope:canon`
+
 
 ## Top-Level Files
 
@@ -161,17 +138,9 @@ Generated helper index for Dragon Noir agents.
 - `notes/README.md`
 - `notes/clockwork_orchestra_story_direction_scaffold.md`
 - `notes/development_options.md`
-- `notes/issue_workflow.md`
-- `notes/mode_preflight_workflow.md`
 - `notes/opening_case_music_box_scaffold.md`
-- `notes/profile_scan_workflow.md`
-- `notes/repo_connection_workflow.md`
 - `notes/repo_manifest.json`
 - `notes/repo_manifest.md`
-- `notes/rule_validation_workflow.md`
-- `notes/scaffold_capture_workflow.md`
-- `notes/session_extraction_workflow.md`
-- `notes/writing_workflow.md`
 
 ### objects
 
@@ -203,12 +172,6 @@ Generated helper index for Dragon Noir agents.
 - `story_bible/README.md`
 - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
-
-### tools
-
-- `tools/README.md`
-- `tools/generate_repo_manifest.py`
-- `tools/setup_repo_hooks.sh`
 
 ## Maintenance Warnings
 

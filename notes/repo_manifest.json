@@ -1,109 +1,76 @@
 {
-  "generated_at_utc": "2026-05-16T20:45:30+00:00",
-  "repo_name": "DragonNoir",
-  "authoritative_reference": [
-    "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
-    "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
-    "rules/noir_narration_rules.md",
-    "characters/pink_dragon_character_profile.md",
-    "locations/Toy_City_location_profile.md",
-    "locations/Dragon_Office_location_profile.md",
-    "cases/README.md",
-    "objects/README.md",
-    "organisations/README.md"
-  ],
+  "generated_at_utc": "2026-05-17T11:34:22+00:00",
+  "repo_name": "Dragon stories",
+  "shared_process": "../writing-agent-process",
   "modes": [
     {
       "name": "Writing",
-      "route": "notes/writing_workflow.md",
+      "route": "../writing-agent-process/notes/writing_workflow.md",
       "aliases": [
         "draft",
         "write",
         "continue chapter",
-        "scene revision"
+        "scene revision",
+        "prose integration"
       ],
-      "default_action": "retrieve scope context, check open issues, then draft"
+      "default_action": "retrieve scope context, check forward issues, then draft"
     },
     {
       "name": "Review",
-      "route": "AI_REPO_CONTEXT.md#review-path",
+      "route": "../writing-agent-process/notes/review_workflow.md",
       "aliases": [
         "review",
         "critique",
         "audit prose",
-        "feedback"
+        "feedback",
+        "consistency check"
       ],
-      "default_action": "read-only review, ask clarifications one at a time if needed, then log issues"
+      "default_action": "read-only review, clarify if needed, then log issues by default"
     },
     {
       "name": "Session Extraction",
-      "route": "notes/session_extraction_workflow.md",
+      "route": "../writing-agent-process/notes/session_extraction_workflow.md",
       "aliases": [
         "extract from chat",
         "extract from transcript",
         "chat extraction"
       ],
-      "default_action": "extract, validate one by one, then log issues by default"
+      "default_action": "extract, classify, validate one by one, then log issues by default"
     },
     {
-      "name": "Profile Pull",
-      "route": "notes/profile_scan_workflow.md",
+      "name": "Profile / Entity Scan",
+      "route": "../writing-agent-process/notes/profile_scan_workflow.md",
       "aliases": [
         "profile scan",
         "character scan",
         "entity scan",
-        "scan this prose for profile updates"
+        "consistency scan"
       ],
-      "default_action": "scan prose, identify entity guidance or conflicts, validate or clarify, then log issues by default"
-    },
-    {
-      "name": "Consistency Scan",
-      "route": "notes/profile_scan_workflow.md",
-      "aliases": [
-        "consistency scan",
-        "scan this prose for character consistency"
-      ],
-      "default_action": "check prose against rules, profiles, and location logic, then log issues by default"
-    },
-    {
-      "name": "Rule Validation",
-      "route": "notes/rule_validation_workflow.md",
-      "aliases": [
-        "validate rules",
-        "rule by rule"
-      ],
-      "default_action": "validate candidates one at a time"
-    },
-    {
-      "name": "Rule Audit",
-      "route": "notes/rule_validation_workflow.md#existing-rule-audit",
-      "aliases": [
-        "audit rules",
-        "review current rules"
-      ],
-      "default_action": "audit existing rules one by one"
+      "default_action": "scan prose for guidance or clashes, validate, then log issues by default"
     },
     {
       "name": "Scaffold Capture",
-      "route": "notes/scaffold_capture_workflow.md",
+      "route": "../writing-agent-process/notes/scaffold_capture_workflow.md",
       "aliases": [
         "capture scaffold",
-        "capture plot direction"
+        "capture plot direction",
+        "planning capture"
       ],
-      "default_action": "separate scaffold, local guidance, and global knowledge, then log issues by default when preserving"
+      "default_action": "separate scaffold, local guidance, and global knowledge"
     },
     {
-      "name": "Canon Promotion",
-      "route": "notes/issue_workflow.md#canon-promotion-issue-template",
+      "name": "Rule Validation",
+      "route": "../writing-agent-process/notes/rule_validation_workflow.md",
       "aliases": [
-        "promote to canon",
-        "canonise"
+        "validate rules",
+        "rule audit",
+        "rule by rule"
       ],
-      "default_action": "promote explicitly approved material only"
+      "default_action": "validate or audit rules one at a time"
     },
     {
       "name": "Issue Work",
-      "route": "notes/issue_workflow.md",
+      "route": "../writing-agent-process/notes/issue_workflow.md",
       "aliases": [
         "log issue",
         "implement issue",
@@ -124,22 +91,26 @@
     "type": [
       "type:implementation",
       "type:review",
+      "type:consistency-fix",
       "type:scaffold",
       "type:long-session-capture",
       "type:canon-promotion",
+      "type:follow-up",
       "type:candidate-rule",
-      "type:candidate-character",
+      "type:candidate-profile",
       "type:candidate-location",
-      "type:candidate-case",
-      "type:candidate-object",
-      "type:candidate-organisation",
-      "type:consistency-fix"
+      "type:candidate-entity"
+    ],
+    "status": [
+      "status:blocked",
+      "status:needs-author",
+      "status:ready"
     ],
     "scope_examples": [
-      "scope:chapter-1",
-      "scope:dragon-office",
-      "scope:toy-city",
-      "scope:odette"
+      "scope:chapter",
+      "scope:scene",
+      "scope:style",
+      "scope:canon"
     ]
   },
   "top_level_text_files": [
@@ -183,17 +154,9 @@
       "notes/README.md",
       "notes/clockwork_orchestra_story_direction_scaffold.md",
       "notes/development_options.md",
-      "notes/issue_workflow.md",
-      "notes/mode_preflight_workflow.md",
       "notes/opening_case_music_box_scaffold.md",
-      "notes/profile_scan_workflow.md",
-      "notes/repo_connection_workflow.md",
       "notes/repo_manifest.json",
-      "notes/repo_manifest.md",
-      "notes/rule_validation_workflow.md",
-      "notes/scaffold_capture_workflow.md",
-      "notes/session_extraction_workflow.md",
-      "notes/writing_workflow.md"
+      "notes/repo_manifest.md"
     ],
     "objects": [
       "objects/README.md",
@@ -219,11 +182,6 @@
       "story_bible/README.md",
       "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
       "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md"
-    ],
-    "tools": [
-      "tools/README.md",
-      "tools/generate_repo_manifest.py",
-      "tools/setup_repo_hooks.sh"
     ]
   },
   "maintenance_warnings": {

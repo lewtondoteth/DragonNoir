@@ -1,7 +1,0 @@
-#!/bin/sh
-set -eu
-
-git config core.hooksPath .githooks
-chmod +x .githooks/pre-commit
-
-echo "Configured Git hooks path to .githooks"

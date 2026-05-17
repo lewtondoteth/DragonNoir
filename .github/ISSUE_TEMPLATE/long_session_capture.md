@@ -43,7 +43,7 @@ Run Session Extraction before any implementation work. Identify what should beco
 
 ## Extraction Requirements
 
-- Follow `notes/session_extraction_workflow.md`.
+- Follow `../writing-agent-process/notes/session_extraction_workflow.md`.
 - Compare extracted candidates against existing repo guidance before treating them as new.
 - Validate worthwhile candidates one by one before logging candidate issues or updating canon.
 - Do not edit prose, profiles, rules, scaffolds, or canon files during extraction unless the user explicitly switches to implementation.

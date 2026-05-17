@@ -8,10 +8,13 @@ It is now dedicated to the noir continuity only. The family Dragon project remai
 
 AI assistants and coding agents should read:
 
-1. `README.md`
-2. `AI_REPO_CONTEXT.md`
+1. `../writing-agent-process/AGENTS.md`
+2. `README.md`
+3. `AI_REPO_CONTEXT.md`
 
-`AGENTS.md` contains the short bootstrap instruction for agent workflows.
+`../writing-agent-process/` contains the shared workflow machinery. This repository contains the Toy Noir Dragon story content, canon, style, prose, and project-specific scope rules.
+
+`AGENTS.md` contains the short bootstrap instruction that links the shared process to this private story repo.
 
 ## Author Workflow
 
@@ -78,17 +81,9 @@ DragonNoir/
 │   ├── README.md
 │   ├── clockwork_orchestra_story_direction_scaffold.md
 │   ├── development_options.md
-│   ├── issue_workflow.md
-│   ├── mode_preflight_workflow.md
 │   ├── opening_case_music_box_scaffold.md
-│   ├── profile_scan_workflow.md
 │   ├── repo_manifest.json
-│   ├── repo_manifest.md
-│   ├── repo_connection_workflow.md
-│   ├── scaffold_capture_workflow.md
-│   ├── rule_validation_workflow.md
-│   ├── session_extraction_workflow.md
-│   └── writing_workflow.md
+│   └── repo_manifest.md
 ├── outlines/
 │   ├── README.md
 │   └── chapter_01_narrative_beats.md
@@ -105,11 +100,9 @@ DragonNoir/
 │   ├── README.md
 │   ├── Toy_Noir_Dragon_AI_Prompt_Pack.md
 │   └── Toy_Noir_Dragon_Standalone_Story_Bible.md
-├── tools/
-│   ├── README.md
-│   ├── generate_repo_manifest.py
-│   └── setup_repo_hooks.sh
 ```
+
+Shared process files live in the sibling repo `../writing-agent-process/`.
 
 ## Working Structure
 
@@ -125,7 +118,7 @@ DragonNoir/
 - `discarded_or_experimental/` — retired alternatives and preserved non-canonical material
 - `notes/` — planning notes, continuity tracking, mystery structure, and revision notes
 - `story_bible/` — authoritative noir project bible and prompt pack
-- `tools/` — small maintenance helpers for manifest generation and repo upkeep
+- `../writing-agent-process/` — shared agent workflow machinery and maintenance tools
 
 ## Chapter 1 Workflow
 
@@ -134,7 +127,7 @@ DragonNoir/
 - Current experimental scene sandbox: `scenes/chapter_01_office_entry_coffee_ritual_draft.md`
 - Practical narration rules: `rules/noir_narration_rules.md`
 - Opening-case scaffold: `notes/opening_case_music_box_scaffold.md`
-- Issue workflow: `notes/issue_workflow.md`
+- Issue workflow: `../writing-agent-process/notes/issue_workflow.md`
 
 Keep canonical prose, experimental scene drafts, and structural outlines separate while drafting.
 
@@ -179,23 +172,15 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `characters/README.md` — guidance for how character profiles should be created and maintained.
 - `characters/outside_professional_thief_character_profile.md` — current bounded profile for the outside professional thief used in the opening case.
 - `outlines/README.md` — guidance for structural references and chapter beat maps.
-- `notes/issue_workflow.md` — GitHub issue handoff workflow, issue types, and acceptance criteria.
-- `notes/mode_preflight_workflow.md` — shared preflight for manifest refresh, scoped file loading, and open-issue dedupe before mode work.
 - `notes/clockwork_orchestra_story_direction_scaffold.md` — current mixed-status story-direction scaffold: approved early case guidance through Chapter 4, with wider novel direction still provisional.
-- `notes/repo_connection_workflow.md` — front-door workflow for connecting to the repo, orienting, and routing into the correct work mode.
 - `notes/repo_manifest.json` — generated machine-readable repo index for agent orientation.
 - `notes/repo_manifest.md` — generated human-readable repo index for agent orientation.
-- `notes/profile_scan_workflow.md` — workflow for a manual profile pull from prose, extracting durable character-profile, location-profile, and spatial guidance from draft text.
-- `notes/scaffold_capture_workflow.md` — workflow for capturing plot directions and scaffolds as provisional planning while separating out reusable knowledge.
-- `notes/session_extraction_workflow.md` — provisional workflow for extracting reusable writing knowledge from shared ChatGPT sessions or exported logs.
-- `notes/rule_validation_workflow.md` — provisional workflow for validating extracted or existing rules one by one before canon updates.
-- `notes/writing_workflow.md` — drafting workflow that forces chapter/scene/character context retrieval before prose generation.
 - `notes/opening_case_music_box_scaffold.md` — exploratory stolen music box opening-case scaffold. Not fixed canon.
 - `notes/development_options.md` — retired, backup, and exploratory ideas. Not active canon unless explicitly revived.
 - `rules/README.md` — guidance for maintained writing rules and the rule-validation flow.
-- `tools/generate_repo_manifest.py` — regenerates the repo manifest so agent orientation scales as files and modes are added.
-- `tools/setup_repo_hooks.sh` — configures the local Git hooks path for manifest refresh automation.
-- `.githooks/pre-commit` — local hook that refreshes and stages generated repo manifests before commits when `core.hooksPath` is set to `.githooks`.
+- `../writing-agent-process/notes/` — shared writing, review, extraction, issue, preflight, and connection workflows.
+- `../writing-agent-process/tools/generate_repo_manifest.py` — shared manifest generator.
+- `.githooks/pre-commit` — local hook that calls the shared manifest generator and stages generated repo manifests before commits when `core.hooksPath` is set to `.githooks`.
 - `.github/ISSUE_TEMPLATE/` — GitHub UI issue templates matching the repo issue workflow.
 
 ## Repo Upkeep
@@ -205,16 +190,17 @@ When adding, removing, renaming, or moving files, update the relevant README or 
 The repo manifest is generated from the current tree. Refresh it with:
 
 ```bash
-python3 tools/generate_repo_manifest.py
+python3 ../writing-agent-process/tools/generate_repo_manifest.py .
 ```
 
 For automatic manifest refresh on commit, this repo includes `.githooks/pre-commit`. Enable it locally with:
 
 ```bash
-sh tools/setup_repo_hooks.sh
+git config core.hooksPath .githooks
+chmod +x .githooks/pre-commit
 ```
 
-The setup script configures `core.hooksPath` to `.githooks`. The hook regenerates `notes/repo_manifest.json` and `notes/repo_manifest.md` and stages them during commit. If a new top-level folder appears outside the approved structure, the manifest records a maintenance warning so the structure can be cleaned up or documented.
+The hook calls the shared manifest generator from `../writing-agent-process/`, regenerates `notes/repo_manifest.json` and `notes/repo_manifest.md`, and stages them during commit. If a new top-level folder appears outside the approved structure, the manifest records a maintenance warning so the structure can be cleaned up or documented.
 
 ## Issue Workflow
 
@@ -222,11 +208,11 @@ Use GitHub issues as the handoff layer between exploratory development, implemen
 
 Issue workflow reference:
 
-- `notes/issue_workflow.md`
+- `../writing-agent-process/notes/issue_workflow.md`
 
 When asking an AI agent to "log a ticket", "log an issue", "create an issue", or "make a ticket", the agent should create a GitHub issue using the appropriate template and should not edit repository files unless implementation is separately requested.
 
-If the issue comes from a long writing session, chat transcript, or exported conversation, use the Long Session Capture template in `notes/issue_workflow.md` first unless a Session Extraction summary is already attached or the issue explicitly says extraction is not needed.
+If the issue comes from a long writing session, chat transcript, or exported conversation, use the Long Session Capture template and the shared rules in `../writing-agent-process/notes/issue_workflow.md` first unless a Session Extraction summary is already attached or the issue explicitly says extraction is not needed.
 
 For `Session Extraction` and `Profile Pull`, the default preservation path is:
 
@@ -251,11 +237,11 @@ Before logging any new issue in Review, Session Extraction, Profile Pull, Charac
 
 Implementation agents should treat issues as scoped instructions, not permission to broadly rewrite. Review issues use the read-only AI Review Path. Planning/scaffold issues stay provisional unless the issue explicitly says to promote material into canon.
 
-When logging a new issue, use the templates in `notes/issue_workflow.md` for implementation, review, planning/scaffold, canon promotion, and follow-up issues.
+When logging a new issue, use this repo's `.github/ISSUE_TEMPLATE/` templates and the shared rules in `../writing-agent-process/notes/issue_workflow.md` for implementation, review, planning/scaffold, canon promotion, and follow-up issues.
 
-Before closing an implementation issue, check the acceptance criteria in `notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, post-implementation style/flow conflicts, and `git diff --check`.
+Before closing an implementation issue, check the acceptance criteria in `../writing-agent-process/notes/issue_workflow.md`, including scope control, canon/provisional boundaries, README/path updates, prose style, character continuity, post-implementation style/flow conflicts, and `git diff --check`.
 
-When implementing an issue, the agent should not jump straight into editing. It should enter the `Implementation Wizard` from `notes/issue_workflow.md`, show the proposed changes one by one, and get approval before each change is made.
+When implementing an issue, the agent should not jump straight into editing. It should enter the `Implementation Wizard` from `../writing-agent-process/notes/issue_workflow.md`, show the proposed changes one by one, and get approval before each change is made.
 
 If the scoped work is complete but a criterion or style/flow check exposes a real out-of-scope problem, the agent should allow the implementation through and create a follow-up issue explaining what is wrong and how it might be resolved.
 
@@ -324,11 +310,11 @@ The intended flow is:
 
 ## Shared Mode Preflight
 
-Use `notes/mode_preflight_workflow.md` before mode-specific work when the scope is non-trivial, the repo tree has changed, or issue dedupe matters.
+Use `../writing-agent-process/notes/mode_preflight_workflow.md` before mode-specific work when the scope is non-trivial, the repo tree has changed, or issue dedupe matters.
 
 The preflight should:
 
-1. refresh the repo manifest with `python3 tools/generate_repo_manifest.py` when needed
+1. refresh the repo manifest with `python3 ../writing-agent-process/tools/generate_repo_manifest.py .` when needed
 2. load the minimum relevant files for the current scope
 3. check for already-open matching issues
 4. give a short mode-specific orientation summary before proceeding
