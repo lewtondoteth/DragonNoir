@@ -297,6 +297,8 @@ If open issues preserve prose that has not yet been implemented into the repo, W
 
 When logging follow-up material after using `Forward Draft Context`, log only the new delta from the current session. Do not duplicate prose, guidance, or scaffold material already present in the saved file or open issues.
 
+During live drafting, if the author says a line or beat feels wrong without knowing why, the writing agent should help diagnose the issue with a few concrete possibilities instead of forcing an immediate explanation. Confirmed diagnoses can later be captured as style, pacing, character, or local-pattern guidance.
+
 ## Profile Pull Flow
 
 Use `Profile Pull` when the useful profile knowledge is already embodied in prose and should be extracted from the draft itself rather than from a chat export.

@@ -23,6 +23,10 @@ The core rule is:
 
 > Before writing, ask what already exists for this scope.
 
+The second working rule is:
+
+> When the author's taste flags a line as wrong, help name why before trying to preserve the lesson.
+
 ## Retrieval Before Generation
 
 Before drafting any prose, the agent must identify the target scope.
@@ -140,6 +144,56 @@ Forward Draft Context is also the baseline for later writing-session logging. If
 - existing repo guidance that already captures the point
 
 Do not re-log all loaded issue material just because it was used for drafting continuity.
+
+## Taste Diagnosis During Drafting
+
+During live prose work, the author may know that a line, beat, or paragraph is wrong before they can explain why.
+
+Treat comments like these as useful style signals:
+
+- `the shape is wrong`
+- `this doesn't sit right`
+- `the rhythm is off`
+- `too neat`
+- `too pretty`
+- `too direct`
+- `not Dragon`
+- `wrong kind of sentence`
+- `it skipped a step`
+- `closer, but still wrong`
+
+The agent should not demand that the author justify the reaction before continuing. Instead, it should help diagnose the problem.
+
+Recommended response:
+
+1. offer two or three compact possible diagnoses
+2. tie each diagnosis to a concrete prose feature, such as pace, directness, sentence polish, Dragon's voice, object detail, emotional explanation, joke timing, or skipped physical consequence
+3. offer a small replacement or revision direction
+4. let the author confirm, reject, or correct the diagnosis in plain language
+
+Example:
+
+```text
+Possible diagnosis:
+1. It explains the feeling before the object detail carries it.
+2. It sounds too polished for Dragon's tired practical voice.
+3. It jumps to the reveal before the room has reacted.
+
+I would try making the sentence plainer and putting the pressure on the catalogue/object first.
+```
+
+If the author confirms a diagnosis, treat the confirmed reason as extractable writing knowledge for later session extraction or follow-up logging.
+
+When capturing the lesson later, preserve the reason rather than the exact rejected sentence unless the sentence itself is needed as evidence.
+
+Useful capture shape:
+
+- `Rejected / corrected feature`: what felt wrong
+- `Confirmed reason`: why it failed, if discovered
+- `Preferred direction`: what worked better
+- `Scope`: global style rule, local Chapter 1 pattern, character/dynamic guidance, or scene-specific correction
+
+If the author never finds a reason, preserve the reaction only lightly. Repeated similar reactions may become evidence for a later style pattern, but one unexplained dislike should not become a rule.
 
 ## Pre-Writing Approval Check
 
