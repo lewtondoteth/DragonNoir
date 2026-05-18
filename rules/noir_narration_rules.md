@@ -17,6 +17,8 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 
 - In loaded moments, avoid flat stage-direction sentences that simply name the action.
 - Do not default to labels such as "she removed her coat," "she sat down," "she looked nervous," or "the room was tense" when the beat has emotional, atmospheric, or recognition weight.
+- Do not tell the reader how to judge an action or outcome when the visible consequence already carries the judgment.
+- Avoid labels such as good, bad, successful, failed, dangerous, or awkward when the scene can demonstrate the result through pressure, cost, damage, hesitation, or relief.
 - Describe the visible consequences, physical negotiations, object behaviour, pauses, and practical adjustments through which Dragon understands what is happening.
 - In recognition-heavy or emotionally loaded moments, let consequence, movement, pause, and object interaction carry the first movement before Dragon names what it means.
 - Let the reader assemble the action from fragments: buttons giving way, cloth changing shape, paws finding work, a chair objecting, dust shifting, damp spreading, silence rearranging itself.
@@ -58,9 +60,21 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 
 - Keep narration attached to observable action, dialogue, objects, immediate perception, and scene pressure.
 - Do not let noir commentary drift into conceptual language that floats away from the active scene.
+- Do not upgrade incidental physical movement into thematic or philosophical framing unless the action is genuinely carrying that weight.
+- Temporary practical actions should usually stay practical. Avoid making rain avoidance, object handling, or basic movement sound symbolic when it is only serving the current beat.
+- Do not re-foreground an object after a scene transition unless it still has practical pressure, emotional charge, or immediate plot function.
 - Returning from abstract commentary into concrete action can make the prose feel uninhabited. Keep Dragon's voice lived-in, practical, and present in the room.
 - A polished sentence is not automatically a useful sentence. It should pay for itself through image, humour, character, plot, tone, class, or pacing.
 - When a flourish works, it should feel like Dragon noticing something under pressure, not like the prose admiring itself.
+- Metaphor should clarify action, mood, character, or consequence. Do not use it only to perform noir tone.
+
+## Active action attachment
+
+- Once a scene objective is established, keep Dragon's narration attached to the active action and immediate consequence chain.
+- Avoid atmospheric drift, generalized noir texture, or environmental description that is not tied to the current beat.
+- Description should normally reinforce Dragon's task, create friction, sharpen mood through consequence, or expose his reactive personality.
+- If Dragon is trying to get somewhere, find something, avoid rain, gather tools, answer pressure, or solve a practical obstacle, the narration should stay close to that movement.
+- Let weather, setting, and objects press on the action rather than pausing the scene to admire themselves.
 
 ## Rain handling
 
