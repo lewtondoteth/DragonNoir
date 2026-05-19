@@ -2,7 +2,7 @@
 
 Generated helper index for `Dragon Noir`.
 
-- Generated at: `2026-05-17T15:33:36+00:00`
+- Generated at: `2026-05-19T13:18:33+00:00`
 - Shared process: `../ElectricMonk`
 
 ## Authoritative Reference
@@ -10,9 +10,11 @@ Generated helper index for `Dragon Noir`.
 - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 - `rules/noir_narration_rules.md`
+- `characters/dragon_character_profile.md`
 - `characters/pink_dragon_character_profile.md`
 - `locations/Toy_City_location_profile.md`
 - `locations/Dragon_Office_location_profile.md`
+- `locations/mercer_street_corner_shop_location_profile.md`
 
 ## Reference Hierarchy
 
@@ -23,9 +25,11 @@ Stable story, tone, character, narration, and world guidance.
 - `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 - `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 - `rules/noir_narration_rules.md`
+- `characters/dragon_character_profile.md`
 - `characters/pink_dragon_character_profile.md`
 - `locations/Toy_City_location_profile.md`
 - `locations/Dragon_Office_location_profile.md`
+- `locations/mercer_street_corner_shop_location_profile.md`
 
 ### Active working guidance
 
@@ -192,6 +196,7 @@ Not active guidance unless explicitly revived.
 ### characters
 
 - `characters/README.md`
+- `characters/dragon_character_profile.md`
 - `characters/outside_professional_thief_character_profile.md`
 - `characters/pink_dragon_character_profile.md`
 
@@ -204,6 +209,7 @@ Not active guidance unless explicitly revived.
 - `locations/Dragon_Office_location_profile.md`
 - `locations/README.md`
 - `locations/Toy_City_location_profile.md`
+- `locations/mercer_street_corner_shop_location_profile.md`
 
 ### notes
 

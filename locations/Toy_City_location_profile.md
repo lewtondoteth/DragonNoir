@@ -117,7 +117,12 @@ Toy City should feel large enough to contain:
 - weather-exposed danger
 - places where preserved toys are treated differently from worn ones
 
-But no named districts, neighborhoods, institutions, brokerages, or civic bodies are fixed canon yet beyond Toy City itself.
+Named local places currently established in active prose include:
+
+- Mercer Street, a wet, shopfront-lined street used in Chapter 2 movement
+- the unnamed Mercer Street corner shop, a small newsagent-style shop used for newspapers, paper straws, and telephone access
+
+No named districts, neighborhoods, institutions, brokerages, or civic bodies are fixed canon yet beyond Toy City itself and the local places established in active prose.
 
 If a future draft needs a specific district, market, archive, civic office, or repair authority, treat it as exploratory until separately approved and preserved.
 

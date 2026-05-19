@@ -16,3 +16,9 @@ Do not use this folder for:
 - one-scene reactions that do not create durable guidance
 
 Exploratory character material should be preserved through notes or issues first. Promote it into this folder only after validation or explicit implementation approval.
+
+Current profiles:
+
+- `dragon_character_profile.md`
+- `outside_professional_thief_character_profile.md`
+- `pink_dragon_character_profile.md`

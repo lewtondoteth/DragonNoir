@@ -24,6 +24,8 @@ When the user asks to process, resolve, implement, or close GitHub issues, load 
 
 Treat issues as scoped handoff instructions. Do not broaden the task, promote provisional material, or rewrite unrelated prose unless the issue explicitly asks for it.
 
+Do not invent proper nouns while implementing scoped issues. New names for characters, shops, streets, institutions, organisations, objects, cases, publications, or companies require explicit user approval or issue scope. Preserve generic descriptions when the source uses them.
+
 If the scoped work is complete but acceptance criteria or the post-implementation style/flow check expose a real out-of-scope problem, allow the implementation through and create a follow-up issue explaining what is wrong, where it appears, and suggested resolution directions.
 
 When logging a new issue, use the appropriate template from this repo's `.github/ISSUE_TEMPLATE/` directory and the Monk issue rules in `../ElectricMonk/notes/issue_workflow.md`.

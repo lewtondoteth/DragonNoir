@@ -34,7 +34,7 @@ Use this hierarchy when deciding what an AI agent may rely on:
 
 | Level | Meaning | Current Files |
 | --- | --- | --- |
-| Canon / authoritative guidance | Stable story, tone, character, narration, and world guidance. | `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`; `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`; `rules/noir_narration_rules.md`; `characters/pink_dragon_character_profile.md`; `locations/Toy_City_location_profile.md`; `locations/Dragon_Office_location_profile.md` |
+| Canon / authoritative guidance | Stable story, tone, character, narration, and world guidance. | `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`; `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`; `rules/noir_narration_rules.md`; `characters/dragon_character_profile.md`; `characters/pink_dragon_character_profile.md`; `locations/Toy_City_location_profile.md`; `locations/Dragon_Office_location_profile.md`; `locations/mercer_street_corner_shop_location_profile.md` |
 | Active working guidance | Stable enough to guide current drafting, while preserving stated unknowns. | `cases/opening_music_box_case_profile.md`; `objects/music_box_object_profile.md`; `organisations/commissioning_party_profile.md`; `characters/outside_professional_thief_character_profile.md`; `notes/clockwork_orchestra_story_direction_scaffold.md` for the approved early-case path only |
 | Provisional planning | Useful planning, not fixed canon unless explicitly promoted. | `notes/opening_case_music_box_scaffold.md`; later-novel material in `notes/clockwork_orchestra_story_direction_scaffold.md` |
 | Experimental / retired | Not active guidance unless explicitly revived. | `scenes/chapter_01_office_entry_coffee_ritual_draft.md`; `notes/development_options.md`; `discarded_or_experimental/` |
@@ -68,6 +68,7 @@ DragonNoir/
 │   └── chapter_02_opening.md
 ├── characters/
 │   ├── README.md
+│   ├── dragon_character_profile.md
 │   ├── outside_professional_thief_character_profile.md
 │   └── pink_dragon_character_profile.md
 ├── discarded_or_experimental/
@@ -75,6 +76,7 @@ DragonNoir/
 ├── locations/
 │   ├── README.md
 │   ├── Dragon_Office_location_profile.md
+│   ├── mercer_street_corner_shop_location_profile.md
 │   └── Toy_City_location_profile.md
 ├── objects/
 │   ├── README.md
@@ -140,7 +142,7 @@ Use this table to understand what each major story artifact is for before editin
 | Item | File | Status | Use for | Notes |
 | --- | --- | --- | --- | --- |
 | Chapter 1 opening | `chapters/chapter_01_opening.md` | Active canonical draft | Main Chapter 1 prose | Treat as the current assembled chapter unless the user says otherwise; currently reaches the auction-catalogue case reveal and PI/property-evaluator exchange. |
-| Chapter 2 opening | `chapters/chapter_02_opening.md` | Active canonical draft | Main Chapter 2 opening prose | Opens with legal formalities, rate agreement, and Odette leaving while Dragon files the papers. |
+| Chapter 2 opening | `chapters/chapter_02_opening.md` | Active canonical draft | Main Chapter 2 opening prose | Opens with legal formalities and Odette's departure, then follows Dragon through the rain, alley/tin-soldier beat, and Mercer Street shop/expense-phone sequence. |
 | Chapter 1 narrative beats | `outlines/chapter_01_narrative_beats.md` | Active canonical structure | Pacing, sequence, and scene-function reference | Use to check whether new prose still follows the intended opening movement. |
 | Office-entry coffee ritual | `scenes/chapter_01_office_entry_coffee_ritual_draft.md` | Experimental scene study | Texture, pacing, and possible integration material | Do not treat as canonical prose unless integrated into the active chapter. |
 | Clockwork orchestra story-direction scaffold | `notes/clockwork_orchestra_story_direction_scaffold.md` | Active early-case guidance / provisional wider planning | Current Chapters 1-4 guidance and wider story-direction reference | Use for the approved early case path through Chapter 4; treat later novel movement in the same file as provisional. |
@@ -156,7 +158,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 ## Current Active Drafts
 
 - `chapters/chapter_01_opening.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, layered recognition progression, auction-catalogue music-box reveal, Tonight realization, and PI/property-evaluator exchange.
-- `chapters/chapter_02_opening.md` — canonical current Chapter 2 opening draft. Contains the legal formalities, rate agreement, and Odette's quiet departure while Dragon's back is turned.
+- `chapters/chapter_02_opening.md` — canonical current Chapter 2 opening draft. Contains the legal formalities, rate agreement, Odette's quiet departure, Dragon leaving through the rain and alley, the tin-soldier beat, and the Mercer Street shop/expense-phone sequence.
 
 ## Scene Studies
 
@@ -167,6 +169,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `outlines/chapter_01_narrative_beats.md` — canonical Chapter 1 pacing and architecture reference.
 - `locations/Toy_City_location_profile.md` — canonical setting profile for Toy City atmosphere, scale, and city logic.
 - `locations/Dragon_Office_location_profile.md` — canonical location profile for Dragon's office as recurring scene space.
+- `locations/mercer_street_corner_shop_location_profile.md` — bounded canonical location profile for Mercer Street and the unnamed corner shop from Chapter 2.
 - `cases/README.md` — guidance for how case profiles should be created and maintained.
 - `cases/opening_music_box_case_profile.md` — current bounded opening-case profile for the missing music box case.
 - `objects/README.md` — guidance for how object profiles should be created and maintained.
@@ -174,6 +177,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 - `organisations/README.md` — guidance for how organisation profiles should be created and maintained.
 - `organisations/commissioning_party_profile.md` — current bounded profile for the hidden party behind the theft job.
 - `characters/README.md` — guidance for how character profiles should be created and maintained.
+- `characters/dragon_character_profile.md` — canonical operational character profile for Dragon's recurring behaviour, local social position, transactional habits, and smoke/fire habit translation.
 - `characters/outside_professional_thief_character_profile.md` — current bounded profile for the outside professional thief used in the opening case.
 - `outlines/README.md` — guidance for structural references and chapter beat maps.
 - `notes/clockwork_orchestra_story_direction_scaffold.md` — current mixed-status story-direction scaffold: approved early case guidance through Chapter 4, with wider novel direction still provisional.

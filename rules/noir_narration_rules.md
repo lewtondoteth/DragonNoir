@@ -55,6 +55,10 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Often the joke is strongest when the narration stops before explaining why it is funny.
 - Wit should emerge from practical observation and pressure rather than from authorial performance.
 - Stylish commentary must earn its space by carrying image, humour, character, plot, class, pacing, or emotional weight. Do not keep flourish that exists only for atmosphere or cleverness.
+- Humour should emerge from Toy City reality, not be overlaid as a punchline. Strong comic beats often come from material conditions, economic pressure, exhaustion, contradiction, observed absurdity, and Dragon's defensive standards.
+- Do not overload a joke with competing comic frames. Once a sentence establishes its image logic, extend that same logic rather than adding a second unrelated absurdity.
+- Prefer concrete, stageable absurdity over abstract comic phrasing. A joke should often unfold as realization, not announce itself as clever.
+- Strong joke nouns should carry useful assumptions before the modifier twists them. Let the noun preload physical or social logic, then use the extension to escalate it.
 
 ## Grounded narration and flourish
 
@@ -67,6 +71,23 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - A polished sentence is not automatically a useful sentence. It should pay for itself through image, humour, character, plot, tone, class, or pacing.
 - When a flourish works, it should feel like Dragon noticing something under pressure, not like the prose admiring itself.
 - Metaphor should clarify action, mood, character, or consequence. Do not use it only to perform noir tone.
+
+## Physical specificity and reader construction
+
+- Prefer physical particulars over broad category labels when introducing toys, settings, props, and social roles.
+- Let readers construct a figure from rusted joints, faded clothing, missing parts, fabric behaviour, paint, stuffing, dampness, sound, and movement before relying on a shorthand noun.
+- Use category labels only when they add social pressure, clarify a low-weight beat, or arrive after the physical evidence has already done the work.
+- Strong physical details should carry multiple meanings at once: toy material, social condition, weather pressure, dignity, damage, and Dragon's practical judgment.
+- Avoid naming an incidental figure or object in a way that accidentally elevates it into symbolic or plot importance. Plain descriptors can keep background texture ordinary.
+
+## Compression, rhythm, and transition discipline
+
+- Compression should reward the reader: a strong line can carry time, weather, mood, character, humour, and worldview without making the reader decode a puzzle.
+- Shorter is not automatically better. A compressed line works when it preserves rhythm, clarity, emotional pressure, and scene movement.
+- Paragraph shape, pause placement, sentence stress, and cadence matter as much as literal meaning.
+- Remove transition sentences that exist only to connect or decorate. A transition should move the eye, deepen pressure, alter attention, preserve rhythm, or introduce a practical consequence.
+- Avoid floppy contrast beats. Contrast should land cleanly and feel snapped shut, not appended after the real sentence has ended.
+- Do not keep decorative noir phrasing if it arrives rhythmically late, repeats existing information, or weakens the paragraph's contour.
 
 ## Active action attachment
 
@@ -118,6 +139,15 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Let humour and tension emerge from incompatible assumptions rather than from explaining the social contrast.
 - Procedural friction can reveal emotional or social truth more strongly than direct confession.
 - Characters reveal themselves through how they navigate transactions, expectations, delays, and misunderstandings.
+- Prefer phrasing that reveals relationship pressure over phrasing that only states access or status. A line should say how Dragon and another character relate, not merely whether Dragon can do something.
+- Calibrate insult temperature. A sharp barb may imply hatred unless a small turn, context, or practical motive keeps it in the intended register of irritation, rivalry, contempt, or common dislike.
+
+## Props and setting classification
+
+- Small prop choices silently classify settings. Choose objects that reinforce the intended commercial, social, and material category.
+- Avoid whimsical or genre-shifting props unless the scene means to reclassify the setting.
+- In low-rent shops, offices, alleys, repair rooms, and civic spaces, let stock, wear, light, weather, prices, and customer behaviour define the social world before the narration explains it.
+- Adjectives carry implied narrative importance. Loaded descriptors can accidentally make a background character feel mythic, powerful, or symbolically central.
 
 ## Character-driven noir
 
@@ -126,6 +156,16 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Good noir in this project grows from worldview, class, fatigue, suspicion, compromise, restraint, transactional pressure, weather, and damaged dignity.
 - Avoid making characters behave theatrically just to keep the scene noir.
 - Themes should accumulate through repeated variation across chapters rather than through self-contained thematic declarations.
+- Do not give Toy City false agency. The city may pressure, shape, reveal, obstruct, or reflect conditions, but Dragon's choices should come from Dragon's habits, mood, history, needs, and circumstances.
+
+## Toy-noir trope translation
+
+- Do not simply reproduce inherited human noir props when Dragon's body or Toy City logic can generate a native equivalent.
+- Translate noir behaviours through dragon nature, toy material, weather, repair, scale, and economic pressure.
+- Preserve the emotional or visual function of a trope without copying the human version literally.
+- Dragon's smoke, fire, dampness, stuffing, coat, hat, purse, notebook, and small-object economy should create noir texture through his actual conditions.
+- Delay explanation when action can create curiosity. Let Dragon notice, choose, or behave oddly first, then use a compact reveal to make the sequence click.
+- Do not discard a useful beat just because the first generated version was messy. Separate a flawed concept from a flawed execution.
 
 ## Treasure Logic
 

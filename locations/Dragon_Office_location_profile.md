@@ -99,6 +99,13 @@ These features should usually remain true unless a draft explicitly changes them
 - paper, files, and small desk objects are regularly present
 - the room is narrow or cramped enough that movement through it matters
 
+Building access:
+
+- Dragon's office building has a main exterior door that opens straight into an alley
+- the office itself remains reached from an interior corridor or building space
+- leaving the office can therefore move from office door, to building door, to alley, rather than directly onto an open street
+- this alley access reflects low rent and should matter as a practical weather and class-pressure detail
+
 The exact clutter can vary. The room logic should not.
 
 ---

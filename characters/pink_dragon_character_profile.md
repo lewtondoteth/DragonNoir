@@ -317,6 +317,8 @@ When she is performing well:
 - information arrives in controlled portions
 - fear is translated into politeness, stillness, or faint amusement
 - she lets others notice what she wants noticed
+- she can move through legal formalities without fuss when the paperwork serves her aim
+- she can treat money, rates, and expenses as managed practical details rather than emotional pressure points
 
 When control slips:
 
@@ -337,6 +339,8 @@ When comfortable with Dragon:
 - she may allow silence without filling it
 
 In early case scenes, she may answer the useful version of Dragon's question while leaving the commissioned-theft truth untouched. This should feel controlled, necessary, and character-consistent rather than like a puzzle-box tease for its own sake.
+
+Chapter 2 establishes that she can leave Dragon's office silently, without goodbye, footsteps, or performative closure. Her departure may leave only a controlled sensory trace, such as old perfume in rain-damp air. Use this as an example of her withholding and composure, not as carelessness.
 
 She should not cry often or collapse into confession. Her vulnerability is strongest when it remains specific, practical, and restrained.
 

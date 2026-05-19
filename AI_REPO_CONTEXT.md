@@ -48,7 +48,7 @@ For Toy Noir Dragon work, load:
 2. `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 3. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 4. `rules/noir_narration_rules.md`
-5. Relevant character profiles under `characters/`
+5. Relevant character profiles under `characters/`, including `characters/dragon_character_profile.md` for Dragon's operational behaviour
 6. Relevant location profiles under `locations/`
 7. Relevant entity files under:
    - `cases/`
@@ -110,6 +110,8 @@ Canonical material may be committed to files, referenced by future scenes, added
 
 Before any repo write action, including issue creation, file updates, pull requests, lore updates, and summaries that may become handoff material, verify what in the conversation is actually canonical. If unclear, generalise. Prefer emotional or structural abstractions over provisional nouns.
 
+Do not invent proper nouns during implementation or profile/entity updates. If source prose or an issue says "the bear," "the corner shop," "the alley," "the paper," or another generic phrase, preserve that generic phrase unless the user explicitly approves a name. Naming a character, shop, street, institution, organisation, object, case, publication, or company is a canon decision, not a prose-smoothing convenience.
+
 ## Working rule
 
 For any task:
@@ -125,6 +127,8 @@ For any task:
 9. For review, profile-scan, extraction, scaffold-capture, or writing-follow-up logging work, check for already-open matching issues before creating a new one.
 10. When a session or prose scan introduces durable case, object, organisation, or character information, decide whether it belongs in an existing entity surface or whether a new candidate issue is needed to establish that surface cleanly.
 11. When files or folders are added, removed, moved, or renamed, refresh the generated repo manifest and update the relevant README or file index in the same change.
+
+When a durable surface is needed for an unnamed entity, use a generic bounded description in the profile name and file path. Do not create an in-world name to make the surface feel complete.
 
 For ordinary writing connection, keep the user-facing summary compact. Include the active draft/scene, a short cue from the last saved prose, and a direct question about what the author wants to write or change next. Do not dump the full context checklist unless the author asks or a canon/provisional decision is needed.
 
@@ -202,6 +206,8 @@ When the user asks to process, resolve, implement, or close GitHub issues:
 8. If the scoped work is complete but an acceptance criterion or style/flow check reveals an out-of-scope problem, create a follow-up issue that explains the problem instead of broadening the current issue.
 
 Do not use an issue as permission to broadly rewrite unrelated prose, promote provisional material, or clean up surrounding structure unless the issue explicitly asks for it.
+
+Do not use an issue as permission to name unnamed entities. If naming is not part of the issue, keep unnamed figures, shops, institutions, objects, publications, and companies generic.
 
 When the user asks to log or create a GitHub issue, use the appropriate template from this repo's `.github/ISSUE_TEMPLATE/` directory and the Monk rules in `../ElectricMonk/notes/issue_workflow.md`.
 

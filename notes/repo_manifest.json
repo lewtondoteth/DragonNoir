@@ -1,14 +1,16 @@
 {
-  "generated_at_utc": "2026-05-17T15:33:36+00:00",
+  "generated_at_utc": "2026-05-19T13:18:33+00:00",
   "repo_name": "Dragon Noir",
   "shared_process": "../ElectricMonk",
   "authoritative_reference": [
     "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
     "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
     "rules/noir_narration_rules.md",
+    "characters/dragon_character_profile.md",
     "characters/pink_dragon_character_profile.md",
     "locations/Toy_City_location_profile.md",
-    "locations/Dragon_Office_location_profile.md"
+    "locations/Dragon_Office_location_profile.md",
+    "locations/mercer_street_corner_shop_location_profile.md"
   ],
   "reference_hierarchy": [
     {
@@ -18,9 +20,11 @@
         "story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md",
         "story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md",
         "rules/noir_narration_rules.md",
+        "characters/dragon_character_profile.md",
         "characters/pink_dragon_character_profile.md",
         "locations/Toy_City_location_profile.md",
-        "locations/Dragon_Office_location_profile.md"
+        "locations/Dragon_Office_location_profile.md",
+        "locations/mercer_street_corner_shop_location_profile.md"
       ]
     },
     {
@@ -222,6 +226,7 @@
     ],
     "characters": [
       "characters/README.md",
+      "characters/dragon_character_profile.md",
       "characters/outside_professional_thief_character_profile.md",
       "characters/pink_dragon_character_profile.md"
     ],
@@ -231,7 +236,8 @@
     "locations": [
       "locations/Dragon_Office_location_profile.md",
       "locations/README.md",
-      "locations/Toy_City_location_profile.md"
+      "locations/Toy_City_location_profile.md",
+      "locations/mercer_street_corner_shop_location_profile.md"
     ],
     "notes": [
       "notes/README.md",
