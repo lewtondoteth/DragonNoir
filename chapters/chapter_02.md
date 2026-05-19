@@ -209,3 +209,337 @@ The bear considered this legal argument with the care it deserved, which was non
 "Professionally."
 
 I opened the back pages, found a cab company that advertised dry seats and reasonable rates, and dialled before the bear could remember he disliked me more than he liked money.
+
+The cab company said ten minutes.
+
+I hung up the telephone and pushed it back across the counter.
+
+The bear grunted, took it away, and disappeared briefly beneath the till.
+
+Then he looked at me.
+
+I looked back.
+
+He continued looking at me.
+
+There are contests a sensible investigator learns not to prolong. The bear had one eye more than I did and therefore a natural tactical advantage.
+
+Eventually I bought the paper and hid behind the front page like a professional.
+
+Ten minutes later, the cab pulled up outside.
+
+I almost willingly ran out to it.
+
+Almost.
+
+The driver drove one-handed, loose and automatic, like the cab already knew the route better than either of us did.
+
+I reached into my coat pocket, pulled out the notebook, and balanced it against my knee while the cab rattled through the rain.
+
+MuSic BoX.
+
+aUcTion CatAloGue.
+
+proFeSsioNal thEft.
+
+clieNt frightened alReady.
+
+ToNight.
+
+"Terrible weather," the driver said.
+
+I looked up briefly. "Yeah."
+
+Then I went back to the notebook.
+
+No visIble forced enTry.
+
+clieNt more nervOus than anGry.
+
+"Rain gets into the joints," the driver said. "You start hearing your own knees before corners."
+
+"Hm."
+
+I kept writing.
+
+A few seconds later the driver went, "What?"
+
+I looked up again.
+
+"The joints," I said. "Yeah. They do."
+
+"Exactly." He nodded, satisfied now that the conversation officially existed. "My brother had that problem something fierce. Every time the weather turned, he'd start sounding like a toolbox rolling downstairs."
+
+"Hm."
+
+I wrote:
+
+knoWs aucTion schedule.
+
+poSsibly insIde infoRmation.
+
+The wipers dragged across the windshield again.
+
+"What?"
+
+I sighed quietly through the nose.
+
+"Your brother," I said. "The toolbox."
+
+"Right." The driver nodded. "Doctor told him to move somewhere dry. He moved two streets over and bought thicker socks instead. Typical Maurice."
+
+I made another note.
+
+clieNt said stoLen beFore aucTion.
+
+timing maTtered.
+
+Traffic slowed near an intersection clogged with delivery vans and a stalled clockwork bus.
+
+The driver leaned on the wheel.
+
+"Whole city's falling apart lately," he muttered.
+
+"Hnh."
+
+I underlined timing.
+
+A pause.
+
+"What?"
+
+I looked up.
+
+"The city," I said. "Falling apart."
+
+"Exactly." He pointed vaguely through the windshield. "Nobody maintains anything anymore. Used to be toys took pride in repairs."
+
+I nodded once and went back to the notebook.
+
+poSsible proFessional reTrieVal.
+
+not orDinary theft.
+
+The driver drove quietly for almost thirty full seconds before the silence became medically dangerous to him.
+
+"You married?" he asked.
+
+"Hm."
+
+I kept writing.
+
+The cab rolled another half-block through the rain.
+
+"What?"
+
+I looked up at him in the mirror.
+
+"No," I said. "And judging by what I've seen from you so far, probably not anymore."
+
+The baby doll stared at me for a second.
+
+Then he sniffed and adjusted himself behind the wheel with wounded dignity.
+
+"Well," he said after a while, "some toys don't appreciate conversation."
+
+I went back to the notebook.
+
+poSsible reTrieVal opeRaTion.
+
+not ranDom theft.
+
+The cab became noticeably quieter.
+
+Not fully quiet. Offended quiet.
+
+The driver still muttered at traffic lights and delivery vans, but now he did it to himself instead of inviting me into it.
+
+At one intersection a delivery truck cut across our lane too sharply.
+
+"Idiot," the driver grumbled.
+
+I wrote:
+
+check aucTion emPloyee acCess.
+
+Blue police lights flickered across the rain ahead.
+
+The auction house emerged through the wet glass a moment later, all pale stone, tall windows, and expensive lighting, with two police cars sitting outside beneath the awning like bad news given municipal funding.
+
+The cab slowed.
+
+I straightened slightly in the seat.
+
+That wasn't ideal.
+
+Rain hammered against the roof while the blue lights pulsed softly across the windshield and over the driver's round plastic face.
+
+The meter clicked to a stop.
+
+I was still watching the entrance when I reached forward automatically with a handful of notes and coins, handed them through beside the partition, and started opening the door.
+
+The driver looked down at the money.
+
+Then back at me.
+
+"That a tip?"
+
+I glanced at him distractedly.
+
+"Hm? Oh. Yeah." I pushed the door open. "And as a general life guideline, I'm usually more willing to give money to toys who spend less time being an arsehole."
+
+The baby doll stared at me in deep personal offence.
+
+"Get outta the cab."
+
+"I was already leaving."
+
+"Yeah? Then leave harder."
+
+I stepped out beneath the rain and slammed the door shut behind me.
+
+The cab tore away from the curb fast enough to splash gutter water across my shoes while the driver yelled something obscene out the window about my parentage, profession, and probable emotional development.
+
+I adjusted my coat against the rain and looked properly toward the source of the blue lights.
+
+They weren't centred on the auction house entrance.
+
+They were clustered farther down the street instead, concentrated around one section of pavement near the mouth of a narrow service alley running alongside the building.
+
+That definitely wasn't ideal.
+
+Rain flashed blue-white across wet stone while police cars sat at awkward angles around the cordoned area. A line of yellow DO NOT CROSS tape sagged between portable barriers and a bent parking meter, fluttering weakly in the weather.
+
+Half a dozen officers stood around it in various stages of damp exhaustion. A tired teddy-bear sergeant near the tape was trying unsuccessfully to keep rain off a clipboard while two little green army-men officers argued beside a camera unit barely larger than they were. Nearby, a tin soldier policeman stood rigidly beneath the awning with the fixed posture of somebody who had learned professionalism from a factory mould and never improved from there.
+
+Nobody looked happy.
+
+Nobody at a police scene ever does, but this had a particularly expensive flavour of misery attached to it.
+
+I slowed slightly as I approached.
+
+Beyond the tape I could see a shape lying near the alley wall beneath a stained grey covering sheet that the rain kept trying to peel back from one corner.
+
+A pair of polished shoes stuck out beneath it.
+
+Well.
+
+At least I wasn't the only one having a bad day.
+
+I started toward the auction-house entrance, angling around the nearest police car.
+
+A small painted box sitting beside the barrier suddenly sprang open beside me with a violent metallic twang.
+
+A jack-in-the-box policeman shot upward from inside it and thrust out both little gloved hands.
+
+"Crime scene," he announced sternly, trying to shove me backward despite being approximately one-third of my size.
+
+I reached into my coat and flipped open the PI badge.
+
+"Private investigator," I said. "I'm here about the auction."
+
+The jack-in-the-box squinted suspiciously at the badge, then at me, then back at the badge again, bobbing up and down on his spring the entire time as though the effort of reading physically required momentum.
+
+"I don't care."
+
+Then a tired voice from somewhere behind the tape called out:
+
+"Let him through."
+
+A pair of figures emerged from beyond the tape and started toward me through the rain.
+
+One was a small bean-filled gecko in a fedora and trench coat considerably nicer than mine. Better stitching. Better hat. Better tailoring. The kind of coat that implied either police salary corruption or recent divorce compensation.
+
+The other detective was one of those heavy-bottomed wobble toys built so they always rolled upright again no matter what hit them. Wide frame, tiny feet, immovable posture. He walked with the slow certainty of something that had literally never lost an argument with gravity.
+
+The jack-in-the-box immediately sank a little lower into his box as they approached.
+
+The gecko squinted at me through the rain.
+
+"Dragon?"
+
+I sighed quietly.
+
+"Goldfoot."
+
+"What are you doing here?"
+
+I looked around at the police cars, the tape, the alley, and the cluster of officers standing in the rain.
+
+"Well," I said, "I saw a large concentration of police around a DO NOT ENTER tape and thought: oh, big sales."
+
+"Ha ha. Very funny," Goldfoot said without visible enthusiasm. "What, you trying to get your hands on the reward money for recovering the stolen auction pieces?"
+
+Reward money.
+
+Huh.
+
+Well, that certainly would have been useful information to receive several hours earlier.
+
+I made a quiet mental note to become annoyed at my client about that later.
+
+"Believe it or not," I said, "some of us occasionally perform investigative work without first smelling cash from three streets away."
+
+Goldfoot snorted.
+
+The wobble-toy detective beside him continued staring at me with the steady immovable calm of a toy specifically engineered to survive stairs.
+
+I nodded toward the alley.
+
+"So what's all this about?"
+
+Goldfoot folded his arms inside the expensive trench coat and gave me a thin smile.
+
+"Perpetrators always return to the scene of the crime," he said.
+
+I glanced toward the alley, then back at him.
+
+"And how do we know he's the perpetrator?"
+
+Goldfoot shrugged.
+
+"Well," he said, "he returned to the scene of the crime, didn't he?"
+
+Beside him, the wobble-toy detective spoke up in the deep patient tone of somebody explaining something he considered extremely straightforward.
+
+"Our investigators believe the auction-house door was forced with a crowbar," he said.
+
+He pointed toward the covered body in the alley.
+
+"And he had a crowbar on him."
+
+I looked toward the sheet again.
+
+"Well," I said, "that certainly narrows the suspect pool down to every toy in the city who's ever unsuccessfully attempted home repairs."
+
+"Any leads?" I asked.
+
+Goldfoot jerked a thumb back toward the police cars.
+
+"The tech boys are running him through the system now," he said. "We should have a name soon."
+
+Near the curb, three small educational-computer toys were clustered around a chunky plastic laptop with glowing coloured buttons and a tiny green display screen. One of them hit the keyboard with exaggerated concentration while another kept feeding identification cards into a slot that looked suspiciously unrelated to the machine's actual design.
+
+Every few seconds the laptop made a cheerful little beep completely inappropriate for homicide work.
+
+I watched them for a moment.
+
+"Efficient," I said.
+
+"One of them passed a training course."
+
+"Which one?"
+
+Goldfoot shrugged.
+
+"Still under investigation."
+
+I looked back toward the auction-house entrance.
+
+Honestly, there wasn't much for me out here except rain, police sarcasm, and a dead burglar with expensive tailoring.
+
+"Any chance I can have a look around inside?" I asked.
+
+Goldfoot snorted.
+
+"Knock yourself out. This'll probably be solved in no time."
