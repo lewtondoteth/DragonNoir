@@ -7,8 +7,8 @@ Use this profile alongside:
 - `../story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
 - `../story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
 - `../rules/noir_narration_rules.md`
-- `../chapters/chapter_01_opening.md`
-- `../chapters/chapter_02_opening.md`
+- `../chapters/chapter_01.md`
+- `../chapters/chapter_02.md`
 
 This profile does not replace the story bible. It collects operational character behaviour that future drafting agents need to retrieve quickly, especially behaviour established in active chapter prose.
 

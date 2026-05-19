@@ -4,11 +4,11 @@ Canonical bounded location profile for Mercer Street and the unnamed corner shop
 
 Use this profile alongside:
 
-- `../chapters/chapter_02_opening.md`
+- `../chapters/chapter_02.md`
 - `../locations/Toy_City_location_profile.md`
 - `../rules/noir_narration_rules.md`
 
-This profile preserves the stable place logic established by the current Chapter 2 opening. It should not turn Mercer Street into a fully mapped district unless future prose or an explicit issue expands it.
+This profile preserves the stable place logic established by the current Chapter 2 prose. It should not turn Mercer Street into a fully mapped district unless future prose or an explicit issue expands it.
 
 ---
 

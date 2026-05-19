@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-19T13:18:33+00:00",
+  "generated_at_utc": "2026-05-19T13:25:09+00:00",
   "repo_name": "Dragon Noir",
   "shared_process": "../ElectricMonk",
   "authoritative_reference": [
@@ -221,8 +221,8 @@
     ],
     "chapters": [
       "chapters/README.md",
-      "chapters/chapter_01_opening.md",
-      "chapters/chapter_02_opening.md"
+      "chapters/chapter_01.md",
+      "chapters/chapter_02.md"
     ],
     "characters": [
       "characters/README.md",

@@ -4,7 +4,7 @@ Canonical location profile for Dragon's office in the Toy Noir Dragon continuity
 
 Use this profile alongside:
 
-- `../chapters/chapter_01_opening.md`
+- `../chapters/chapter_01.md`
 - `../outlines/chapter_01_narrative_beats.md`
 - `../rules/noir_narration_rules.md`
 

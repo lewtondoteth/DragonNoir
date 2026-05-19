@@ -8,5 +8,5 @@ Experimental scene drafts belong in `../scenes/`. Structural beat maps belong in
 
 ## Current Files
 
-- `chapter_01_opening.md` — active canonical Chapter 1 opening draft.
-- `chapter_02_opening.md` — active canonical Chapter 2 opening draft.
+- `chapter_01.md` — active canonical Chapter 1 draft.
+- `chapter_02.md` — active canonical Chapter 2 draft.
