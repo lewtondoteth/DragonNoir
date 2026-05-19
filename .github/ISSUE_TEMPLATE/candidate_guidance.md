@@ -40,6 +40,12 @@ Global Rule / Local Pattern / Scene-Specific Correction / Character Profile Item
 
 - Short explanation of what the author approved and why it matters.
 
+## Rule / Reference Checks
+
+- Existing rule, profile, entity, or process reference checked:
+  - Already covered / refinement / conflict / genuinely new:
+  - Notes:
+
 ## Intended Target
 
 - `path/to/target_file.md`

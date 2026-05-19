@@ -21,6 +21,13 @@ Follow-Up / Consistency Fix / Candidate Guidance
 
 - What remains wrong, incomplete, or unresolved:
 
+## Rule / Reference Checks
+
+- Rule or reference:
+  - Location / evidence:
+  - Failure or uncertainty:
+  - Smallest repair direction:
+
 ## Location
 
 - `path/to/file.md`

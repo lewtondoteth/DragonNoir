@@ -40,6 +40,13 @@ Keep only the label that matches this issue.
 - `path/to/reference.md`
 - Specific profile, rule, location, or canon point.
 
+## Rule / Reference Checks
+
+- Rule or reference:
+  - Location / evidence:
+  - Failure or uncertainty:
+  - Smallest repair direction:
+
 ## Why It Matters
 
 - Tone / continuity / motive / action / spatial logic / canon integrity.
