@@ -2,7 +2,7 @@
 
 Generated helper index for `Dragon Noir`.
 
-- Generated at: `2026-05-19T13:25:09+00:00`
+- Generated at: `2026-05-23T21:26:13+00:00`
 - Shared process: `../ElectricMonk`
 
 ## Authoritative Reference
@@ -15,6 +15,7 @@ Generated helper index for `Dragon Noir`.
 - `locations/Toy_City_location_profile.md`
 - `locations/Dragon_Office_location_profile.md`
 - `locations/mercer_street_corner_shop_location_profile.md`
+- `locations/Harrow_and_Vale_location_profile.md`
 
 ## Reference Hierarchy
 
@@ -30,6 +31,7 @@ Stable story, tone, character, narration, and world guidance.
 - `locations/Toy_City_location_profile.md`
 - `locations/Dragon_Office_location_profile.md`
 - `locations/mercer_street_corner_shop_location_profile.md`
+- `locations/Harrow_and_Vale_location_profile.md`
 
 ### Active working guidance
 
@@ -207,6 +209,7 @@ Not active guidance unless explicitly revived.
 ### locations
 
 - `locations/Dragon_Office_location_profile.md`
+- `locations/Harrow_and_Vale_location_profile.md`
 - `locations/README.md`
 - `locations/Toy_City_location_profile.md`
 - `locations/mercer_street_corner_shop_location_profile.md`

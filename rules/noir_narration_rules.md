@@ -8,6 +8,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 
 - Avoid direct emotional explanation unless a moment truly needs bluntness.
 - Prefer observation, behaviour, practical consequence, environmental detail, physical habit, and object description.
+- Prefer observable behaviour before abstraction when conveying emotion, pressure, embarrassment, or social meaning.
 - Let readers infer emotional truth from what Dragon notices, avoids, counts, touches, protects, or complains about.
 - Do not over-explain world facts that can be understood through action.
 - Avoid announcing that something is meaningful, noir, witty, large, rich, dangerous, or emotionally important when the evidence can make the reader feel it.
@@ -31,6 +32,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Avoid premature analytical labels when embodied detail, object response, silence, and practical inconvenience can carry the same meaning.
 - Dragon may be perceptive, dry, and interpretive, but loaded moments should not collapse too early into tidy narrator verdicts.
 - In recognition, vulnerability, or social-pressure beats, prefer physical evidence first: tail placement, cup handling, pauses, posture correction, chairs objecting, dampness, repairs, or the room changing around the action.
+- Do not explain social or emotional significance when a sideways look, restrained reaction, object complaint, or environmental behaviour already carries it.
 - Do not flatten a live beat into summary labels such as naming poise, balance, hesitation, distrust, or emotional significance before the reader has felt the pressure through consequence.
 - Use analytical phrasing later when it sharpens noir voice or lands a beat that the scene has already earned.
 - Do not comment on every polished, clever, or evasive line another character speaks. If the manoeuvre is already legible, let some dialogue land without immediate narrator gloss.
@@ -51,6 +53,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 ## Failed dignity humour
 
 - Humour comes from understatement, attempted professionalism, practical inconvenience, and Dragon maintaining standards under impossible conditions.
+- In dialogue, prefer dry understatement to lines that strain toward quotable wit or symmetrical detective banter.
 - Dragon may be vain, evasive, tired, and unreasonable, but he should not become cruel.
 - Often the joke is strongest when the narration stops before explaining why it is funny.
 - Wit should emerge from practical observation and pressure rather than from authorial performance.
@@ -63,6 +66,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 ## Grounded narration and flourish
 
 - Keep narration attached to observable action, dialogue, objects, immediate perception, and scene pressure.
+- Prefer lived action before authored explanation. The prose should feel like Dragon reacting in motion, not like a polished account arranged after the fact.
 - Do not let noir commentary drift into conceptual language that floats away from the active scene.
 - Do not upgrade incidental physical movement into thematic or philosophical framing unless the action is genuinely carrying that weight.
 - Temporary practical actions should usually stay practical. Avoid making rain avoidance, object handling, or basic movement sound symbolic when it is only serving the current beat.
@@ -71,6 +75,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - A polished sentence is not automatically a useful sentence. It should pay for itself through image, humour, character, plot, tone, class, or pacing.
 - When a flourish works, it should feel like Dragon noticing something under pressure, not like the prose admiring itself.
 - Metaphor should clarify action, mood, character, or consequence. Do not use it only to perform noir tone.
+- If a sentence feels visibly arranged, pre-balanced, or too aware of itself as prose, prefer the rougher version that lets the reader experience the scene first.
 
 ## Physical specificity and reader construction
 

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-19T13:25:09+00:00",
+  "generated_at_utc": "2026-05-23T21:26:13+00:00",
   "repo_name": "Dragon Noir",
   "shared_process": "../ElectricMonk",
   "authoritative_reference": [
@@ -10,7 +10,8 @@
     "characters/pink_dragon_character_profile.md",
     "locations/Toy_City_location_profile.md",
     "locations/Dragon_Office_location_profile.md",
-    "locations/mercer_street_corner_shop_location_profile.md"
+    "locations/mercer_street_corner_shop_location_profile.md",
+    "locations/Harrow_and_Vale_location_profile.md"
   ],
   "reference_hierarchy": [
     {
@@ -24,7 +25,8 @@
         "characters/pink_dragon_character_profile.md",
         "locations/Toy_City_location_profile.md",
         "locations/Dragon_Office_location_profile.md",
-        "locations/mercer_street_corner_shop_location_profile.md"
+        "locations/mercer_street_corner_shop_location_profile.md",
+        "locations/Harrow_and_Vale_location_profile.md"
       ]
     },
     {
@@ -235,6 +237,7 @@
     ],
     "locations": [
       "locations/Dragon_Office_location_profile.md",
+      "locations/Harrow_and_Vale_location_profile.md",
       "locations/README.md",
       "locations/Toy_City_location_profile.md",
       "locations/mercer_street_corner_shop_location_profile.md"

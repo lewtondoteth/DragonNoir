@@ -13,3 +13,4 @@ Current profiles:
 - `Toy_City_location_profile.md`
 - `Dragon_Office_location_profile.md`
 - `mercer_street_corner_shop_location_profile.md`
+- `Harrow_and_Vale_location_profile.md`

@@ -121,6 +121,7 @@ Named local places currently established in active prose include:
 
 - Mercer Street, a wet, shopfront-lined street used in Chapter 2 movement
 - the unnamed Mercer Street corner shop, a small newsagent-style shop used for newspapers, paper straws, and telephone access
+- Harrow & Vale, an expensive quiet auction house tied to the opening case
 
 No named districts, neighborhoods, institutions, brokerages, or civic bodies are fixed canon yet beyond Toy City itself and the local places established in active prose.
 

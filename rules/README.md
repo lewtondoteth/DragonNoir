@@ -16,4 +16,4 @@ Do not use this folder for:
 - provisional plot scaffolds
 - character, location, case, object, or organisation guidance that belongs in a profile
 
-Candidate rules should pass through `../notes/rule_validation_workflow.md` before being added to maintained guidance, unless the author explicitly requests direct implementation and confirms the rule.
+Candidate rules should pass through `../ElectricMonk/notes/rule_validation_workflow.md` before being added to maintained guidance, unless the author explicitly requests direct implementation and confirms the rule.

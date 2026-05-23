@@ -210,6 +210,14 @@ The bear considered this legal argument with the care it deserved, which was non
 
 I opened the back pages, found a cab company that advertised dry seats and reasonable rates, and dialled before the bear could remember he disliked me more than he liked money.
 
+Below the cab advertisement, a smaller article had been squeezed beside a reward notice.
+
+Harrow & Vale burglary.
+
+Several lots missing.
+
+Reward offered for information leading to recovery.
+
 The cab company said ten minutes.
 
 I hung up the telephone and pushed it back across the counter.
@@ -234,17 +242,19 @@ Almost.
 
 The driver drove one-handed, loose and automatic, like the cab already knew the route better than either of us did.
 
-I reached into my coat pocket, pulled out the notebook, and balanced it against my knee while the cab rattled through the rain.
+I reached into my coat, produced the notebook, the folded catalogue, and the newspaper, and balanced the lot against my knee while the cab rattled through the rain.
 
-MuSic BoX.
+I wrote what the paperwork actually said.
 
-aUcTion CatAloGue.
+loT 47.
 
-proFeSsioNal thEft.
+muSical box.
 
-clieNt frightened alReady.
+waLnut exTerior.
 
-ToNight.
+painted inside scene.
+
+meChanism funCtional.
 
 "Terrible weather," the driver said.
 
@@ -252,9 +262,11 @@ I looked up briefly. "Yeah."
 
 Then I went back to the notebook.
 
-No visIble forced enTry.
+minor coSmetic wear.
 
-clieNt more nervOus than anGry.
+eVening esTate auction.
+
+thursday. seven-thirty.
 
 "Rain gets into the joints," the driver said. "You start hearing your own knees before corners."
 
@@ -274,9 +286,9 @@ I looked up again.
 
 I wrote:
 
-knoWs aucTion schedule.
+preview frOm noon.
 
-poSsibly insIde infoRmation.
+haRrow & vAle burglary.
 
 The wipers dragged across the windshield again.
 
@@ -290,9 +302,9 @@ I sighed quietly through the nose.
 
 I made another note.
 
-clieNt said stoLen beFore aucTion.
+seVeral lots missing.
 
-timing maTtered.
+reWard offered.
 
 Traffic slowed near an intersection clogged with delivery vans and a stalled clockwork bus.
 
@@ -302,7 +314,7 @@ The driver leaned on the wheel.
 
 "Hnh."
 
-I underlined timing.
+I underlined seven-thirty.
 
 A pause.
 
@@ -316,9 +328,9 @@ I looked up.
 
 I nodded once and went back to the notebook.
 
-poSsible proFessional reTrieVal.
+stolen befOre sale.
 
-not orDinary theft.
+reCovery notice in paPer.
 
 The driver drove quietly for almost thirty full seconds before the silence became medically dangerous to him.
 
@@ -344,9 +356,9 @@ Then he sniffed and adjusted himself behind the wheel with wounded dignity.
 
 I went back to the notebook.
 
-poSsible reTrieVal opeRaTion.
+loT circled twice.
 
-not ranDom theft.
+reWard beside arTicle.
 
 The cab became noticeably quieter.
 
@@ -360,9 +372,11 @@ At one intersection a delivery truck cut across our lane too sharply.
 
 I wrote:
 
-check aucTion emPloyee acCess.
+ask who misSing lots beLong to.
 
 Blue police lights flickered across the rain ahead.
+
+I looked up from the notebook.
 
 The auction house emerged through the wet glass a moment later, all pale stone, tall windows, and expensive lighting, with two police cars sitting outside beneath the awning like bad news given municipal funding.
 
@@ -543,3 +557,47 @@ Honestly, there wasn't much for me out here except rain, police sarcasm, and a d
 Goldfoot snorted.
 
 "Knock yourself out. This'll probably be solved in no time."
+
+I left them to the rain and crossed toward the entrance.
+
+The front doors were old, polished, and heavy in the way expensive doors always are, as if being opened by the public was a personal insult they had agreed to endure for money.
+
+I knocked.
+
+The sound went into the wood reluctantly.
+
+Nothing happened.
+
+Rain tapped the awning above me. Higher up, two stone gargoyles leaned from the frontage and regarded the street with the permanent disapproval of toys who had mistaken ornament for moral authority.
+
+I waited.
+
+At length, one of the doors opened a careful few inches.
+
+A nutcracker servant looked out.
+
+Red coat. Painted jaw. Tall black hat. Expression suggesting that if I had not already been wet, he might have arranged it personally.
+
+"We're closed," he said.
+
+I put one paw on the edge of the door and stepped inside the threshold before he could turn closure into architecture.
+
+"Yes," I said. "I gathered that from the body."
+
+He stiffened.
+
+"Sir?"
+
+"There's a fellow lying on your pavement making this place seem a touch unwelcoming."
+
+The nutcracker's painted mouth did not move much, but something in the lacquered eye area tightened by half a degree.
+
+"This is a private house," he said.
+
+"Auction house," I said, and handed him my card. "Private would be less damp."
+
+He took the card between two precise wooden fingers and looked at it as if it might prove contagious.
+
+"Mr Dragon."
+
+"I hear you've had a burglary," I said.
