@@ -65,7 +65,8 @@ DragonNoir/
 ├── chapters/
 │   ├── README.md
 │   ├── chapter_01.md
-│   └── chapter_02.md
+│   ├── chapter_02.md
+│   └── chapter_03.md
 ├── characters/
 │   ├── README.md
 │   ├── dragon_character_profile.md
@@ -144,6 +145,7 @@ Use this table to understand what each major story artifact is for before editin
 | --- | --- | --- | --- | --- |
 | Chapter 1 | `chapters/chapter_01.md` | Active canonical draft | Main Chapter 1 prose | Treat as the current assembled chapter unless the user says otherwise; currently reaches the auction-catalogue case reveal and PI/property-evaluator exchange. |
 | Chapter 2 | `chapters/chapter_02.md` | Active canonical draft | Main Chapter 2 prose | Opens with legal formalities and Odette's departure, then follows Dragon through the rain, alley/tin-soldier beat, Mercer Street shop/expense-phone sequence, cab ride, auction-house police-scene arrival, Harrow & Vale threshold entry, and Dragon's initial negotiation to look around. |
+| Chapter 3 | `chapters/chapter_03.md` | Active canonical draft opening | Main Chapter 3 prose | Opens from Dragon's permission to look around inside Harrow & Vale, with the nutcracker taking his wet coat and hat, the entrance-hall mirror exposing Dragon's repairs, and the route down toward the auction hall. |
 | Chapter 1 narrative beats | `outlines/chapter_01_narrative_beats.md` | Active canonical structure | Pacing, sequence, and scene-function reference | Use to check whether new prose still follows the intended opening movement. |
 | Office-entry coffee ritual | `scenes/chapter_01_office_entry_coffee_ritual_draft.md` | Experimental scene study | Texture, pacing, and possible integration material | Do not treat as canonical prose unless integrated into the active chapter. |
 | Clockwork orchestra story-direction scaffold | `notes/clockwork_orchestra_story_direction_scaffold.md` | Active early-case guidance / provisional wider planning | Current Chapters 1-4 guidance and wider story-direction reference | Use for the approved early case path through Chapter 4; treat later novel movement in the same file as provisional. |
@@ -160,6 +162,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 
 - `chapters/chapter_01.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, layered recognition progression, auction-catalogue music-box reveal, Tonight realization, and PI/property-evaluator exchange.
 - `chapters/chapter_02.md` — canonical current Chapter 2 draft. Contains the legal formalities, rate agreement, Odette's quiet departure, Dragon leaving through the rain and alley, the tin-soldier beat, the Mercer Street shop/expense-phone sequence, the cab ride to Harrow & Vale, the auction-house exterior police scene with Detective Goldfoot, Dragon's threshold exchange with the nutcracker servant, and the opening negotiation that gets him permission to look around.
+- `chapters/chapter_03.md` — canonical current Chapter 3 opening. Continues inside Harrow & Vale as the nutcracker takes Dragon's wet coat and hat, the polished entrance hall exposes Dragon's repairs, and Dragon is led down toward the auction hall.
 
 ## Scene Studies
 

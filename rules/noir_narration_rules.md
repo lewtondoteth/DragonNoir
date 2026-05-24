@@ -71,6 +71,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Let objects behave like difficult colleagues when the scene supports it. Doors, files, umbrellas, chairs, coffee machines, bowls, phones, carpets, notebooks, and similar objects can resist Dragon just enough to reveal his mood, standards, and practical intelligence.
 - Use understatement after absurdity rather than explanation before it. Let the odd toy-world event or material inconvenience happen clearly, give Dragon a dry practical reading, then move on.
 - Keep comic logic inside one clean image where possible. If a sentence stacks multiple unrelated absurd comparisons, it can start to feel authored instead of lived.
+- Dragon's comic phrasing should still transmit concrete, stageable information. Avoid jokes that only perform voice without clarifying physical reality, emotional pressure, social judgement, or action. A funny line should usually help the reader see the object, body, room, or social situation more clearly.
 
 ## Grounded narration and flourish
 
@@ -135,6 +136,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - The coffee scene discovery: the machine does not need miniature realism or battery-operated mechanics. The action is real because play is real.
 - Physical language should default to toy-material logic rather than accidental human anatomical assumptions.
 - For bodies, damage, concealment, movement, and physical risk, prefer toy construction terms such as stuffing, seams, joints, springs, paint, wood, mechanisms, wind-up components, and repair logic unless human biological language is deliberately contrasted.
+- Prefer physically observable toy-material detail over conceptual metaphor when describing damage, wear, or construction. The reader should usually be able to picture the toy body directly through details such as worn plush, crooked seams, exposed stuffing, folded fabric, paint, wood, springs, or mechanisms.
 - Check loaded physical beats for accidental human-world leakage, especially when describing what might be hidden inside a toy, how a toy is damaged, or how a toy body functions.
 
 ## Pacing

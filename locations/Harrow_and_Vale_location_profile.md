@@ -6,6 +6,7 @@ Use this profile alongside:
 
 - `../chapters/chapter_01.md`
 - `../chapters/chapter_02.md`
+- `../chapters/chapter_03.md`
 - `../locations/Toy_City_location_profile.md`
 - `../rules/noir_narration_rules.md`
 
@@ -67,7 +68,22 @@ The building should look expensive without becoming fantastical. Its authority c
 
 ---
 
-# 4. Staff Surface
+# 4. Interior Threshold And Route Logic
+
+Chapter 3 currently establishes limited interior movement from the threshold toward the auction hall:
+
+- the entrance hall opens upward in warm gold light and polished wood
+- chandeliers provide bright institutional light
+- a tall mirror stands between two display cabinets near the entrance
+- the route to the auction hall passes along a quiet hallway with deep carpet, framed paintings, and brass lamps
+- the auction hall is reached by going down two flights of stairs
+- the lower part of the building feels larger, emptier, and more theatrical before the auction hall comes into view
+
+Use these details as route and class-pressure logic, not as permission to over-map the building. The interior should expose Dragon's wear, dampness, and repair history through bright polish and controlled silence.
+
+---
+
+# 5. Staff Surface
 
 Only limited staff logic is currently fixed:
 
@@ -79,7 +95,7 @@ Do not invent a full staff roster, named officials, or interior departments unle
 
 ---
 
-# 5. Case-Pressure Use
+# 6. Case-Pressure Use
 
 Harrow & Vale is useful for scenes involving:
 
@@ -93,7 +109,7 @@ The robbery pressure should feel socially expensive as much as criminal.
 
 ---
 
-# 6. Use Limits
+# 7. Use Limits
 
 Do not overdefine Harrow & Vale yet.
 
