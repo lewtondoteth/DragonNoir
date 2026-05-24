@@ -32,6 +32,16 @@ Describe the change to make.
 
 - Specific lines, beats, discoveries, or constraints to keep.
 
+## Source Prose
+
+- Exact wording to integrate, if prose exists.
+- If this section is empty, the issue contains beats only and does not authorize reconstructed prose unless explicitly stated in the Goal.
+
+## Beats / Intent
+
+- Summary beats, scene intent, or functional requirements.
+- Keep these separate from exact wording.
+
 ## Style Rules To Prioritize
 
 - Pacing and feel.
@@ -51,6 +61,7 @@ Describe the change to make.
 - Each concrete change was approved through the Implementation Wizard before being made.
 - No unrelated prose or structure is rewritten.
 - Canon/provisional status is preserved.
+- Exact prose and beat summaries are kept distinct; reconstructed prose is used only with explicit approval.
 - If prose is added or revised, loaded beats are checked against maintained narration rules, especially implication-heavy/consequence-first narration.
 - If prose contains direct emotional or social labels in loaded moments, either revise them into observable behaviour/object consequence/Dragon-filtered image or log a follow-up if the defect is out of scope.
 - README/file index is updated if paths change.

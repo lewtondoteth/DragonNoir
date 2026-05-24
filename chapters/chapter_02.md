@@ -560,44 +560,90 @@ Goldfoot snorted.
 
 I left them to the rain and crossed toward the entrance.
 
-The front door was thick and very old.
-
 I knocked, and the door reluctantly made a noise, as if it disapproved of me but had been raised too well to say so.
 
-Nothing happened.
+Nothing happened immediately.
+
+Somewhere deep inside the building, something metallic clicked.
+
+Then more clicks followed, measured and precise, moving gradually closer through the door.
+
+Locks.
+
+Several of them.
 
 Rain tapped the awning above me. Higher up, two stone gargoyles leaned from the frontage and regarded the street with the permanent disapproval of toys who had mistaken ornament for moral authority.
 
-I waited.
+The door opened three inches.
 
-At length, the door opened a careful few inches.
+A nutcracker servant looked out at me.
 
-A nutcracker servant looked out.
+Tall. Red uniform. White gloves. Painted blue eyes with absolutely no interest in improving my evening.
 
-Red coat. Gold braid. Painted jaw. Tall black hat. White gloves buttoned tight at the wrist. He had been detailed by somebody with patience, money, and no obvious interest in mercy.
+His jaw worked once before the mechanism settled again with a neat wooden clack.
 
-I put one paw on the edge of the door and stepped inside the threshold before he could turn caution into architecture.
+"We are closed," he said.
 
-"Bad afternoon for doorways," I said.
+Behind him, warm light spilled across the entrance hall carpet.
+
+I stepped inside before the conversation could become democratic.
+
+The nutcracker stared at me.
 
 Rainwater dripped from my coat onto the polished floor between us.
 
-The nutcracker looked me over from hat brim to shoes, then let his gaze pause on the puddle I was making with the restraint of a toy committing several insults internally.
-
-"May I ask your business, sir?"
-
-He made the question sound like he already had, and disliked the answer.
+Somewhere in the distance, I felt an accountant lose the will to live.
 
 "There's a fellow lying on your pavement making this place seem a touch unwelcoming."
 
-The nutcracker's painted mouth did not move much, but something in the lacquered eye area tightened by half a degree.
+The nutcracker's painted expression did not change.
 
-"We are not receiving visitors."
+One gloved hand tightened slightly against the edge of the door.
 
-"Good," I said, and handed him my card. "I hate queues."
+"An unfortunate disturbance," he said carefully.
 
-He took the card between two precise wooden fingers and looked at it as if it might prove contagious.
+"That's one description."
 
-"Mr Dragon."
+"You should leave."
+
+"Probably," I agreed.
+
+The warmth hit me then.
+
+Not comfort.
+
+Expense.
+
+The entire entrance hall smelled faintly of polish, old wood, expensive fabric, and the kind of flowers replaced before they had time to wilt in public.
+
+The nutcracker remained between me and the rest of the building like a ceremonial lawsuit.
+
+"Sir," he said, "Harrow and Vale is not receiving visitors."
+
+I reached into my coat.
+
+The nutcracker stiffened immediately.
+
+Reasonable reaction, under the circumstances.
+
+I removed my investigator card and handed it over.
+
+He took it reluctantly.
+
+His eyes moved across the print.
+
+Then back to me.
+
+Then to the card again, as if hoping one of us would improve on second inspection.
+
+"Private investigator," he read.
+
+"Only on professional days."
+
+The nutcracker looked at the rainwater gathering around my shoes.
+
+His jaw clicked once more.
+
+I leaned slightly closer.
 
 "I hear you've had a burglary," I said.

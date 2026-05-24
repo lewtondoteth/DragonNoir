@@ -295,6 +295,8 @@ Only actual visible prose can be used as `Forward Draft Context`. Issue summarie
 
 When the author gives a concrete prose instruction such as "replace this," "write this beat," "continue from here," or "revise this passage," the agent should handle the prose request before switching into craft analysis, design interrogation, or issue capture. Do not turn a requested replacement into abstract style lessons unless the author asks for that analysis.
 
+For prose implementation, agents must separate exact wording from beat summaries. Exact visible prose may be copied or lightly stitched; beat summaries require either the source prose or explicit user approval to reconstruct. Reconstructed prose must not be described as restored, recovered, agreed, or preserved.
+
 Before logging any issue about missing, duplicate, accidental, or conflicting prose, check the current saved file and identify the visible passage or absence. Do not create restoration or cleanup issues from issue metadata alone.
 
 When logging follow-up material after using `Forward Draft Context`, log only the new delta from the current session. Do not duplicate prose, guidance, or scaffold material already present in the saved file or open issues.

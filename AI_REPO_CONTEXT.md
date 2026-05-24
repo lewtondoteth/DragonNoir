@@ -47,6 +47,14 @@ If an issue claims that prose exists in a transcript, export, PDF, canvas, or ea
 
 If the author gives a concrete prose instruction such as "replace this," "write this beat," "continue from here," or "revise this passage," drafting is the active task. Produce or apply the requested prose before asking craft-analysis questions or offering to log findings. If a useful style lesson emerges, it may be mentioned only after the prose task is handled, and it must not be logged unless the author explicitly asks for capture.
 
+For prose implementation, maintain a hard source distinction:
+
+- `Exact prose`: wording that is visible in the issue, transcript, chat, or file and can be copied or lightly stitched.
+- `Beat summary`: a description of what should happen, not the wording that was approved.
+- `Reconstruction`: new prose generated from beats or memory.
+
+Do not present reconstruction as restored or agreed prose. If exact prose is unavailable, ask for it or get explicit approval to reconstruct before editing the chapter.
+
 ## Project scope
 
 Use this repository for Toy Noir Dragon work:
@@ -146,6 +154,8 @@ Before any repo write action, including issue creation, file updates, pull reque
 Before logging an issue about missing, duplicate, accidental, or conflicting prose, verify the current saved file and quote or cite the relevant visible passage. Do not create a restoration or cleanup issue from issue metadata alone.
 
 Do not create style, rule, or preservation issues from a writing exchange while an unanswered prose request is still pending. A user correction to generated prose is first a drafting instruction, not automatic permission to extract general guidance.
+
+When logging a prose implementation issue from a writing chat, include a `Source Prose` section for exact wording and a separate `Beats / Intent` section for summaries. If the exact prose is missing, state that the issue authorizes reconstruction only if the user explicitly says so.
 
 Do not invent proper nouns during implementation or profile/entity updates. If source prose or an issue says "the bear," "the corner shop," "the alley," "the paper," or another generic phrase, preserve that generic phrase unless the user explicitly approves a name. Naming a character, shop, street, institution, organisation, object, case, publication, or company is a canon decision, not a prose-smoothing convenience.
 
