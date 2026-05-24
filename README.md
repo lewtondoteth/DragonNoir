@@ -291,6 +291,10 @@ Detailed canon, workflow, and file summaries should stay internal unless the aut
 
 If open issues preserve prose that has not yet been implemented into the repo, Writing mode may use that material as provisional `Forward Draft Context` so drafting can continue from the author's current working position. This does not make the issue material canon and does not replace later issue processing.
 
+Only actual visible prose can be used as `Forward Draft Context`. Issue summaries, beat lists, remembered session descriptions, and references to unavailable transcripts are not draft text. If an issue points to a transcript, export, PDF, canvas, or earlier chat that is not available in the current session, the agent must say so, compare against the saved draft, and ask for the source prose before reconstructing, logging, or integrating it.
+
+Before logging any issue about missing, duplicate, accidental, or conflicting prose, check the current saved file and identify the visible passage or absence. Do not create restoration or cleanup issues from issue metadata alone.
+
 When logging follow-up material after using `Forward Draft Context`, log only the new delta from the current session. Do not duplicate prose, guidance, or scaffold material already present in the saved file or open issues.
 
 During live drafting, if the author says a line or beat feels wrong without knowing why, the writing agent should help diagnose the issue with a few concrete possibilities instead of forcing an immediate explanation. Confirmed diagnoses can later be captured as style, pacing, character, or local-pattern guidance.

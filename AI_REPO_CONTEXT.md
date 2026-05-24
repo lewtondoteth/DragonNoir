@@ -35,12 +35,15 @@ Minimum local startup for Writing mode:
 5. Read the active chapter, scene, outline, location, case, object, or organisation files that govern the requested passage.
 6. Identify the current saved endpoint from the active draft.
 7. If continuing beyond chat-only prose or issue-tracked prose that is not yet integrated, mark that material as `[HOLD]` / not canon before using it for continuity.
+8. Treat only visible prose as prose. Issue summaries, beat lists, remembered session descriptions, and references to unavailable transcripts are not recoverable draft text; if the source prose is not available, say so and ask for it instead of reconstructing from the issue.
 
 Writing must not proceed from a compact repo summary alone. If the agent has not loaded the prompt pack and narration rules, it has not loaded the voice.
 
 Dragon's main narration is first-person past tense. Third-person Dragon prose is wrong for canonical drafting unless the user explicitly requests an experiment, excerpt, summary, or non-canonical alternative.
 
 For ordinary writing connection, keep the user-facing summary compact, but the compact summary must still be backed by the files above. A suitable startup names the active draft or scene, gives the last saved cue, notes any `[HOLD]` forward context, and asks what the author wants to write or change next.
+
+If an issue claims that prose exists in a transcript, export, PDF, canvas, or earlier chat, but that source is unavailable in the current session, do not infer that the prose is missing from the repo or needs reconstruction. First check the saved draft, then state exactly what is visible and what is not.
 
 ## Project scope
 
@@ -137,6 +140,8 @@ Canonical material may be committed to files, referenced by future scenes, added
 ### Operational rule
 
 Before any repo write action, including issue creation, file updates, pull requests, lore updates, and summaries that may become handoff material, verify what in the conversation is actually canonical. If unclear, generalise. Prefer emotional or structural abstractions over provisional nouns.
+
+Before logging an issue about missing, duplicate, accidental, or conflicting prose, verify the current saved file and quote or cite the relevant visible passage. Do not create a restoration or cleanup issue from issue metadata alone.
 
 Do not invent proper nouns during implementation or profile/entity updates. If source prose or an issue says "the bear," "the corner shop," "the alley," "the paper," or another generic phrase, preserve that generic phrase unless the user explicitly approves a name. Naming a character, shop, street, institution, organisation, object, case, publication, or company is a canon decision, not a prose-smoothing convenience.
 
