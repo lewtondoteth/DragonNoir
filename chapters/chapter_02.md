@@ -560,7 +560,7 @@ Goldfoot snorted.
 
 I left them to the rain and crossed toward the entrance.
 
-The front door was thick, old, polished, and heavy in the way expensive doors always are, as if being opened by the public was a personal insult they had agreed to endure for money.
+The front door was thick and very old.
 
 I knocked.
 
