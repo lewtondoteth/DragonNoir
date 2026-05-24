@@ -51,6 +51,8 @@ Describe the change to make.
 - Each concrete change was approved through the Implementation Wizard before being made.
 - No unrelated prose or structure is rewritten.
 - Canon/provisional status is preserved.
+- If prose is added or revised, loaded beats are checked against maintained narration rules, especially implication-heavy/consequence-first narration.
+- If prose contains direct emotional or social labels in loaded moments, either revise them into observable behaviour/object consequence/Dragon-filtered image or log a follow-up if the defect is out of scope.
 - README/file index is updated if paths change.
 - `git diff --check` passes.
 - Any out-of-scope acceptance gaps are logged as follow-up issues.

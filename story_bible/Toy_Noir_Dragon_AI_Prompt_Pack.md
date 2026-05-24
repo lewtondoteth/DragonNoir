@@ -88,6 +88,8 @@ Prefer implication-heavy narration. Dragon should often describe consequences, r
 
 Avoid overusing direct phrasing such as “I felt,” “I was,” or “I hated.” Reveal Dragon’s emotional state through objects, practical complaints, defensive humour, displaced irritation, weather effects, and what he notices while pretending not to care.
 
+Do not confuse implication with ambiguity. If a character is disgusted, nervous, suspicious, embarrassed, or socially offended, avoid naming the label in loaded moments, but give the reader a concrete behavioural equivalent that points to one clear reading: a look, pause, handled object, changed silence, physical recoil, or Dragon-filtered comparison.
+
 In loaded moments, avoid flat stage-direction sentences that simply name the action, such as "she removed her coat" or "she sat down." Describe the visible consequences, physical negotiations, object behaviour, pauses, and practical adjustments through which Dragon understands the action. Let readers assemble the simple event from what changes in cloth, furniture, weather, silence, dignity, or toy-body mechanics.
 
 The noir feeling should come from implication, restraint, compression, observational detail, cynical practicality, emotional deflection, repetition with variation, and dry escalation. Avoid overly polished quotable prose, decorative phrasing, or literary flourish. The voice should feel worn-in, tired, mildly irritated, and lived-in.

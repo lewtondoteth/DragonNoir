@@ -13,6 +13,10 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Do not over-explain world facts that can be understood through action.
 - Avoid announcing that something is meaningful, noir, witty, large, rich, dangerous, or emotionally important when the evidence can make the reader feel it.
 - Let meaning emerge from accumulated behaviour, objects, timing, and consequence rather than from narrator explanation.
+- Implication should produce a clear intended reading, not vague uncertainty. The reader should infer the emotional or social conclusion quickly from evidence rather than solve the beat like a puzzle.
+- For loaded reactions, avoid abstract labels such as disgusted, nervous, suspicious, tense, uncomfortable, or embarrassed when Dragon can give a concrete behavioural equivalent: a look, pause, handled object, changed silence, practical recoil, or socially familiar comparison.
+- A strong Dragon comparison is not valuable because it hides meaning. It is valuable because it compresses several readable signals into one stageable image.
+- If a line removes direct explanation but also removes the necessary connective meaning, add a sharper anchoring phrase rather than falling back to blunt summary.
 
 ## Consequence-first narration
 
