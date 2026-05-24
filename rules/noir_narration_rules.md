@@ -105,6 +105,9 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Description should normally reinforce Dragon's task, create friction, sharpen mood through consequence, or expose his reactive personality.
 - If Dragon is trying to get somewhere, find something, avoid rain, gather tools, answer pressure, or solve a practical obstacle, the narration should stay close to that movement.
 - Let weather, setting, and objects press on the action rather than pausing the scene to admire themselves.
+- Decorative set dressing should not demand more narrative attention than the scene can justify.
+- Ornamental objects work best when attached to active scene function: action, judgement, obstruction, transaction, emotional pressure, class signalling, or investigative focus.
+- Avoid lingering on decorative inventory when the scene's pressure is elsewhere. Let the object earn attention by changing the interaction or sharpening Dragon's immediate reading of the room.
 
 ## Rain handling
 
@@ -122,6 +125,9 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - The sounds, gestures, objects, and social procedure produce real in-world causality through toy logic.
 - Do not explain the ontology directly. Let readers infer the world rule through confident causal narration.
 - The coffee scene discovery: the machine does not need miniature realism or battery-operated mechanics. The action is real because play is real.
+- Physical language should default to toy-material logic rather than accidental human anatomical assumptions.
+- For bodies, damage, concealment, movement, and physical risk, prefer toy construction terms such as stuffing, seams, joints, springs, paint, wood, mechanisms, wind-up components, and repair logic unless human biological language is deliberately contrasted.
+- Check loaded physical beats for accidental human-world leakage, especially when describing what might be hidden inside a toy, how a toy is damaged, or how a toy body functions.
 
 ## Pacing
 

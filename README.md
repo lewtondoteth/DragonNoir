@@ -143,7 +143,7 @@ Use this table to understand what each major story artifact is for before editin
 | Item | File | Status | Use for | Notes |
 | --- | --- | --- | --- | --- |
 | Chapter 1 | `chapters/chapter_01.md` | Active canonical draft | Main Chapter 1 prose | Treat as the current assembled chapter unless the user says otherwise; currently reaches the auction-catalogue case reveal and PI/property-evaluator exchange. |
-| Chapter 2 | `chapters/chapter_02.md` | Active canonical draft | Main Chapter 2 prose | Opens with legal formalities and Odette's departure, then follows Dragon through the rain, alley/tin-soldier beat, Mercer Street shop/expense-phone sequence, cab ride, auction-house police-scene arrival, and Harrow & Vale threshold entry. |
+| Chapter 2 | `chapters/chapter_02.md` | Active canonical draft | Main Chapter 2 prose | Opens with legal formalities and Odette's departure, then follows Dragon through the rain, alley/tin-soldier beat, Mercer Street shop/expense-phone sequence, cab ride, auction-house police-scene arrival, Harrow & Vale threshold entry, and Dragon's initial negotiation to look around. |
 | Chapter 1 narrative beats | `outlines/chapter_01_narrative_beats.md` | Active canonical structure | Pacing, sequence, and scene-function reference | Use to check whether new prose still follows the intended opening movement. |
 | Office-entry coffee ritual | `scenes/chapter_01_office_entry_coffee_ritual_draft.md` | Experimental scene study | Texture, pacing, and possible integration material | Do not treat as canonical prose unless integrated into the active chapter. |
 | Clockwork orchestra story-direction scaffold | `notes/clockwork_orchestra_story_direction_scaffold.md` | Active early-case guidance / provisional wider planning | Current Chapters 1-4 guidance and wider story-direction reference | Use for the approved early case path through Chapter 4; treat later novel movement in the same file as provisional. |
@@ -159,7 +159,7 @@ When adding, removing, renaming, or changing the status of a major chapter, scen
 ## Current Active Drafts
 
 - `chapters/chapter_01.md` — canonical current Chapter 1 draft. Contains the rain/city opening, Dragon's trifle-hangover state, doorway reveal, office-entry transition, coffee sequence, layered recognition progression, auction-catalogue music-box reveal, Tonight realization, and PI/property-evaluator exchange.
-- `chapters/chapter_02.md` — canonical current Chapter 2 draft. Contains the legal formalities, rate agreement, Odette's quiet departure, Dragon leaving through the rain and alley, the tin-soldier beat, the Mercer Street shop/expense-phone sequence, the cab ride to Harrow & Vale, the auction-house exterior police scene with Detective Goldfoot, and Dragon's threshold exchange with the nutcracker servant.
+- `chapters/chapter_02.md` — canonical current Chapter 2 draft. Contains the legal formalities, rate agreement, Odette's quiet departure, Dragon leaving through the rain and alley, the tin-soldier beat, the Mercer Street shop/expense-phone sequence, the cab ride to Harrow & Vale, the auction-house exterior police scene with Detective Goldfoot, Dragon's threshold exchange with the nutcracker servant, and the opening negotiation that gets him permission to look around.
 
 ## Scene Studies
 
@@ -288,6 +288,8 @@ The normal writing startup should be compact:
 5. ask what the author wants to write, continue, or change next
 
 Detailed canon, workflow, and file summaries should stay internal unless the author asks for them or a canon/provisional decision is needed.
+
+Before reporting a prose file's last paragraph, latest prose, current endpoint, or end of file, verify the actual EOF. A partial connector fetch or ranged read can end on a complete-looking paragraph without reaching the file end. Continue fetching until EOF is confirmed, or use a file-end read such as `tail` when local access is available.
 
 If open issues preserve prose that has not yet been implemented into the repo, Writing mode may use that material as provisional `Forward Draft Context` so drafting can continue from the author's current working position. This does not make the issue material canon and does not replace later issue processing.
 

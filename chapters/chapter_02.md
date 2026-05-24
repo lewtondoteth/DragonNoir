@@ -586,20 +586,38 @@ I handed him my card.
 
 "I'm an investigator," I said. "I hear you've had a burglary."
 
-The nutcracker took my card as if I had handed him something damp.
+He held my card up toward the chandelier, a brass-and-crystal thing that looked expensive enough to have its own lawyer. Gold light caught the damp edge of the card.
 
-Which, to be fair, was the case.
+"Mmmmm."
 
-Water was already dripping from my coat onto a carpet thick enough to make each drop feel like vandalism.
+He lowered it again.
 
-The nutcracker’s eyes flicked to the dark little marks spreading beneath my shoes.
+"Regardless," he said, "we do not require your services. The police have already apprehended the suspect."
 
-His jaw tightened with a small wooden clap.
+"I saw him," I said. "But unless your burglar somehow hid several stolen auction pieces inside his stuffing, I noticed he wasn't actually carrying any of the missing property."
 
-After a moment, he returned to reading the card.
+"I'm sure the police will recover the missing property shortly," the nutcracker said.
 
-Apparently the carpet could be cleaned.
+He made a small gesture toward the open doorway, the sort of movement designed to encourage departure while remaining technically polite.
 
-Standards, once lowered, were harder work.
+"Oh, I'm sure they will," I said. "Eventually. After the paperwork breeds, moults, and learns to walk on its own."
 
-He lifted the card slightly closer to the light.
+"But if a small private investigator happened to recover the missing property first, you could all skip the administrative courtship and have your valuables back before the police finished arguing over whose desk they belong on."
+
+For a moment, something uncertain crossed his face.
+
+Very slight. Barely enough to disturb the polish.
+
+Then the professional expression returned.
+
+"And," he said carefully, "what exactly would such services cost?"
+
+"Two hundred," I said.
+
+The nutcracker inclined his head almost immediately.
+
+No bargaining. No theatrical outrage. No wounded gasping about principles or market rates. Just smooth acceptance with the quiet grace of someone to whom haggling itself suggested financial instability.
+
+For the second time that day, I realised I should have asked for more.
+
+"Well," I said, slipping the card case back into my coat, "in that case, I think I should probably have a look around."

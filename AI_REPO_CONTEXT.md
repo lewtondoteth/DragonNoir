@@ -43,6 +43,8 @@ Dragon's main narration is first-person past tense. Third-person Dragon prose is
 
 For ordinary writing connection, keep the user-facing summary compact, but the compact summary must still be backed by the files above. A suitable startup names the active draft or scene, gives the last saved cue, notes any `[HOLD]` forward context, and asks what the author wants to write or change next.
 
+When reporting a prose file's last paragraph, latest prose, current endpoint, or end of file, verify the actual EOF first. Do not infer the file endpoint from the last paragraph returned by a partial connector fetch or ranged read. If using ranged fetches, continue reading until EOF is confirmed or use a command that reads from the actual file end.
+
 If an issue claims that prose exists in a transcript, export, PDF, canvas, or earlier chat, but that source is unavailable in the current session, do not infer that the prose is missing from the repo or needs reconstruction. First check the saved draft, then state exactly what is visible and what is not.
 
 If the author gives a concrete prose instruction such as "replace this," "write this beat," "continue from here," or "revise this passage," drafting is the active task. Produce or apply the requested prose before asking craft-analysis questions or offering to log findings. If a useful style lesson emerges, it may be mentioned only after the prose task is handled, and it must not be logged unless the author explicitly asks for capture.

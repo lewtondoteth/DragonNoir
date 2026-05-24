@@ -106,6 +106,10 @@ Toy-world play logic is sincere and materially real. Never wink at the audience 
 
 Generation should favour physical specificity, rhythmic compression, and grounded comic logic. Let readers build toys and settings from material details before using broad labels. Remove transitions that only decorate. Translate noir tropes through Dragon's body, toy materials, weather, repair, scale, and money pressure rather than copying human noir props literally. Let jokes stay inside one concrete, stageable image.
 
+Keep decorative set dressing attached to active scene function. A chandelier, carpet, cabinet, display case, or other ornament should earn attention through action, judgement, obstruction, transaction, class pressure, or investigative focus rather than visual inventory.
+
+Default physical language to toy-material logic. Use stuffing, seams, joints, springs, paint, wood, mechanisms, wind-up components, and repair logic for bodies, damage, concealment, and movement unless human biological language is deliberately contrasted.
+
 For Chapter 1 and early pink dragon scenes, the doorway charge is category shock rather than romance or full recognition. Build recognition in layers: another dragon at the door, behavioural familiarity in the office, coffee-settled attention, then the hat/coat reveal. Emphasize shared body mechanics before blunt visual comparison.
 
 ## Tone
