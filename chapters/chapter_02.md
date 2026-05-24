@@ -562,9 +562,7 @@ I left them to the rain and crossed toward the entrance.
 
 The front door was thick and very old.
 
-I knocked.
-
-The sound went into the wood reluctantly.
+I knocked, and the door reluctantly made a noise, as if it disapproved of me but had been raised too well to say so.
 
 Nothing happened.
 
