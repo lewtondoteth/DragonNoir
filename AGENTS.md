@@ -32,6 +32,7 @@ Writing-mode hard stops:
 - Before continuing prose, identify the current saved endpoint from the active draft or clearly mark any chat-only forward material as `[HOLD]` / not yet canon.
 - Do not treat issue summaries, remembered beats, or references to unavailable transcripts as prose. If the actual forward prose is not visible, say so, compare against the saved draft, and ask for the source text before reconstructing, logging, or integrating it.
 - For prose implementation, distinguish exact agreed prose from beat summaries. If an issue or chat only lists beats, implement only by explicit reconstruction approval; otherwise ask for the exact prose instead of filling gaps.
+- Do not treat pasted prose in a diagnostic, review, complaint, or "what went wrong" conversation as approved source prose. It is evidence until the user explicitly says to use that exact wording.
 - When the author asks to replace, continue, revise, or draft a passage, satisfy that prose request before pivoting into craft analysis, design questions, or issue logging. Do not convert a concrete prose instruction into abstract style findings unless the author explicitly asks for analysis or capture.
 - If the active endpoint, narrator, or relevant local style/canon files cannot be confirmed, ask for clarification instead of drafting from general noir vibes.
 

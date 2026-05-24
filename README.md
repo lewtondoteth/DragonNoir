@@ -297,6 +297,8 @@ When the author gives a concrete prose instruction such as "replace this," "writ
 
 For prose implementation, agents must separate exact wording from beat summaries. Exact visible prose may be copied or lightly stitched; beat summaries require either the source prose or explicit user approval to reconstruct. Reconstructed prose must not be described as restored, recovered, agreed, or preserved.
 
+Visible prose must also be source-classified. Pasted material in review, audit, complaint, or "what went wrong" conversations is a diagnostic excerpt, not approved source prose, unless the author explicitly says to use that exact wording.
+
 Before logging any issue about missing, duplicate, accidental, or conflicting prose, check the current saved file and identify the visible passage or absence. Do not create restoration or cleanup issues from issue metadata alone.
 
 When logging follow-up material after using `Forward Draft Context`, log only the new delta from the current session. Do not duplicate prose, guidance, or scaffold material already present in the saved file or open issues.

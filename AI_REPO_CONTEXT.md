@@ -52,8 +52,11 @@ For prose implementation, maintain a hard source distinction:
 - `Exact prose`: wording that is visible in the issue, transcript, chat, or file and can be copied or lightly stitched.
 - `Beat summary`: a description of what should happen, not the wording that was approved.
 - `Reconstruction`: new prose generated from beats or memory.
+- `Diagnostic excerpt`: pasted prose used as evidence in a review, complaint, audit, or "what went wrong" discussion.
 
 Do not present reconstruction as restored or agreed prose. If exact prose is unavailable, ask for it or get explicit approval to reconstruct before editing the chapter.
+
+Visible prose is not automatically approved prose. Do not integrate diagnostic excerpts, rejected drafts, examples, or disputed pasted material unless the user explicitly says to use that exact wording.
 
 ## Project scope
 
@@ -156,6 +159,8 @@ Before logging an issue about missing, duplicate, accidental, or conflicting pro
 Do not create style, rule, or preservation issues from a writing exchange while an unanswered prose request is still pending. A user correction to generated prose is first a drafting instruction, not automatic permission to extract general guidance.
 
 When logging a prose implementation issue from a writing chat, include a `Source Prose` section for exact wording and a separate `Beats / Intent` section for summaries. If the exact prose is missing, state that the issue authorizes reconstruction only if the user explicitly says so.
+
+If prose is pasted while diagnosing a failure, mark it as `Diagnostic Excerpt` rather than `Source Prose` unless the user explicitly says it is the replacement text to implement.
 
 Do not invent proper nouns during implementation or profile/entity updates. If source prose or an issue says "the bear," "the corner shop," "the alley," "the paper," or another generic phrase, preserve that generic phrase unless the user explicitly approves a name. Naming a character, shop, street, institution, organisation, object, case, publication, or company is a canon decision, not a prose-smoothing convenience.
 

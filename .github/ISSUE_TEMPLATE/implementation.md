@@ -35,7 +35,13 @@ Describe the change to make.
 ## Source Prose
 
 - Exact wording to integrate, if prose exists.
+- Include only prose the author has explicitly approved for integration.
 - If this section is empty, the issue contains beats only and does not authorize reconstructed prose unless explicitly stated in the Goal.
+
+## Diagnostic Excerpts / Rejected Drafts
+
+- Pasted prose used as evidence, comparison, review material, complaint context, or rejected wording.
+- Do not integrate this material unless it is separately promoted into Source Prose by explicit author instruction.
 
 ## Beats / Intent
 
@@ -62,6 +68,7 @@ Describe the change to make.
 - No unrelated prose or structure is rewritten.
 - Canon/provisional status is preserved.
 - Exact prose and beat summaries are kept distinct; reconstructed prose is used only with explicit approval.
+- Diagnostic excerpts, rejected drafts, and disputed pasted material are not integrated as source prose.
 - If prose is added or revised, loaded beats are checked against maintained narration rules, especially implication-heavy/consequence-first narration.
 - If prose contains direct emotional or social labels in loaded moments, either revise them into observable behaviour/object consequence/Dragon-filtered image or log a follow-up if the defect is out of scope.
 - README/file index is updated if paths change.
