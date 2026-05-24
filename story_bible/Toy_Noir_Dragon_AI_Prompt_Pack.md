@@ -110,6 +110,8 @@ Keep decorative set dressing attached to active scene function. A chandelier, ca
 
 Default physical language to toy-material logic. Use stuffing, seams, joints, springs, paint, wood, mechanisms, wind-up components, and repair logic for bodies, damage, concealment, and movement unless human biological language is deliberately contrasted.
 
+For future drafting, generate from scene pressure before noir style. Put Dragon in a practical difficulty, let toy-world materials, social procedure, money, rain, furniture, paperwork, or another toy resist him, then let humour and style emerge from how he copes. His jokes should usually be functional: preserving dignity, covering embarrassment, negotiating class pressure, or making irritation usable. Use class through materials and procedure: paper quality, carpet thickness, polish, silence, lack of haggling, trained staff restraint, and who assumes mess will be handled elsewhere. Repetition works only when it escalates, narrows, or changes pressure.
+
 For Chapter 1 and early pink dragon scenes, the doorway charge is category shock rather than romance or full recognition. Build recognition in layers: another dragon at the door, behavioural familiarity in the office, coffee-settled attention, then the hat/coat reveal. Emphasize shared body mechanics before blunt visual comparison.
 
 ## Tone

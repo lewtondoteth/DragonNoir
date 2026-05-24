@@ -66,11 +66,18 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Do not overload a joke with competing comic frames. Once a sentence establishes its image logic, extend that same logic rather than adding a second unrelated absurdity.
 - Prefer concrete, stageable absurdity over abstract comic phrasing. A joke should often unfold as realization, not announce itself as clever.
 - Strong joke nouns should carry useful assumptions before the modifier twists them. Let the noun preload physical or social logic, then use the extension to escalate it.
+- Dragon's humour should usually be functional rather than decorative. He jokes to regain dignity, avoid exposure, negotiate class pressure, cover embarrassment, make irritation usable, or keep a conversation moving under pressure.
+- The joke should usually come from procedure under pressure: Dragon trying to preserve professional order while rain, furniture, paperwork, money, another toy, or the room itself makes that order difficult.
+- Let objects behave like difficult colleagues when the scene supports it. Doors, files, umbrellas, chairs, coffee machines, bowls, phones, carpets, notebooks, and similar objects can resist Dragon just enough to reveal his mood, standards, and practical intelligence.
+- Use understatement after absurdity rather than explanation before it. Let the odd toy-world event or material inconvenience happen clearly, give Dragon a dry practical reading, then move on.
+- Keep comic logic inside one clean image where possible. If a sentence stacks multiple unrelated absurd comparisons, it can start to feel authored instead of lived.
 
 ## Grounded narration and flourish
 
 - Keep narration attached to observable action, dialogue, objects, immediate perception, and scene pressure.
 - Prefer lived action before authored explanation. The prose should feel like Dragon reacting in motion, not like a polished account arranged after the fact.
+- Generate from scene pressure first, not from "noir style" first. Put Dragon inside a practical difficulty, let toy-world materials or social procedure resist him, then let style emerge from how he copes.
+- Dragon's narration should feel like coping in real time. The voice works when he is managing inconvenience while noticing too much, not composing a perfect noir monologue afterward.
 - Do not let noir commentary drift into conceptual language that floats away from the active scene.
 - Do not upgrade incidental physical movement into thematic or philosophical framing unless the action is genuinely carrying that weight.
 - Temporary practical actions should usually stay practical. Avoid making rain avoidance, object handling, or basic movement sound symbolic when it is only serving the current beat.
@@ -94,6 +101,7 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 - Compression should reward the reader: a strong line can carry time, weather, mood, character, humour, and worldview without making the reader decode a puzzle.
 - Shorter is not automatically better. A compressed line works when it preserves rhythm, clarity, emotional pressure, and scene movement.
 - Paragraph shape, pause placement, sentence stress, and cadence matter as much as literal meaning.
+- Repetition works when it escalates, narrows, or changes pressure. Avoid repeating the same phrase shape or joke contour unless the second use sharpens the situation.
 - Remove transition sentences that exist only to connect or decorate. A transition should move the eye, deepen pressure, alter attention, preserve rhythm, or introduce a practical consequence.
 - Avoid floppy contrast beats. Contrast should land cleanly and feel snapped shut, not appended after the real sentence has ended.
 - Do not keep decorative noir phrasing if it arrives rhythmically late, repeats existing information, or weakens the paragraph's contour.
@@ -149,8 +157,10 @@ Use this alongside the standalone story bible and prompt pack. It captures pract
 ## Social meaning through behaviour
 
 - Social and class logic should remain inside behaviour, assumption, timing, and transaction rather than becoming direct commentary.
+- Dragon sees class through materials and procedure: paper quality, carpet thickness, silence, polish, lack of haggling, controlled staff reactions, and who assumes the mess will be handled elsewhere.
 - Dragon often expects trust to be secured through payment, proof, or practical leverage.
 - Wealthier or more protected characters may assume payment certainty, social continuity, or civilised procedure without intending evasion.
+- Polished institutions should be quietly absurd rather than cartoonishly villainous. Their pressure should appear through controlled embarrassment, trained staff restraint, procedure absorbing disaster, and expensive surfaces that make ordinary mess feel like a breach.
 - Let humour and tension emerge from incompatible assumptions rather than from explaining the social contrast.
 - Procedural friction can reveal emotional or social truth more strongly than direct confession.
 - Characters reveal themselves through how they navigate transactions, expectations, delays, and misunderstandings.
