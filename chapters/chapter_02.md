@@ -560,90 +560,28 @@ Goldfoot snorted.
 
 I left them to the rain and crossed toward the entrance.
 
-I knocked, and the door reluctantly made a noise, as if it disapproved of me but had been raised too well to say so.
+I knocked.
 
-Nothing happened immediately.
+The door made a noise, reluctantly. It had been hoping for better knuckles.
 
-Somewhere deep inside the building, something metallic clicked.
+I stood there in the rain while the gargoyles pretended not to look at me and looked at me anyway.
 
-Then more clicks followed, measured and precise, moving gradually closer through the door.
+Eventually, somewhere inside, a lock gave up.
 
-Locks.
+The door opened a crack.
 
-Several of them.
+I took the crack as an invitation and stepped through it.
 
-Rain tapped the awning above me. Higher up, two stone gargoyles leaned from the frontage and regarded the street with the permanent disapproval of toys who had mistaken ornament for moral authority.
+The toy on the other side was a nutcracker, polished to within an inch of monarchy. Red coat. Gold braid. Tall hat. A jaw built for ceremony, nuts, and disapproval.
 
-The door opened three inches.
+He looked me over from hat brim to shoe leather.
 
-A nutcracker servant looked out at me.
+"The auction house is closed, sir."
 
-Tall. Red uniform. White gloves. Painted blue eyes with absolutely no interest in improving my evening.
+"I guessed," I said. "There's a fellow lying on your pavement making this place seem a touch unwelcoming."
 
-His jaw worked once before the mechanism settled again with a neat wooden clack.
+Something tightened around his eyes. The sort of reaction rich places trained into their staff very carefully: not horror, not grief, just a desperate wish for unpleasant things to happen further away.
 
-"We are closed," he said.
+I handed him my card.
 
-Behind him, warm light spilled across the entrance hall carpet.
-
-I stepped inside before the conversation could become democratic.
-
-The nutcracker stared at me.
-
-Rainwater dripped from my coat onto the polished floor between us.
-
-Somewhere in the distance, I felt an accountant lose the will to live.
-
-"There's a fellow lying on your pavement making this place seem a touch unwelcoming."
-
-The nutcracker's painted expression did not change.
-
-One gloved hand tightened slightly against the edge of the door.
-
-"An unfortunate disturbance," he said carefully.
-
-"That's one description."
-
-"You should leave."
-
-"Probably," I agreed.
-
-The warmth hit me then.
-
-Not comfort.
-
-Expense.
-
-The entire entrance hall smelled faintly of polish, old wood, expensive fabric, and the kind of flowers replaced before they had time to wilt in public.
-
-The nutcracker remained between me and the rest of the building like a ceremonial lawsuit.
-
-"Sir," he said, "Harrow and Vale is not receiving visitors."
-
-I reached into my coat.
-
-The nutcracker stiffened immediately.
-
-Reasonable reaction, under the circumstances.
-
-I removed my investigator card and handed it over.
-
-He took it reluctantly.
-
-His eyes moved across the print.
-
-Then back to me.
-
-Then to the card again, as if hoping one of us would improve on second inspection.
-
-"Private investigator," he read.
-
-"Only on professional days."
-
-The nutcracker looked at the rainwater gathering around my shoes.
-
-His jaw clicked once more.
-
-I leaned slightly closer.
-
-"I hear you've had a burglary," I said.
+"I'm an investigator," I said. "I hear you've had a burglary."
