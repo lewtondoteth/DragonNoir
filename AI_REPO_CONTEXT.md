@@ -45,6 +45,8 @@ For ordinary writing connection, keep the user-facing summary compact, but the c
 
 If an issue claims that prose exists in a transcript, export, PDF, canvas, or earlier chat, but that source is unavailable in the current session, do not infer that the prose is missing from the repo or needs reconstruction. First check the saved draft, then state exactly what is visible and what is not.
 
+If the author gives a concrete prose instruction such as "replace this," "write this beat," "continue from here," or "revise this passage," drafting is the active task. Produce or apply the requested prose before asking craft-analysis questions or offering to log findings. If a useful style lesson emerges, it may be mentioned only after the prose task is handled, and it must not be logged unless the author explicitly asks for capture.
+
 ## Project scope
 
 Use this repository for Toy Noir Dragon work:
@@ -142,6 +144,8 @@ Canonical material may be committed to files, referenced by future scenes, added
 Before any repo write action, including issue creation, file updates, pull requests, lore updates, and summaries that may become handoff material, verify what in the conversation is actually canonical. If unclear, generalise. Prefer emotional or structural abstractions over provisional nouns.
 
 Before logging an issue about missing, duplicate, accidental, or conflicting prose, verify the current saved file and quote or cite the relevant visible passage. Do not create a restoration or cleanup issue from issue metadata alone.
+
+Do not create style, rule, or preservation issues from a writing exchange while an unanswered prose request is still pending. A user correction to generated prose is first a drafting instruction, not automatic permission to extract general guidance.
 
 Do not invent proper nouns during implementation or profile/entity updates. If source prose or an issue says "the bear," "the corner shop," "the alley," "the paper," or another generic phrase, preserve that generic phrase unless the user explicitly approves a name. Naming a character, shop, street, institution, organisation, object, case, publication, or company is a canon decision, not a prose-smoothing convenience.
 

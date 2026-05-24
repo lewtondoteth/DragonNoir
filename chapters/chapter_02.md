@@ -560,7 +560,7 @@ Goldfoot snorted.
 
 I left them to the rain and crossed toward the entrance.
 
-The front doors were old, polished, and heavy in the way expensive doors always are, as if being opened by the public was a personal insult they had agreed to endure for money.
+The front door was thick, old, polished, and heavy in the way expensive doors always are, as if being opened by the public was a personal insult they had agreed to endure for money.
 
 I knocked.
 
@@ -572,29 +572,31 @@ Rain tapped the awning above me. Higher up, two stone gargoyles leaned from the 
 
 I waited.
 
-At length, one of the doors opened a careful few inches.
+At length, the door opened a careful few inches.
 
 A nutcracker servant looked out.
 
-Red coat. Painted jaw. Tall black hat. Expression suggesting that if I had not already been wet, he might have arranged it personally.
+Red coat. Gold braid. Painted jaw. Tall black hat. White gloves buttoned tight at the wrist. He had been detailed by somebody with patience, money, and no obvious interest in mercy.
 
-"We're closed," he said.
+I put one paw on the edge of the door and stepped inside the threshold before he could turn caution into architecture.
 
-I put one paw on the edge of the door and stepped inside the threshold before he could turn closure into architecture.
+"Bad afternoon for doorways," I said.
 
-"Yes," I said. "I gathered that from the body."
+Rainwater dripped from my coat onto the polished floor between us.
 
-He stiffened.
+The nutcracker looked me over from hat brim to shoes, then let his gaze pause on the puddle I was making with the restraint of a toy committing several insults internally.
 
-"Sir?"
+"May I ask your business, sir?"
+
+He made the question sound like he already had, and disliked the answer.
 
 "There's a fellow lying on your pavement making this place seem a touch unwelcoming."
 
 The nutcracker's painted mouth did not move much, but something in the lacquered eye area tightened by half a degree.
 
-"This is a private house," he said.
+"We are not receiving visitors."
 
-"Auction house," I said, and handed him my card. "Private would be less damp."
+"Good," I said, and handed him my card. "I hate queues."
 
 He took the card between two precise wooden fingers and looked at it as if it might prove contagious.
 

@@ -293,6 +293,8 @@ If open issues preserve prose that has not yet been implemented into the repo, W
 
 Only actual visible prose can be used as `Forward Draft Context`. Issue summaries, beat lists, remembered session descriptions, and references to unavailable transcripts are not draft text. If an issue points to a transcript, export, PDF, canvas, or earlier chat that is not available in the current session, the agent must say so, compare against the saved draft, and ask for the source prose before reconstructing, logging, or integrating it.
 
+When the author gives a concrete prose instruction such as "replace this," "write this beat," "continue from here," or "revise this passage," the agent should handle the prose request before switching into craft analysis, design interrogation, or issue capture. Do not turn a requested replacement into abstract style lessons unless the author asks for that analysis.
+
 Before logging any issue about missing, duplicate, accidental, or conflicting prose, check the current saved file and identify the visible passage or absence. Do not create restoration or cleanup issues from issue metadata alone.
 
 When logging follow-up material after using `Forward Draft Context`, log only the new delta from the current session. Do not duplicate prose, guidance, or scaffold material already present in the saved file or open issues.
