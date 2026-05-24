@@ -586,6 +586,22 @@ I handed him my card.
 
 "I'm an investigator," I said. "I hear you've had a burglary."
 
+The nutcracker took my card as if I had handed him something damp.
+
+Which, to be fair, was the case.
+
+Water was already dripping from my coat onto a carpet thick enough to make each drop feel like vandalism.
+
+The nutcracker’s eyes flicked to the dark little marks spreading beneath my shoes.
+
+His jaw tightened with a small wooden clap.
+
+After a moment, he returned to reading the card.
+
+Apparently the carpet could be cleaned.
+
+Standards, once lowered, were harder work.
+
 He held my card up toward the chandelier, a brass-and-crystal thing that looked expensive enough to have its own lawyer. Gold light caught the damp edge of the card.
 
 "Mmmmm."
