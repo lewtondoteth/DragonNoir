@@ -14,6 +14,34 @@ The README explains the Noir folder structure, canonical references, active draf
 
 Use the README's Chapter Status table to identify whether a chapter, scene, outline, or planning file is active canon, experimental, provisional, or retired before treating it as source material.
 
+### Connector fallback
+
+Some chat or GitHub connector sessions may be able to read this repository but not the sibling `../ElectricMonk/` repository. If the Monk files cannot be loaded, say that explicitly and use this local fallback instead of pretending the full Monk workflow is active.
+
+Minimum local startup for all Toy Noir Dragon work:
+
+1. Read `README.md`.
+2. Read this file.
+3. Identify the requested mode from the user's words.
+4. If the mode is unclear, ask whether the user wants Writing, Review, Session Extraction, Profile / Entity Scan, Consistency Scan, Rule Validation / Rule Audit, Scaffold Capture, Canon Promotion, or Issue Work.
+5. If the mode is clear, continue directly into the relevant local rules below.
+
+Minimum local startup for Writing mode:
+
+1. Read `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`.
+2. Read `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`.
+3. Read `rules/noir_narration_rules.md`.
+4. Read `characters/dragon_character_profile.md`.
+5. Read the active chapter, scene, outline, location, case, object, or organisation files that govern the requested passage.
+6. Identify the current saved endpoint from the active draft.
+7. If continuing beyond chat-only prose or issue-tracked prose that is not yet integrated, mark that material as `[HOLD]` / not canon before using it for continuity.
+
+Writing must not proceed from a compact repo summary alone. If the agent has not loaded the prompt pack and narration rules, it has not loaded the voice.
+
+Dragon's main narration is first-person past tense. Third-person Dragon prose is wrong for canonical drafting unless the user explicitly requests an experiment, excerpt, summary, or non-canonical alternative.
+
+For ordinary writing connection, keep the user-facing summary compact, but the compact summary must still be backed by the files above. A suitable startup names the active draft or scene, gives the last saved cue, notes any `[HOLD]` forward context, and asks what the author wants to write or change next.
+
 ## Project scope
 
 Use this repository for Toy Noir Dragon work:

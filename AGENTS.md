@@ -12,6 +12,26 @@ Follow the scope, canon, and provisional-material rules in this repository's fil
 
 This repository is dedicated to the Toy Noir Dragon continuity. Do not add or recreate family Dragon project material unless the user explicitly asks for comparison, adaptation, or crossover and provides the needed source context.
 
+## Connector / Limited-Access Fallback
+
+If an agent enters this repository through a connector or chat interface that cannot read the sibling `../ElectricMonk/` repository, it must say so explicitly before continuing. It may still orient to this repository, but it must use the local fallback rules in `AI_REPO_CONTEXT.md` and must not claim that the full Monk workflow is loaded.
+
+For writing, drafting, continuation, or prose revision, do not generate prose until these local files have been read:
+
+1. `README.md`
+2. `AI_REPO_CONTEXT.md`
+3. `story_bible/Toy_Noir_Dragon_Standalone_Story_Bible.md`
+4. `story_bible/Toy_Noir_Dragon_AI_Prompt_Pack.md`
+5. `rules/noir_narration_rules.md`
+6. `characters/dragon_character_profile.md`
+7. The active chapter, scene, outline, location, case, object, or organisation files relevant to the requested passage
+
+Writing-mode hard stops:
+
+- Dragon narration is first-person past tense unless the user explicitly asks for another form.
+- Before continuing prose, identify the current saved endpoint from the active draft or clearly mark any chat-only forward material as `[HOLD]` / not yet canon.
+- If the active endpoint, narrator, or relevant local style/canon files cannot be confirmed, ask for clarification instead of drafting from general noir vibes.
+
 ## Review Path
 
 When the user asks for review, critique, assessment, audit, or feedback, follow the Review Path in `AI_REPO_CONTEXT.md`.
